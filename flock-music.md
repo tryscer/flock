@@ -15,8 +15,6 @@
 
 ## Track 1: Alice Gets in a Car
 
-*Thursday, June 26th, 1958… from Greensboro, NC, to Richmond, VA.*
-
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
 *Ba-Boom Boom-Boom*…  
@@ -443,12 +441,6 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 
 ## Track 2: Alice Gets a Book of Matches
 
-*Thursday, August 7th, 1958… from I-28, VA, to Strawberry Hill, Richmond, VA.*
-
-*Wow\! So that was new\! What do you think, America? Lots of new numbers today, lots of cool cats rocking their stuff for us… hey hey hey, for anyone just joining in, it’s aaaaaaa-DJ Jonah here, sitting perched up high in the BIRD’S NEST, in a location which SHALL NOT BE DISCLOSED, and let me tell you… let me TELL you, listener JANE and listener JOHN… the place to be today if you’re driving by is the Henryco County Fair, up in Strawberry Hill in Virginia, where the Seven-Tops from Nashville are rumored to debut a brand\! New\! Song\!*
-
-### 
-
 "…and no talking to strangers," Barry says and laughs. We \[…\]
 
 \[arriving at strawberry hill\]
@@ -530,7 +522,7 @@ Under the string of bare lightbulbs, the hand-painted sign at the nearby booth s
 	Cindy turns around and picks up the old Winchester like a trained soldier. She sends her left leg back, like a ballet dancer, like an expert shot. She puts the rifle to her temple and her cheek and you can see there’s a longstanding familiarity about it. I look back and Eleanore is behind me, watching too.   
 	“Turn around, girl, you’ll miss the show… it goes by awful quick.”  
 I turn around to watch Cindy squeezing the trigger, once, twice, ten times, barely breathing, and five ripped-metal ducks and five tattered quails going *ping\!-*ing and spinning away. The red-faced man backs away. So do some of the patrons and competitors at the shooting booth. In this moment, even I can feel there’s something very much intimidating in soft, sweet, blue-eyed Cindy.    
-Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   
+	Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   
 Tim takes the teddy, all red. Some people laugh — not many, though.   
 “Hey, hey,” he says to the faces around us. “I deserve it, right?”  
 ”Go give it to Eleanore,” says Cindy. “Say you won it for her. I think she likes you.”  
@@ -545,19 +537,20 @@ We stand alone by the shooting booth. Life has resumed its course at the booth, 
 ”First thing,” says Cindy, “and least important, it makes Eleanore think she won. And that is important because she’s my ticket out of here.”  
 My eyes suddenly fill with so much tears that I can’t see anything and to hide that I’m looking back, and as I wipe my eyes I see Tim and Puppy standing next to Barry and the executive twins. Barry and the twins are shaking hands, and Eleanore, turning to leave, is holding the one-eyed Bear-gineer, hugging it, and looking at Cindy, nodding to her. Cindy is nodding back. 
 
-We’re standing on line for the peanuts.   
-“What do you mean, your ticket out of here,” I ask her shoes.   
-“Listen, Peach—I mean listen. The second reason I sent Tim away, and the most important one, is so I’ll have a moment to talk to you”.   
-I shuffle my feet. “You still owe me an explanation,” I say.   
-“I do,” says Cindy. “But why do we have to talk about such sad things? Eleanore has an apartment, next to Emmerson College. Dad’s funding it anyway…” she holds both my hands. “You could come with me, Alice of Wonderland”.   
-But our moment to ourselves is destined to be a short one. Just as I’m handed a packet of warmish, saltyish peanuts, the rest of the gang is back. And not a moment later:  
-”Hey\! Hey\! *Prego\!*”  
+	We’re standing on line for the peanuts.   
+	“What do you mean, your ticket out of here,” I ask her shoes.   
+	“Listen, Peach—I mean listen. The second reason I sent Tim away, and the most important one, is so I’ll have a moment to talk to you”.   
+	I shuffle my feet. “You still owe me an explanation,” I say.   
+	“I do,” says Cindy. “But why do we have to talk about such sad things? Eleanore has an apartment, next to Emmerson College. Dad’s funding it anyway…” she holds both my hands. “You could come with me, Alice of Wonderland”.   
+	But our moment to ourselves is destined to be a short one. Just as I’m handed a packet of warmish, saltyish peanuts, the rest of the gang is back. And not a moment later:  
+	”Hey\! Hey\! *Prego\!*”  
 The shout comes from across the line of booths, where there’s a clearing and a red-and-white circus tent and an off-white truck. A few people are sitting on folding chairs next to the tent. One of them is Eddie, and another is the huge man called Besame Mucho.   
-”Hey\! Kids\! Come over here\!”  
-We do.   
+	”Hey\! Kids\! Come over here\!”  
+	We do.   
 	  
 \[...\] 
 
+“And these,” says Eddie, “are actual, factual members of the Pillar of Steam Band”.
 “Just cogs in the machine,” says Mucho. 
 
 \[...\] 
@@ -587,6 +580,7 @@ The tent is the largest thing in the fairground
 
 “Hey you white kids\!”  
 	The two policemen stand at the rear of the tent, just behind the last row, in matching khaki shirts and pants and straw hats. One is redheaded, lanky; the other, the older one talking to us, has a wooden batton stuffed in his leather belt. On his shoulder there’s a patch that reads Sic Semper Tyrranis.
+	“Hey you white kids! Come stand next to us!”
  
 
 “What do you think he meant?” asks Eleanore.  
