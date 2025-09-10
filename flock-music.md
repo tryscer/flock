@@ -1,4 +1,5 @@
 # Flock Music: A Novel
+#novels 
 
 ## Epitaph
 
@@ -585,7 +586,7 @@ The tent is the largest thing in the fairground
 \[...\] 
 
 “Hey you white kids\!”  
-	The two policemen stand at the rear of the tent, just behind the last row, in matching khaki shirts and pants and straw hats. One is redheaded, lanky; the other, the older one talking to us, is   
+	The two policemen stand at the rear of the tent, just behind the last row, in matching khaki shirts and pants and straw hats. One is redheaded, lanky; the other, the older one talking to us, has a wooden batton stuffed in his leather belt. On his shoulder there’s a patch that reads Sic Semper Tyrranis.
  
 
 “What do you think he meant?” asks Eleanore.  
