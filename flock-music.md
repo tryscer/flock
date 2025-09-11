@@ -1,6 +1,6 @@
 # Flock Music: A Novel
 #novels 
-test
+
 ## Epitaph
 
 "Let my people go."
@@ -13,7 +13,7 @@ test
 
 # Side 1: Alice
 
-## Track 1: Alice Gets in a Car
+## Track 1: Alice Gets in a Car<!-- {"fold":true} -->
 
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
@@ -448,7 +448,7 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 …”I enlisted them myself,” says Barry. “All college girls, from Bennet College back at Greensboro, all polite, fine, fully representing the Buzz Cigarettes brand…”  
 	“All polite, fine,” mimics Eleanore, “giving four quarts of milk a day…”  
 	“Shut up, girl,” says Barry, “my father says this initiative just might make me the youngest executive ever in Buzz history.”  
-	Eddie lights another of Barry’s cigarettes. “Now there’s something to aspire to,” he says.   
+	Eddie lights another one of Barry’s cigarettes. “Now there’s something to aspire to,” he says.   
 	Barry takes the cigarette away right from Eddie’s mouth. “Why,” he says and puts it in his own mouth, “what do you aspire to?” he coughs.   
 	Eddie reaches out across Tim’s face and takes the cigarette back. “Me? I want the normal things. Money, fame…” he puffs on the cigarette, then offers it to Eleanore. “Equality between races…”  
 	Eleanore puffs on the cigarette with an elegant city-girl experience. She plays along: “equality between races… independence… working for the United Nations…” she hands the cigarette to Tim. Tim takes it between his thumb and forefinger, gives it a very cool drag:  
@@ -470,7 +470,7 @@ Eddie is chatting up Eleanore. Save for him and Eleanore, nobody is happy with t
 	“Edwardo\!”  
 	”Holy shit, it’s Besame Mucho,” says Eddie, smiling a big smile. He gives Eleanore a little look —  
 	“See ya later, kids. Mucho, you old fart.”  
-	The man called Besame Mucho picks Eddie up like a ragdoll and gives him a bone-crushing hug.   
+	The man called Besame Mucho runs to Eddie and picks him up like a ragdoll, giving him a bone-crushing hug.   
 	“Where are you man? I don’t see you since the woodshed\!”  
 	They walk away, talking. We all look at them.  
 	“Hey, wait,” says Eleanore, a little too late. 
@@ -534,8 +534,10 @@ We stand alone by the shooting booth. Life has resumed its course at the booth, 
 “Hey, Hey, Cin, why-yyyyyy did you give in?” I sing to her, half-mocking.   
 “That, Alice, of Wonderland, that was strategy on your sis’s behalf. Pure strategy.”  
 ”How do you mean, sis?” I say, and link my arm through hers, “and can you tell me while we buy some warm peanuts?”  
-”First thing,” says Cindy, “and least important, it makes Eleanore think she won. And that is important because she’s my ticket out of here.”  
-My eyes suddenly fill with so much tears that I can’t see anything and to hide that I’m looking back, and as I wipe my eyes I see Tim and Puppy standing next to Barry and the executive twins. Barry and the twins are shaking hands, and Eleanore, turning to leave, is holding the one-eyed Bear-gineer, hugging it, and looking at Cindy, nodding to her. Cindy is nodding back. 
+	”First thing,” says Cindy, “and least important, it makes Eleanore think she won. And that is important because she’s my ticket out of here.”  
+	My eyes suddenly fill with so much tears that I can’t see anything and to hide that I’m looking back, and as I wipe my eyes I see Tim and Puppy standing next to Barry and the executive twins. Barry and the twins are shaking hands, and Eleanore, turning to leave, is holding the one-eyed Bear-gineer, hugging it, and looking at Cindy, nodding to her. Cindy is nodding back. 
+
+Over the past hour I have come to a decision. During the show, I will wait for that tingle in my underwear that Eleanore warned me about. At that moment I will reach into my handbag and throw my extra pair of panties onto the stage. It will be my rite of passage into adulthood.
 
 	We’re standing on line for the peanuts.   
 	“What do you mean, your ticket out of here,” I ask her shoes.   
@@ -547,7 +549,10 @@ My eyes suddenly fill with so much tears that I can’t see anything and to hide
 The shout comes from across the line of booths, where there’s a clearing and a red-and-white circus tent and an off-white truck. A few people are sitting on folding chairs next to the tent. One of them is Eddie, and another is the huge man called Besame Mucho.   
 	”Hey\! Kids\! Come over here\!”  
 	We do.   
-	  
+	“These are Alice and her friends,” says Eddie. 
+	“We heard a lot about you guys,” says another man, who’s sitting next to Eddie. I’ve never seen a man dress like that: a ceremonial garb of another people perhaps — a white cotton dress, full of red and purple emroideries. 
+
+
 \[...\] 
 
 “And these,” says Eddie, “are actual, factual members of the Pillar of Steam Band”.
@@ -558,59 +563,100 @@ The shout comes from across the line of booths, where there’s a clearing and a
 “You enjoy telling others what to do,” sighs Babatunde.   
 	“Well — I mean —” says Barry.  
 	“I used to like telling people what to do, too,” says Babatunde. “It’s human nature. Don’t feel too bad about that.”  
-“Right. Right,” says Barry.   
-“What kind of people did you order around?” I ask.  
-“Well, Alice, *my* people. I’m a prince of my people, you see. And when I told them they should jump – they didn’t even stop to ask, ‘How high?’”  
+	“Right. Right,” says Barry.   
+	“What kind of people did you get to order around?” I ask.  
+	“Well, Alice, *my* people. I’m a prince of my people, you see. And when I told them they should jump – they didn’t even stop to ask, ‘How high?’”  
 “You’re a prince?”  
-“I am. But you know, Barry, I was never happy telling people what to do. I was never happy until I came to this land and started playing music. Can you guess why?”  
-“Why?”  
-“Because it’s only when I stopped ordering people around and started playing music with them when I… well…” he looks at Johnny Terry – “well, in your religion there’s the idea of being subject to one another. Of submitting to one another.”  
-“Aha,” agrees Terry.   
-“...when you play music with others, sometimes you lead. Sometimes you follow. When you lead you do so without authority, and when you follow you do so without coercion. And thus, my friend, beautiful music is made.”  
-Barry stops to think about it. Absentmindedly, he reaches for his coat pocket and takes out the hand-rolled cigarette he confiscated from the cigarette girl. He takes out a yellow Buzz Cigarettes matchbook and lights it.    
-“Boy, that tastes real funny,” he says. He hands the cigarette to Tim, who puffs on it, then opens his eyes real wide. Some of the band members laugh.   
-“Smells funny, too,” says Tim. He hands the cigarette to Eleanore and winks at her. “What do you think?”  
-Eleanore takes a few expert draws.
+	“I am. But you know, Barry, I was never happy telling people what to do. I was never happy until I came to this land and started playing music. Can you guess why?”  
+	“Why?”  
+	“Because it’s only when I stopped ordering people around and started playing music with them when I… well…” he looks at Johnny Terry – “well, in your religion there’s the idea of being subject to one another. Of submitting to one another.”  
+	“As Christ is subject to his Church,” agrees Terry.   
+	“...when you play music with others, sometimes you lead. Sometimes you follow. When you lead you do so without authority, and when you follow you do so without coercion. And thus, my friend, beautiful music is made.”  
+	Barry stops to think about it. Absentmindedly, he reaches for his coat pocket and takes out the hand-rolled cigarette he confiscated from the cigarette girl. He takes out a yellow Buzz Cigarettes matchbook and lights it.    
+	“Boy, that tastes real funny,” he says. He hands the cigarette to Tim, who puffs on it, then opens his eyes real wide. Some of the band members laugh.   
+	“Smells funny, too,” says Tim. He hands the cigarette to Eleanore and winks at her. “What do you think?”  
+	Eleanore takes a few expert draws.
 
 \[...\] 
 
-The tent is the largest thing in the fairground	
+	“Hold on. Hold… on. I have an idea. My idea is this.”
+	I wait.
+	“Barry?”
+	“Yes.”
+	“You didn’t say what your idea was.”
+	“Coca Cola.”
+	“Coca Cola.”
+	“Ayess. Somewhere in this fair, hiding somewhere, there’s a bottle of magic and wonders, because that bottle offers whomever drinks from it the cold, crisp taste of Coke. And it’s callin’ me. It’s saying, Barry, drink me”. 
+	“Is that what it’s saying?” Says Puppy, laughing. 
+	“Uhuh,” says Barry. When he doesn’t notice, his Alabama accent slips through. “Let’s take a little detour.”
+	“If we’re late to my first show ever I’m killing ya,” I tell him. 
 
-\[...\] 
+[…]
 
-“Hey you white kids\!”  
-	The two policemen stand at the rear of the tent, just behind the last row, in matching khaki shirts and pants and straw hats. One is redheaded, lanky; the other, the older one talking to us, has a wooden batton stuffed in his leather belt. On his shoulder there’s a patch that reads Sic Semper Tyrranis.
+	“Last cold Coke of the day,” says the vendor. 
+	“Must be my lucky day,” says Barry. 
+	“Let’s come back already!”
+	“Alright, Alice, keep your shirt on.”
+	“Fresh!”
+
+The tent is the largest thing on the fairground, a big baloon in stripes of red and white, its flaps raised to welcome patrons. Inside, it looks cool and dark, and rows and rows of seats are already filling with teenagers and families. 
+	“Hey you white kids\!”  
+	The two policemen stand at the rear of the tent, just behind the last row, in matching khaki shirts and pants and matching straw hats. One is redheaded, lanky; the other, the older one talking to us, has a wooden batton stuffed in his leather belt. On his shoulder there’s a patch that reads “Sic Semper Tyrranis.”
 	“Hey you white kids! Come stand next to us!”
- 
+ 	We do. 
+	“What are you kids doing here today?” 
+	For a short man, the older cop has quite a menacing presence. His voice booms and reverberates over the noise of the crowd. 
+	“We’re—we are on official—“ starts Cindy. 
+	“We’ve a permit,” I try to end. 
+	Puppy adds a pantomime act: she sours her face at the cops, letting them know on *whose* *side* she is. 
+	Barry walks straight at the cop, then smiles. How easily he slips into that pose, I think. 
+	“We’re here on special permission from Mr. C. ICHKURIMLO, the fairground’s general executive,” he says. He calmly toys with his bottle of Coke. The cops respond in relaxing, too. The young cop looks more interested in the cold, crisp taste of Barry’s coke bottle. 
+	“I don’t want any trouble,” the older cop tries weakly. He’s looking at the cold, crisp bottle as well. 
+	“Of course,” says Barry. “Are they treating you well here?”
+	“‘salright,” says the cop, defeated. 
 
 “What do you think he meant?” asks Eleanore.  
 	”Who?” I ask.  
 	”Eddie.”  
 	“What do you mean?” I say.   
 	“He said, ‘after *this* show, there won’t be another one.”  
-	At the other side of the tent, Eddie, Jimmy and some other stage-hands are making the people in the first rows get up, and they do, moaning.   
-	“Gotta have a place to do the dancing,” Eddie says to the patrons. “Sorry, gotta make room for the dancing…”  
-Eddie and his friends move efficiently, lifting the heavy wooden benches that make up the first rows. They push them to the sides, making them look like battlements protecting the stage.   
-“Maybe it’s like Carol Burnett on the Ed Sullivan show last year,” says Tim.   
-“Huh?” Says Barry.   
-“She followed Elvis,” says Tim. “You could see in her face she *did not* want to be up there on stage. So maybe *this* show will be so good, the Seven-Tops wouldn’t want to come on—”  
-“You kids and your *Elvis*,” says the older cop. “With him hip-wagging like a *woman.* When I was your age we had real *men* up on stage. Frank Sinatra, now he had *star quality*. Dean Martin…” He’s warily watching Besame Mucho come up on stage. Some people applaud, but Mucho is there just to shove the upright piano to center stage. He does it with three fingers. The piano makes an awful dragging sound. Jimmy is arranging the mic stands on stage, around the piano; then he carries a big upright bass and stands next to it; Eddie, true to form, stands next to the stage, holding a bottle of Coke.   
-Mucho leaves; a well-dressed man in a seersucker, all white-and-blue stripes, and a slim, yellow tie, comes on stage. He’s got blood-red shoes. He’s wearing a porkpie hat, slightly cocked on his small head. I’m already excited.   
-“Now you folks, how ya feel this afternoon?” He bellows into the mic. Someone yells back, “I’m feeling fine\!”  
-”That’s good, that’s good,” says the MC. “I’m your man, Tiger Tom, and folks, we’re here in the cool shade of this big tent, cool as the James river when it’s morning, we’re here, folks, to celebrate the best in music and achievement, to feel the joy of music, the best of our community\!”  
-”Hell yeah,” says Tim. He’s holding on to Eleanore. I slide up to Cindy and give her a squeeze. Barry stands alone, erect, sweating in his oversized coat.   
-“And let’s get our spirit rising\! Let’s have our hand clapping\! Let’s give a *Richmond* welcome to the first band comin’ your way: The Cloud Pillar\!”  
-”Pillar of Steam\!” Someone yells from behind the tent.   
-“That’s right, the Pillar of Steam coming to play to us live music, folks\!”  
-”*And* they’re not here yet\!”  
-Tiger Tom is unphased. “And, folks, gentlemen and gentle women,” he says, voice rising, as behind him he’s signalling at whomever was shouting to get the hell on with it, “we will momentarily enjoy their tunes and their numbers, which will serve to *elevate* us\! To *educate* us\! To *edify* us\! Thank God, here they come\!”  
-He scurries off stage. A long procession of people, all wearing funny railroad hats, is emerging through the flaps of the tent and climbing on stage. Some scattered applause is heard: mostly lazy, slow claps. I count the men: three, five, seven, ten — men with instruments and men without. Mucho sits behind the drum kit, still taller than the man with the trumpet standing next to him. They look at each other and smile. Johnny Terry stands next to them. Another man comes on and takes his position next to the upright bass. Jimmy lets him hold it and scatters. Babatunde climbs next to Mucho. It’s very tight on stage. Babatunde is holding a huge, round drum, as ethnic and ceremonial as his clothes.   
- A woman comes on, taking her place in front, wearing overalls and holding a shiny, gold electric guitar, slim and small in her large hands.   
-“Holy hell, it’s a Broadcaster\!” Says Tim. Eddie throws the woman a line and she catches it and plugs it to her guitar. The tent explodes in an electrified howling scream, not at all pleasant. The cops cover their ears. The crowd is stirring. Eddie slaps a large crate, covered in yellow tweed. The howling stops. The crate sits there, buzzing and vibrating.   
-“That’s a Bassman amp, Eleanore, see?” Says Tim.   
-“Shut up, Tim\!” I say, very excited. “Don’t ruin my first show\!” I slip my hand into my purse, feeling my change of underwear. I imagine my panties landing on Mucho’s head and giggle.   
-The last musician to come on stage is a very pretty woman, dressed in a beautiful, blue evening gown. You can feel the excitement in the crowd as she takes her place next to the guitarist, flashes a charming smile at us all, then turns around.   
-As if on cue, all the other musicians turn their back to the crowd. We all fall silent. My first show is starting. 
+	At the other side of the tent, Eddie, Jimmy and some other stage-hands are making the people in the first rows get up, and they do, moaning and shouting at Eddie.   
+	“Gotta have a place to do the dancing,” Eddie says to the patrons. “Sorry sorry sorry, gotta make some room for the dancing…”  
+	Eddie and his friends move efficiently, lifting the heavy wooden benches that make up the first rows. They push them to the sides, making them look like battlements protecting the stage.   
+	“Maybe it’s like Carol Burnett on the Ed Sullivan show last year,” says Tim.   
+	“Huh?” Says Barry.   
+	“Her act followed Elvis’s,” says Tim. “You could see in her face she *did not* want to be up there on stage. So maybe *this* show will be so good, the Seven-Tops wouldn’t want to come on after—”  
+	“You kids and your *Elvis*,” says the older cop, still eyeing the sweating bottle of Coke in Eddie’s hand. “With him hip-wagging like a *woman.* When I was your age we had real *men* up on stage. Frank Sinatra, now he had *star quality*. Dean Martin…” He’s taking a departing look at Barry’s Coke and stares at Besame Mucho coming up on stage. Some people applaud, but Mucho is there just to shove the upright piano to center stage. He does it with three fingers. The piano makes an awful dragging sound. It’s a weird audience warm up, I think, but this is my first show, what do I know, I think.
+	Jimmy is arranging the mic stands on stage, around the piano; then he carries a big upright bass and stands next to it; Eddie walks over towards us, full of purpose. Then he stops. He stands next to Barry, looking around, smiling at the cops. 
+	When the cops look away, he leans over, very secretive: “hey. Hey, Barry.”
+	“What?”
+	“Don’t — don’t look at me. Keep staring at the stage, keep smiling, now that’s a trooper. Hey, Barry. Hand me that Coke.”
+	“What?”
+	“Shh—“
+	“I’m looking at the stage, I’m looking at the stage. Here.”
+	He hands the bottle, hand to the side and face facing forwards, and Eddie grabs in the same pose. Then he walks back to the stage. 
+	“Thanks,” he says. 
+	“What just happened?” Says Barry. 
+	Puppy says, without taking her eyes off the stage, “I think he just took your Coke.” 
+
+A well-dressed man in a seersucker, all white-and-blue stripes, and a slim, yellow tie, comes on stage now. He’s got blood-red shoes. He’s wearing a porkpie hat, slightly cocked on his small head. Some people clap. Some people call “Tom!”
+	I’m already excited.   
+	“Now you folks, how ya feel this afternoon?” He bellows into the mic. Someone yells back, “I’m feeling fine\!”  
+	”That’s good, that’s good,” says the MC. “I’m your man, Tiger Tom, and folks, we’re here in the cool shade of this big tent, cool as the James river when it’s morning, we’re here, folks, to celebrate the best in music and achievement, to feel the *joy* of music, the *best* of our community\!”  
+	”Hell yeah,” says Tim. He’s holding on to Eleanore. I slide up to Cindy and give her a squeeze. Barry stands alone next to the cops, erect, sweating in his oversized coat.   
+	“And let’s get our spirit rising\! Let’s have our hand a clapping\! Let’s give a *Richmond* welcome to the first band comin’ your way: The Cloud Pillar\!”  
+	”Pillar of Steam\!” Someone yells from behind the tent.   
+	“That’s right, the Pillar of Steam coming to play to us live music, folks\!”  
+	”*And* they’re not here yet\!”  
+	Tiger Tom is unphased. “And, folks, gentlemen and gentle women,” he says, voice rising, as behind him he’s signalling at whomever is there to get the hell *on* with it, “we will momentarily enjoy their tunes and their numbers, which will serve to *elevate* us\! To *educate* us\! To *edify* us\! Thank God, here they come\!”  
+	He scurries off stage. A long procession of people, all wearing funny railroad hats, is emerging through the flaps of the tent and climbing on stage. Some scattered applause is heard: mostly lazy, slow claps. I count the men: three, five, seven, ten — men with instruments and men without. 	Mucho sits down behind the drum kit, still taller than the man with the trumpet standing next to him. They look at each other and smile. Johnny Terry stops  next to them. Another man comes on and takes his position next to the upright bass. Jimmy lets him hold it and scatters. Babatunde climbs up and stands next to Mucho. It’s very, very tight on stage: the three men of the horn section are nearly cheek to cheek. Babatunde looks happy, with his one arm around Johnny Terry and the other holding a huge, round drum, as foreign and ceremonial as his clothes.
+	Now the crowd gets into it: “ooh!” And “shhh!” And “here we go” and one or two “bring Tom back!”   
+	A woman comes on, taking her place in front, wearing overalls and holding a shiny, gold electric guitar, slim and small in her large hands.   
+	“Holy hell, it’s a Broadcaster\!” Says Tim.	 	Eddie throws the woman a line and she catches it, plugs it to her guitar. The tent explodes in an electrified howling scream, not at all pleasant. 	Next to us the cops cover their ears. The crowd is stirring. Eddie slaps a large crate, covered in yellow tweed. The howling stops. The crate sits there, buzzing and vibrating.   
+	“That’s a Bassman amp, Eleanore, see?” Says Tim.   
+	“Shut up, Tim\!” I say, very excited. “Don’t ruin my first show\!” I slip my hand into my purse, feeling my change of underwear. I imagine my panties landing on Mucho’s head and giggle.   
+	The last musician to come on stage is a very pretty woman, dressed in a beautiful, blue evening gown. You can feel the excitement in the crowd as she takes her place next to the guitarist, flashes a charming smile at us all, then turns back around.   
+	As if on cue, all the other musicians turn their back to the crowd. We all fall silent. My first show is starting. 
 
 A low moan is intensifying, reverberating in the tent. It comes from the twelve people on stage. It sounds like an engine, warming up, readying itself to move a huge hunk of metal. The stagehands cut the chords that keep the flaps of the tent folded. Suddenly it’s dark in the tent — dark and sweltering. 
 
@@ -632,23 +678,21 @@ Now the guitarist hits her sleek instrument
    
 “That’s *it\!*” says the older cop. “I’m shutting it down\! Murphy, go get the captain\! Double-speed\!”  
 The younger cop runs out. The remaining patrons scurry out, making sure to give the cops a wide berth.   
-”And you, you kids, I told you once, go home, get the hell out\!”  
-”That wasn’t a show\!” I shout at the cop. “That was *two songs*\! That doesn’t even *count\!”*  
-”I’m sorry about your first show, Alice,” says the cop, his face taking on a medically dangerous shade of crimson. “Now out with all you all\!”   
-Barry holds Cindy’s shoulder. We turn to leave.   
-As we claw our way through the flaps of the upturned tent, blinking at the sun, Jimmy comes very close to me, so close I can smell his sweat. He grabs my arm. I feel goosebumps.  
+	”And you, you kids, I told you once, go home, get the hell out\!”  
+	”That wasn’t a show\!” I shout at the cop. “That was *two songs*\! That doesn’t even *count\!”*  
+	”I’m sorry about your first show, Alice,” says the cop, his face taking on a medically dangerous shade of crimson. “Now out with all you all\!”   
+	Barry holds Cindy’s shoulder. We turn to leave.   
+	As we claw our way through the flaps of the upturned tent, blinking at the sun, Jimmy comes very close to me, so close I can smell his sweat. 	He grabs my arm. I feel goosebumps.  
 ”That doesn’t count\!” I say to him. “I mean two songs?”   
-He smiles a secretive smile and shoves something into my hand. It feels like a book of matches.   
-“Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
-When the cop ambles out of the tent, Jimmy disappears.
+	He smiles a secretive smile and shoves something into my hand. It feels like a book of matches.   
+	“Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
+	When the cop ambles out of the tent, Jimmy disappears.
 
-As we are nearing Richmond, the highway becomes somewhat more packed and slow. The exit we take is taken by a lot of other cars, some converted buses and old, rugged sedans with hand written signs on them, saying things like "St. John's A.M.E. Choir Bus \- On the Road to Freedom\!" or "Music Heals the Soul\!". We are definitely not in Kansas anymore, and I feel my heart sinking, like a lion. There is no mistaking where the fair's entrance is, with all the cars heading that way, and it definitely is a relief to see some uniformed men directing the traffic. The closest man's expression changes from firm to a grin as we come close, he gives Barry a nod, commenting something like "you young kids be sure to watch out" and points us to the parking lot entrance.
+==As we are nearing Richmond, the highway becomes somewhat more packed and slow. The exit we take is taken by a lot of other cars, some converted buses and old, rugged sedans with hand written signs on them, saying things like "St. John's A.M.E. Choir Bus \- On the Road to Freedom\!" or "Music Heals the Soul\!". We are definitely not in Kansas anymore, and I feel my heart sinking, like a lion. There is no mistaking where the fair's entrance is, with all the cars heading that way, and it definitely is a relief to see some uniformed men directing the traffic. The closest man's expression changes from firm to a grin as we come close, he gives Barry a nod, commenting something like "you young kids be sure to watch out" and points us to the parking lot entrance.==
 
-We drive in and it's full of cars, and people walking between them. Cindy comments "I would expect there will be a designated parking spot for people like us, near the entrance", but Barry hushes her and says "Today everyone gets to park and celebrate the same, we'll just go down the field and find a spot". As we drive slowly, the masses of people walking part in front of our car, keeping their distance.
+==We drive in and it's full of cars, and people walking between them. Cindy comments "I would expect there will be a designated parking spot for people like us, near the entrance", but Barry hushes her and says "Today everyone gets to park and celebrate the same, we'll just go down the field and find a spot". As we drive slowly, the masses of people walking part in front of our car, keeping their distance.==
 
-We find a parking space, right after a truck full of hay and the smell of fresh manure. Barry makes sure everyone tightly shut their windows, and we start moving, following the sounds of music, farm animals and crowds cheering. It takes us at least five minutes to walk back to the gate.
-
-Over the past hour I have come to a decision. During the show, I will wait for that tingle in my underwear that Eleanore warned me about. At that moment I will reach into my handbag and throw my extra pair of panties onto the stage. It will be my rite of passage into adulthood.
+==We find a parking space, right after a truck full of hay and the smell of fresh manure. Barry makes sure everyone tightly shut their windows, and we start moving, following the sounds of music, farm animals and crowds cheering. It takes us at least five minutes to walk back to the gate.==
 
 ## Track 3: Alice Goes Down a Rabbit Hole
 
