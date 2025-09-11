@@ -4,4 +4,6 @@
 
 [fact bot - chatgpt](https://chatgpt.com/g/g-68a3adc8ce80819188f995c0f8c15f03-1958-accurate)
 
+[copilot bot - chatgpt](https://chatgpt.com/g/g-68c3010338908191a5e04e2429a112cc-flock-copilot)
+
 [chatgpt project](https://chatgpt.com/g/g-p-68c287b4338c8191ac5aa832bfdcd318-flock-novel/project)
