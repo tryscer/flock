@@ -1,7 +1,7 @@
 # Flock Music: A Novel
 #novels 
 
-## Epitaph
+## Epitaph<!-- {"fold":true} -->
 
 "Let my people go."
 
@@ -673,7 +673,7 @@ All the players turn around. The horns give a howl. Mucho comes in, hitting the 
 Now the guitarist hits the strings. I’ve never seen an electrical guitar being played before. I watch in awe as the movements of her hands translate into the huge sound suddenly filling the tent. The sound twangs and dances, and she’s dancing along with it. I notice her fingernails are painted red. The red dots dance on the strings. Some people shout and howl, some jump to their feet and start dancing. 
 	And then the lady in the evening dress grabs a microphone with all the intensity of her tiny frame; real close to it, she begins to *howl*:
 
-(*Yyyyyy-eeeeeehhynt nothin buh-a hound dooooooooog*)
+(*Yyyyyy-eeeeeehhynt nothin buh-a hound daw-og*)
 
 I look at Cindy and notice that she’s dancing. Upon closer inspection, it seems that I am dancing, too. 
 	“Stop that, girls.” The cop points his wooden batton at Cindy and me. “I don’t want to tell you twice. The last thing we need is… is some sort of mixin’ in here. You girls get me?”
@@ -683,18 +683,64 @@ I look at Cindy and notice that she’s dancing. Upon closer inspection, it seem
 	He is half-dancing, in one spot, next to the beam supporting the entrance to the tent. He is watching the guitarist, nodding along to the beat. 
 	“No,” the young cop says to Eleanore. “But if you keep dancing, I have a pair of bracelets which will fit you just fine.”
 	“Alright, jeez,” says Eleanore, disgusted. But she’s still kind of dancing, too. 
-	I look at the crowd. Everybody is dancing. The crowd is swaying with the guitar and the singing, thumping their feet to the rythm of the drums
+	I look at the crowd. Everybody is dancing. The crowd is swaying with the guitar and the singing, thumping their feet to the rythm of the drums, the piercing jabs of the horns. Everywhere a butt still kisses a seat, Eddie, Jimmy and their friends are pulling at strangers’ hands, cajouling.  
+	Now the choir of men’s voices rises to answer the singer’s claim:
 
+*(he ain’t no real cool cat!)*
+
+	“Alright, come over here,” says the cop. “What’s your name? Miss, may you please stop dancing when you’re addressing me?”
+	I look at Tim, jerking his head to the tune, imitating the movements of the guitarist. I look at Barry, standing rigid beside him. 
+	“My name is Alice,” I shout through the music, “and I can’t stop dancing.”
+	The cop is thinking. I know I’m blushing. Cindy is dancing up to Eleanore, smiling at her. 
+	“Alright, tell you what we’ll do, Miss.” The cop looks at me. “I was young once. You and your friends, you can dance a little. Okay? But you dance among yourselves — over *there.*”
+	“In the corner?”
+	“Listen, Miss…”
+	“Alright, alright!”
+	“Barry, grab Tim when you come over!”
+
+*(Now wag your tail! Ahhh! Gettit!)*
+
+The tent is alive with movement and sound. From our corner of the tent we look in envay at how, where things are happening, some people are actually dancing on the seats of the benches. 
+	Tim is swaying to the music and my heart hurts. Barry, next to him, appears to be almost nodding along. Cindy grabs his arm, makes him dance. They dance holding hands, like they used to do in chrismas parties when we were in junior high. 
+	Now the music picks up tempo and heat, and the weight of sweat in the closed, packed tent is extreme—
+	The choir, the horns, the drums, the guitar and the singer’s all beat together, building up, up…
+
+*(you! Can! Wag! Your! YOU! CAN! WAG! YOUR!)*
+
+*(TAIL!)*
 	  
+And then: silence. All the musicians quiet up together. The crowd freezes. It seems we all wait with baited breath…
+	And then, with slow, delibrate motions, the singer grabs the microphone stand and lies it down, close to her. And alone, over the dense quiet of the crowd, she sings, softly…
+
+*(but I ain’t… gonna… feed you no—)*
+
+*(More!)*
+
+—everybody joins in. It’s one last, lingering beat from everybody on stage. I see Batunda drumming his fingers on his drum, creating a fluttering sound, and it feels my heart is mimicking that motion.
+	The crowd erupts in applause. 
+	“Oh. Oh my,” I say. That’s all I can say, so I repeat it: “oh my.”
+
+“I take it all back about your backwards fair,” says Eleanore. “Your backwards fair is *where it’s at.*”
+	“Tim?” Says Barry. “Are you enjoying yourself in there?”’
+	“I think I’m in love,” says Tim. From where we stand in the corner, it’s hard to make sure if he’s looking at the guitarist or the guitar.
+
+“I’m so glad you fellas liked that last number,” says the very beautiful, very charming 
+
+
+
+
+
+
 \[...\]
 
    
-“That’s *it\!*” says the older cop. “I’m shutting it down\! Murphy, go get the captain\! Double-speed\!”  
+“That’s *it\!*” shouts the older cop. “They’re gonna have to shut it all down it down\! Murphy, go get the captain\! Double-speed\!”  
 The younger cop runs out. The remaining patrons scurry out, making sure to give the cops a wide berth.   
 	”And you, you kids, I told you once, go home, get the hell out\!”  
 	”That wasn’t a show\!” I shout at the cop. “That was *two songs*\! That doesn’t even *count\!”*  
 	”I’m sorry about your first show, Alice,” says the cop, his face taking on a medically dangerous shade of crimson. “Now out with all you all\!”   
 	Barry holds Cindy’s shoulder. We turn to leave.   
+
 	As we claw our way through the flaps of the upturned tent, blinking at the sun, Jimmy comes very close to me, so close I can smell his sweat. 	He grabs my arm. I feel goosebumps.  
 ”That doesn’t count\!” I say to him. “I mean two songs?”   
 	He smiles a secretive smile and shoves something into my hand. It feels like a book of matches.   
@@ -719,7 +765,7 @@ Eddie looks miffed. "Why do you want to go to your first show so badly anyway".
 “What do you think I should do?” says Tim. “I mean, Cindy is beautiful, but Eleanore is so sophisticated”.   
 I start laughing. “And you come to me for help?”
 
-## Track 4: Alice Goes@| to Wonderland
+## Track 4: Alice Goes to Wonderland
 
 "He sure looks like him," she shouts.
 
@@ -841,9 +887,11 @@ Our car had its own ornament, right there ahead of us, taking up all of the spac
 
 At first he was  
 
-# Side 3: Prof. Eleanor Rose
+—————
 
-# Side 4: Barry
-
-In her Book of Questions, Alice asks us, "why do people enjoy fighting?". Reading this question…
-
+“The thing is,” I say, stumbling over the words, “the thing is I like red nail polish. It… it attracts my attention. And the thing is that Jo always has her fingernails in red. And ever since the first show, back at the county fair, I used to watch her fingernails. I was transfixed. I’d see nothing but them. I’d hear the music, like, on another track in my head, and my councious brain was all in those fingernails runnin on the neck of that guitar. I’d see them in my dreams. And in my waking hours I would memorize them. Those patterns of shapes they take when the music sounds like this, like *that*. So when I picked up your guitar I knew: *this* shape means *this sound*.” I pluck to illustrate my point. 
+	“That’s a G-Major,” Jo says softly. 
+	“I don’t know from that,” I say. “I know what it sounds like.”
+	“Boy,” says Jo. “Never seen a face so red.”
+	“Fine,” I say. “Mock me, whatever. But this is how I know.”
+	“You sure you ain’t sick? You wanna have a lie down?” 
