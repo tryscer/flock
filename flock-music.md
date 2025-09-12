@@ -441,7 +441,7 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 
 ## Track 2: Alice Gets a Book of Matches
 
-*Hey hey hey - tiger tom*
+==*Hey hey hey - tiger tom*==
 
 *Step right up!*
 	==We’re walking under a giant arched marquee welcoming us to the Henrico County County Fair, and stepping into the fair== 
@@ -582,7 +582,7 @@ Eddie sidles up to Barry.
 	“Nothing, nothing, nothing. I just didn’t know you’re an important guy.”
 	“Just a cog in the machine,” laughs Barry. 
 	“You didn’t seem to me like a cog when you were ordering that cigarette girl around.”
-	“Well,” says Barry, suddenly sounding like his dad, “sometimes you need to be firm.”
+	“Well,” says Barry, suprised, and suddenly sounding like his dad, “sometimes you need to be firm.”
 	“You enjoy telling others what to do,” sighs Babatunde.   
 	“Well — I mean —” says Barry.  
 	“I used to like telling people what to do, too,” says Babatunde. “It’s human nature. Don’t feel too bad about that.”  
@@ -761,24 +761,82 @@ And then: silence. All the musicians quiet up together. The crowd freezes. It se
 	“I think I’m in love,” says Tim. From where we stand in the corner, it’s hard to make sure if he’s looking at the guitarist or the guitar.
 	“You’re disgusting,” says Eleanore.
 	
-“I’m so glad you fellas liked that last number,” says the very beautiful lady in the blue dress 
+“I’m so glad you fellas liked that last number,” says the very beautiful lady in the blue dress. “We are the Pillar of Steam! Coming to you this fine Richhmond afternoon to brighten your day, and maybe remind you—“
+	—the brass section adds a “whoop!”
+	“—that whoever you are—“
+	—Mucho and Babatunde add drum rolls, building them into a slow rythm—
+	“—or whether you’re black or if you’re white—“
+	“Hold on a minute,” says the cop.
+	“your heart lies next to my heart!”
+	The band springs into action: the guitar, the drums, the horns—
+	“I didn’t like that one bit,” says the cops. We all sway to the music, as if our bodies are doing that by themselves. 
+	The choir calls: “your heart lies next to mine!”
+	The singer says over the music: “ladies and gentlemen, please welcome the newest addition to our little band of siblings—“
+	Then the choir again: “your heart lies next to mine!”
+	“—all the way from way down Louisiana, please join me in welcoming the Reverand!”
+	Next to us, in the back corner of the corner, Jimmy the stagehand is ushering in a tall man wearing a dark cape. A strand of black locks sticks out from under the hood. His appearence seems comical, like someone is swimming trunks in January. 
+	Jimmy goes to the two policemen. “Excuse me,” he says. “We have a slight concern.”
+	The choir calls: “Here comes the reverand!” 
+	The man in the cape jumps in place, shadow-boxing, cracking his neck.
+	Jimmy says, “it would appear, officer, that outside we have some cases of white and black youths dancing together. 
+	The cop says, “Why, this is very serious!”
+	The choir sings, “here comes the Reverand!”
+	Jimmy and the cops leave. The man in the cape says to us, “Great corner-dancing, kids.” He starts walking down the aisle, between the rows of benches. As he walks, the band increases the tempo, calling again and again, “here comes the reverand” and “your heart lies next to mine!”… the man in the cape takes his time, walking in measures steps, head down. People in the benches careen their necks, trying to catch his face. As he’s nearing the stage, the singer starts:
 
+(Whoever you aa-ah-are,
+your haaaaaaaaaaart lies…”
 
+The man in the cape climbs the tiny stage. He squeezes between the singer and the little piano Mucho was shoving before. As the band pauses on the last note,
 
+(lieeeeeeeeees)
 
+The singer tilts her microphone at him and he bows, screaming,
 
-==\[…\]==
+(Next! To! Mmmmmmmmmmm—)
 
+He sounds like Fats Domino, I think, or maybe Little Richard when he makes his voice sound like a screaming trumpet.
+	He turns and lifts his hands, dramatically, over the piano. The sleeves roll off to his elbows. That’s a white man’s arm, I’m thinking.
+	The choir sends the line back:
+
+(next to mine!) (boom boom!) (mmmmine!)
+
+Now the man in the cape starts hammering away at the keys, and the crowd snaps out of its silence, hooting and applauding and dancing again.
+	“Why are you dancing in the corner?” says Jimmy as he’s coming back. 
+	“We’re not allowed out,” I say morosely. 
+	“Come on, Alice of Wonderland,” says Jimmy. “Today’s a special day. Dare to dance with me.” He grabs me by the hand and I giggle and come along as Cindy and Eleanore cheer, and right there behind the crowd, I’m dancing with a boy. A black boy.
+	“Isn’t this illegal?” I ask him. His motions are smoothe and rythmical and I try to match mine along to him, trying to learn how to dance with a man. 
+	
+(next to mine!)
+
+Cindy joins us, and then Eleanore. “Come on boys,” Cindy shouts over the music? “Isn’t it cold in the corner?”
+	Barry and Tim join us. Tim is half dancing, half staring at the stage. Then Barry is dancing too. Up ahead, next to the amplifier, Eddie is popping the cap off his bottle of Coke. He lifts it up towards Barry, as if toasting him, 
+	The man on stage lifts his head dramatically. The hood falls back. Now there’s a white face, I say. Some people boo. Others cheer. But most of us just dance to that crazy beat. Beyond Jimmy’s shoulder, I can see some other white kids dancing with black kids. 
+	“Alice, what did I say, the one thing I said!” bellows the cop, returning. His lanky companion stares at us with rage… Jimmy looks at the cops, then runs towards the stage. The lanky cop follows. Jimmy ducks and disappears among the dancers filling the aisle. 
+	“Mmmm—your heart lies next to mine! Ayeah!”
+	Now the cop sees him.
+	“Hold on,” he says. “Hold on just one second!”
+	He makes his way to the stage, clearing a way though the dancers with his voice and his baton. 
+	“Ladies and gentlemen,” says the singer in the blue dress. The band keeps a slow, thumping groove, “Ladies and gentlemen, I do hope you made the most out of our short time together. If we leave you with one thought today, it is this: your heart lies next to mine!”
+	Then the band turns around, just like they did when they started playing. This time, they haul ass.
+	Just then, the cop, breathing and red, climbs on stage. He grabs the white man just as he’s fleeing, catching his robe. The crowd is angry, booing—but next to us, at the back entrance, some patrons are quietly and hurridly leaving. 
+	Next to the amplifier, Eddie is shaking his Coke bottle. Just as it seems the cop managed to grab the caped man, Eddie is emptying the coke into the buzzing amplifier. A huge cloud of acrid, sweet smelling steam fills the stage. When cloud clears, Eddie and the Reverand are gone. All that’s left on stage is a cope holding a heavy robe and a lot of boos.
+	“Ladies and gentlemen,” says the cop into one of the microphones. “Due to the outrageous nature—“
+	He is greeted with a wall of boos. 
+	“You are all ordered to clear the tent!”
+	“Boo!”
+	“Bring Tiger Tom back!”
+	The cop leaves the stage and barrels towards us. The people in the aisles clear the way for him. Most patrons are leaving now. 
+	“Ladies and kind gentlemen,” says the promoter in the garish suit, hurridly taking control of the microphone, “ladies and gentlmen, let’s be gentle, let’s be kind!”
    
 “That’s *it\!*” shouts the older cop. “They’re gonna have to shut it all down! Murphy, go get the captain\! Double-speed\!”  
 The younger cop runs out. The remaining patrons scurry out, making sure to give the cops a wide berth.   
 	”And you, you kids, I told you once, go home, get the hell out\!”  
-	”That wasn’t a show\!” I shout at the cop. “That was *two songs*\! That doesn’t even *count\!”*  
+	”That wasn’t a show\!” I shout at the cop. “That was *one song*\! That doesn’t even *count\!”*  
 	”I’m sorry about your first show, Alice,” says the cop, his face taking on a medically dangerous shade of crimson. “Now out with all you all\!”   
 	Barry holds Cindy’s shoulder. We turn to leave.   
 
 	As we claw our way through the flaps of the upturned tent, blinking at the sun, Jimmy comes very close to me, so close I can smell his sweat. 	He grabs my arm. I feel goosebumps.  
-”That doesn’t count\!” I say to him. “I mean two songs?”   
+”That doesn’t count\!” I say to him. “I mean one song?”   
 	He smiles a secretive smile and shoves something into my hand. It feels like a book of matches.   
 	“Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
 	When the cop ambles out of the tent, Jimmy disappears.
