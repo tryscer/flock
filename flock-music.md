@@ -1,5 +1,5 @@
-# Flock Music: A Novel
-#novels 
+# Flock Music<!-- {"fold":true} -->
+ 
 
 ## Epitaph<!-- {"fold":true} -->
 
@@ -12,7 +12,6 @@
 — *Elvis Aaron Presley*
 
 # Side 1: Alice
-
 ## Track 1: Alice Gets in a Car<!-- {"fold":true} -->
 
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
@@ -330,7 +329,7 @@ Barry and Tim look at each other. Barry shrugs. Tim is not amused.
 “Are we going or what?” says Eleanore.    
 But Cindy is quiet, pale: she looks at Eleanore, then at Tim. In the sunlight you can plainly see a couple of dark lipstick marks on his neck. 
 
-### 
+### <!-- {"fold":true} -->
 
 It’s beginning to get pretty crowded in the car: on the bench seat in front, Tim is squeezed between Eddie and Barry. Cindy and Eleanore won’t sit next to each other anymore, so I’m the cheese in that particular hate sandwich.   
 “Are you okay to drive, Bear?” Asks Tim. “Want me to take over?”  
@@ -441,18 +440,42 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 
 ## Track 2: Alice Gets a Book of Matches
 
-==*Hey hey hey - tiger tom*==
+*Morning to you, brothers and sisters. And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man Tiger Tom coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. ==at four, well have== And what shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here are the ==xxxx==*
+
+==*(ahahahahahahah)*==
 
 *Step right up!*
-	==We’re walking under a giant arched marquee welcoming us to the Henrico County County Fair, and stepping into the fair== 
+	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s of the carnys and the *whizz* and *brrrr* of the carousel, the sizzle of the meat on grills, the crunch of popcorn under foot. 
+	“Daddy, I want you to get me a cotton floss!” 
+	“Darnel sure looks fancy in that green coat.”
+	“What are these white kids doing here?”
+	And over on the PA:
+	“Will the child Bernard Green, Bernard green, report to the manager’s office at the entrance. Bernard Green, your mother is waiting for you.”
+	And, then:
 
-On the right, between a barbecue stall and a ring-toss stall, stands the white banner and hexagonal logo of Buzz Cigarettes. We watch the pretty girls in the yellow dresses, giving away samples. 
+*(take out the papers and the trash!)* 
+
+I say, “it’s all so alive!”
+	Tim says, “alright, Peggy Sue, don’t embarass us in front of the cool cats”. 
+	Eddie says, “since when do you know cool cats?”
+	We walk through the midway, moving between island of PA sound. The Coasters are playing *Yakity Yak*. We stare at the ==food stalls== and the kids enjoying themselves on the ==rides==. I watch the midway, bustling with a huge throng of people: young parents with babies and old people and gangs of teenagers like us, all black. When we pass through them we get curious, reserved looks. As we pass through the crowd, people keep their distance. We are a bubble in the crowd. 
+	“Bet you want a ride on the merry-go-round, Peaches,” says Barry. 
+	“We said we don’t call me that, Bartholimio,” I say, “and as a matter of fact, I very much like to go on the merry-go-round.” I give Tim a look I hope will convey forlorning, a word I learned from a book. 
+	“Well, tough luck, *Alice*, we’re here to do a job and get out.”
+	“Do a job,” says Cindy, “then watch an amazing show, and *then* go home. 
+	“Right,” says Tim. 
+	“And before that,” says Eleanore, “maybe watch the biggest pumpkin awards. You guys got that down here, right?”
+	“And no talking to strangers, I mean it,” says Barry. 
+	A stranger walks by, says, “Who wants to talk to *you*?” then walks away. 
+
+One of the first booths on the right, between a barbecue stall and a ring-toss stall, stands the white banner and hexagonal logo of Buzz Cigarettes. We lean on an empty booth’s stall and watch the pretty girls in the yellow dresses, giving away samples. 
 	…”I enlisted them myself,” says Barry. “All college girls, from Bennet College back at Greensboro, all polite, fine, fully representing the Buzz Cigarettes brand…”  
 	“All polite, fine,” mimics Eleanore, “giving four quarts of milk a day…”  
 	“Shut up, girl,” says Barry, “my father says this initiative just might make me the youngest junior executive ever in Buzz history.”  
-	Eddie takes out a soft pack of Buzz cigarettes from his shirt pocket. “Now there’s something to aspire to,” he says and lights it up.   
+	The PA says: “Will the child Bernard Green please report to the manager’s office next to the entrance, Bernard Green, Bernie, your mom is worried sick.”
+	Eddie takes out a soft pack of Buzz cigarettes from his shirt pocket. “Junior executive,” he says and lights it up, “now, there’s something to aspire to.”  
 	Barry takes the cigarette away right from Eddie’s mouth. “Why,” he says and puts it in his own mouth, “what do you aspire to?” he coughs.   
-	Eddie reaches out across Tim’s face and takes the cigarette back. “Me? I want the normal things. Money, fame…” he puffs on the cigarette, then offers it to Eleanore. “Equality between races…”  
+	Eddie reaches out and takes the cigarette back. “Me? I want the normal things. Money, fame…” he puffs on the cigarette, then offers it to Eleanore. “Equality between races…”  
 	Eleanore puffs on the cigarette with an elegant city-girl experience. She plays along: “equality between races… independence… working for the United Nations…” she hands the cigarette to Tim. Tim takes it between his thumb and forefinger, gives it a very cool drag:  
 	“Independence,” he says and puffs. “Driving very fast… napping in the sun…”  
 	Eddie looks at him. “I may grow to appreciate you, boy,” he says. Tim puffs in his face and gives the cigarette back to Barry.   
@@ -460,22 +483,7 @@ On the right, between a barbecue stall and a ring-toss stall, stands the white b
 	Everybody except Eddie gives out a collective “no\!”  
 	“Independence,” says Cindy. She’s looking at her brother. “That sounds pretty good”. 
 	Barry says to Eddie, “are these my cigarettes?”
-
-I watch the midway, bustling with a huge throng of people: young parents with babies and old people and gangs of teenagers like us, all black. When we pass through them we get curious, reserved looks. 
-	“So what’s your sign?” Eddie asks Eleanore. 
-	“It’s a sign that says ‘None of your business,’” she says, flattered. 
-	“I bet it’s a scorpio.”
-	“How did you know?”
-	”Edwardo\!”  
-	The voice is fierce, low, piercing through the racket. It is soon thereafter joined by the biggest body I’ve ever seen — a tall, fat black guy in overalls — moving swiftly towards us. I notice with interest that the only one who stops to flinch is Eleanore.   
-	And following Eleanore, Eddie raises his head towards the big guy —  
-	“Edwardo\!”  
-	”Holy shit, it’s Besame Mucho,” says Eddie, smiling a big smile. He gives Eleanore a little look —  
-	“See ya later, kids. Mucho, you old fart.”  
-	The man called Besame Mucho runs to Eddie and picks him up like a ragdoll, giving him a bone-crushing hug.   
-	“Where are you man? I don’t see you since the woodshed\!”  
-	They walk away, talking. We all look at them.  
-	“Hey, wait,” says Eleanore, a little too late. 
+	Eleanore says, “Anyone else worried about Bernard Green?”
 
 “Excuse me, sir, may I interest you in a *honey* of a smoke?”  
 	The cigarette girl is young, lithe, wearing a yellow-and-white uniform proudly featuring the yellow hexagons of the Buzz Cigarettes brand. Her hat is a particularly ugly, yellow pillbox, with the Buzz logo sewn on it like a military insignia. White straps around her neck hold a yellow plastic tray displaying the many fine products offered by the Buzz Cigarettes Co., and she’s holding on to it with two hands covered in white gloves, like a cartoon bee. Suddenly, it’s like stepping into Cindy’s and Barry’s house.   
@@ -500,6 +508,95 @@ I watch the midway, bustling with a huge throng of people: young parents with ba
 	”Mr. B. MacAllister, Jr. here is our fastest-rising young star, you know,” says one of the identical men to the other, “a chip off the old Mr. B. Sr., I should say. Why, this whole cigarette-girls project today was his idea, you know.”  
 	”Is that *right*?” says Mr. C. Evans.   
 	“It sure *was*, Mr. Evans,” says Barry. “Opening new doors for the Buzz brand is what it’s all about. Why, our representative here — he shoves the unwilling cigarette girl into the spotlight — “has already given out *forty-two* samples and had to restock *three times*. And it’s only an hour and a half past noon. And she is only one of our fine, fine…”  
+	”Edwardo\!”  
+	The voice is fierce, low, piercing through the racket. It is soon thereafter joined by the biggest body I’ve ever seen — a tall, fat black guy in overalls — moving swiftly towards us. I notice with interest that the only one who stops to flinch is Eleanore and Mr. C. Evans.   
+	Eddie raises his head towards the big guy —  
+	“Edwardo\!”  
+	”Holy shit, it’s Besame Mucho,” says Eddie, smiling a big smile. He gives us a little look —  
+	“See ya later, kids. Mucho, you old fart.”  
+	“Eh, as I was saying,” says Barry. “Ehm—“
+	The man called Besame Mucho runs to Eddie and picks him up like a ragdoll, giving him a bone-crushing hug.   
+	“Where are you man? I don’t see you since the woodshed\!”  
+	They walk away, talking. We all look at them.  
+	“Hey, wait,” says Eleanore, “I’m coming, too.”
+	"Yeah,” says Tim. “Wait up, Eleanore.”
+	Cindy says, “Happy to meet you, Mr. Evans, Mr. Farley.” She takes my hand and we run away as fast as we can.
+
+A few people are sitting on folding chairs next to the tent. Eddie and the huge man are walking towards them, with us as a rear guard. As Eddie gets closer to the group, they all jump from their seats, shouting:
+	“You son of a bitch!”
+	“Is that Edwardo or am I trippin’?”
+	“Boy, you have some nerve!”
+	“Alright everybody alright, relax won’t ya? I missed you guys too.” He hugs the pretty lady standing next to him and saying nothing. Then they all hug. 
+	“Ah,” says Eddie, these are Alice and her friends,” says Eddie. 
+	==“We heard a lot about you guys,” says another man, who’s sitting next to Eddie. I’ve never seen a man dress like that: a ceremonial garb of another people, perhaps — a white cotton dress, full of red and purple emroideries. His cap is made from the same clothe. 
+	“And these,” says Eddie, are some of my old friends. I don’t want to scare you, Alice, but some of these men are actual, factual members of the Pillar of Steam Band”.==
+	I look at them: Eddie, Besame Mucho, ==the foreign man, a sleek guy, small and wiry, wearing a grey suit and eyeing me with a smile, and a serious-looking man in a brown shirt, toying with a rosary. The beads fly between his agile fingers.== 
+	“You all look like musicians to me,” I say. They laugh. 
+	“Good answer, good answer.”  
+	“My name is Batunde,” says the man in the dress. He’s got a quiet, exotic speech: soft and commanding. “On behalf of the Pillar of Steam, and its friends, we would like to thank you, Alice. We were apart and now that Edwardo is with us we are whole again.”
+	“Hello, Batunde,” I say. “I think you’re a musician, because other jobs won’t allow you to dress like that.”
+	Batunde laughs. “Very good, Alice. I am a percussionist with the band. 
+	“What does percussionist mean?”
+	“Means he ain’t no drummer,” bellows Besame Mucho. 
+	Eleanore says, “which means you’re the drummer.”
+	“Much obliged, and well met,” he tells her. “My friends call me Mucho and you can do the same. Man, I thought I saw the last of Edwardo.”
+	“He ain’t no drummer,” says the serious man in the brown suit, “he is *magician*. I’m Johnny Terry, miss. I’m with the choir.”
+	“You guys have a *choir*?”
+	“Are you convinced yet?” Asks Eddie. “Or do you guys want to still go see the Seven-Tops?”
+	“Hey, why are you like this?” Says Mucho. “Show some respect. Some of these cats can *rock*.”
+	“All I’m saying,” says Eddie, “is after the Pillar of Steam… I don’t think there’s going to be any of another show.”
+	“Are you being metaphorical?” Asks Cindy. “Have everybody met? I’m Cindy and this is my brother, Barry and my cousin from New York City Eleanore.”
+	“I’m Jimmy,” says the slick guy. “And before you guess I can’t play worth a damn. But I’m good at luggin’ amplifiers around.”
+	I suddenly realize that apart from Eddie, all the men are black, and reflect briefly on how I’ve grown since this morning. I’m tingling with excitement. 
+	“You guys are real musicians! With amplifiers!”
+	“Just cogs in the machine,” says Mucho. 
+
+Barry comes over, looking very smug. 
+	“So. Saw you talking to the brass,” says Barry.  
+	Barry puffs his chest. “What’s it to you?”
+	“Nothing, nothing, nothing. I just didn’t know you’re an important guy.”
+	“Just a cog in the machine,” laughs Barry. 
+	“You didn’t seem to me like a cog when you were ordering that cigarette girl around.”
+	“Well,” says Barry, suprised, and suddenly sounding like his dad, “sometimes you need to be firm.”
+	“You enjoy telling others what to do,” sighs Babatunde.   
+	“Well — I mean —” says Barry.  
+	“I used to like telling people what to do, too,” says Babatunde. “It’s human nature. Don’t feel too bad about that.”  
+	“Right. Right,” says Barry.   
+	“What kind of people did you get to order around?” I ask.  
+	“Well, Alice, *my* people. I’m a prince of my people, you see. And when I told them they should jump – they didn’t even stop to ask, ‘How high?’”  
+“You’re a prince?”  
+	“I am. But you know, Barry, I was never happy telling people what to do. I was never happy until I came to this land and started playing music. Can you guess why?”  
+	“Why?”  
+	“Because it’s only when I stopped ordering people around and started playing music with them when I… well…” he looks at Johnny Terry – “well, in your religion there’s the idea of being subject to one another. Of submitting to one another.”  
+	“As Christ is subject to his Church,” agrees Terry.   
+	“...when you play music with others, sometimes you lead. Sometimes you follow. When you lead you do so without authority, and when you follow you do so without coercion. And thus, my friend, beautiful music is made.”  
+	Barry stops to think about it. Absentmindedly, he reaches for his coat pocket and takes out the hand-rolled cigarette he confiscated from the cigarette girl. He takes out a yellow Buzz Cigarettes matchbook and lights it.    
+	“Boy, that tastes real funny,” he says. He hands the cigarette to Tim, who puffs on it, then opens his eyes real wide. Some of the band members laugh.   
+	“Smells funny, too,” says Tim. He hands the cigarette to Eleanore and winks at her. “What do you think?”  
+	Eleanore takes a few expert draws.
+	“Yeah,” she says. “It’s fine. You should smoke it, Barry, it’s good for your nerves. 
+	“Is it?” Says Jimmy. “Let’s test it to be sure.” Eleanore passes the cigarette over and Jimmy draws from it. 
+	“Yeah, yeah,” he says. “It feels like a safe smoke. What do you think, Babatunde?” He passes the cigarette over and Babatunde smirks and draws from it, then passes it over to Mucho.
+	“Is that hygenic?” I ask. For some reason, they laugh. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	”I’m bored,” whispers Cindy. “Tim, won’t you win me a teddy bear?”  
 	They walk away. I come, too, because I’m also bored, and Eleanore comes, too — for different reasons. 
 
@@ -547,62 +644,6 @@ Over the past hour I have come to a decision. During the show, I will wait for t
 	I shuffle my feet. “You still owe me an explanation,” I say.   
 	“I do,” says Cindy. “But why do we have to talk about such sad things? Eleanore has an apartment, next to Emmerson College.” She holds both my hands. “You could come with me, Alice of Wonderland”.   
 	But our moment to ourselves is destined to be a short one. Just as I’m handed a packet of huge, warm peanuts, the rest of the gang is back. And not a moment later:  
-	”Hey\! Hey\! *Prego\!*”  
-
-The shout comes from across the line of booths, where there’s a clearing and a red-and-white circus tent and an off-white truck. A few people are sitting on folding chairs next to the tent. One of them is Eddie, and another is the huge man called Besame Mucho.   
-	”Hey\! Kids\! Come over here\!”  
-	We do.   
-	“These are Alice and her friends,” says Eddie. 
-	“We heard a lot about you guys,” says another man, who’s sitting next to Eddie. I’ve never seen a man dress like that: a ceremonial garb of another people, perhaps — a white cotton dress, full of red and purple emroideries. His cap is made from the same clothe. 
-	“And these,” says Eddie, are some of my old friends. I don’t want to scare you, Alice, but some of these men are actual, factual members of the Pillar of Steam Band”.
-	I look at them: Eddie, Besame Mucho, the foreign man, a sleek guy, small and wiry, wearing a grey suit and eyeing me with a smile, and a serious-looking man in a brown shirt, toying with a rosary. The beads fly between his agile fingers. 
-	“You all look like musicians to me,” I say. They laugh. 
-	“Good answer, good answer.”  
-	“My name is Batunde,” says the man in the dress. He’s got a quiet, exotic speech: soft and commanding. “On behalf of the Pillar of Steam, and its friends, we would like to thank you, Alice. We were apart and now that Edwardo is with us we are whole again.”
-	“Hello, Batunde,” I say. “I think you’re a musician, because other jobs won’t allow you to dress like that.”
-	Batunde laughs. “Very good, Alice. I am a percussionist with the band. 
-	“What does percussionist mean?”
-	“Means he ain’t no drummer,” bellows Besame Mucho. 
-	Eleanore says, “which means you’re the drummer.”
-	“Much obliged, and well met,” he tells her. “My friends call me Mucho and you can do the same. Man, I thought I saw the last of Edwardo.”
-	“He ain’t no drummer,” says the serious man in the brown suit, “he is *magician*. I’m Johnny Terry, miss. I’m with the choir.”
-	“You guys have a *choir*?”
-	“Are you convinced yet?” Asks Eddie. “Or do you guys want to still go see the Seven-Tops?”
-	“Hey, why are you like this?” Says Mucho. “Show some respect. Some of these cats can *rock*.”
-	“All I’m saying,” says Eddie, “is after the Pillar of Steam… I don’t think there’s going to be any of another show.”
-	“Are you being metaphorical?” Asks Cindy. “Have everybody met? I’m Cindy and this is my brother, Barry and my cousin from New York City Eleanore.”
-	“I’m Jimmy,” says the slick guy. “And before you guess I can’t play worth a damn. But I’m good at luggin’ amplifiers around.”
-	I suddenly realize that apart from Eddie, all the men are black, and reflect briefly on how I’ve grown since this morning. I’m tingling with excitement. 
-	“You guys are real musicians! With amplifiers!”
-	“Just cogs in the machine,” says Mucho. 
-
-Eddie sidles up to Barry. 
-	“So. Saw you talking to the brass,” he says. 
-	Barry puffs his chest. “What’s it to you?”
-	“Nothing, nothing, nothing. I just didn’t know you’re an important guy.”
-	“Just a cog in the machine,” laughs Barry. 
-	“You didn’t seem to me like a cog when you were ordering that cigarette girl around.”
-	“Well,” says Barry, suprised, and suddenly sounding like his dad, “sometimes you need to be firm.”
-	“You enjoy telling others what to do,” sighs Babatunde.   
-	“Well — I mean —” says Barry.  
-	“I used to like telling people what to do, too,” says Babatunde. “It’s human nature. Don’t feel too bad about that.”  
-	“Right. Right,” says Barry.   
-	“What kind of people did you get to order around?” I ask.  
-	“Well, Alice, *my* people. I’m a prince of my people, you see. And when I told them they should jump – they didn’t even stop to ask, ‘How high?’”  
-“You’re a prince?”  
-	“I am. But you know, Barry, I was never happy telling people what to do. I was never happy until I came to this land and started playing music. Can you guess why?”  
-	“Why?”  
-	“Because it’s only when I stopped ordering people around and started playing music with them when I… well…” he looks at Johnny Terry – “well, in your religion there’s the idea of being subject to one another. Of submitting to one another.”  
-	“As Christ is subject to his Church,” agrees Terry.   
-	“...when you play music with others, sometimes you lead. Sometimes you follow. When you lead you do so without authority, and when you follow you do so without coercion. And thus, my friend, beautiful music is made.”  
-	Barry stops to think about it. Absentmindedly, he reaches for his coat pocket and takes out the hand-rolled cigarette he confiscated from the cigarette girl. He takes out a yellow Buzz Cigarettes matchbook and lights it.    
-	“Boy, that tastes real funny,” he says. He hands the cigarette to Tim, who puffs on it, then opens his eyes real wide. Some of the band members laugh.   
-	“Smells funny, too,” says Tim. He hands the cigarette to Eleanore and winks at her. “What do you think?”  
-	Eleanore takes a few expert draws.
-	“Yeah,” she says. “It’s fine. You should smoke it, Barry, it’s good for your nerves. 
-	“Is it?” Says Jimmy. “Let’s test it to be sure.” Eleanore passes the cigarette over and Jimmy draws from it. 
-	“Yeah, yeah,” he says. “It feels like a safe smoke. What do you think, Babatunde?” He passes the cigarette over and Babatunde smirks and draws from it, then passes it over to Mucho.
-	“Is that hygenic?” I ask. For some reason, they laugh. 
 
 We walk around the back side of the stalls on the midway, waiting for the show to begin. It’s the lunch rash and we watch the people in the food stalls rushing to serve the hungry masses. Next to us, a huge lady in white overalls is ladling heaps of sweet-smelling Burnswick stew from a huge caulderon into paper bowls. Wafting down the midway is an unmistakable smell of ham biscuits.
 	Suddenly Barry stops. 
@@ -808,8 +849,8 @@ Now the man in the cape starts hammering away at the keys, and the crowd snaps o
 	
 (next to mine!)
 
-Cindy joins us, and then Eleanore. “Come on boys,” Cindy shouts over the music? “Isn’t it cold in the corner?”
-	Barry and Tim join us. Tim is half dancing, half staring at the stage. Then Barry is dancing too. Up ahead, next to the amplifier, Eddie is popping the cap off his bottle of Coke. He lifts it up towards Barry, as if toasting him, 
+Cindy joins us, and then Eleanore. “Come on boys,” Cindy shouts over the music. “Isn’t it cold in the corner?”
+	Barry and Tim join us. Tim is half dancing, half staring at the stage. Then Barry is dancing too. Up ahead, next to the amplifier, Eddie is popping the cap off his bottle of Coke. He lifts it up towards Barry, as if toasting him. 
 	The man on stage lifts his head dramatically. The hood falls back. Now there’s a white face, I say. Some people boo. Others cheer. But most of us just dance to that crazy beat. Beyond Jimmy’s shoulder, I can see some other white kids dancing with black kids. 
 	“Alice, what did I say, the one thing I said!” bellows the cop, returning. His lanky companion stares at us with rage… Jimmy looks at the cops, then runs towards the stage. The lanky cop follows. Jimmy ducks and disappears among the dancers filling the aisle. 
 	“Mmmm—your heart lies next to mine! Ayeah!”
@@ -829,7 +870,7 @@ Cindy joins us, and then Eleanore. “Come on boys,” Cindy shouts over the mus
 	“Ladies and kind gentlemen,” says the promoter in the garish suit, hurridly taking control of the microphone, “ladies and gentlmen, let’s be gentle, let’s be kind!”
    
 “That’s *it\!*” shouts the older cop. “They’re gonna have to shut it all down! Murphy, go get the captain\! Double-speed\!”  
-The younger cop runs out. The remaining patrons scurry out, making sure to give the cops a wide berth.   
+	The younger cop runs out. The remaining patrons scurry out, making sure to give the cops a wide berth.   
 	”And you, you kids, I told you once, go home, get the hell out\!”  
 	”That wasn’t a show\!” I shout at the cop. “That was *one song*\! That doesn’t even *count\!”*  
 	”I’m sorry about your first show, Alice,” says the cop, his face taking on a medically dangerous shade of crimson. “Now out with all you all\!”   
@@ -842,8 +883,8 @@ The younger cop runs out. The remaining patrons scurry out, making sure to give 
 	When the cop ambles out of the tent, Jimmy disappears.
 
 ## Track 3: Alice Goes Down a Rabbit Hole
-
-*Thursday, August 7th, 1958… from Strawberry Hill, Richmond, VA, to Shockoe Bottom, Richmond, VA.*
+We all sit in the merry—go-round. 
+	“That wasn’t a show,” I repeat. 
 
 Eddie looks miffed. "Why do you want to go to your first show so badly anyway".
 
@@ -853,7 +894,7 @@ Eddie looks miffed. "Why do you want to go to your first show so badly anyway".
 “What do you think I should do?” says Tim. “I mean, Cindy is beautiful, but Eleanore is so sophisticated”.   
 I start laughing. “And you come to me for help?”
 
-## Track 4: Alice Goes to Wonderland
+## Track 4: Alice Goes to Wonderland<!-- {"fold":true} -->
 
 "He sure looks like him," she shouts.
 
@@ -983,3 +1024,10 @@ At first he was
 	“Boy,” says Jo. “Never seen a face so red.”
 	“Fine,” I say. “Mock me, whatever. But this is how I know.”
 	“You sure you ain’t sick? You wanna have a lie down?” 
+
+
+
+—————————
+
+“You got it all wrong, *Winford,* says Vilma. 
+	“Don’t call me that,” says Johnny. 
