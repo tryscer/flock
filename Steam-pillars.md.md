@@ -52,6 +52,7 @@ They prefer to cover old standards in their own interpretation, rather than writ
 - They never leave room for applause between songs. All songs melt into the next ones. 
 - At the end of the last song they leave, leaving the crowd to sing and dance until the effect ebbs out. 
 ## Their Effect on Crowds
+- Entraining of heartbeat and movement
 - Makes you dance wether you want to or not (drums, bass)
 - Drowns you in the rythm, causes a feeling of being transported into a different time (drums, repetitions)
 - Exhilarating and liberating (guitar, piano) 
