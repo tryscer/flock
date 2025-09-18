@@ -14,7 +14,7 @@
 
 Things that are officially part of the book
 
-Synopsys: [[side 1: alice]] | [[side 2: tim]] | [[side 3: jerry lee]]
+Synopsys: [side a: alice](synopsis-side-a.md) | [[side 2: tim]] | [[side 3: jerry lee]]
 
 [[Characters]]
 
