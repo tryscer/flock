@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Andale Mono",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "cssTheme": "Cupertino",
+  "enabledCssSnippets": [
+    "obsidian-default-theme"
+  ],
+  "translucency": false
+}

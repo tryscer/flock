@@ -1,0 +1,10 @@
+{
+  "chatgpt-md:call-chatgpt-api": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ]
+}
