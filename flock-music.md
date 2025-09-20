@@ -439,12 +439,12 @@ Somebody turns on the radio…
 Outside the car window, a metal sign rolls by, black with green lettering, saying “WELCOME TO VIRGINIA \- THE OLD DOMINION”, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
 
 ## Track 2: Alice Gets a Book of Matches
-*Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virgina’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what *music* shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love*
+*Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virgina’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what *music* shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with *For Your Precious Love*…
 
 *(Yooooooor precious looahahv)*
 
 *Step right up!*
-	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!*s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot. 
+	We’re walking under a giant arched marquee welcoming us to the				 Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!*s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot. 
 	“Daddy, I want you to get me a Fairy Floss!” 
 	“Darnel sure looks fancy in that green coat.”
 	“What are these white kids doing here?”
@@ -457,16 +457,16 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 I say, “it’s all so alive!”
 	Tim says, “alright, Peggy Sue, don’t embarrass us in front of the cool cats”. 
 	Eddie says, “since when do you know cool cats?”
-	We walk through the midway, moving between pockets of PA sound. We stare at the stalls selling Friend Chicken and funnel cakes and pulled pork sandwiches and the kids enjoying themselves on the Tilt-a-Wheel and the merry-go-rounds. I watch the midway, bustling with a huge throng of people, young parents with babies and old people and gangs of teenagers like us, all black. When we pass by them we get curious, reserved looks. As we walk through the crowd, people keep their distance. We are in a bubble in the crowd. 
+	We walk through the midway, moving between pockets of PA sound. The Coasters are playing *Yakkity Yak*. We stare at the stalls selling Friend Chicken and funnel cakes and pulled pork sandwiches and the kids enjoying themselves on the Tilt-a-Wheel and the merry-go-rounds. I watch the midway, bustling with a huge throng of people, young parents with babies and old people and gangs of teenagers like us, all black. When we pass by them we get curious, reserved looks. As we walk through the crowd, people keep their distance. We are in a bubble in the crowd. 
 	“Bet you want a ride on the merry-go-round, Peaches,” says Barry. 
-	“We said we don’t call me that, Bartholimio,” I say, “and as a matter of fact, I would very much like to go on the merry-go-round.” I give Tim a look I hope will convey forlorning, a word I learned from a book. 
+	“We said we don’t call me that, Bartholimio,” I say, “and as a matter of fact, I very much like to go on the merry-go-round.” I give Tim a look I hope will convey forlorning, a word I learned from a book. 
 	“Well, tough luck, *Alice*, we’re here to do a job and go home.”
 	“Do a job,” says Cindy, “then watch an amazing show, and *then* go home. 
 	“Right,” says Tim. 
 	“And before that,” says Eleanore, “maybe watch the biggest pumpkin awards. You guys got that down here, right?”
 	“Very funny, city girl.”
 	“And no talking to strangers, I mean it,” says Barry. 
-	A stranger walks by, says, “Who wanna talk to *you*?” and walks away. 
+	A stranger walks by, says, “Who wanna talk to *you*?” then walks away. 
 
 Over a prominent double-width stall, between a barbecue stall and a ring-toss stall, stands the white banner and hexagonal logo of Buzz Cigarettes. We lean on an empty booth’s stall and watch the pretty girls in the ugly yellow dresses, giving away samples. 
 	“…I enlisted them myself,” says Barry. “All college girls, from Bennet College back at Greensboro, all polite, fine, fully capable of representing the Buzz Cigarettes brand…”  
