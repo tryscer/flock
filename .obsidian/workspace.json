@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-base/Steam-pillars.md.md",
+                "file": "Flock Wiki/Schokoe-Bottom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steam-pillars.md"
+              "title": "Schokoe-Bottom"
             }
           }
         ]
@@ -73,19 +73,9 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "f2828e863fbf65d5",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge-base/Steam-pillars.md.md",
+                "file": "Flock Wiki/Schokoe-Bottom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Steam-pillars.md"
+              "title": "Backlinks for Schokoe-Bottom"
             }
           },
           {
@@ -124,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge-base/Steam-pillars.md.md",
+                "file": "Flock Wiki/Schokoe-Bottom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Steam-pillars.md"
+              "title": "Outgoing links from Schokoe-Bottom"
             }
           },
           {
@@ -153,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge-base/Steam-pillars.md.md",
+                "file": "Flock Wiki/Schokoe-Bottom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Steam-pillars.md"
+              "title": "Outline of Schokoe-Bottom"
             }
           },
           {
@@ -195,8 +185,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "7b8fc1b2e78c4a06",
+  "active": "ecda8220f1f6cf18",
   "lastOpenFiles": [
+    "Flock Wiki/Home.md",
+    "Side 1 Alice.md",
+    "knowledge-base/Steam-pillars.md.md",
     "Flock Wiki/side-1-archive.md",
     "Flock Wiki/chatgpt-test.md",
     "Flock Wiki/chatgpt-analysis-oct-9.md",
@@ -216,13 +209,10 @@
     "Flock Wiki/Ideation-Sessions.md",
     "Flock Wiki/How-the-music-works.md",
     "Flock Wiki/How-Disc-Jockeys-Sound.md",
-    "Flock Wiki/Home.md",
     "Flock Wiki/Female-lead-guitar----Jo-(Joan)-Dalton.md",
     "Flock Wiki/Depopulated-town---East-St.-Louis,-Illinois.md",
     "Flock Wiki/County-Fair-Sounds.md",
     "Flock Wiki/Cindy-and-Barry's-Hometown---Fort-McClellan,-Alabama.md",
-    "Flock Wiki/Characters.md",
-    "Flock Wiki/Buzz-Cigarettes.md",
     "Flock Wiki",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",

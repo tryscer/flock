@@ -1,4 +1,5 @@
 {
   "obsidian-default-theme@@background-primary@@dark": "#352EA2",
-  "obsidian-default-theme@@text-normal@@light": "#3F3F3F"
+  "obsidian-default-theme@@text-normal@@light": "#3F3F3F",
+  "cupertino@@hover-sidedock": true
 }
