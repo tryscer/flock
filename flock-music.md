@@ -444,7 +444,7 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 *(Yooooooor precious looahahv)*
 
 *Step right up!*
-	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!*s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot. 
+	We’re walking under a giant arched marquee welcoming us to the				 Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!*s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot. 
 	“Daddy, I want you to get me a Fairy Floss!” 
 	“Darnel sure looks fancy in that green coat.”
 	“What are these white kids doing here?”
