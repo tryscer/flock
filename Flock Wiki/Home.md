@@ -8,13 +8,13 @@
 ## Book Bible
 Things that are officially part of the book
 
-Synopsys: [[side 1 ‐ alice]] | [[side 2 ‐ tim]] | [[side 3 - jerry lee]]
+Synopsys: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
 
 [[Characters]]
 
 [[The Band]]
 
-[[Places / Institutions]]
+[[Places]]
 
 ## Religion
 The principles the book will convey

@@ -39,60 +39,72 @@
 - 
 
 ## Chapter 3 
-- The gang witnesses the forced evacuation of the fair and the scene mirrors the crowd scene in the previous chapter but now it’s scary, tense, and eerily quiet. 
-- stumping on broken pumpkin - escape route
-- With Tim’s help, they reach their car
-- In the car hides Eddie, smoking Barry’s cigarettes. “The police are looking after someone who looks like me, and known accomplices"
-- a discussion with multiple views, not everyone are happy about what the band did. Alice is upset, Eleneor "This bubble needs to be poked", Barry thinks its reckless and is very angry, Tim thinks they should not ruine their great musical potential. 
-- Eddie finds a way to change Barry's mood and make them go. 
-- They leave through a real mess and gridlocks. Tim helps them navigate out
-- They talk about the show, eleanore is very excited about the whole experience, music and riot. Alice is displeased, wants a real show. Cindy is pushing for the show, too. Eddie is not telling anything. 
-- Alice remembers the matchbook. They now know there’s another show. 
-- Eddie: you’ve been chosen. 
-- Barry is not sure. Then he says why not - maybe a reference to dad is not home, won't notice, he has the thing.
-- Everyone is happy
-- Reaching a police barricade, some tension egged on by eddie who’s hiding by the ladies’ feet
-- Barry relaxes: he sees Sheriff’s Emerson’s mustach. 
-- But Sherrif Emerson calls Barry to join him at his squad car 
-- Then he hands him a c.b. Radio speaker. Through the back windows of the car they see how the call deflates him
-- Goes back to the car, slams the door, says Cindy he wants to talk to you too
-- Quiet in the car as we watch Cindy deflates
-- Cindy goes back, slams the door, says defeated, “we’re leaving Puppy at the station and going back home to Greensboro”. 
-- Quiet in the car. A song is cut short by -click!- 
-- Alice thinks she hears her her heartbeats and that they sound like a drum, thinks it may be a memory from the show cut short
-- Parking at the station in Shockoe bottom. 
-- Eddie: holy shit I forgot something in the trunk / takes from Barry, goes to the trunk and opens it
-- Babatunde gets out with a drum. So graceful and self assured he thanks barry for driving (mostly) gracefully and for making his stay in the trunk comfortable. 
-- eleanore to cindy: are you sure? Allice is privately happy. 
-- eleanore and tim?
-- eddie and barry?
-- babatunde to barry: if you go back home after tasting this, because you think it’s the right think to do, i respect you. If you do it because you’ve been yelled at, you disrespect yourself. 
-- babatunde: oops, I nearly took with my this lady’s luggage. Alice looks at barry looking at cindy’s luggage. 
-- going back to the car. Barry is saying "not another word on the subject" Cindy say she needs to talk
-- again quiet in the car
-- cindy rides up front. she and barry talk
-- cindy: just the thought of coming home stifles me
-- barry: hey sis, do you want to see a show instead?
-- cinematic u-turn
-- trying to get back to Eleanore before she boards the train
-- Elanore is found hitchhiking(?)   outside of the train station - Barry is refereeing to the foolishness of acting like that. 
-- Eleanore says she got a matchbook too and she knows its in Shockoe bottom - Eddie and Babatuna were walking away, not taking a cab.
-- treasure hunt:
-- going to a jazz club
-- finding a tickets monger  who doesn't know what this show is
-- driving around, stopping
-- Time finds the missing clue, taking the matchbook up and compares to the logo
-- Barry, in his defiance of dad, likes that the show is in the company property. 
-- getting to the parking
-- meeting Kimberly and her carmates - talking about writing on car, Barry about value , K:"more valuable to me"
-- walking in the ally with lanterns
-- seeing the quilt monkey wrench 
-- getting into the storage
-- someone behind them joins the line to enter saying the radio just announced Elvis is dead.
 
+- על הקורסלה, מתבעסים על ההופעה חוץ מאליס שלאעל הקרוסלה
+
+- מוצאת פנקסגפרורים,מבינים שיש עוד הופעה ורוצים ללכת
+
+- קוראים לבארי בכריזה
+
+- בטוח שאבא שלו רוצה לשבח אותו על המכירות
+
+- במשרד של אוונס, חוטפים עיתון על העף - תחילה בארי אז סינדי
+
+- הולכים לאוטו מוצאים בו את אדי מעשן
+
+- אומרים לו שהנוסעים לרכבת ואז הביתה, הוא רוצה טרמפ לרכבת
+
+- אליס מזכירה את הפנקס, שומעת תופים
+
+- אדי אומר שנבחרה, בארי אומר הביתה, אדי מיינדפאק לבארי
+
+- איפשהו משטרה, עוברים בזכות בארי והנהונו
+
+- נסיעה ארוכה בשתיקה, נופים עירוניים, אחה"צ
+
+- מגיעים לתחנה, מורידים את אלינור, אדי לוקח את המפתחות מוציא מתא המטען 1 בבטונדה עם 1 תוף ו1 תיק נשים
+
+- בבטונדה שמע את השיחה, אומר לבארי משהו מעצים
+
+- בבוטנדה מחזיר את התיק, בארי נותן בסינדי מבט משתתף בצער
+
+- נפרדים, סינדי רוצה לשבת ליד בארי, מדברים אני נחנקת בבית, אני אדאג לאחותי
+
+- יו טרן פראי בהתאם לחוקי הזאנר
+
+- חוזרים לרכבת שעוד רגע יוצאת מהתחנה בהתאם וגו (הרכבת של שש לניו יורק) 
+
+- אלינור לא עלתה בהתאם וגו - חיכיתי לכם ידעתי שתחזרו
+
+- מנסים לפצלח את החידה, מועדון גז בחסות חטיבת המחקר
+
+- מפונים לג'ימי הנחש שלא מכיר את ההופעה ולכן חייב להצטרף אליהם
+
+- אדי בסיוע אלנור מפצח את החידה
+
+- מגיעים - יחד עם ג'ימי למגרש החניה
+
+-  - פוגשים את קינברלי ופלוקה, שיחות על הקרוואן 
+
+- מזהים את הכניסה לפי לנטרן בתחילת הסמטא
+
+- הולכים בסמטא מוארת הלנטרנס עד הדלת בצד המחן שמעליה crossroads quilt
+
+- נכנסים, יורדים במדרגות, מגיעים לחדר הייבוש, פוגשים עוד אנשים, לפתע נכנס אדם שמכריז "אלוויס מת!"
 
 ## Chapter 4 
 <div dir="rtl">
+
+- שומעים ברדיו את אלן פרייד בתוכניתו הכלל ארצית מדבר על אלוויס. 
+
+- קהל שלם המום וחפוי ראש בחדר הייבוש, מישהו הולך הביתה
+
+- טים מתיישב בצד לוקח קשה
+
+- באמצע החדר הגברה פסנתר וקונטרה בס, תאורה מלמעלה
+
+
+
 
 נוסעים  יוצאים מהאוטו במצב רוח גרוע
 סמטה, עששיות, מעל דלת קטנה תלוי קווילט של מפתח קופים
