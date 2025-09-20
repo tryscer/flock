@@ -444,7 +444,7 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 *(Yooooooor precious looahahv)*
 
 *Step right up!*
-	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!*s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot. 
+	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!*s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot, the din of the crowd. 
 	“Daddy, I want you to get me a Fairy Floss!” 
 	“Darnel sure looks fancy in that green coat.”
 	“What are these white kids doing here?”
@@ -455,9 +455,9 @@ Outside the car window, a metal sign rolls by, black with green lettering, sayin
 *(take out the papers and the trash!)* 
 
 I say, “it’s all so alive!”
-	Tim says, “alright, Peggy Sue, don’t embarrass us in front of the cool cats”. 
-	Eddie says, “since when do you know cool cats?”
-	We walk through the midway, moving between pockets of PA sound. We stare at the stalls selling Friend Chicken and funnel cakes and pulled pork sandwiches and the kids enjoying themselves on the Tilt-a-Wheel and the merry-go-rounds. I watch the midway, bustling with a huge throng of people, young parents with babies and old people and gangs of teenagers like us, all black. When we pass by them we get curious, reserved looks. As we walk through the crowd, people keep their distance. We are in a bubble in the crowd. 
+	Tim says, “Alright, Peggy Sue, don’t embarrass us in front of the cool cats”. 
+	Eddie says, “Since when do you know cool cats?”
+	We walk through the midway, moving between pockets of PA sound. We stare at the stalls selling Friend Chicken and funnel cakes and pulled pork sandwiches and at the kids enjoying themselves on the Tilt-a-Wheel and the merry-go-round. I watch the midway, bustling with a huge throng of people, young parents with babies and old people and gangs of teenagers like us, all black. When we pass by them we get curious, reserved looks. As we walk through the crowd, people keep their distance. We are in a bubble in the crowd. 
 	“Bet you want a ride on the merry-go-round, Peaches,” says Barry. 
 	“We said we don’t call me that, Bartholimio,” I say, “and as a matter of fact, I would very much like to go on the merry-go-round.” I give Tim a look I hope will convey forlorning, a word I learned from a book. 
 	“Well, tough luck, *Alice*, we’re here to do a job and go home.”
@@ -486,8 +486,8 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 	Eleanore says, “Anyone else worried about Bernard Green?”
 
 “Excuse me, sir, may I interest you in a *honey* of a smoke?”  
-	The cigarette girl is young, lithe, wearing a yellow-and-white uniform proudly featuring the yellow hexagons of the Buzz Cigarettes brand. Her hat is a particularly ugly, yellow pillbox, with the Buzz logo sewn on it, like a military insignia. White straps around her neck hold a yellow plastic tray displaying the many products offered by the Buzz Cigarettes Co. She’s holding on to it with two hands covered in white gloves that look like a cartoon bee. It feels a lot like stepping into Cindy’s and Barry’s house.   
-	Barry stands erect and proud. With thumb and forefinger he’s smoothing an invisible mustache.   
+	The cigarette girl is young, lithe, wearing a yellow-and-white uniform proudly featuring the yellow hexagons of the Buzz Cigarettes brand. Her hat is a particularly ugly, yellow pillbox, with the Buzz logo sewn on it, like a military insignia. White straps around her neck hold a yellow plastic tray displaying the many products offered by the Buzz Cigarettes Co. She’s holding on to it with two hands covered in white gloves that make her look like a cartoon bee. Looking at her feels a lot like stepping into Cindy’s and Barry’s house.   
+	Barry stands erect and proud. With thumb and forefinger he’s smoothing an invisible mustache. Eddie tries to keep a straight face, but not trying too hard. 
 	“As you can see,” says the cigarette girl, “we have for you today the best tobacco products money can buy: fine Domestic Virginia cigarettes, and for the man who knows his smoke, we also offer Turkish Blend cigarettes, and an assortment of snuffs and chewin’ tobaccis. Would you care for a free sample?”  
 	”Chewing tobaccos,” says Barry, very sternly. “Not chewin’ tobbacis. When you represent the Buzz brand, it is important that you keep to decorum.”  
 	”Are you tellin’ me how to sell?” asks the cigarette girl, cocking her head at him, more curious than angry.   
@@ -496,11 +496,11 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 	“I am,” says Barry, and starts arranging items on her tray. She puffs her bosom, letting him. “Then you should know,” she says, “that so far I’ve given out *forty-two* samples and had to restock *three times*. And it’s only an hour and a half past noon. So there.”  
 	“This may be the case,” says Barry, still arranging the products on her tray, “but when you represent… hello. What’s this?”  
 	He lifts a loose cigarette from the tray. It has a hand-rolled kind of look and the sun going through the thin paper wrapper makes the content look more green than brown. The cigarette girl’s expression changes. I find it hard to decode whether she’s stone-faced or just terrified.   
-	“This is completely unacceptable\!” says Barry. “Completely\! Why, look at this–” we all look at the uplifted cigarette, like a sword – “as you can plainly see, this cigarette does not showcase the hexagon design nor the name ‘Buzz Cigarettes\!’”  
+	“This is completely unacceptable\!” says Barry. “Completely\! Why, look at this–” we all look at the uplifted cigarette, like a sword – “as you can plainly see, this cigarette wrapper does not showcase the hexagon design nor the name ‘Buzz\!’”  
 	The cigarette girl is relieved. So is Eleanore, who gives her a private look.   
 	Then a heavy hand lands on Barry’s shoulder–  
 	“Is this Mr. B. MacAllister, Jr., I see before me?” says the owner of the heavy hand behind us.   
-	Eleanore acts fast: she grabs the green cigarette from Barry’s raised hand and stuffs it in his coat pocket. We all turn around to find two besuited, bespeckled, respectable-looking, identical-looking white men.    
+	Eleanore acts fast: she grabs the green cigarette from Barry’s raised hand and stuffs it in his coat pocket. We all turn around to find two besuited, bespectacled, respectable-looking, identical-looking white men.    
 	Barry’s expression changes from shock to serenity, smoothes itself out so fast: “Hello, Mr. Farley\! Why, gang, this is Mr. Farley, our advertising executive\! Mr. Farley, please meet my sister, cousin and their friend.”   
 	“Well met, ladies,” says one of the identical besuited men and gestures towards the other. “Mr. B. MacAcllister, Jr., I’d like you to meet Mr. C. Evans, the Fair’s executive manager.”  
 	”Well met,” Mr. Evans says.   
@@ -526,32 +526,30 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 	"Yeah,” says Tim. “Wait up, Eleanore.”
 	Cindy says, “Happy to meet you, Mr. Evans, Mr. Farley.” She takes my hand and we run away as fast as we can.
 
-A few black people are sitting on folding chairs next to a big tent. Eddie and the huge man are walking towards them, with us as a rear guard. As Eddie gets closer to the group, they all jump from their seats, shouting:
+A few people are sitting on folding chairs next to a big tent. Eddie and the huge man are walking towards them, with us as a rear guard. As Eddie gets closer to the group, they all jump from their seats, shouting:
 	“You son of a bitch!”
 	“Is that Edwardo or am I trippin’?”
 	“Boy, you have some nerve!”
 	“Alright everybody alright, relax won’t ya? I missed you guys too.” He hugs the pretty lady who’s standing there, saying nothing. She hugs him back but continues not to talk. Then Besame Mucho hugs him again. Then they all hug and pat him on the shoulder. 
 	“Ah,” says Eddie, “these are Alice and her friends. These unwitting sages, Alice most of all, informed me you sons of bitches have finally broke loose.”
-	“Then you have done us a great service,” says a man in a deep foreign accent. He has his hand around Eddie’s shoulder. I’ve never seen a man dress like that: a ceremonial garb of another people, perhaps — a white cotton dress, full of red and purple embroideries. His cap is made from the same clothe. 
-	“And these,” says Eddie, are some of my old friends. I don’t want to scare you, Alice, but some of these men are actual, factual members of the Pillar of Steam Band”.	
-
-
-	I look at them: Eddie, Besame Mucho, the foreign man, the pretty woman, small, voluptuous, with short curly hair and big earrings, looking like a down-to-Earth Dorothy Dandridge; and a serious-looking man in a brown shirt, with a wide jaw and thick hair. 
+	“Then you have done us a great service,” says a man in a deep foreign accent. He has his hand around Eddie’s shoulder. I’ve never seen a man dress like that, a ceremonial garb of another people, perhaps — a white cotton dress, full of red and purple embroideries. His cap is made from the same clothe. 
+	“And these,” says Eddie, “are some of my old friends. I don’t want to scare you, Alice, but some of these people are actual, factual members of the Pillar of Steam Band”.	
+	I look at them: Eddie, Besame Mucho, the foreign man, the pretty woman — small, voluptuous, with short curly hair and big earrings, looking like a down-to-Earth Dorothy Dandridge; and a serious-looking man in a brown shirt, with a wide smile and thick, thick hair. 
 	“What do musicians look like?” I ask. They laugh. 
 	“Good answer, good answer.”  
-	“My name is Babatunde,” says the man in the dress. He’s got a quiet, exotic speech: soft and commanding. “On behalf of the Pillar of Steam, and its friends, we would like to thank you, Alice. We were apart and now that Edwardo is with us we are whole again.”
+	“My name is Babatunde,” says the man in the dress. He’s got a quiet, exotic speech: soft and commanding. “On behalf of the Steam Pillars, and its friends, we would like to thank you, Alice. We were apart and now that Edwardo is with us we are whole again.”
 	“Hello, Batunde,” I say. “I think you’re a musician, because other jobs won’t allow you to dress like that.”
 	Batunde laughs. “Very good, Alice. I am a percussionist with the band. 
 	“What does percussionist mean?”
 	“Means he ain’t no drummer,” bellows Besame Mucho. 
 	Babatunde laughs. 
-	“He ain’t no drummer,” says the woman, “he is *magician*. I’m Vilma, Alice and friends. I sing for the band.” She has a small voice, like a girl’s. 
+	“He ain’t no drummer,” says the woman, “he is a *magician*. I’m Vilma, Alice and friends. I sing for the band. And I’m… happy you brought Edwardo back to us.” She has a small voice, like a girl’s. 
 	“I’m Johnny Terry,” says the man with the thick curls. “I’m with the choir, you could say.”
 	“You guys have a *choir*?”
 	“Are you convinced yet?” Asks Eddie. “Or do you guys want to still go see the Seven-Tops?”
 	“Hey, why are you like this?” Says Mucho. “Show some respect. Some of these cats can *rock*.”
 	“All I’m saying,” says Eddie, “is after the Pillar of Steam… I don’t think there’s going to be any of another show.”
-	“Are you being metaphorical?” Asks Cindy. “Have everybody met? I’m Cindy and this is my brother, Barry and my cousin from New York City Eleanore.”
+	“Are you being metaphorical?” Asks Cindy. “Have everybody met? I’m Cindy and this is my brother Barry and my cousin from New York City Eleanore.”
 	I suddenly realize that apart from Eddie, all the people are black, and reflect briefly on how much I’ve grown since this morning. I’m tingling with excitement. 
 	“You guys are real musicians! With a choir!”
 	“Just cogs in the machine,” says Mucho. 
@@ -567,35 +565,39 @@ Barry comes over, looking very smug.
 	“Well — I mean — hello, I’m Barry,” says Barry.  
 	“I used to like telling people what to do, too,” says Babatunde. “It’s human nature. Don’t feel too bad about that.”  
 	“Right. Right,” says Barry.   
-	“What kind of people did you get to order around?” I ask.  
+	“What kind of people did you get to order around, Babatunde?” I ask.  
 	“Well, Alice, *my* people. I’m a prince of my people, you see, a member of the royal family. And when I told them they should jump – they didn’t even stop to ask, ‘How high?’”  
-“You’re a prince?”  
+	“You’re a *prince*?”  
 	“I am. But you know, Barry, I was never happy telling people what to do. I was never happy until I came to this land and started playing music. Can you guess why?”  
 	“Why?”  
 	“Because it’s only when I stopped ordering people around and started playing music with them when I… well…” he looks at Johnny Terry – “well, in your religion there’s the idea of being subject to one another. Of submitting to one another.”  
-	“As Christ is subject to his Church,” agrees Vilma.   
+	“As Christ is subject to his Church,” says Johnny.   
 	“...when you play music with others, sometimes you lead. Sometimes you follow. When you lead you do so without authority, and when you follow you do so without coercion. And thus, my friend, beautiful music is made.”  
-	Barry stops to think about it. Absentmindedly, he reaches for his coat pocket and takes out the hand-rolled cigarette he confiscated from the cigarette girl. He takes out a yellow Buzz Cigarettes matchbook and lights it.    
+	“Well —“ says Barry. Absentmindedly, he reaches for his coat pocket and takes out the hand-rolled cigarette he confiscated from the cigarette girl. He takes out a yellow Buzz Cigarettes matchbook and lights it.    
 	“Boy, that tastes real funny,” he says. He hands the cigarette to Tim, who puffs on it, then opens his eyes real wide. Some of the band members laugh.   
 	“Smells funny, too,” says Tim. He hands the cigarette to Eleanore and winks at her. “What do you think?”  
 	Eleanore takes a few expert draws.
-	“Yeah,” she says. “It’s fine. You should smoke it, Barry, it’s good for your nerves. 
+	“Yeah,” she says. “It’s fine. You should smoke it, Barry, it’s good for your nerves.
 	“Is it?” Says Vilma. “Let’s test it to be sure.” Eleanore passes the cigarette over and Vilma purses her lips and draws from it. She leaves lipstick marks on the butt. 
-	“Yeah, yeah,” he says. “It feels like a safe smoke. What do you think, Babatunde?” He passes the cigarette over and Babatunde smirks and draws from it, then passes it over to Mucho.
-	“Is that hygienic?” I ask. For some reason, they laugh. 
+	“Yeah, yeah,” he says. “It feels like a safe smoke. What do you think, Babatunde?” He passes the cigarette over and Babatunde smirks and draws from it, then passes it over to Mucho. Mucho draws and bellows, “it’s very good for you, Barry.”
+	Barry takes the half-smoked cigarette. 
+	“Is that hygienic?” I ask. For some reason, they laugh.
+	“Is that the cold, *crisp taste of Coke I see in a bottle before me?” Says Barry. 
+	“See?” Says Eleanore. “You’re already better.” 
 
 We walk around the fairgrounds, waiting for the show to start. We pass an ice cream stand, where a young girl is crying over a fallen cone. When we pass by, she stops crying and stares at us. Eleanore draws closer to Tim, and Cindy watches that with disdain. 
 	“Tim,” she says, “will you win me a teddy?”
-
-Under the string of bare lightbulbs, the hand-painted sign at the nearby booth says “10 shots \- 25¢,” and the red-faced man in the open-collared shirt under it is busy counting shots of .22 into the hand of a young black patron, who’s chatting excitedly with his girlfriend. A bunch of old /Winchester rifles lie at the counter. Another man is picking up one of them and shooting into the depths of the booth, where metal cutouts, shot to tatters, are supposed to imitate ducks and quails. Every time a rifle fires, the red-faced man jumps.   
+	At the next stall, under the string of bare lightbulbs, the hand-painted sign at the nearby booth says “10 shots \- 25¢,” and the red-faced man in the open-collared shirt under it is busy counting shots of .22 into the hand of a young black patron, who’s chatting excitedly with his girlfriend. A bunch of old Winchester rifles lie at the counter. The man is picking up one of them and shooting into the depths of the booth, where metal cutouts, shot to tatters, are supposed to imitate ducks and quails. 
+	Every time a rifle fires, the red-faced man jumps.   
 	“Excuse me,” says Cindy in her charming voice, “this young man would like to win me the largest teddy bear you have.”  
-	”That would be the Bear-gineer,” says the red-faced man and wipes a handkerchief across his sweaty forehead. He gestures towards the top shelf above his head, where a large bear, wearing a train engineer’s hat and overalls, is sitting. “Gotta warn you, young man, 12 days so far and no one won him yet.” The man next to us fires a round into the line of automated duck-like things and it spins around its axis with a *ping\!*  
+	”That would be the Bear-gineer,” says the red-faced man and wipes a handkerchief across his sweaty forehead. He gestures towards the top shelf above his head, where a large bear, wearing a train engineer’s hat and overalls, is sitting. 
+	“Gotta warn you, young man, 12 days so far and no one won him yet.” The man next to us fires a round into the line of automated duck-like things and it spins around its axis with a *ping\!*  
 	The red-faced man shudders.   
 	“What do I need to do to win?” says Tim and puts a quarter on the counter. The man at the counter counts ten shots into his hand.   
 	“Ten shots at the ducks and quails,” says the man and jumps at another ping\!, “and I’ll be counting”.   
 	“That will not be a problem,” says Tim, picks up a rifle and immediately drops half his shots to the ground.   
 	“Have you ever fired a rifle before?” asks Cindy.   
-	“Sure have\!” says a blushing Tim. He pulls the lever on the old rifle and drops the rest of his shots. He ducks, takes one shot from the ground, cleans it against his shirt and puts it in the rifle. He smiles at me, trying to save face. Eleanore smirks. He aims, fires, and takes the Bear-gineer’s eye out. The shot teddy flops in its place like an injured cowboy.   
+	“Sure have\!” says a blushing Tim. He pulls the lever on the old rifle and drops the rest of his shots. He ducks, takes one shot from the ground, cleans it against his shirt and puts it in the rifle. He smiles at me, trying to save face. Eleanore smirks. He aims, fires — and takes the Bear-gineer’s eye out. The shot teddy flops in its place like an injured cowboy.   
 	“At the ducks and quails\!” shouts the red-faced man. “Not the trophies\!”  
 	Tim smiles weakly at Cindy.   
 	Cindy says to Tim, “why don’t you put another quarter on the counter?” And to the man at the counter, “mind if I try?”  
@@ -605,19 +607,20 @@ Under the string of bare lightbulbs, the hand-painted sign at the nearby booth s
 	“That’s okay, hon,” says Cindy. She winks at Eleanore. Eleanore catches the gesture, not quite sure what to do with it.   
 	“Remember we used to do these back in ‘Bama?”  
 	”That was a long time ago,” says Eleanore and walks away, towards Barry and his identical executive friends. But she looks back, somewhat appeased.   
-	Cindy turns around and picks up the old Winchester like a trained soldier. She sends her left leg back, like a ballet dancer, like an expert shot. She puts the rifle to her temple and her cheek and you can see there’s a longstanding familiarity about it. I look back and Eleanore is behind me, watching too.   
-	“Turn around, girl, you’ll miss the show… it goes by awful quick.”  
-	I turn around to watch Cindy squeezing the trigger, once, twice, ten times, barely breathing, and five ripped-metal ducks and five tattered quails going *ping\!-*ing and spinning away. The red-faced man backs away. So do some of the patrons and competitors at the shooting booth. In this moment, even I can feel there’s something very much intimidating in soft, sweet, blue-eyed Cindy.    
+	Cindy turns around and picks up the old Winchester like a trained soldier. She sends her left leg back, like a ballet dancer, like an expert shot. She puts the rifle to her temple and I can tell that there’s a longstanding familiarity about it. I look back: Eleanore is behind me, watching too.
+	“Turn around, girl,” she says, “you’ll miss the show… it goes by awful quick.”  
+	I turn around just in time to watch Cindy squeezing the trigger, once, twice, ten times, barely breathing, and five ripped-metal ducks and five tattered quails going *ping\!-*ing and spinning away. The red-faced man backs away. So do some of the patrons and competitors at the shooting booth. In this moment, even I can feel there’s something very much intimidating in soft, sweet, blue-eyed Cindy.    
 	Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   
 	Tim takes the teddy, all red. Some people laugh — not many, though.   
 	“Hey, hey,” he says to the faces around us. “I deserve it, right?”  
-	He smiles at Cindy and walk away. 
-	We stand alone by the shooting booth. Life has resumed its course at the booth, ducks-a-pinging and the red-faced man a-jumping, but some people still avoid Cindy and me when they walk by, giving us a wide berth.   
+	He smiles at Cindy and walks away. 
+
+We stand alone by the shooting booth. Life has resumed its course, ducks-a-pinging and the red-faced man a-jumping, but some people still avoid Cindy and me when they walk by, giving us a wide berth.   
 	“That was a stupid thing I did,” says Cindy. 
 	“What did you do, boo?”
 	“I angered Eleanore.”
 	“Thought that was your plan all along.”
-	“Yeah, but I overdid it. And she *is* my ticket out of here.”  
+	“Yeah, but I think I overdid it. And she *is* my ticket out of here.”  
 	My eyes suddenly fill with so much tears that I can’t see anything and to hide that I’m looking down. 
 	“What do you mean, your ticket out of here?” I ask her shoes.   
 	“Listen, Peach — I mean listen…”   
@@ -627,42 +630,22 @@ Under the string of bare lightbulbs, the hand-painted sign at the nearby booth s
 	“I know, I know, Wonderland Girl. But me…” she’s looking away. 
 	“What will you even do without me?”
 	“I don’t know, Peach. I don’t know. All I know is since mama passed away… I can’t be in the house anymore.”
-	We see Barry approaching. 
-	“Does Barry know?”
-	“No, and shut up.”
-	“You wont tell him?”
-	“I don’t know!”
-	“What are you girls talking about?” Asks Barry. 
-	“Girl stuff,” we say together. 
-	“Because I have an idea. My idea is this.”
-	I wait.
-	“Barry?”
-	“Yes.”
-	“You didn’t say what your idea was.”
-	“Coca Cola.”
-	“Coca Cola.”
-	“Ayess. Somewhere in this fair, hiding somewhere, there’s a bottle of magic and wonders, because that bottle offers whomever drinks from it the cold, *crisp taste of Coke*. And it’s callin’ me. It’s saying, Barry, drink me”. 
-	“Is that what it’s saying?” laughs Eleanore. 
-	“Uhuh,” says Barry. When he doesn’t notice, his Alabama accent slips through. “Let’s take a little detour.”
-	“If we’re late to my first show ever I’m killing ya,” I tell him. 
-
-==getting the coke== 
 
 Over the past hour I have come to a decision. During the show, I will wait for that tingle in my underwear that Eleanore warned me about. At that moment I will reach into my handbag and throw my extra pair of panties onto the stage. It will be my rite of passage into adulthood.
 
 The tent is the largest thing on the fairground, a big balloon in stripes of red and white, radiating sunlight, its flaps raised to welcome patrons. Inside, it looks cool and dark, and rows and rows of seats are already filling with teenagers and families. 
 	“Hey you white kids\!”  
-	The two policemen stand at the rear of the tent, just behind the last row, in matching khaki shirts and pants and matching straw campaign hats. One is redheaded, lanky; the other, the older one talking to us, has a wooden baton stuffed in his leather belt. On his shoulder there’s a patch that reads “Sic Semper Tyrranis.”
-	“Hey you white kids! Come stand next to us!”
+	The policeman stands at the rear of the tent, just behind the last row, in matching khaki shirts and pants and an oversized straw campaign hat. He has a wooden baton stuffed in his leather belt. On his shoulder there’s a patch that reads “Sic Semper Tyrranis.”
+	“Hey you white kids! Come over here!”
  	We do. 
 	“What are you kids doing here today?” 
-	For a short man, the older cop has quite a presence. His voice booms and reverberates over the noise of the crowd. 
+	For a short man, the cop has quite a presence. His voice booms and reverberates over the noise of the crowd. 
 	“We’re—we are on official—“ starts Cindy. 
 	“We’ve a permit,” I try to end. 
-	Puppy adds a pantomime act: she sours her face at the cops, letting them know on *whose* *side* she is. 
+	Puppy adds a pantomime act: she sours her face at the cop, letting him know on *whose* *side* she is. 
 	Barry walks straight at the cop, then smiles. How easily he slips into that pose, I think. 
-	“We’re here on special permission from Mr. C. Evans, the fairground’s general executive,” he says. He calmly toys with his bottle of Coke. The cops respond in relaxing, too. The young cop looks more interested in the cold, crisp taste of Barry’s coke bottle. 
-	“I don’t want any trouble,” the older cop tries weakly. He’s looking at the cold, crisp bottle as well. 
+	“We’re here on special permission from Mr. C. Evans, the fairground’s general executive,” he says. He calmly toys with his bottle of Coke. The cop responds in relaxing, too. He seems to be more interested in the cold, crisp taste of Barry’s coke bottle. 
+	“I don’t want any trouble,” the cop tries weakly. He’s looking at the cold, crisp bottle as he does. 
 	“Of course,” says Barry. “Are they treating you well here?”
 	“‘salright,” says the cop, defeated. 
 
@@ -678,16 +661,19 @@ The tent is the largest thing on the fairground, a big balloon in stripes of red
 	“Maybe it’s like Carol Burnett on the Ed Sullivan show last year,” says Tim.   
 	“Huh?” Says Barry.   
 	“Her act followed Elvis’s,” says Tim. “You could see in her face she *did not* want to be up there on stage. So maybe *this* show will be so good, the Seven-Tops wouldn’t want to come on after—”  
-	“You kids and your *Elvis*,” says the older cop, still eyeing the sweating bottle of Coke in Eddie’s hand. “With him hip-wagging like a *woman.* When I was your age we had real *men* up on stage. Frank Sinatra, now he had *star quality*. Dean Martin…” He’s taking a departing look at Barry’s Coke and stares at Besame Mucho coming up on stage. Some people applaud, but Mucho is there just to shove the upright piano to center stage. He does it with three fingers. The piano makes an awful dragging sound. It’s a weird audience warm up, I think, but this is my first show, what do I know, I think.
-	Jimmy is arranging the mic stands on stage, around the piano; then he carries a big upright bass and stands next to it; Eddie walks over towards us, full of purpose. Then he stops. He stands next to Barry, looking around, smiling at the cops. 
-	When the cops look away, he leans over, very secretive: “hey. Hey, Barry.”
+	“You kids and your *Elvis*,” says the cop, still eyeing the sweating bottle of Coke in Eddie’s hand. “Listen carefully, kids. I don’t want you white folks dancing here today. This is their day. And I don’t need any mixin’ going on here. Do you all get me?”
+	Besame Mucho is coming up on stage. Some people applaud, but Mucho is there just to shove the upright piano to the back of the stage. He does it with three fingers. The piano makes an awful dragging sound. 
+	Eddie walks over towards us, full of purpose. Then he stops. He stands next to Barry, looking around, smiling at the cop. 
+	When the cop looks away, he leans over, very secretive: “hey. Hey, Barry.”
 	“What?”
 	“Don’t — don’t look at me. Keep staring at the stage, keep smiling, now that’s a trooper. Hey, Barry. Hand me that Coke.”
 	“What?”
 	“Shh—“
 	“I’m looking at the stage, I’m looking at the stage. Here.”
-	He hands the bottle, hand to the side and face facing forwards, and Eddie grabs in the same pose. Then he walks back to the stage. 
+	He hands the bottle and Eddie grabs it. 
 	“Thanks,” he says. 
+	He walks over to the cop. “Excuse me, good officer of the law. I regret to inform you that right outside this tent, where the long eye of the law cannot reach, some white youths are mixing with black youths, perhaps planning to do mixed dancing.”
+	“Why, this is very serious!” Says the cop. He hurries outside. Eddie winks at us and goes back.
 	“What just happened?” Says Barry. 
 	Puppy says, without taking her eyes off the stage, “I think he just took your Coke.” 
 
@@ -697,17 +683,40 @@ A well-dressed man in a seersucker, all white-and-blue stripes, and a slim, yell
 	”That’s good, that’s good,” says the MC. “I’m your man, Tiger Tom, and folks, we’re here in the cool shade of this big tent, cool as the James river when it’s morning, we’re here, folks, to celebrate the best in music and achievement, to feel the *joy* of music, the *best* of our community\!”  
 	”Hell yeah,” says Tim. He’s holding on to Eleanore. I slide up to Cindy and give her a squeeze. Barry stands alone next to the cops, erect, sweating in his oversized coat.   
 	“And let’s get our spirit rising\! Let’s have our hand a clapping\! Let’s give a *Richmond* welcome to the first band comin’ your way: The Cloud Pillar\!”  
-	”Pillar of Steam\!” Someone yells from behind the tent.   
-	“That’s right, the Pillar of Steam coming to play to us live music, folks\!”  
+	”Steam Pillars!” Someone yells from behind the tent.   
+	“That’s right, the Steam Pillars, coming to play to us live music, folks\!”  
 	”*And* they’re not here yet\!”  
 	Tiger Tom is unfazed. “And, folks, gentlemen and gentle women,” he says, voice rising, as behind him he’s signaling at whomever is there to get the hell *on* with it, “we will momentarily enjoy their tunes and their numbers, which will serve to *elevate* us\! To *educate* us\! To *edify* us\! Thank God, here they come\!”  
-	He scurries off stage. A long procession of people, all wearing funny railroad hats, is emerging through the flaps of the tent and climbing on stage. Some scattered applause is heard: mostly lazy, slow claps. I count the men: three, five, seven, ten — men with instruments and men without. 	Mucho sits down behind the drum kit, still taller than the man with the trumpet standing next to him. They look at each other and smile. Johnny Terry stops next to them. Another man comes on and takes his position next to the upright bass. Jimmy lets him hold it and scatters. Babatunde climbs up and stands next to Mucho. It’s very, very tight on stage: the three men of the horn section are nearly cheek to cheek. Babatunde looks happy, with his one arm around Johnny Terry and the other holding a huge, round drum, as foreign and ceremonial as his clothes.
-	Now the crowd gets into it: “ooh!” And “shhh!” And “here we go” and one or two “bring Tom back!”   
-	A woman comes on, taking her place in front, wearing overalls and holding a shiny, gold electric guitar, slim and small in her large hands.   
+	He scurries off stage. 
+
+Mucho climbs on stage again, holding a huge, upright bass in one hand, like he’s holding a mandoline. Now the people who applauded before know better and they don’t clap. But it seems my first show is starting. Mucho is setting the bass down and plucking a little rythm on it that makes my leg jump and tap. I sing to myself, over the song of the base: “boom, ba-ba-boom-boom, boom, ba-ba-boom-boom”. I hug Cindy, who sways and swoons. 
+	“Better not let that cop see you dance like that, Alice of Wonderland,” she says. 
+	Now Babatunde climbs on stage, smiling and waving at the crowd. As he comes on, he says, “how are you guys feeling today?”
+	“We’re feeling great, Babatunde!” Says Cindy. 
+	Babatunde sits behind a huge caulderon covered in animal hide. If it’s a drum, I think, it’s the biggest drum I’ve ever seen. He raps his fingers on it. Suddenly Mucho’s little bass rythm has a friend to dance with. 
+	I look at Cindy and notice that she’s dancing. Upon closer inspection, it seems that I am dancing, too. 
+	Johnny Terry climbs on stage. Someone yells, “Hi there, Johnny!” And some people clap. He finds his place behind Mucho and starts singing into the microphone in a low, low voice:
+	“*Go, go, go*…”
+	Johnny’s voice and Mucho’s bass and Babatunde’s drum all vibrate through me. I can feel them in my chest, in my feet, in my butt. 
+	A tall, broad-shouldered woman comes on, taking her place in front, wearing a black dress and an afro and holding a shiny, golden electric guitar, slim and small in her large hands.   
 	“Holy hell, it’s a Broadcaster\!” Says Tim.
-	 Eddie throws the woman a line and she catches it, plugs it to her guitar. The tent explodes in an electrified howling scream, not at all pleasant. Next to us the cops cover their ears. The crowd is stirring. Eddie slaps a large crate, covered in yellow tweed. The howling stops. The crate sits there, buzzing and vibrating.   
+	 Eddie throws the woman a line and she catches it, plugs it to her guitar. The tent explodes in an electrified howling scream, not at all pleasant. The crowd is stirring. Eddie slaps a large crate, covered in yellow tweed. The howling stops. The crate sits there, buzzing and vibrating.   
 	“That’s a Bassman amp, Eleanore, see?” Says Tim.   
 	“Shut up, Tim\!” I say, very excited. “Don’t ruin my first show\!” I slip my hand into my purse, feeling my change of underwear. I imagine my panties landing on Mucho’s head and giggle.   
+	Now the guitarist hits the strings. I’ve never seen an electrical guitar being played before. I watch in awe as the movements of her hands translate into the huge sound suddenly filling the tent. The sound twangs and dances, and she’s dancing along with it. I notice her fingernails are painted red. The red dots dance on the strings. Some people shout and howl, some jump to their feet and start dancing. 
+	Babatunde’s drumming intensifies. I can really hear my heartbeats drumming the same song. 
+	“Oh wow,” I say. 
+	Now Johnny walks to the front of the stage. He raises his arms and claps along to the rhythm. The crowd starts clapping with him. 
+	Now a white man comes on stage. 
+
+
+
+
+
+
+
+
+
 	The last musician to come on stage is a very pretty woman, dressed in a beautiful, blue evening gown. You can feel the excitement in the crowd as she takes her place next to the guitarist, flashes a charming smile at us all, then turns back around.   
 	As if on cue, all the other musicians turn their back to the crowd. We all fall silent. My first show is starting. 
 
@@ -723,8 +732,7 @@ All the players turn around. The horns give a howl. Mucho comes in, hitting the 
 
 *(Ba-BOOM\! Ba-BOOM\!)*
 
-Now the guitarist hits the strings. I’ve never seen an electrical guitar being played before. I watch in awe as the movements of her hands translate into the huge sound suddenly filling the tent. The sound twangs and dances, and she’s dancing along with it. I notice her fingernails are painted red. The red dots dance on the strings. Some people shout and howl, some jump to their feet and start dancing. 
-	And then the lady in the evening dress grabs a microphone with all the intensity of her tiny frame; real close to it, she begins to *howl*:
+And then the lady in the evening dress grabs a microphone with all the intensity of her tiny frame; real close to it, she begins to *howl*:
 
 (*Yyyyyy-eeeeeehhynt nothin buh-a hound daw-og*)
 
