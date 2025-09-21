@@ -71,7 +71,7 @@
   "searchActive": false,
   "searchProvider": "internal",
   "showHiddenItems": false,
-  "includeDescendantNotes": false,
+  "includeDescendantNotes": true,
   "customVaultName": "",
   "pinnedNotes": {
     "Flock Wiki/!Home.md": {
