@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barry.md",
+                "file": "flock-music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barry"
+              "title": "flock-music"
             }
           }
         ],
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.50665521621704
+    "width": 279.50665521621704,
+    "collapsed": true
   },
   "right": {
     "id": "cd57906994abb435",
@@ -178,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barry.md",
+                "file": "flock-music.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Barry"
+              "title": "Outline of flock-music"
             }
           },
           {
@@ -220,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b724ed4aee38a60d",
+  "active": "9e3e3935fd35de65",
   "lastOpenFiles": [
+    "Barry.md",
     "GitHub/tryscer/flock/Issue - 2.md",
     "GitHub/tryscer/flock/Issue - 4.md",
     "GitHub/tryscer/flock/Issue - 6.md",
@@ -236,7 +238,6 @@
     "GitHub/tryscer/flock",
     "GitHub/tryscer",
     "GitHub",
-    "Barry.md",
     "Untitled.md",
     "Flock Wiki/Chitlin Musical Circuit.md",
     "Flock Wiki/Babatunde.md",
