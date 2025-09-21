@@ -10,8 +10,11 @@
 Things that are officially part of the book
 
 Synopsys: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
+
 [[Characters]]
+
 [[The Band]] and [[How the music works]]
+
 [[Places]] (and institutions)
 
 ## Religion
@@ -22,9 +25,14 @@ The principles the book will convey
 ## Research
 A knowledge base for inspiration and fact finding
 
+**[[Musical Inspiration]]**
+[[US Events In Summer 1958]]
+
+
 [[Underground Railroad]]
 [[How Disc Jockeys Sound]]
 [[Richmond Policemen Uniform]]
 [[County Fair Sounds]]
+[[Tiger Tom]]
 
 
