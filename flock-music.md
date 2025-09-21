@@ -823,7 +823,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ## Track 3: Alice Goes Down a Rabbit Hole
 
 We all sit in the merry—go-round.
-“That wasn’t a show,” I repeat.
+	“That wasn’t a show,” I repeat.
 
 Eddie looks miffed. "Why do you want to go to your first show so badly anyway".
 

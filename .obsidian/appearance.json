@@ -1,13 +1,13 @@
 {
   "accentColor": "#f55c5c",
-  "textFontFamily": "Andale Mono",
-  "baseFontSize": 16,
+  "textFontFamily": "Menlo,Andale Mono",
+  "baseFontSize": 20,
   "baseFontSizeAction": true,
   "cssTheme": "Cupertino",
   "enabledCssSnippets": [
     "obsidian-default-theme"
   ],
   "translucency": false,
-  "interfaceFontFamily": "Courier New",
+  "interfaceFontFamily": "",
   "showRibbon": false
 }
