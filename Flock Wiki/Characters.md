@@ -1,2 +1,8 @@
-## Band Members
-[[Female lead guitar  - Jo (Joan) Dalton]]
+#unfinished #root 
+
+
+
+[[Babatunde]]
+[[Jo Dalton]]
+
+[[Tim]]

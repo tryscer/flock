@@ -7,5 +7,7 @@
   "enabledCssSnippets": [
     "obsidian-default-theme"
   ],
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "American Typewriter",
+  "showRibbon": false
 }
