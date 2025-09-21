@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd57906994abb435",
@@ -185,9 +186,10 @@
   },
   "active": "7b8fc1b2e78c4a06",
   "lastOpenFiles": [
+    "Richmond Policemen Uniform.md",
+    "flock-music.md",
     "knowledge-base/Steam-pillars.md.md",
     "Flock Wiki/Home.md",
-    "Richmond Policemen Uniform.md",
     "Ideation Sessions.md",
     "Flock Wiki/Schokoe-Bottom.md",
     "Side 1 Alice.md",
@@ -210,7 +212,6 @@
     "Flock Wiki/How-the-music-works.md",
     "Flock Wiki/How-Disc-Jockeys-Sound.md",
     "Flock Wiki/Female-lead-guitar----Jo-(Joan)-Dalton.md",
-    "Flock Wiki/Depopulated-town---East-St.-Louis,-Illinois.md",
     "Flock Wiki",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",
