@@ -4,7 +4,9 @@
   "showTooltips": true,
   "homepage": "Flock Wiki/!Home.md",
   "fileVisibility": "documents",
-  "excludedFolders": [],
+  "excludedFolders": [
+    "copilot-custom-prompts"
+  ],
   "excludedFiles": [],
   "autoSelectFirstFileOnFocusChange": true,
   "autoExpandFoldersTags": false,
@@ -83,6 +85,10 @@
       "tag": false
     },
     "Flock Wiki/Characters.md": {
+      "folder": true,
+      "tag": false
+    },
+    "flock-music.md": {
       "folder": true,
       "tag": false
     }

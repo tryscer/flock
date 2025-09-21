@@ -1,0 +1,88 @@
+
+/* obsidian-typography-and-layout.css
+   Params from screenshot:
+   - Font Size: 28pt
+   - Line Height: 1.5em
+   - Line Width: 48em
+   - Paragraph Spacing: 0em
+   - Paragraph Indent: 0em
+   Targets both Preview and Editor (CM6).
+*/
+
+/* ---------------------------
+   Global variables
+---------------------------- 
+:root {
+  --file-line-width: 48em;
+}
+*/
+
+/* ---------------------------
+   Line height
+---------------------------- */
+.markdown-preview-view,
+.markdown-preview-section p,
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line {
+  line-height: 1.5em !important;
+}
+
+/* ---------------------------
+   Paragraph spacing & indent (Preview)
+---------------------------- */
+.markdown-preview-section p,
+.markdown-preview-view p {
+  margin-block-start: 0em !important;
+  margin-block-end: 0em !important;
+  text-indent: 0em !important;
+}
+
+/* ---------------------------
+   Line width (Preview)
+---------------------------- */
+.markdown-preview-view {
+  max-width: var(--file-line-width) !important;
+  margin-inline: auto !important;
+}
+
+/* Keep inner preview containers constrained */
+.markdown-preview-view .markdown-preview-sizer,
+.markdown-preview-view .markdown-preview-section {
+  max-width: var(--file-line-width) !important;
+  margin-inline: auto !important;
+}
+
+/* ---------------------------
+   Line width (Editor / CM6)
+---------------------------- */
+.markdown-source-view.mod-cm6 .cm-sizer {
+  max-width: var(--file-line-width) !important;
+  margin-inline: auto !important;
+}
+
+/* Ensure editor content centers when sidebars are open */
+.markdown-source-view.mod-cm6 .cm-scroller {
+  margin-inline: auto !important;
+}
+
+/* ---------------------------
+   Extra: keep callouts/embeds within width
+---------------------------- */
+.callout,
+.markdown-embed,
+.internal-embed,
+.cm-embed-block {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* ---------------------------
+   Safety overrides to resist theme conflicts
+---------------------------- */
+.markdown-preview-view p,
+.markdown-source-view.mod-cm6 .cm-line {
+  letter-spacing: normal !important;
+  word-spacing: normal !important;
+}
+
+/* End of file */

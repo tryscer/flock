@@ -1,4 +1,4 @@
-
+#inspiration #ideas 
 
 Here are ~20 of the **most-streamed songs** on Spotify _as of now_ that were released between **1950-1958**. Caveats: “most-streamed” means cumulative plays on Spotify—not necessarily “most played in 2025 only.” Also, seasonal/christmas songs tend to spike in streams every holiday, which can distort “current year” rankings. ([Kworb](https://kworb.net/spotify/songs_1950.html?utm_source=chatgpt.com "Spotify Most Streamed Songs From Before The 60s"))
 

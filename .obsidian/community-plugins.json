@@ -1,6 +1,8 @@
 [
-  "templater-obsidian",
   "chatgpt-md",
   "obsidian-style-settings",
-  "notebook-navigator"
+  "notebook-navigator",
+  "obsidian-git",
+  "simple-tab-indent",
+  "typewriter-mode"
 ]
