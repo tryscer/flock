@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flock Wiki/Schokoe-Bottom.md",
+                "file": "flock-music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schokoe-Bottom"
+              "title": "flock-music"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flock Wiki/Schokoe-Bottom.md",
+                "file": "flock-music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Schokoe-Bottom"
+              "title": "Backlinks for flock-music"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flock Wiki/Schokoe-Bottom.md",
+                "file": "flock-music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Schokoe-Bottom"
+              "title": "Outgoing links from flock-music"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flock Wiki/Schokoe-Bottom.md",
+                "file": "flock-music.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Schokoe-Bottom"
+              "title": "Outline of flock-music"
             }
           },
           {
@@ -181,15 +180,17 @@
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": true,
-      "templater-obsidian:Templater": false,
-      "notebook-navigator:Notebook Navigator": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ecda8220f1f6cf18",
+  "active": "7b8fc1b2e78c4a06",
   "lastOpenFiles": [
-    "Flock Wiki/Home.md",
-    "Side 1 Alice.md",
     "knowledge-base/Steam-pillars.md.md",
+    "Flock Wiki/Home.md",
+    "Richmond Policemen Uniform.md",
+    "Ideation Sessions.md",
+    "Flock Wiki/Schokoe-Bottom.md",
+    "Side 1 Alice.md",
     "Flock Wiki/side-1-archive.md",
     "Flock Wiki/chatgpt-test.md",
     "Flock Wiki/chatgpt-analysis-oct-9.md",
@@ -200,7 +201,6 @@
     "Flock Wiki/Synopsys.md",
     "Flock Wiki/Side-2-Tim.md",
     "Flock Wiki/Side-1-Alice.md",
-    "Flock Wiki/Schokoe-Bottom.md",
     "Flock Wiki/Richmond-Policemen-Uniform.md",
     "Flock Wiki/Places.md",
     "Flock Wiki/Places---Institutions.md",
@@ -211,8 +211,6 @@
     "Flock Wiki/How-Disc-Jockeys-Sound.md",
     "Flock Wiki/Female-lead-guitar----Jo-(Joan)-Dalton.md",
     "Flock Wiki/Depopulated-town---East-St.-Louis,-Illinois.md",
-    "Flock Wiki/County-Fair-Sounds.md",
-    "Flock Wiki/Cindy-and-Barry's-Hometown---Fort-McClellan,-Alabama.md",
     "Flock Wiki",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",
