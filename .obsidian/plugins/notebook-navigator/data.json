@@ -29,10 +29,10 @@
   "showTagsAboveFolders": true,
   "showFavoriteTagsFolder": true,
   "showAllTagsFolder": true,
-  "showUntagged": true,
+  "showUntagged": false,
   "showUntaggedInFavorites": false,
   "favoriteTags": [
-    "places"
+    "root"
   ],
   "hiddenTags": [],
   "defaultFolderSort": "modified-desc",
@@ -51,11 +51,11 @@
   "frontmatterModifiedField": "",
   "frontmatterDateFormat": "",
   "fileNameRows": 1,
-  "showFileDate": false,
+  "showFileDate": true,
   "showFileTags": true,
-  "showFileTagsInSlimMode": false,
+  "showFileTagsInSlimMode": true,
   "showParentFolderNames": true,
-  "showFilePreview": true,
+  "showFilePreview": false,
   "skipHeadingsInPreview": true,
   "skipCodeBlocksInPreview": true,
   "previewProperties": [],
@@ -71,7 +71,7 @@
   "searchActive": false,
   "searchProvider": "internal",
   "showHiddenItems": false,
-  "includeDescendantNotes": true,
+  "includeDescendantNotes": false,
   "customVaultName": "",
   "pinnedNotes": {
     "Flock Wiki/!Home.md": {
@@ -93,7 +93,13 @@
   "folderSortOverrides": {
     "Flock Wiki": "title-asc"
   },
-  "folderAppearances": {},
+  "folderAppearances": {
+    "Flock Wiki": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    }
+  },
   "tagIcons": {
     "__untagged__": "emoji:⚠️",
     "unfinished": "emoji:⚠️"
@@ -105,7 +111,8 @@
     "research": "#0ea5e9",
     "root": "#6366f1",
     "bible": "#a855f7",
-    "ideas": "#ec4899"
+    "ideas": "#ec4899",
+    "places": "#f59e0b"
   },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},

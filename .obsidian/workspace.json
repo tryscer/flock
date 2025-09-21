@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.49761295318604,
+    "width": 279.50665521621704,
     "collapsed": true
   },
   "right": {
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flock-music.md",
+                "file": "Flock Wiki/!Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for flock-music"
+              "title": "Backlinks for !Home"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flock-music.md",
+                "file": "Flock Wiki/!Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from flock-music"
+              "title": "Outgoing links from !Home"
             }
           },
           {
@@ -163,8 +163,7 @@
               "title": "Outline of !Home"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,14 +186,17 @@
   },
   "active": "fe800ea507a7fbe1",
   "lastOpenFiles": [
+    "Flock Wiki/Characters.md",
+    "Eddie.md",
+    "Flock Wiki/!Home.md",
+    "ChatGPT Image Aug 27, 2025, 12_17_15 PM.png",
+    "Alice.md",
     "Flock Wiki/October 10 phone call.md",
     "Flock Wiki/October 8th Jonny Writing Session.md",
     "Flock Wiki/Fort McClellan.md",
     "Flock Wiki/East St. Louis.md",
     "Flock Wiki/Buzz Cigarettes.md",
     "Flock Wiki/Babatunde.md",
-    "Flock Wiki/Characters.md",
-    "Flock Wiki/!Home.md",
     "Flock Wiki/Places.md",
     "Flock Wiki/How the music works.md",
     "Flock Wiki/Tim.md",
@@ -211,8 +213,6 @@
     "Flock Wiki/How Disc Jockeys Sound.md",
     "Flock Wiki/Underground Railroad.md",
     "Flock Wiki/Side 2 Tim.md",
-    "Flock Wiki/Side 1 Alice.md",
-    "Flock Wiki/Ideation Sessions.md",
     "Flock Wiki",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",
