@@ -2,5 +2,10 @@
   "promptDelete": false,
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "showIndentGuide": true
 }

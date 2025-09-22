@@ -442,7 +442,7 @@ Somebody turns on the radio…
 ​	Outside the car window, a metal sign rolls by, black with green lettering, saying “WELCOME TO VIRGINIA \- THE OLD DOMINION”, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
 
 ## Track 2: Alice Gets a Book of Matches
-*Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virgina’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what *music* shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love*
+*Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what *music* shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love*
 
 *(Yooooooor precious looahahv)*
 
@@ -820,9 +820,10 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	“Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
 	
 ## Track 3: Alice Goes Down a Rabbit Hole
+
 “Come on, Alice!”
 ​	“I don’t want to.”
-​	I’m sitting on the ground in front of the carousel. 
+​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. 
 
 “Why are you playing with matches?”
 

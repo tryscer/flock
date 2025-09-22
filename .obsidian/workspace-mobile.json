@@ -180,6 +180,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "keep-the-rhythm:Word Count Stats": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,21 +189,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "notebook-navigator:Notebook Navigator": false,
-      "obsidian-git:Open Git source control": false,
-      "github-issues:GitHub": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f18967b81db801a0",
   "lastOpenFiles": [
-    "Flock Wiki/The Band.md",
+    "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/!Home.md",
+    "flock-music.md",
+    "Flock Wiki/The Band.md",
     "Flock Wiki/Eddie.md",
     "Flock Wiki/Alice.md",
-    "Flock Wiki/Musical Inspiration.md",
-    "flock-music.md",
     "GitHub/tryscer/flock/Issue - 2.md",
     "Flock Wiki/Carousel.md",
     "Flock Wiki/Characters.md",

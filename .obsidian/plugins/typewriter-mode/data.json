@@ -3,7 +3,7 @@
   "isAnnounceUpdatesEnabled": true,
   "isPluginActivated": true,
   "isTypewriterScrollEnabled": true,
-  "isOnlyActivateAfterFirstInteractionEnabled": false,
+  "isOnlyActivateAfterFirstInteractionEnabled": true,
   "isOnlyMaintainTypewriterOffsetWhenReachedEnabled": true,
   "isTypewriterOnlyUseCommandsEnabled": false,
   "typewriterOffset": 0.35,
