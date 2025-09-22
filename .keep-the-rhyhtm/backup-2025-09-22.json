@@ -15,7 +15,7 @@
       "intensityStops": {
         "low": 100,
         "medium": 500,
-        "high": 1000
+        "high": 4000
       },
       "colors": {
         "light": {
@@ -67,11 +67,13 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2025-09-22"
+    ],
     "dailyActivity": [
       {
         "date": "2025-09-22",
-        "filePath": "Flock Wiki/!Home.md",
+        "filePath": "Flock Wiki/Home.md",
         "wordCountStart": 98,
         "charCountStart": 768,
         "changes": [
@@ -99,6 +101,21 @@
             "timeKey": "16:15",
             "w": 0,
             "c": 1
+          },
+          {
+            "timeKey": "16:20",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:05",
+            "w": 4,
+            "c": 27
           }
         ],
         "id": 1
@@ -174,6 +191,21 @@
             "timeKey": "16:00",
             "w": -6,
             "c": -776
+          },
+          {
+            "timeKey": "17:20",
+            "w": 35,
+            "c": 1110
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 3
           }
         ],
         "id": 5
@@ -275,6 +307,11 @@
             "timeKey": "15:30",
             "w": 0,
             "c": 2
+          },
+          {
+            "timeKey": "16:55",
+            "w": 4,
+            "c": 37
           }
         ],
         "id": 9
@@ -374,6 +411,26 @@
             "timeKey": "16:10",
             "w": 18,
             "c": 129
+          },
+          {
+            "timeKey": "16:15",
+            "w": 6,
+            "c": 36
+          },
+          {
+            "timeKey": "16:20",
+            "w": 115350,
+            "c": 2340831
+          },
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:40",
+            "w": -115350,
+            "c": -2340831
           }
         ],
         "id": 15
@@ -388,6 +445,11 @@
             "timeKey": "16:10",
             "w": 13,
             "c": 102
+          },
+          {
+            "timeKey": "16:55",
+            "w": 4,
+            "c": 37
           }
         ],
         "id": 16
@@ -400,11 +462,80 @@
         "changes": [
           {
             "timeKey": "16:15",
-            "w": 3,
-            "c": 30
+            "w": 6,
+            "c": 51
           }
         ],
         "id": 17
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Wonderland Express.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 14,
+            "c": 115
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Songwriting Co..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 15,
+            "c": 106
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Music circles in the fifties.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 1059,
+            "c": 7491
+          },
+          {
+            "timeKey": "16:40",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 20
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 25,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Juke joints.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 838,
+            "c": 4861
+          }
+        ],
+        "id": 22
       }
     ]
   }

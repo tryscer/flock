@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flock Wiki/The Band.md",
+                "file": "Flock Wiki/Side 1 Alice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Band"
+              "title": "Side 1 Alice"
             }
           },
           {
@@ -195,8 +195,11 @@
   },
   "active": "f18967b81db801a0",
   "lastOpenFiles": [
-    "Flock Wiki/!Home.md",
+    "Flock Wiki/Side 1 Alice.md",
+    "Flock Wiki/Home.md",
+    "Flock Wiki/Flocks.md",
     "flock-music.md",
+    "Flock Wiki/!Home.md",
     "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/The Band.md",
     "Flock Wiki/Eddie.md",
@@ -215,7 +218,6 @@
     "GitHub",
     "Barry.md",
     "Untitled.md",
-    "Flock Wiki/Pasted image 20250921202439.png",
-    "Flock Wiki/Side 1 Alice.md"
+    "Flock Wiki/Pasted image 20250921202439.png"
   ]
 }

@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "88b8f93716d9c71d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flock Wiki/Side 1 Alice.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Side 1 Alice"
-            }
-          },
-          {
             "id": "927c526cd27faaf2",
             "type": "leaf",
             "pinned": true,
@@ -72,17 +56,37 @@
             }
           },
           {
-            "id": "e071791a92607974",
+            "id": "88b8f93716d9c71d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flock Wiki/Side 1 Alice.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Side 1 Alice"
+            }
+          },
+          {
+            "id": "0d205bac6fee4792",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Flock Wiki/Babatunde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Babatunde"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flock Wiki/Home.md",
+                "file": "Flock Wiki/Babatunde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Babatunde"
             }
           },
           {
@@ -225,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flock Wiki/Home.md",
+                "file": "Flock Wiki/Babatunde.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Babatunde"
             }
           },
           {
@@ -259,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,27 +284,30 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "9e3e3935fd35de65",
+  "active": "0d205bac6fee4792",
   "lastOpenFiles": [
+    "Flock Wiki/The Steam Pillars.md",
+    "Flock Wiki/Home.md",
+    "flock-music.md",
+    "Flock Wiki/Musical Inspiration.md",
+    "Flock Wiki/Side 1 Alice.md",
+    "How drumbeats create a shared experience.md",
+    "Flock Wiki/Jerry Lee Lewis.md",
+    "Flock Wiki/Characters.md",
+    "Untitled.md",
     "Flock Wiki/Schokoe Bottom.md",
     "Flock Wiki/Alice.md",
     "Flock Wiki/Juke joints.md",
-    "flock-music.md",
-    "Flock Wiki/Side 1 Alice.md",
-    "Flock Wiki/Home.md",
-    "Flock Wiki/Characters.md",
     "Flock Wiki/Tim.md",
     "Flock Wiki/Barry.md",
     "Flock Wiki/Pasted image 20250922165940.png",
     "Flock Wiki/Pasted image 20250922165926.png",
     "Flock Wiki/Music circles in the fifties.md",
     "Flock Wiki/Places.md",
-    "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/Songwriting Co..md",
     "Flock Wiki/Flocks.md",
     "Flock Wiki/Wonderland Express.md",
     "Flock Wiki/Eddie.md",
-    "Flock Wiki/The Steam Pillars.md",
     "Flock Wiki/Pasted image 20250922160747.png",
     "Flock Wiki/side 1 archive.md",
     "Flock Wiki/Pasted image 20250922153529.png",
@@ -310,9 +318,6 @@
     "Flock Wiki/Cindy.md",
     "Flock Wiki/Jerry Lee Lewis’s Musical Style.md",
     "Flock Wiki/Tiger Tom.md",
-    "Barry.md",
-    "GitHub/tryscer/flock/Issue - 2.md",
-    "GitHub/tryscer/flock/Issue - 4.md",
     "GitHub/tryscer/flock",
     "GitHub/tryscer",
     "GitHub",
