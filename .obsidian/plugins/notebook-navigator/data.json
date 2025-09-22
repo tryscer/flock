@@ -76,10 +76,6 @@
   "includeDescendantNotes": true,
   "customVaultName": "",
   "pinnedNotes": {
-    "Flock Wiki/!Home.md": {
-      "folder": true,
-      "tag": false
-    },
     "Flock Wiki/Places.md": {
       "folder": true,
       "tag": false
@@ -97,6 +93,10 @@
       "tag": false
     },
     "Flock Wiki/Side 1 Alice.md": {
+      "folder": true,
+      "tag": false
+    },
+    "Flock Wiki/Home.md": {
       "folder": true,
       "tag": false
     }

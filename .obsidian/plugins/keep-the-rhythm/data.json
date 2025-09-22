@@ -73,7 +73,7 @@
     "dailyActivity": [
       {
         "date": "2025-09-22",
-        "filePath": "Flock Wiki/!Home.md",
+        "filePath": "Flock Wiki/Home.md",
         "wordCountStart": 98,
         "charCountStart": 768,
         "changes": [
@@ -191,6 +191,11 @@
             "timeKey": "16:00",
             "w": -6,
             "c": -776
+          },
+          {
+            "timeKey": "17:20",
+            "w": 35,
+            "c": 1110
           }
         ],
         "id": 5
