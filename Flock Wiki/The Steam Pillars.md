@@ -1,6 +1,6 @@
 
 #unfinished #places 
-
+![[Pasted image 20250922160747.png]]
 ## Personnel
 ### Percussion: [[Babatunde]]
 **The music he brings:** african traditional music, jazz 

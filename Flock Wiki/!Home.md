@@ -10,7 +10,7 @@ Things that are officially part of the book
 
 Synopsys: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
 
-[[Characters]]
+[[Characters]] and [[Flocks]].
 
 [[The Steam Pillars]] and [[How the music works]]
 
@@ -25,14 +25,17 @@ The principles the book will convey
 --------
 ## Research
 A knowledge base for inspiration and fact finding
-
+### General
 **[[Musical Inspiration]]**
 [[US Events In Summer 1958]]
 
-[[Carousel]]
-
 [[Underground Railroad]]
 [[How Disc Jockeys Sound]]
+[[Music circles in the fifties]]
+#### Chapter 3
+[[Carousel]]
+
+### Chapter 2
 [[Richmond Policemen Uniform]]
 [[County Fair Sounds]]
 [[Tiger Tom]]

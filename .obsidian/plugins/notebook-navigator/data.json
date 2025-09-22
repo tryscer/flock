@@ -122,7 +122,8 @@
     "ideas": "emoji:💡",
     "inspiration": "emoji:💭",
     "places": "emoji:🌆",
-    "research": "emoji:🤓"
+    "research": "emoji:🤓",
+    "flocks": "emoji:🪽"
   },
   "tagColors": {
     "unfinished": "#ef4444",
@@ -135,7 +136,8 @@
     "places": "#6b7280",
     "novel": "#ef4444",
     "inspiration": "#3b82f6",
-    "flocking": "#10b981"
+    "flocking": "#10b981",
+    "flocks": "#8b5cf6"
   },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
@@ -146,6 +148,7 @@
   },
   "recentIcons": {
     "emoji": [
+      "emoji:🪽",
       "emoji:🤓",
       "emoji:🌆",
       "emoji:💭",

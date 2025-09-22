@@ -74,7 +74,33 @@
         "filePath": "Flock Wiki/!Home.md",
         "wordCountStart": 98,
         "charCountStart": 768,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 6,
+            "c": 38
+          },
+          {
+            "timeKey": "15:25",
+            "w": 1,
+            "c": 9
+          },
+          {
+            "timeKey": "16:05",
+            "w": 5,
+            "c": 39
+          },
+          {
+            "timeKey": "16:10",
+            "w": 2,
+            "c": 15
+          },
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": 1
+          }
+        ],
         "id": 1
       },
       {
@@ -92,6 +118,11 @@
             "timeKey": "13:10",
             "w": 0,
             "c": 3
+          },
+          {
+            "timeKey": "15:05",
+            "w": -2,
+            "c": -15
           }
         ],
         "id": 2
@@ -128,7 +159,23 @@
         "filePath": "Flock Wiki/Side 1 Alice.md",
         "wordCountStart": 65,
         "charCountStart": 4814,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "15:35",
+            "w": 4,
+            "c": 35
+          },
+          {
+            "timeKey": "16:00",
+            "w": -6,
+            "c": -776
+          }
+        ],
         "id": 5
       },
       {
@@ -149,6 +196,215 @@
           }
         ],
         "id": 6
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Characters.md",
+        "wordCountStart": 16,
+        "charCountStart": 144,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 4,
+            "c": 47
+          },
+          {
+            "timeKey": "15:30",
+            "w": 15,
+            "c": 128
+          },
+          {
+            "timeKey": "15:50",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "16:05",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "16:10",
+            "w": 9,
+            "c": 65
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Eddie.md",
+        "wordCountStart": 2,
+        "charCountStart": 24,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 5,
+            "c": 31
+          },
+          {
+            "timeKey": "15:20",
+            "w": 17,
+            "c": 98
+          },
+          {
+            "timeKey": "16:05",
+            "w": 5,
+            "c": 31
+          }
+        ],
+        "id": 8
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Barry.md",
+        "wordCountStart": 7,
+        "charCountStart": 63,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 3,
+            "c": 21
+          },
+          {
+            "timeKey": "15:25",
+            "w": 12,
+            "c": 88
+          },
+          {
+            "timeKey": "15:30",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 9
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Cindy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 15,
+            "c": 112
+          },
+          {
+            "timeKey": "15:25",
+            "w": 6,
+            "c": 56
+          }
+        ],
+        "id": 10
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1021,
+        "charCountStart": 6456,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": -3,
+            "c": -18
+          },
+          {
+            "timeKey": "16:05",
+            "w": 4,
+            "c": 36
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Vilma.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "15:30",
+            "w": 9,
+            "c": 86
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Rosetta.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 10,
+            "c": 89
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/side 1 archive.md",
+        "wordCountStart": 471,
+        "charCountStart": 12127,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 4,
+            "c": 757
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 2,
+        "charCountStart": 27,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 18,
+            "c": 129
+          }
+        ],
+        "id": 15
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Tim.md",
+        "wordCountStart": 2,
+        "charCountStart": 170,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 13,
+            "c": 102
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Flocks.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 3,
+            "c": 30
+          }
+        ],
+        "id": 17
       }
     ]
   }
