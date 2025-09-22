@@ -4,9 +4,7 @@
   "showTooltips": true,
   "homepage": "Flock Wiki/!Home.md",
   "fileVisibility": "documents",
-  "excludedFolders": [
-    "copilot-custom-prompts"
-  ],
+  "excludedFolders": [],
   "excludedFiles": [],
   "autoSelectFirstFileOnFocusChange": true,
   "autoExpandFoldersTags": false,
@@ -53,15 +51,15 @@
   "frontmatterModifiedField": "",
   "frontmatterDateFormat": "",
   "fileNameRows": 1,
-  "showFileDate": true,
+  "showFileDate": false,
   "showFileTags": true,
   "showFileTagsInSlimMode": true,
-  "showParentFolderNames": true,
-  "showFilePreview": false,
+  "showParentFolderNames": false,
+  "showFilePreview": true,
   "skipHeadingsInPreview": true,
   "skipCodeBlocksInPreview": true,
   "previewProperties": [],
-  "previewRows": 1,
+  "previewRows": 5,
   "showFeatureImage": true,
   "featureImageProperties": [
     "thumbnail",
@@ -95,6 +93,10 @@
     "Flock Wiki/Musical Inspiration.md": {
       "folder": true,
       "tag": false
+    },
+    "Flock Wiki/Side 1 Alice.md": {
+      "folder": true,
+      "tag": false
     }
   },
   "folderIcons": {},
@@ -112,17 +114,28 @@
   },
   "tagIcons": {
     "__untagged__": "emoji:⚠️",
-    "unfinished": "emoji:⚠️"
+    "unfinished": "emoji:⚠️",
+    "novel": "emoji:📕",
+    "bible": "emoji:✡️",
+    "characters": "emoji:👫",
+    "flocking": "emoji:🦅",
+    "ideas": "emoji:💡",
+    "inspiration": "emoji:💭",
+    "places": "emoji:🌆",
+    "research": "emoji:🤓"
   },
   "tagColors": {
     "unfinished": "#ef4444",
     "__untagged__": "#ef4444",
-    "characters": "#84cc16",
+    "characters": "#f97316",
     "research": "#0ea5e9",
     "root": "#6366f1",
     "bible": "#a855f7",
     "ideas": "#ec4899",
-    "places": "#f59e0b"
+    "places": "#6b7280",
+    "novel": "#ef4444",
+    "inspiration": "#3b82f6",
+    "flocking": "#10b981"
   },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
@@ -133,6 +146,14 @@
   },
   "recentIcons": {
     "emoji": [
+      "emoji:🤓",
+      "emoji:🌆",
+      "emoji:💭",
+      "emoji:💡",
+      "emoji:🦅",
+      "emoji:👫",
+      "emoji:✡️",
+      "emoji:📕",
       "emoji:⚠️"
     ]
   },

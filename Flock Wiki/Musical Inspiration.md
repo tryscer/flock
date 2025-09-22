@@ -1,5 +1,12 @@
 #inspiration #ideas 
 
+## Apple Music Playlists
+[Main playlist - Chevy Bell Air](https://music.apple.com/il/playlist/chevy-bell-air/pl.u-Ymb00d0Hg0AgXrP)
+
+## You​tube Embeds
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gI7zgDmjiyY?si=eKL6R3xd633fVd7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Best Known Songs
 Here are ~20 of the **most-streamed songs** on Spotify _as of now_ that were released between **1950-1958**. Caveats: “most-streamed” means cumulative plays on Spotify—not necessarily “most played in 2025 only.” Also, seasonal/christmas songs tend to spike in streams every holiday, which can distort “current year” rankings. ([Kworb](https://kworb.net/spotify/songs_1950.html?utm_source=chatgpt.com "Spotify Most Streamed Songs From Before The 60s"))
 
 ---

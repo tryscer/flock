@@ -3,9 +3,8 @@ tags:
   - bible
 ---
 [[side 1 archive]]
-
-## chapter 2
-
+![[Pasted image 20250922153529.png]]## chapter 2
+    
 - מגיעים ליריד
 
 - בועה סביבם - אליס חשה בבועה 

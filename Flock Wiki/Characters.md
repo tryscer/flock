@@ -7,8 +7,18 @@
 [[Eleanore]]
 [[Tim]]
 # the band
-[[Eddie]]
+
 [[Babatunde]]
 [[Jo Dalton]]
+[[Vilma]]
+[[Besame Mucho]]
+[[Jerry Lee Lewis]]
+[[Johnny Terry]]
 
-C
+**conductors**
+[[Eddie]]
+[[Rosetta]] (aka The Cigarette Girl)
+[[Jimmy]]
+
+## Minor Characters
+[[Barry MacAllister Senior]]

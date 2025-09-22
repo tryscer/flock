@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "927c526cd27faaf2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flock Wiki/!Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "!Home"
-            }
-          },
-          {
             "id": "88b8f93716d9c71d",
             "type": "leaf",
             "pinned": true,
@@ -56,21 +40,66 @@
             }
           },
           {
-            "id": "58b6f671c478cf83",
+            "id": "927c526cd27faaf2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flock Wiki/!Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "!Home"
+            }
+          },
+          {
+            "id": "0784420f765c4510",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flock Wiki/Musical Inspiration.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Musical Inspiration"
+            }
+          },
+          {
+            "id": "4474335cfe0f218e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flock Wiki/Places.md",
+                "file": "Flock Wiki/Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Places"
+              "title": "Characters"
+            }
+          },
+          {
+            "id": "40d4c9b2b1cfbbd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flock Wiki/Side 1 Alice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Side 1 Alice"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#research",
+                "query": "tag:#characters",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flock Wiki/!Home.md",
+                "file": "flock-music.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !Home"
+              "title": "Outline of flock-music"
             }
           },
           {
@@ -243,12 +272,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,17 +296,25 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "927c526cd27faaf2",
+  "active": "9e3e3935fd35de65",
   "lastOpenFiles": [
-    "Flock Wiki/Places.md",
     "Flock Wiki/Side 1 Alice.md",
+    "Flock Wiki/Pasted image 20250922153529.png",
+    "Flock Wiki/Rosetta.md",
+    "Flock Wiki/Pasted image 20250922153349.png",
+    "Flock Wiki/Characters.md",
+    "Flock Wiki/Barry.md",
+    "Flock Wiki/Vilma.md",
+    "Flock Wiki/Pasted image 20250922153018.png",
     "Flock Wiki/!Home.md",
+    "Flock Wiki/The Steam Pillars.md",
+    "Flock Wiki/Cindy.md",
+    "Flock Wiki/Musical Inspiration.md",
     "flock-music.md",
+    "Flock Wiki/Eddie.md",
+    "Flock Wiki/Places.md",
     "Flock Wiki/Jerry Lee Lewis’s Musical Style.md",
     "Flock Wiki/Tiger Tom.md",
-    "Flock Wiki/Characters.md",
-    "Flock Wiki/Musical Inspiration.md",
-    "Flock Wiki/Barry.md",
     "Barry.md",
     "GitHub/tryscer/flock/Issue - 2.md",
     "GitHub/tryscer/flock/Issue - 4.md",
@@ -288,17 +324,11 @@
     "GitHub/tryscer/flock/Issue - 9.md",
     "GitHub/tryscer/flock/Issue - 12.md",
     "Flock Wiki/Carousel.md",
-    "Flock Wiki/The Band.md",
     "GitHub/tryscer/flock",
     "GitHub/tryscer",
     "GitHub",
     "Untitled.md",
     "Flock Wiki/Chitlin Musical Circuit.md",
-    "Flock Wiki/Babatunde.md",
-    "Flock Wiki/Eddie.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts",
     "Pasted image 20250921202439.png",
     "Flock Wiki/ChatGPT Image Aug 27, 2025, 12_17_15 PM.png",
@@ -307,9 +337,6 @@
     "Flock Wiki/Pasted image 20250921201345.png",
     "Flock Wiki/Pasted image 20250921201409.png",
     "Pasted image 20250921201409.png",
-    "Pasted image 20250921201345.png",
-    "Pasted image 20250921200959.png",
-    "Pasted image 20250921200821.png",
     "Flock Wiki",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",

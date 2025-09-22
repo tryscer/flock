@@ -1,5 +1,3 @@
-# Flock Music
-
 #novel
 
 ## Epitaph
@@ -444,7 +442,7 @@ Somebody turns on the radio…
 ## Track 2: Alice Gets a Book of Matches
 *Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what *music* shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love*
 
-*(Yooooooor precious looahahv)*
+*(Yooooooor precious looahahv...)*
 
 *Step right up!*
 ​	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!*s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot, the din of the crowd. 
