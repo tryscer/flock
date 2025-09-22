@@ -1,7 +1,7 @@
 {
   "serverUrl": "https://api.languagetool.org",
   "autoCheckDelay": 3000,
-  "shouldAutoCheck": false,
+  "shouldAutoCheck": true,
   "languageVariety": {
     "en": "en-US",
     "de": "de-DE",
@@ -11,5 +11,6 @@
   "dictionary": [],
   "syncDictionary": false,
   "remoteDictionary": [],
-  "pickyMode": false
+  "pickyMode": true,
+  "synonyms": "en"
 }

@@ -2,6 +2,7 @@
 tags:
   - characters
 ---
+![[Pasted image 20250922165926.png]]
 Flock member of [[Wonderland Express]].
 Best friend of [[Barry]].
 Love interest of [[Alice]]. 

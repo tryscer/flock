@@ -15,7 +15,7 @@
       "intensityStops": {
         "low": 100,
         "medium": 500,
-        "high": 1000
+        "high": 4000
       },
       "colors": {
         "light": {
@@ -111,6 +111,11 @@
             "timeKey": "16:35",
             "w": 0,
             "c": 1
+          },
+          {
+            "timeKey": "17:05",
+            "w": 4,
+            "c": 27
           }
         ],
         "id": 1
@@ -287,6 +292,11 @@
             "timeKey": "15:30",
             "w": 0,
             "c": 2
+          },
+          {
+            "timeKey": "16:55",
+            "w": 4,
+            "c": 37
           }
         ],
         "id": 9
@@ -420,6 +430,11 @@
             "timeKey": "16:10",
             "w": 13,
             "c": 102
+          },
+          {
+            "timeKey": "16:55",
+            "w": 4,
+            "c": 37
           }
         ],
         "id": 16
@@ -484,6 +499,28 @@
           }
         ],
         "id": 20
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 25,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Juke joints.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 838,
+            "c": 4861
+          }
+        ],
+        "id": 22
       }
     ]
   }
