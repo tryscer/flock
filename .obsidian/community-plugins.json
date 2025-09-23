@@ -1,5 +1,4 @@
 [
-  "chatgpt-md",
   "obsidian-style-settings",
   "notebook-navigator",
   "obsidian-git",
@@ -8,5 +7,6 @@
   "keep-the-rhythm",
   "obsidian-rtl",
   "languagetool",
-  "typing-speed"
+  "typing-speed",
+  "copilot"
 ]
