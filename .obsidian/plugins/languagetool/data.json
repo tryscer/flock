@@ -8,7 +8,9 @@
     "pt": "pt-PT",
     "ca": "ca-ES"
   },
-  "dictionary": [],
+  "dictionary": [
+    "flockers"
+  ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": true,
