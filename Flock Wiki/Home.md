@@ -1,5 +1,5 @@
 #root
-This is where the flocking happens. 
+This is where the flocking happens. s
 
 ![[ChatGPT Image Aug 27, 2025, 12_17_15 PM.png]]
 (**[old version](https://docs.google.com/document/d/1iwVtBTD-E5vu2gH1bZg4UDK4Tl84ruzERf3vYHZ-_es/)**)

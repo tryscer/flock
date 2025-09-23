@@ -78,6 +78,11 @@
         "charCountStart": 768,
         "changes": [
           {
+            "timeKey": "10:30",
+            "w": 1,
+            "c": 1
+          },
+          {
             "timeKey": "15:20",
             "w": 6,
             "c": 38
