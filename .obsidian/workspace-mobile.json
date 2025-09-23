@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flock Wiki/Side 1 Alice.md",
+                "file": "Flock Wiki/Playground.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Side 1 Alice"
+              "title": "Playground"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "flock-music"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "af479d9bed9cb98a",
@@ -156,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "flock-music.md",
+            "file": "Flock Wiki/Playground.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -193,12 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f18967b81db801a0",
+  "active": "c926f039d5df4b54",
   "lastOpenFiles": [
-    "Flock Wiki/Side 1 Alice.md",
     "Flock Wiki/Home.md",
-    "Flock Wiki/Flocks.md",
+    "Flock Wiki/Playground.md",
+    "Flock Wiki/ChatGPT Image Aug 27, 2025, 12_17_15 PM.png",
     "flock-music.md",
+    "photo_image.jpg",
+    "Flock Wiki/Side 1 Alice.md",
+    "Flock Wiki/Flocks.md",
     "Flock Wiki/!Home.md",
     "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/The Band.md",
