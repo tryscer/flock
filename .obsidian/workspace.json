@@ -56,47 +56,7 @@
             }
           },
           {
-            "id": "927c526cd27faaf2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flock Wiki/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "e071791a92607974",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e08f9496ad1284e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flock Wiki/Barry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barry"
-            }
-          },
-          {
-            "id": "64a20f414bfa9718",
+            "id": "29e5c2e42dd94a02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,24 +67,10 @@
               },
               "icon": "lucide-file",
               "title": "Home"
-            }
-          },
-          {
-            "id": "869fe73da842ad75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The 5 Prerequisite to becoming a flocker"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.50665521621704
+    "width": 279.50665521621704,
+    "collapsed": true
   },
   "right": {
     "id": "cd57906994abb435",
@@ -218,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flock Wiki/Home.md",
+                "file": "Flock Wiki/Manager's office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Manager's office"
             }
           },
           {
@@ -243,6 +190,16 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from !Home"
+            }
+          },
+          {
+            "id": "7bf45c3b928dccd1",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
             }
           },
           {
@@ -266,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flock Wiki/Home.md",
+                "file": "Flock Wiki/Manager's office.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Manager's office"
             }
           },
           {
@@ -286,21 +243,22 @@
             }
           },
           {
-            "id": "7bf45c3b928dccd1",
+            "id": "4c35c04a1010c6f5",
             "type": "leaf",
             "state": {
-              "type": "keep-the-rhythm",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,46 +270,50 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "notebook-navigator:Notebook Navigator": false,
+      "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false,
       "audio-recorder:Start/stop recording": false,
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "869fe73da842ad75",
+  "active": "b724ed4aee38a60d",
   "lastOpenFiles": [
     "Flock Wiki/Home.md",
-    "conflict-files-obsidian-git.md",
     "flock-music.md",
-    "Flock Wiki/Babatunde.md",
-    "Flock Wiki/Side 1 Alice.md",
-    "copilot",
     "Flock Wiki/Playground.md",
-    "Flock Wiki/Jerry Lee Lewis.md",
-    "Flock Wiki/How drumbeats create a shared experience.md",
-    "Flock Wiki/Barry.md",
-    "Flock Wiki/Characters.md",
-    "Flock Wiki/Flocks.md",
+    "Flock Wiki/Side 1 Alice.md",
     "Flock Wiki/Musical Inspiration.md",
-    "Flock Wiki/Schokoe Bottom.md",
-    "Flock Wiki/Alice.md",
-    "Flock Wiki/Juke joints.md",
-    "Flock Wiki/Tim.md",
+    "Flock Wiki/How drumbeats create a shared experience.md",
+    "Untitled.md",
+    "How drumbeats create a shared experience.md",
+    "photo_image.jpg",
+    "Flock Wiki/Jerry Lee Lewis.md",
+    "Flock Wiki/Manager's office.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-conversations/[object_Object]@20250923_181626.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Flock Wiki/Babatunde.md",
+    "Flock Wiki/Characters.md",
     "Flock Wiki/Pasted image 20250922165940.png",
     "Flock Wiki/Pasted image 20250922165926.png",
-    "Flock Wiki/Music circles in the fifties.md",
-    "Flock Wiki/Places.md",
-    "Flock Wiki/Songwriting Co..md",
-    "Flock Wiki/Wonderland Express.md",
-    "Flock Wiki/Eddie.md",
-    "Flock Wiki/The Steam Pillars.md",
     "Flock Wiki/Pasted image 20250922160747.png",
-    "Flock Wiki/side 1 archive.md",
     "Flock Wiki/Pasted image 20250922153529.png",
-    "Flock Wiki/Rosetta.md",
     "Flock Wiki/Pasted image 20250922153349.png",
-    "Flock Wiki/Vilma.md",
     "Flock Wiki/Pasted image 20250922153018.png",
-    "Flock Wiki/Cindy.md",
     "GitHub/tryscer/flock",
     "GitHub/tryscer",
     "GitHub",
@@ -359,12 +321,9 @@
     "Pasted image 20250921202439.png",
     "Flock Wiki/ChatGPT Image Aug 27, 2025, 12_17_15 PM.png",
     "Flock Wiki/Pasted image 20250921200821.png",
-    "Flock Wiki/Pasted image 20250921200959.png",
     "Flock Wiki",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",
-    "ChatGPT_MD",
-    "Untitled",
     "Untitled.canvas"
   ]
 }

@@ -1,5 +1,5 @@
 #root
-This is where the flocking happens. s
+This is where the flocking happens. 
 
 ![[ChatGPT Image Aug 27, 2025, 12_17_15 PM.png]]
 (**[old version](https://docs.google.com/document/d/1iwVtBTD-E5vu2gH1bZg4UDK4Tl84ruzERf3vYHZ-_es/)**)
@@ -20,7 +20,7 @@ Synopsys: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
 ## Religion
 The principles the book will convey
 
-[[The 5 Prerequisite to becoming a flocker]]
+[[The 5 Prerequisite to becomings a flocker]]
 
 --------
 ## Research
