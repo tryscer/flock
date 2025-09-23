@@ -830,6 +830,36 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Eddie looks miffed. "Why do you want to go to your first show so badly anyway".
 
 "You wouldn't understand," I shoot back. "You're a *boy*".

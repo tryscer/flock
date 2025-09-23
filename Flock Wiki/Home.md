@@ -32,6 +32,8 @@ A knowledge base for inspiration and fact finding
 [[Underground Railroad]]
 [[How Disc Jockeys Sound]]
 [[Music circles in the fifties]]
+[[How drumbeats create a shared experience]]
+
 #### Chapter 3
 [[Carousel]]
 

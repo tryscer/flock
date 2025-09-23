@@ -1,12 +1,11 @@
 [
-  "chatgpt-md",
   "obsidian-style-settings",
   "notebook-navigator",
   "obsidian-git",
   "simple-tab-indent",
-  "typewriter-mode",
   "keep-the-rhythm",
   "obsidian-rtl",
   "languagetool",
-  "typing-speed"
+  "typing-speed",
+  "copilot"
 ]
