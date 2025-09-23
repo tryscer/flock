@@ -20,7 +20,7 @@ Synopsys: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
 ## Religion
 The principles the book will convey
 
-[[The 5 Prerequisite to becomings a flocker]]
+[[The 5 Prerequisite to becoming a flocker]]
 
 --------
 ## Research

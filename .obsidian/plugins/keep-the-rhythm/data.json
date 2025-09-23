@@ -639,12 +639,18 @@
         "filePath": "Flock Wiki/Home.md",
         "wordCountStart": 128,
         "charCountStart": 1023,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": -46
+          }
+        ],
         "id": 31
       },
       {
         "date": "2025-09-23",
-        "filePath": "Flock Wiki/The 5 Prerequisite to becomings a flocker.md",
+        "filePath": "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
         "wordCountStart": 2,
         "charCountStart": 21,
         "changes": [
