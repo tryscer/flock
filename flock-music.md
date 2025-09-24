@@ -786,21 +786,20 @@ And the choir:
 
 *(GO!)*
 
-—everybody joins in: band and crowd. It’s one last, lingering beat. I see Batunda drumming his thumb and forefinger on his drum, creating a fluttering sound. My whole body flutters.
+—everybody joins in: band and crowd. It’s one last, lingering beat. I see Babatunde drumming his thumb and forefinger on his giant drum, creating a fluttering sound. My whole body flutters.
 ​	The crowd erupts in applause. 
 ​	“Oh. Oh my,” I say. That’s all I can say, so I say it again: “oh my.”
-
-“What should I do?” Says the cop. 
+​	“What should I do?” Says the cop. 
 ​	“Shut it down,” says Mr. Evans, takes one last look at Barry, and leaves. 
 ​	The cop barrels down the aisle. 
 ​	“Ladies and gentlemen,” says Vilma, looking at the cop. The pianist plays a slow, thumping groove. “Ladies and gentlemen, I do hope you made the most out of our short time together. We were the Steam Pillars!”
 ​	She runs away from the stage. 
-​	Just then, the cop, breathing and red, climbs on stage. He grabs the drum and Babatunde and him play tug of war with it. It sounds like thunder. Mucho, seeing this, lifts up his bass and goes into the audience, playing along with the piano. People laugh and clap, giving him space. The cop leaves Babatunde’s drum…
+​	Just then, the cop, breathing and red, climbs on stage. He grabs the drum and Babatunde and him play tug of war with it. It sounds like thunder. Mucho, seeing this, lifts his bass and goes into the audience, playing along with the piano. People laugh and clap, letting him through. The cop leaves Babatunde’s drum…
 
-(Boom!)
+(drrrapappapa!)
 
-…and leaves to follow Mucho. Babatunde, Johnny and and the guitarist wave at the crowd and leave. Everybody laughs. The cop’s face gets even more red. He grabs Mucho, who trips, drops his bass, then runs through the crowd. 
-​	The only men on stage are the white pianist, playing the ridiculous sound, and Eddie, standing there and shaking Barry’s bottle of Coke to the rythm. 
+…and leaves to follow Mucho. Babatunde, Johnny and the guitarist wave at the crowd and leave. Everybody laughs. The cop’s face gets even more red. He grabs Mucho, who trips, drops his bass, then runs through the crowd. 
+​	The only men on stage are the white pianist, playing the ridiculous sound, and Eddie, standing there and shaking Barry’s bottle of Coke to the rhythm. 
 ​	The cop climbs the stage. He grabs the pianist by the collar. The music stops. The crowd is booing—
 ​	Next to the amplifier, Eddie is shaking his Coke bottle. Just as it seems the cop managed to grab the man, Eddie is emptying the coke into the buzzing amplifier. A huge cloud of acrid, sweet smelling steam fills the stage. When the cloud clears, all that’s left on stage is the cop.
 ​	“Everybody,” says the cop into one of the microphones. “Everybody. Due to the outrageous nature—“
@@ -816,14 +815,27 @@ And the choir:
 
 We are hurried out of the tent by a mass of people. As I leave I stumble into the well-dressed boy who danced with me before. He grabs my shoulders, holding me in place. He’s smiling. He puts his hand on mine, placing something in my palm. With his other hand he closes my fist around it.
 ​	“Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
-	
+
 ## Track 3: Alice Goes Down a Rabbit Hole
 
-“Come on, Alice!”
+*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon! Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss Mr. C. Evans gave word, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them.’ Strong words there. Now here’s the real kicker—state fair officials have shut down all the music shows for the day. That means no stage tonight for the Seven-Tops, those radio favorites folks lined up to hear! Among those caught up in the fray was the son a leading local businessman. More on that story right at the top of the hour, so don’t you dare touch that dial. Right now, we bring back the smooth sounds—here’s Dean Martin, crooning 'That’s Amore!'”*
+
+“Come on, Alice!”  
 ​	“I don’t want to.”
-​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. 
+​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, 
 
 “Why are you playing with matches?”
+
+"Those damn Pillars."
+"They'll screw you in each time."
+
+
+
+
+
+
+
+
 
 
 

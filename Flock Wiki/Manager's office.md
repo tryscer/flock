@@ -1,0 +1,11 @@
+#research #chapter-3
+
+In 1958, the fair’s manager’s office sits near the heart of the fairgrounds, a sturdy brick or wood-paneled room that feels both official and a little bit worn from a season of long days. A heavy oak desk dominates the space, its surface scarred by years of careful budgeting and hurried note‑taking. A green baize blotter bears the imprint of pencil marks, faded ink, and a few coffee rings. On the desk rests a manual typewriter, a brass desk lamp with a green glass shade, and an old adding machine that clicks with a decisive rhythm whenever someone tallies receipts or vendors’ bills.
+
+The walls are lined with dark wood paneling and cabinets that hold folders labeled with a precision that only someone who signs contracts and schedules notices can maintain. A corkboard is pinned with last-minute notices, contract deadlines, and the occasional prize list from the livestock shows. Framed schedules, prize ribbons, and a Virginia state flag sit near the door, while a small photograph of the governor and a calendar marked with fair dates remind everyone that this is the hub of a large, public event.
+
+Light seeps in through a window dressed with venetian blinds, casting striped patterns across the desk. The air carries a mix of wood polish, old ink, and the faint sweetness of coffee. A hum and a soft whirr come from the ceiling fans, keeping the room just cool enough for the long hours of planning, phone calls, and late-night reconciliations of accounts.
+
+A secretary’s side desk sits off to one corner, where a second typewriter clicks away and stacks of forms wait to be filled: entry forms, vendor invoices, and a ledger ready for the next month’s balancing. The manager’s chair is comfortable but stern, a reminder that decisions here shape who wins prizes, which concessions get a foothold on the midway, and how smoothly the fair runs when gates swing open and crowds begin to arrive.
+
+The room smells of a past era—smoked tobacco from a quick celebratory cigaret, a hint of must from the leather chair, and the faint odor of cheap, steady coffee. It’s a space of order amid the chaos of the fair, where schedules, contracts, and budgets are kept in line so that rides, stalls, and demonstrations can go forward with the confidence of a well-run event in 1958 Richmond.	

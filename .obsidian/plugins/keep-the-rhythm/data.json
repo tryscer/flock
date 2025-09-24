@@ -682,7 +682,13 @@
         "filePath": "Flock Wiki/Home.md",
         "wordCountStart": 128,
         "charCountStart": 977,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": -55,
+            "c": -435
+          }
+        ],
         "id": 33
       },
       {
@@ -703,6 +709,44 @@
           }
         ],
         "id": 34
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 103,
+        "charCountStart": 729,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": -103,
+            "c": -729
+          }
+        ],
+        "id": 35
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Musical Inspiration.md",
+        "wordCountStart": 1393,
+        "charCountStart": 12010,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "flock-music.md",
+        "wordCountStart": 15800,
+        "charCountStart": 89195,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 98,
+        "charCountStart": 5190,
+        "changes": [],
+        "id": 38
       }
     ]
   }

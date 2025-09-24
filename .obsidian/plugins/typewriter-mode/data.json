@@ -20,7 +20,7 @@
   "isPauseDimUnfocusedWhileScrollingEnabled": true,
   "isPauseDimUnfocusedWhileSelectingEnabled": true,
   "isHighlightCurrentLineEnabled": false,
-  "isFadeLinesEnabled": true,
+  "isFadeLinesEnabled": false,
   "fadeLinesIntensity": 1,
   "isHighlightCurrentLineOnlyInFocusedEditorEnabled": false,
   "currentLineHighlightStyle": "underline",

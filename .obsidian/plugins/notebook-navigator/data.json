@@ -5,7 +5,9 @@
   "homepage": "Flock Wiki/!Home.md",
   "fileVisibility": "documents",
   "excludedFolders": [],
-  "excludedFiles": [],
+  "excludedFiles": [
+    "#ignore"
+  ],
   "autoSelectFirstFileOnFocusChange": true,
   "autoExpandFoldersTags": false,
   "collapseBehavior": "all",
@@ -72,31 +74,19 @@
   "confirmBeforeDelete": true,
   "searchActive": false,
   "searchProvider": "internal",
-  "showHiddenItems": false,
+  "showHiddenItems": true,
   "includeDescendantNotes": true,
   "customVaultName": "",
   "pinnedNotes": {
-    "Flock Wiki/Places.md": {
-      "folder": true,
-      "tag": false
-    },
-    "Flock Wiki/Characters.md": {
-      "folder": true,
-      "tag": false
-    },
     "flock-music.md": {
       "folder": true,
       "tag": false
     },
-    "Flock Wiki/Musical Inspiration.md": {
-      "folder": true,
-      "tag": false
-    },
-    "Flock Wiki/Side 1 Alice.md": {
-      "folder": true,
-      "tag": false
-    },
     "Flock Wiki/Home.md": {
+      "folder": true,
+      "tag": false
+    },
+    "Flock Wiki/Playground.md": {
       "folder": true,
       "tag": false
     }

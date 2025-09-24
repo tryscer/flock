@@ -10,7 +10,6 @@
           {
             "id": "0784420f765c4510",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,47 +17,13 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Musical Inspiration"
             }
           },
           {
-            "id": "b724ed4aee38a60d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flock-music.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "flock-music"
-            }
-          },
-          {
-            "id": "88b8f93716d9c71d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flock Wiki/Side 1 Alice.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Side 1 Alice"
-            }
-          },
-          {
             "id": "927c526cd27faaf2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -66,7 +31,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Home"
             }
@@ -82,20 +46,6 @@
             }
           },
           {
-            "id": "e08f9496ad1284e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flock Wiki/Barry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barry"
-            }
-          },
-          {
             "id": "64a20f414bfa9718",
             "type": "leaf",
             "state": {
@@ -108,9 +58,23 @@
               "icon": "lucide-file",
               "title": "The 5 Prerequisite to becoming a flocker"
             }
+          },
+          {
+            "id": "c5d54d9414abbe51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The 5 Prerequisite to becoming a flocker"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -303,14 +267,19 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "9e3e3935fd35de65",
+  "active": "c5d54d9414abbe51",
   "lastOpenFiles": [
-    "Flock Wiki/Home.md",
-    "flock-music.md",
     "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
     "conflict-files-obsidian-git.md",
-    "Flock Wiki/Babatunde.md",
+    "Flock Wiki/Home.md",
+    "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/Side 1 Alice.md",
+    "flock-music.md",
+    "Flock Wiki/The 5 Prerequisite to becomings a flocker.md",
+    "Flock Wiki/Saturday Night Soundscapes in 1958.md",
+    "Flock Wiki/Manager's office.md",
+    "Flock Wiki/Eleanore.md",
+    "Flock Wiki/Babatunde.md",
     "copilot",
     "Flock Wiki/Playground.md",
     "Flock Wiki/Jerry Lee Lewis.md",
@@ -318,7 +287,6 @@
     "Flock Wiki/Barry.md",
     "Flock Wiki/Characters.md",
     "Flock Wiki/Flocks.md",
-    "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/Schokoe Bottom.md",
     "Flock Wiki/Alice.md",
     "Flock Wiki/Juke joints.md",
@@ -330,13 +298,9 @@
     "Flock Wiki/Songwriting Co..md",
     "Flock Wiki/Wonderland Express.md",
     "Flock Wiki/Eddie.md",
-    "Flock Wiki/The Steam Pillars.md",
     "Flock Wiki/Pasted image 20250922160747.png",
-    "Flock Wiki/side 1 archive.md",
     "Flock Wiki/Pasted image 20250922153529.png",
-    "Flock Wiki/Rosetta.md",
     "Flock Wiki/Pasted image 20250922153349.png",
-    "Flock Wiki/Vilma.md",
     "Flock Wiki/Pasted image 20250922153018.png",
     "GitHub/tryscer/flock",
     "GitHub/tryscer",

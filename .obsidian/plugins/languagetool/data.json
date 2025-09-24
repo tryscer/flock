@@ -9,10 +9,15 @@
     "ca": "ca-ES"
   },
   "dictionary": [
-    "flockers"
+    "Babatunde",
+    "Babatunde",
+    "Mucho",
+    "Amore",
+    "fairgoers"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": true,
-  "synonyms": "en"
+  "synonyms": "en",
+  "disabledRules": "EN_UNPAIRED_QUOTES,EN_QUOTES"
 }

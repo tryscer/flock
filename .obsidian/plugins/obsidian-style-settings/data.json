@@ -3,5 +3,5 @@
   "cupertino@@hover-sidedock": true,
   "obsidian-default-theme@@background-primary@@dark": "#060D23",
   "obsidian-default-theme@@background-primary@@light": "#FCFCFC",
-  "cupertino@@hide-status-off": true
+  "cupertino@@hide-status-off": false
 }

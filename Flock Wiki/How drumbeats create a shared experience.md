@@ -1,4 +1,5 @@
-#research 
+#research #music
+
 
 * **Physiological entrainment.** Repetitive rhythm hits the limbic system and synchronizes heart rate and breathing across the crowd; mirror-neuron contagion spreads visible emotion and movement.
 

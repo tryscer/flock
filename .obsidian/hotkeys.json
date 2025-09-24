@@ -14,5 +14,13 @@
       ],
       "key": "Key0"
     }
+  ],
+  "copilot:trigger-quick-command": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
   ]
 }
