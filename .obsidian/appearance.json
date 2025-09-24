@@ -1,15 +1,15 @@
 {
   "accentColor": "#e23032",
   "textFontFamily": "Andale Mono,Menlo",
-  "baseFontSize": 25,
+  "baseFontSize": 28,
   "baseFontSizeAction": true,
   "cssTheme": "",
   "enabledCssSnippets": [
     "obsidian-default-theme",
-    "obsidian-snippet-v9"
+    "obsidian-snippet-v6"
   ],
   "translucency": false,
   "interfaceFontFamily": "",
   "showRibbon": false,
-  "showViewHeader": true
+  "showViewHeader": false
 }

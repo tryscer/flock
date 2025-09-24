@@ -74,7 +74,7 @@
   "confirmBeforeDelete": true,
   "searchActive": false,
   "searchProvider": "internal",
-  "showHiddenItems": false,
+  "showHiddenItems": true,
   "includeDescendantNotes": true,
   "customVaultName": "",
   "pinnedNotes": {

@@ -815,16 +815,19 @@ And the choir:
 
 We are hurried out of the tent by a mass of people. As I leave I stumble into the well-dressed boy who danced with me before. He grabs my shoulders, holding me in place. He’s smiling. He puts his hand on mine, placing something in my palm. With his other hand he closes my fist around it.
 ​	“Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
-	
+
 ## Track 3: Alice Goes Down a Rabbit Hole
 
-“Come on, Alice!”
+*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon! Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss Mr. C. Evans gave word, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them.’ Strong words there. Now here’s the real kicker—state fair officials have shut down all the music shows for the day. That means no stage tonight for the Seven-Tops, those radio favorites folks lined up to hear! Among those caught up in the fray was the son a leading local businessman. More on that story right at the top of the hour, so don’t you dare touch that dial. Right now, we bring back the smooth sounds—here’s Dean Martin, crooning 'That’s Amore!'”*
+
+“Come on, Alice!”  
 ​	“I don’t want to.”
-​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. 
+​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, 
 
 “Why are you playing with matches?”
 
-
+"Those damn Pillars."
+"They'll screw you in each time."
 
 
 

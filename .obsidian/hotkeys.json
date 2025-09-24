@@ -15,7 +15,7 @@
       "key": "Key0"
     }
   ],
-  "copilot:new-chat": [
+  "copilot:trigger-quick-command": [
     {
       "modifiers": [
         "Alt"

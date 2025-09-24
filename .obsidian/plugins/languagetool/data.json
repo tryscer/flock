@@ -11,11 +11,13 @@
   "dictionary": [
     "Babatunde",
     "Babatunde",
-    "Mucho"
+    "Mucho",
+    "Amore",
+    "fairgoers"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": true,
   "synonyms": "en",
-  "disabledRules": "EN_UNPAIRED_QUOTES"
+  "disabledRules": "EN_UNPAIRED_QUOTES,EN_QUOTES"
 }

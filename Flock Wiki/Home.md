@@ -1,11 +1,10 @@
 #root
-This is where the flocking happens. 
-
-![[ChatGPT Image Aug 27, 2025, 12_17_15 PM.png]]
-(**[old version](https://docs.google.com/document/d/1iwVtBTD-E5vu2gH1bZg4UDK4Tl84ruzERf3vYHZ-_es/)**)
 
 ## [[Playground]]
+this is where we add ideas and scenes
+
 -------
+
 ## Book Bible
 Things that are officially part of the book
 
@@ -26,23 +25,6 @@ The principles the book will convey
 --------
 ## Research
 A knowledge base for inspiration and fact finding
-### General
-**[[Musical Inspiration]]**
-[[US Events In Summer 1958]]
-
-[[Underground Railroad]]
-[[How Disc Jockeys Sound]]
-[[Music circles in the fifties]]
-[[How drumbeats create a shared experience]]
-
-#### Chapter 3
-[[Manager's office]]
-[[Carousel]]
-
-### Chapter 2
-[[Richmond Policemen Uniform]]
-[[County Fair Sounds]]
-[[Tiger Tom]]
-
-## Chapter 1
-[[Juke joints]] 
+```dataview
+list from #research 
+```
