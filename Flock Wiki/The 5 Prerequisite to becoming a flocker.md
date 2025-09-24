@@ -2,6 +2,8 @@
 
 A Flock a dynamic, ad-hoc, intimate size assembly of people (and possibly other entities), who of their own free will chose to come together for a specific cause.
 
+123
+
 There is no “The Flock”, while a lot of people can be flockers, all flocks are local (in the sense where members can easily communicate directly) and intimate enough to work together. 
 
 A person can be part of many flocks simultaneously, contributing to each in different ways.
