@@ -101,20 +101,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flock Wiki/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "869fe73da842ad75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
                 "mode": "source",
                 "source": false
@@ -124,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -266,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flock Wiki/Home.md",
+                "file": "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of The 5 Prerequisite to becoming a flocker"
             }
           },
           {
@@ -317,11 +303,12 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "869fe73da842ad75",
+  "active": "9e3e3935fd35de65",
   "lastOpenFiles": [
     "Flock Wiki/Home.md",
-    "conflict-files-obsidian-git.md",
     "flock-music.md",
+    "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
+    "conflict-files-obsidian-git.md",
     "Flock Wiki/Babatunde.md",
     "Flock Wiki/Side 1 Alice.md",
     "copilot",
@@ -351,7 +338,6 @@
     "Flock Wiki/Pasted image 20250922153349.png",
     "Flock Wiki/Vilma.md",
     "Flock Wiki/Pasted image 20250922153018.png",
-    "Flock Wiki/Cindy.md",
     "GitHub/tryscer/flock",
     "GitHub/tryscer",
     "GitHub",
