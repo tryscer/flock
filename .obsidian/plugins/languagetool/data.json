@@ -8,9 +8,14 @@
     "pt": "pt-PT",
     "ca": "ca-ES"
   },
-  "dictionary": [],
+  "dictionary": [
+    "Babatunde",
+    "Babatunde",
+    "Mucho"
+  ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": true,
-  "synonyms": "en"
+  "synonyms": "en",
+  "disabledRules": "EN_UNPAIRED_QUOTES"
 }

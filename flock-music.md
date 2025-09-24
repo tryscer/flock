@@ -786,21 +786,20 @@ And the choir:
 
 *(GO!)*
 
-—everybody joins in: band and crowd. It’s one last, lingering beat. I see Batunda drumming his thumb and forefinger on his drum, creating a fluttering sound. My whole body flutters.
+—everybody joins in: band and crowd. It’s one last, lingering beat. I see Babatunde drumming his thumb and forefinger on his giant drum, creating a fluttering sound. My whole body flutters.
 ​	The crowd erupts in applause. 
 ​	“Oh. Oh my,” I say. That’s all I can say, so I say it again: “oh my.”
-
-“What should I do?” Says the cop. 
+​	“What should I do?” Says the cop. 
 ​	“Shut it down,” says Mr. Evans, takes one last look at Barry, and leaves. 
 ​	The cop barrels down the aisle. 
 ​	“Ladies and gentlemen,” says Vilma, looking at the cop. The pianist plays a slow, thumping groove. “Ladies and gentlemen, I do hope you made the most out of our short time together. We were the Steam Pillars!”
 ​	She runs away from the stage. 
-​	Just then, the cop, breathing and red, climbs on stage. He grabs the drum and Babatunde and him play tug of war with it. It sounds like thunder. Mucho, seeing this, lifts up his bass and goes into the audience, playing along with the piano. People laugh and clap, giving him space. The cop leaves Babatunde’s drum…
+​	Just then, the cop, breathing and red, climbs on stage. He grabs the drum and Babatunde and him play tug of war with it. It sounds like thunder. Mucho, seeing this, lifts his bass and goes into the audience, playing along with the piano. People laugh and clap, letting him through. The cop leaves Babatunde’s drum…
 
-(Boom!)
+(drrrapappapa!)
 
-…and leaves to follow Mucho. Babatunde, Johnny and and the guitarist wave at the crowd and leave. Everybody laughs. The cop’s face gets even more red. He grabs Mucho, who trips, drops his bass, then runs through the crowd. 
-​	The only men on stage are the white pianist, playing the ridiculous sound, and Eddie, standing there and shaking Barry’s bottle of Coke to the rythm. 
+…and leaves to follow Mucho. Babatunde, Johnny and the guitarist wave at the crowd and leave. Everybody laughs. The cop’s face gets even more red. He grabs Mucho, who trips, drops his bass, then runs through the crowd. 
+​	The only men on stage are the white pianist, playing the ridiculous sound, and Eddie, standing there and shaking Barry’s bottle of Coke to the rhythm. 
 ​	The cop climbs the stage. He grabs the pianist by the collar. The music stops. The crowd is booing—
 ​	Next to the amplifier, Eddie is shaking his Coke bottle. Just as it seems the cop managed to grab the man, Eddie is emptying the coke into the buzzing amplifier. A huge cloud of acrid, sweet smelling steam fills the stage. When the cloud clears, all that’s left on stage is the cop.
 ​	“Everybody,” says the cop into one of the microphones. “Everybody. Due to the outrageous nature—“
@@ -824,6 +823,16 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. 
 
 “Why are you playing with matches?”
+
+
+
+
+
+
+
+
+
+
 
 
 

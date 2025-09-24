@@ -4,6 +4,7 @@ This is where the flocking happens.
 ![[ChatGPT Image Aug 27, 2025, 12_17_15 PM.png]]
 (**[old version](https://docs.google.com/document/d/1iwVtBTD-E5vu2gH1bZg4UDK4Tl84ruzERf3vYHZ-_es/)**)
 
+## [[Playground]]
 -------
 ## Book Bible
 Things that are officially part of the book
@@ -35,6 +36,7 @@ A knowledge base for inspiration and fact finding
 [[How drumbeats create a shared experience]]
 
 #### Chapter 3
+[[Manager's office]]
 [[Carousel]]
 
 ### Chapter 2
@@ -43,4 +45,4 @@ A knowledge base for inspiration and fact finding
 [[Tiger Tom]]
 
 ## Chapter 1
-[[Juke joints]]
+[[Juke joints]] 

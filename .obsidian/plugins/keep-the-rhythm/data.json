@@ -43,7 +43,7 @@
       "slots": [
         {
           "index": 0,
-          "option": "CURRENT_DAY",
+          "option": "LAST_DAY",
           "unit": "WORD",
           "calc": "TOTAL"
         },
@@ -58,6 +58,18 @@
           "option": "LAST_MONTH",
           "unit": "WORD",
           "calc": "AVG"
+        },
+        {
+          "index": 3,
+          "option": "CURRENT_FILE",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 4,
+          "option": "CURRENT_STREAK",
+          "unit": "WORD",
+          "calc": "TOTAL"
         }
       ]
     }
@@ -77,11 +89,6 @@
         "wordCountStart": 98,
         "charCountStart": 768,
         "changes": [
-          {
-            "timeKey": "10:30",
-            "w": 1,
-            "c": 1
-          },
           {
             "timeKey": "15:20",
             "w": 6,
@@ -114,8 +121,8 @@
           },
           {
             "timeKey": "16:35",
-            "w": 6,
-            "c": 47
+            "w": 0,
+            "c": 1
           },
           {
             "timeKey": "17:05",
@@ -598,84 +605,392 @@
       },
       {
         "date": "2025-09-23",
-        "filePath": "conflict-files-obsidian-git.md",
-        "wordCountStart": 94,
-        "charCountStart": 678,
-        "changes": [
-          {
-            "timeKey": "16:40",
-            "w": -94,
-            "c": -678
-          }
-        ],
+        "filePath": "flock-music.md",
+        "wordCountStart": 15614,
+        "charCountStart": 87095,
+        "changes": [],
         "id": 27
       },
       {
         "date": "2025-09-23",
-        "filePath": "flock-music.md",
-        "wordCountStart": 15614,
-        "charCountStart": 88131,
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1022,
+        "charCountStart": 6474,
         "changes": [],
         "id": 28
       },
       {
         "date": "2025-09-23",
-        "filePath": "Flock Wiki/Side 1 Alice.md",
-        "wordCountStart": 98,
-        "charCountStart": 5353,
-        "changes": [],
+        "filePath": "Flock Wiki/Jerry Lee Lewis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 9,
+            "c": 68
+          },
+          {
+            "timeKey": "00:25",
+            "w": 22,
+            "c": 148
+          },
+          {
+            "timeKey": "11:55",
+            "w": 3,
+            "c": 22
+          }
+        ],
         "id": 29
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Home.md",
+        "wordCountStart": 127,
+        "charCountStart": 977,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 22
+          },
+          {
+            "timeKey": "17:25",
+            "w": 6,
+            "c": 53
+          },
+          {
+            "timeKey": "19:05",
+            "w": 9,
+            "c": 54
+          },
+          {
+            "timeKey": "19:10",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "23:15",
+            "w": -18,
+            "c": -137
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Characters.md",
+        "wordCountStart": 49,
+        "charCountStart": 420,
+        "changes": [],
+        "id": 31
       },
       {
         "date": "2025-09-23",
         "filePath": "Flock Wiki/Babatunde.md",
         "wordCountStart": 171,
-        "charCountStart": 1078,
+        "charCountStart": 1069,
         "changes": [],
-        "id": 30
-      },
-      {
-        "date": "2025-09-23",
-        "filePath": "Flock Wiki/Home.md",
-        "wordCountStart": 128,
-        "charCountStart": 1023,
-        "changes": [
-          {
-            "timeKey": "17:10",
-            "w": 0,
-            "c": -46
-          }
-        ],
-        "id": 31
-      },
-      {
-        "date": "2025-09-23",
-        "filePath": "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
-        "wordCountStart": 2,
-        "charCountStart": 21,
-        "changes": [
-          {
-            "timeKey": "16:45",
-            "w": 114,
-            "c": 619
-          },
-          {
-            "timeKey": "16:50",
-            "w": 86,
-            "c": 484
-          },
-          {
-            "timeKey": "16:55",
-            "w": 65,
-            "c": 387
-          },
-          {
-            "timeKey": "17:05",
-            "w": 35,
-            "c": 258
-          }
-        ],
         "id": 32
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Musical Inspiration.md",
+        "wordCountStart": 1393,
+        "charCountStart": 11928,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Manager's office.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 64,
+            "c": 395
+          },
+          {
+            "timeKey": "17:30",
+            "w": -24,
+            "c": -123
+          },
+          {
+            "timeKey": "17:35",
+            "w": -16,
+            "c": -149
+          },
+          {
+            "timeKey": "17:50",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "17:55",
+            "w": 35,
+            "c": 291
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:40",
+            "w": -38,
+            "c": -318
+          },
+          {
+            "timeKey": "18:45",
+            "w": 363,
+            "c": 2099
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+        "wordCountStart": 33,
+        "charCountStart": 369,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": -33,
+            "c": -369
+          }
+        ],
+        "id": 35
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+        "wordCountStart": 35,
+        "charCountStart": 350,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": -35,
+            "c": -350
+          }
+        ],
+        "id": 36
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 98,
+        "charCountStart": 5190,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 15,
+            "c": 97
+          },
+          {
+            "timeKey": "20:00",
+            "w": 15,
+            "c": 76
+          },
+          {
+            "timeKey": "20:10",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "21:05",
+            "w": -1,
+            "c": -4
+          },
+          {
+            "timeKey": "21:15",
+            "w": -34,
+            "c": -202
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 30,
+        "charCountStart": 173,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "21:05",
+            "w": -1,
+            "c": -4
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Home.md",
+        "wordCountStart": 127,
+        "charCountStart": 977,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 4,
+            "c": 40
+          },
+          {
+            "timeKey": "02:55",
+            "w": 6,
+            "c": 36
+          },
+          {
+            "timeKey": "03:00",
+            "w": -2,
+            "c": -11
+          },
+          {
+            "timeKey": "03:10",
+            "w": -4,
+            "c": -24
+          },
+          {
+            "timeKey": "03:15",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 14,
+        "charCountStart": 74,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "00:50",
+            "w": 23,
+            "c": 100
+          },
+          {
+            "timeKey": "00:55",
+            "w": 8,
+            "c": 35
+          },
+          {
+            "timeKey": "02:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 41
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "flock-music.md",
+        "wordCountStart": 15614,
+        "charCountStart": 87125,
+        "changes": [
+          {
+            "timeKey": "01:25",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "01:30",
+            "w": -1,
+            "c": 14
+          },
+          {
+            "timeKey": "02:15",
+            "w": 0,
+            "c": 9
+          }
+        ],
+        "id": 42
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Breakfast - Outline.md",
+        "wordCountStart": 5385,
+        "charCountStart": 29612,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+        "wordCountStart": 58,
+        "charCountStart": 500,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": -58,
+            "c": -500
+          }
+        ],
+        "id": 44
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+        "wordCountStart": 35,
+        "charCountStart": 350,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": -35,
+            "c": -350
+          }
+        ],
+        "id": 45
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Manager's office.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": 403,
+            "c": 2313
+          }
+        ],
+        "id": 46
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 98,
+        "charCountStart": 5190,
+        "changes": [],
+        "id": 47
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Musical Inspiration.md",
+        "wordCountStart": 1393,
+        "charCountStart": 11928,
+        "changes": [],
+        "id": 48
       }
     ]
   }

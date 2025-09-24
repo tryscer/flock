@@ -14,5 +14,13 @@
       ],
       "key": "Key0"
     }
+  ],
+  "copilot:new-chat": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
   ]
 }
