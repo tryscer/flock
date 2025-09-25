@@ -85,6 +85,10 @@
     "Flock Wiki/Playground.md": {
       "folder": true,
       "tag": false
+    },
+    "flock-music.md": {
+      "folder": true,
+      "tag": false
     }
   },
   "folderIcons": {},
