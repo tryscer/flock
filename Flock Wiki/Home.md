@@ -8,7 +8,7 @@ this is where we add ideas and scenes
 ## Book Bible
 Things that are officially part of the book
 
-Synopsys: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
+Synopsis: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
 
 [[Characters]] and [[Flocks]].
 
