@@ -4,26 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b45b887d51dd13",
+        "id": "37b847ef5836cec7",
         "type": "tabs",
         "children": [
           {
-            "id": "0784420f765c4510",
+            "id": "b46697267cb06258",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flock Wiki/Musical Inspiration.md",
+                "file": "flock-music.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Musical Inspiration"
+              "title": "flock-music"
             }
           },
           {
-            "id": "927c526cd27faaf2",
+            "id": "a88392cb0e9862c9",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flock Wiki/Playground.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Playground"
+            }
+          },
+          {
+            "id": "9fd4bb82ec9b6fa8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flock Wiki/Side 1 Alice.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Side 1 Alice"
+            }
+          },
+          {
+            "id": "fae6c9e698c57d72",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,22 +66,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Home"
             }
           },
           {
-            "id": "e071791a92607974",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "64a20f414bfa9718",
+            "id": "42f3665d6d4a4edf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,23 +84,9 @@
               "icon": "lucide-file",
               "title": "The 5 Prerequisite to becoming a flocker"
             }
-          },
-          {
-            "id": "c5d54d9414abbe51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,25 +118,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flocks",
+                "query": "musical inspi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "ecda8220f1f6cf18",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           },
           {
@@ -133,12 +135,12 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           },
           {
-            "id": "43a53ee85a346e64",
+            "id": "a5436b6e4366ad4f",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -152,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.50665521621704
+    "width": 559.5,
+    "collapsed": true
   },
   "right": {
     "id": "cd57906994abb435",
@@ -161,9 +164,54 @@
       {
         "id": "c82a1dbd48e439f1",
         "type": "tabs",
+        "dimension": 39.03301886792453,
         "children": [
           {
-            "id": "9872009ffb997a30",
+            "id": "7bf45c3b928dccd1",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
+          },
+          {
+            "id": "442d67153cf98f95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9e3e3935fd35de65",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4c35c04a1010c6f5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "b4860467d1dbb523",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -182,122 +230,104 @@
             }
           },
           {
-            "id": "41a43d8cd8c88eb6",
+            "id": "2e31c1b2ff20e7b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flock Wiki/!Home.md",
+                "file": "Flock Wiki/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from !Home"
+              "title": "Outgoing links from Home"
             }
           },
           {
-            "id": "dbcc14966c46e9ed",
+            "id": "c70fb166cdc72e5e",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "442d67153cf98f95",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "9e3e3935fd35de65",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "7bf45c3b928dccd1",
-            "type": "leaf",
-            "state": {
-              "type": "keep-the-rhythm",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "bed2433184a4b5df",
+        "type": "tabs",
+        "dimension": 60.96698113207547,
+        "children": [
+          {
+            "id": "821646187cdf7631",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 686.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": true,
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false,
-      "keep-the-rhythm:Word Count Stats": false
+      "keep-the-rhythm:Word Count Stats": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c5d54d9414abbe51",
+  "active": "7bf45c3b928dccd1",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "Flock Wiki/Carousel.md",
     "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
-    "conflict-files-obsidian-git.md",
-    "Flock Wiki/Home.md",
-    "Flock Wiki/Musical Inspiration.md",
-    "Flock Wiki/Side 1 Alice.md",
     "flock-music.md",
-    "Flock Wiki/The 5 Prerequisite to becomings a flocker.md",
-    "Flock Wiki/Saturday Night Soundscapes in 1958.md",
-    "Flock Wiki/Manager's office.md",
-    "Flock Wiki/Eleanore.md",
-    "Flock Wiki/Babatunde.md",
-    "copilot",
+    "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/Playground.md",
-    "Flock Wiki/Jerry Lee Lewis.md",
-    "Flock Wiki/How drumbeats create a shared experience.md",
-    "Flock Wiki/Barry.md",
+    "Flock Wiki/Side 1 Alice.md",
+    "Flock Wiki/Home.md",
+    "Flock Wiki/Eleanore.md",
+    "Untitled 1.md",
     "Flock Wiki/Characters.md",
-    "Flock Wiki/Flocks.md",
-    "Flock Wiki/Schokoe Bottom.md",
-    "Flock Wiki/Alice.md",
-    "Flock Wiki/Juke joints.md",
-    "Flock Wiki/Tim.md",
+    "Flock Wiki/Jerry Lee Lewis.md",
+    "Untitled.md",
+    "Templates/research.md",
+    "Templates",
+    "copilot/copilot-custom-prompts",
+    "photo_image.jpg",
+    "copilot/copilot-conversations",
+    "copilot",
     "Flock Wiki/Pasted image 20250922165940.png",
     "Flock Wiki/Pasted image 20250922165926.png",
-    "Flock Wiki/Music circles in the fifties.md",
-    "Flock Wiki/Places.md",
-    "Flock Wiki/Songwriting Co..md",
-    "Flock Wiki/Wonderland Express.md",
-    "Flock Wiki/Eddie.md",
     "Flock Wiki/Pasted image 20250922160747.png",
     "Flock Wiki/Pasted image 20250922153529.png",
     "Flock Wiki/Pasted image 20250922153349.png",
@@ -309,12 +339,8 @@
     "Pasted image 20250921202439.png",
     "Flock Wiki/ChatGPT Image Aug 27, 2025, 12_17_15 PM.png",
     "Flock Wiki/Pasted image 20250921200821.png",
-    "Flock Wiki/Pasted image 20250921200959.png",
     "Flock Wiki",
     "ChatGPT_MD/templates",
-    "ChatGPT_MD/chats",
-    "ChatGPT_MD",
-    "Untitled",
     "Untitled.canvas"
   ]
 }
