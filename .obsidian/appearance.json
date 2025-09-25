@@ -5,7 +5,8 @@
   "baseFontSizeAction": true,
   "cssTheme": "Cupertino",
   "enabledCssSnippets": [
-    "obsidian-default-theme"
+    "obsidian-default-theme",
+    "obsidian-snippet-v9"
   ],
   "translucency": false,
   "interfaceFontFamily": "",

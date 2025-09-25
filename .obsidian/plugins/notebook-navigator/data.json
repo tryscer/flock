@@ -78,10 +78,6 @@
   "includeDescendantNotes": true,
   "customVaultName": "",
   "pinnedNotes": {
-    "flock-music.md": {
-      "folder": true,
-      "tag": false
-    },
     "Flock Wiki/Home.md": {
       "folder": true,
       "tag": false

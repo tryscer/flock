@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b46697267cb06258",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flock-music.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "flock-music"
-            }
-          },
-          {
             "id": "9fd4bb82ec9b6fa8",
             "type": "leaf",
             "pinned": true,
@@ -40,7 +24,7 @@
             }
           },
           {
-            "id": "99569084c8660eeb",
+            "id": "ed6181579cd9148e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,6 +35,20 @@
               },
               "icon": "lucide-file",
               "title": "Carousel"
+            }
+          },
+          {
+            "id": "f6b625eb323503a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flock-music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flock-music"
             }
           }
         ],
@@ -215,7 +213,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bed2433184a4b5df",
@@ -251,11 +250,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "99569084c8660eeb",
+  "active": "9e3e3935fd35de65",
   "lastOpenFiles": [
-    "Flock Wiki/Circle-Process-2-pager.pdf",
-    "flock-music.md",
     "Flock Wiki/Side 1 Alice.md",
+    "flock-music.md",
+    "Flock Wiki/Carousel.md",
+    "Flock Wiki/Circle-Process-2-pager.md",
+    "Flock Wiki/Circle-Process-2-pager.pdf",
     "Flock Wiki/Home.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
@@ -270,7 +271,6 @@
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "Flock Wiki/Carousel.md",
     "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
     "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/Playground.md",
