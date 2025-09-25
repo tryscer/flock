@@ -687,6 +687,11 @@
             "timeKey": "09:45",
             "w": -55,
             "c": -435
+          },
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 33
@@ -747,6 +752,52 @@
         "charCountStart": 5190,
         "changes": [],
         "id": 38
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/The 5 Prerequisite to becomings a flocker.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 39
+      },
+      {
+        "date": "2025-09-25",
+        "filePath": "Flock Wiki/Circle-Process-2-pager.md",
+        "wordCountStart": 799,
+        "charCountStart": 4957,
+        "changes": [
+          {
+            "timeKey": "06:05",
+            "w": -57,
+            "c": -360
+          },
+          {
+            "timeKey": "06:10",
+            "w": 12,
+            "c": 103
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2025-09-25",
+        "filePath": "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
+        "wordCountStart": 303,
+        "charCountStart": 1774,
+        "changes": [
+          {
+            "timeKey": "06:10",
+            "w": -11,
+            "c": -80
+          },
+          {
+            "timeKey": "07:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 41
       }
     ]
   }
