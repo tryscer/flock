@@ -25,7 +25,9 @@ The principles the book will convey
 --------
 ## Research
 A knowledge base for inspiration and fact finding
+
 ```dataview
 list from #research 
 sort file.mtime desc
 ```
+

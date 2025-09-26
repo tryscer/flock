@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,6 +191,16 @@
               "icon": "calendar-days",
               "title": "Keep the Rhythm"
             }
+          },
+          {
+            "id": "e55465d660d6d9fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -215,8 +225,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "da53b2cbaf5d48cf",
+  "active": "43a53ee85a346e64",
   "lastOpenFiles": [
+    "Flock Wiki/Home.md",
+    "flock-music.md",
+    "Flock Wiki/Jim Crow Interactions The Underground Battle Against Integrated Public Spaces.md",
+    "Flock Wiki/Schokoe Bottom.md",
+    "conflict-files-obsidian-git.md",
+    "Ticket Offices.md",
+    "Flock Wiki/Circle-Process-2-pager.pdf",
     "Flock Wiki/Saturday Night Soundscapes in 1958.md",
     "Flock Wiki/The 5 Prerequisite to becoming a flocker.md",
     "Flock Wiki/Circle-Process-2-pager.md",
@@ -235,17 +252,11 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
-    "Flock Wiki/Home.md",
     "Flock Wiki/Musical Inspiration.md",
     "Flock Wiki/The 5 Prerequisite to becomings a flocker.md",
-    "flock-music.md",
-    "conflict-files-obsidian-git.md",
     "Flock Wiki/Side 1 Alice.md",
     "Flock Wiki/Manager's office.md",
-    "Flock Wiki/Eleanore.md",
-    "Flock Wiki/Babatunde.md",
     "copilot",
-    "Flock Wiki/Playground.md",
     "Flock Wiki/Pasted image 20250922165940.png",
     "Flock Wiki/Pasted image 20250922165926.png",
     "Flock Wiki/Pasted image 20250922160747.png",
@@ -262,7 +273,6 @@
     "Flock Wiki/Pasted image 20250921200959.png",
     "Flock Wiki",
     "ChatGPT_MD/templates",
-    "ChatGPT_MD/chats",
     "Untitled.canvas"
   ]
 }

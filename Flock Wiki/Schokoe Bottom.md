@@ -14,6 +14,8 @@ tags:
 ### Poe Museum
 
 Edgar Allan Poe Museum in Shockoe Bottom was open before 1958. It was founded and opened to the public in 1922. It is a few hundred meters from the main street train station
+
+
 #### **Popular Culture and Public Image**
 
 Beyond the classroom, Poe had a strong presence in **1950s popular culture**. His reputation as a dark, troubled, and mysterious figure—often portrayed as a "mad genius"—appealed to youth culture. His work was frequently adapted for radio shows and, later, for television anthology series, which made his stories accessible to a broader audience.
