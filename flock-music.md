@@ -95,7 +95,8 @@ Barry and Tim exchange disgusted, amused looks. To my horror, Cindy and Eleanore
 
 *(get your kicks… on route… sixty–)*
 
-"So, um, Tim," I say. "Cindy says you have all the records". ​	“Huh?” Tim says. “Yeah, I guess I do, kidd-o. Bear, what’s that noise?”  
+"So, um, Tim," I say. "Cindy says you have all the records". ​	
+​	“Huh?” Tim says. “Yeah, I guess I do, kidd-o. Bear, what’s that noise?”  
 ​	“It always sounds like that,” says Barry.   
 “Because, you know, I’m quite an avid music fan myself—“  
 “What you do,” says Tim, obviously not to me, “is every month, you take apart the carburetor, right? And then you take out all the spark plugs and you arrange them on, like, a blanket. And take some wire brush and some Gunk fluid, right? And you scrub them until they all shine and you are all dirty. Then your engine stops sounding like grandma when she’s got a cold. Because if your engine runs so rough you’re gonna stall, you hear.”   
@@ -818,13 +819,34 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 ## Track 3: Alice Goes Down a Rabbit Hole
 
-*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon! Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss Mr. C. Evans gave word, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them.’ Strong words there. Now here’s the real kicker—state fair officials have shut down all the music shows for the day. That means no stage tonight for the Seven-Tops, those radio favorites folks lined up to hear! Among those caught up in the fray was the son a leading local businessman. More on that story right at the top of the hour, so don’t you dare touch that dial. Right now, we bring back the smooth sounds—here’s Dean Martin, crooning 'That’s Amore!'”*
+*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon! Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss Mr. C. Evans gave word, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that folks lined up to hear! Among those caught up in the fray was the son a leading local businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
+
+*(Bells would sing ting-a-ling-a-ling, ting-a-ling-a-ling and you'll sing…)*
 
 “Come on, Alice!”  
 ​	“I don’t want to.”
-​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, 
+​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
+​	“Come sit with me on the horse!” Cries Cindy. Her horse is circling the platform, about to drop out of the horizon of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
+​	“I do not want to celebrate,” I shout after her.  
+​	“It will make you feel better,” Barry says, coming into view. His saddle is golden and his smile is idiotic. 
+​	“I do not want to feel better, either,” I say. 
+​	“Come on,” shouts Eleanore from the edge of the platform, “that show was—“
+​	“What?”
+​	Tim is bobbing into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man, he forewent the horse in favor of a carriage. 
+​	“Barry had a good time,” he says. “I had a good time. You danced, too, didn’t you? Focus on the good things.” Above his reflection in the mirror, a light bulb burns out. 
+​	”Look, I’m bummed too!” Says Cindy as she reappears. Her golden hair bobs gently around her shoulders. 
+​	“I said that show was *fire!*” Says Eleanore. 
+​	“It was,” I say. “It was until Barry’s friends shut it all down!”
+​	“Mr. Evans is very friendly,” smiles Barry on Eleanore’s heel. He’s looking around the gold-painted trappings of the carousel and humming along with the tacky organ music. “The world,” he adds with a sigh, “is made of friends.”
+​	“What’s wrong with you all?” I say. 
+​	“You don’t get it, Alice,” says a disappearing Eleanore. “That thing with the police was the best—“
+​	She disappears again. 
+​	“You gotta make the best of the situation, is all I’m saying,” says Cindy. She dismounts her horse nimbly and walks 
+​	
+​	
 
 “Why are you playing with matches?”
+
 
 "Those damn Pillars."
 "They'll screw you in each time."
