@@ -1,0 +1,16 @@
+{
+  "obsidian-default-theme@@text-normal@@light": "#3F3F3F",
+  "cupertino@@hover-sidedock": true,
+  "obsidian-default-theme@@background-primary@@dark": "#060D23",
+  "obsidian-default-theme@@background-primary@@light": "#FCFCFC",
+  "cupertino@@hide-status-off": true,
+  "cupertino@@compact-actions-off": true,
+  "notebook-navigator-style-settings@@nn-theme-navitem-folder-note-name-decoration": "underline dotted",
+  "cupertino@@sidedock-glass-off": false,
+  "cupertino@@sidedock-glass-tint-off": false,
+  "cupertino@@tabs-autosize-off": true,
+  "cupertino@@block-width-off": true,
+  "cupertino@@hide-frontmatter-off": true,
+  "cupertino@@accented-frame-opacity": 15,
+  "notebook-navigator-style-settings@@nn-theme-navitem-name-font-weight": 200
+}

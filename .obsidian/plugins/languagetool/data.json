@@ -1,0 +1,22 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "autoCheckDelay": 3000,
+  "shouldAutoCheck": true,
+  "languageVariety": {
+    "en": "en-US",
+    "de": "de-DE",
+    "pt": "pt-PT",
+    "ca": "ca-ES"
+  },
+  "dictionary": [
+    "Amore",
+    "Babatunde",
+    "fairgoers",
+    "Mucho"
+  ],
+  "syncDictionary": false,
+  "remoteDictionary": [],
+  "pickyMode": true,
+  "synonyms": "en",
+  "disabledRules": "EN_UNPAIRED_QUOTES,EN_QUOTES"
+}
