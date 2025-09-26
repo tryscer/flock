@@ -5,13 +5,11 @@
   "baseFontSizeAction": true,
   "cssTheme": "Cupertino",
   "enabledCssSnippets": [
-    "obsidian-snippet-v9",
     "obsidian-default-theme",
-    "cupertino-peek-width",
-    "cupertino-sidebar-force-width"
+    "obsidian-snippet-v9"
   ],
   "translucency": false,
-  "interfaceFontFamily": "Andale Mono",
+  "interfaceFontFamily": "",
   "showRibbon": false,
   "showViewHeader": false,
   "nativeMenus": false

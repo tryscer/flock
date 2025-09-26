@@ -1,0 +1,13 @@
+#research
+
+In much of the Jim Crow South — especially small towns and many county seats in states like Mississippi, Alabama, South Carolina, Georgia, Louisiana, Arkansas, Tennessee, Texas, North Carolina and Virginia — a mixed-race (Black + white) public show, mixed dancing, or even mixed seating could be effectively illegal or would be broken up by police and officials.
+
+Why — quick, novel-ready context (working theory, not legalese):
+	•	There weren’t usually neat, nation-wide statutes that read “no mixed-race shows.” Instead there was a mesh of Jim Crow laws, local ordinances and enforcement practices plus custom that made interracial public socializing illegal in effect. Town councils, fair managers, theatre owners, and sheriffs could and did use ordinances (public-order, “disturbance,” licensing, or “traffic” rules), private contracts with venues, or simply police action to stop integrated performances or mixed dancing.
+	•	Brown v. Board (1954) had legally challenged school segregation, but by 1958 many local officials in the South were still enforcing segregation in public life — often by claiming “public safety” or invoking local rules. In practice that’s what made mixed shows “illegal” on the ground even when the constitutional law was shifting.
+	•	In the borderline and Northern cities, segregation was more often de facto (businesses and promoters refusing mixed bills, or unofficially segregated seating) rather than explicit municipal criminal statutes — so you could plausibly have hostile crowds, venue refusals, or police harassment there too, but the legal cover was weaker.
+
+For flavour for your 1958 scenes (what to show on page):
+	•	A county fair or tent show shut down by the promoter or sheriff because “this is their day” and “I don’t need any mixin’ going on here” — exactly the kind of small-town enforcement that will look authentic on the page. (Your Henrico/Alice scene is a perfect demonstration of this dynamic.)  ￼
+	•	Police using “public disturbance” or “permit” pretexts to clear a tent; promoters or local businessmen applying pressure to cancel mixed bills; placards or “special days” that mark separate events for Black audiences.
+	•	A plausible list of settings where this would happen fastest and hardest: rural Deep South counties and mid-sized Southern towns, county fairs, dance halls, and municipal auditoria controlled by segregationist city governments.

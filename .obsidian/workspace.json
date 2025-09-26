@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,8 +237,7 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,11 +256,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "da53b2cbaf5d48cf",
+  "active": "9e3e3935fd35de65",
   "lastOpenFiles": [
+    "flock-music.md",
+    "Flock Wiki/Jim Crow Interactions: The Underground Battle Against Integrated Public Spaces.md",
     "Flock Wiki/Home.md",
     "Ticket Offices.md",
-    "flock-music.md",
     "cupertino-peek-width.css",
     "Flock Wiki/Side 1 Alice.md",
     "Flock Wiki/side 1 archive.md",
