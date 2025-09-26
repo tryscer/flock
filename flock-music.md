@@ -95,7 +95,8 @@ Barry and Tim exchange disgusted, amused looks. To my horror, Cindy and Eleanore
 
 *(get your kicks… on route… sixty–)*
 
-"So, um, Tim," I say. "Cindy says you have all the records". ​	“Huh?” Tim says. “Yeah, I guess I do, kidd-o. Bear, what’s that noise?”  
+"So, um, Tim," I say. "Cindy says you have all the records". ​	
+​	“Huh?” Tim says. “Yeah, I guess I do, kidd-o. Bear, what’s that noise?”  
 ​	“It always sounds like that,” says Barry.   
 “Because, you know, I’m quite an avid music fan myself—“  
 “What you do,” says Tim, obviously not to me, “is every month, you take apart the carburetor, right? And then you take out all the spark plugs and you arrange them on, like, a blanket. And take some wire brush and some Gunk fluid, right? And you scrub them until they all shine and you are all dirty. Then your engine stops sounding like grandma when she’s got a cold. Because if your engine runs so rough you’re gonna stall, you hear.”   

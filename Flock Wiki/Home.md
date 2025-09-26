@@ -27,4 +27,5 @@ The principles the book will convey
 A knowledge base for inspiration and fact finding
 ```dataview
 list from #research 
+sort asc
 ```

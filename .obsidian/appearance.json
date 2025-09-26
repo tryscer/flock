@@ -1,15 +1,18 @@
 {
   "accentColor": "#e23032",
   "textFontFamily": "Andale Mono,Menlo",
-  "baseFontSize": 18,
+  "baseFontSize": 24,
   "baseFontSizeAction": true,
   "cssTheme": "Cupertino",
   "enabledCssSnippets": [
+    "obsidian-snippet-v9",
     "obsidian-default-theme",
-    "obsidian-snippet-v9"
+    "cupertino-peek-width",
+    "cupertino-sidebar-force-width"
   ],
   "translucency": false,
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Andale Mono",
   "showRibbon": false,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "nativeMenus": false
 }

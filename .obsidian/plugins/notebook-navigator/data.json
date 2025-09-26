@@ -97,13 +97,7 @@
   "folderSortOverrides": {
     "Flock Wiki": "modified-desc"
   },
-  "folderAppearances": {
-    "Flock Wiki": {
-      "showDate": false,
-      "showPreview": false,
-      "showImage": false
-    }
-  },
+  "folderAppearances": {},
   "tagIcons": {
     "__untagged__": "emoji:⚠️",
     "unfinished": "emoji:⚠️",
@@ -129,7 +123,11 @@
     "novel": "#ef4444",
     "inspiration": "#3b82f6",
     "flocking": "#10b981",
-    "flocks": "#8b5cf6"
+    "flocks": "#8b5cf6",
+    "chapter-3": "#22c55e",
+    "chapter-1": "#22c55e",
+    "music": "#d40080",
+    "synopsis": "#f97316"
   },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
@@ -152,7 +150,9 @@
       "emoji:⚠️"
     ]
   },
-  "recentColors": [],
+  "recentColors": [
+    "#d40080"
+  ],
   "lastShownVersion": "",
   "settingsVersion": 1
 }

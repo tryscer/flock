@@ -17,7 +17,7 @@
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
-  "defaultChainType": "llm_chain",
+  "defaultChainType": "vault_qa",
   "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
@@ -200,8 +200,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -211,8 +211,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -382,7 +382,7 @@
   "embeddingRequestsPerMin": 60,
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
-  "showSuggestedPrompts": true,
+  "showSuggestedPrompts": false,
   "showRelevantNotes": true,
   "numPartitions": 1,
   "lexicalSearchRamLimit": 100,
@@ -399,7 +399,7 @@
   "passMarkdownImages": true,
   "enableAutonomousAgent": false,
   "enableCustomPromptTemplating": true,
-  "enableSemanticSearchV3": false,
+  "enableSemanticSearchV3": true,
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": true,
   "autonomousAgentMaxIterations": 4,
