@@ -1,14 +1,4 @@
 .keep-the-rhyhtm
-
-# Ignore Obsidian's workspace files
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/backlinks.json
-.obsidian/graph.json
-.obsidian/starred.json
-
-# Ignore temporary and cache files
-.obsidian/cache
-.obsidian/.trash/
+.obsidian
 
 

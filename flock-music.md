@@ -1,4 +1,4 @@
-#novel
+
 
 ## Epitaph
 
@@ -11,7 +11,7 @@
 — *Elvis Aaron Presley*
 
 # Side 1: Alice
-## Track 1: Alice Gets in a Car
+## Track 1: Alice Gets in a Car<!-- {"fold":true} -->
 
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
@@ -440,7 +440,7 @@ Somebody turns on the radio…
 ​	“Turn the dial, man\!”  
 ​	Outside the car window, a metal sign rolls by, black with green lettering, saying “WELCOME TO VIRGINIA \- THE OLD DOMINION”, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
 
-## Track 2: Alice Gets a Book of Matches
+## Track 2: Alice Gets a Book of Matches<!-- {"fold":true} -->
 *Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what *music* shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love*
 
 *(Yooooooor precious looahahv...)*
