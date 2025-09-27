@@ -819,33 +819,62 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 ## Track 3: Alice Goes Down a Rabbit Hole
 
-*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon! Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss Mr. C. Evans gave word, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that folks lined up to hear! Among those caught up in the fray was the son a leading local businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
+*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon! Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss Mr. C. Evans gave word, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that folks lined up to hear! Among those caught up in the fray was the son a prominent businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
 
 *(Bells would sing ting-a-ling-a-ling, ting-a-ling-a-ling and you'll sing…)*
 
 “Come on, Alice!”  
 ​	“I don’t want to.”
 ​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
-​	“Come sit with me on the horse!” Cries Cindy. Her horse is circling the platform, about to drop out of the horizon of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
+​	“Come sit with me on the horse!” cries Cindy. Her horse is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
 ​	“I do not want to celebrate,” I shout after her.  
 ​	“It will make you feel better,” Barry says, coming into view. His saddle is golden and his smile is idiotic. 
 ​	“I do not want to feel better, either,” I say. 
 ​	“Come on,” shouts Eleanore from the edge of the platform, “that show was—“
-​	“What?”
-​	Tim is bobbing into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man, he forewent the horse in favor of a carriage. 
+​	“What?” I shout after her. .
+​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man, he forewent the horse in favor of a carriage. 
 ​	“Barry had a good time,” he says. “I had a good time. You danced, too, didn’t you? Focus on the good things.” Above his reflection in the mirror, a light bulb burns out. 
 ​	”Look, I’m bummed too!” Says Cindy as she reappears. Her golden hair bobs gently around her shoulders. 
-​	“I said that show was *fire!*” Says Eleanore. 
-​	“It was,” I say. “It was until Barry’s friends shut it all down!”
-​	“Mr. Evans is very friendly,” smiles Barry on Eleanore’s heel. He’s looking around the gold-painted trappings of the carousel and humming along with the tacky organ music. “The world,” he adds with a sigh, “is made of friends.”
+​	“I said that show was *fire!*” Says Eleanor behind her . 
+​	“It was,” I say. “It was until Barry’s friend shut it all down!”
+​	“Mr. Evans is very friendly,” smiles Barry. He’s looking around the gold-painted trappings of the carousel and humming along with the tacky organ music. “The world,” he adds with a sigh, “is made up of friends.”
 ​	“What’s wrong with you all?” I say. 
 ​	“You don’t get it, Alice,” says a disappearing Eleanore. “That thing with the police was the best—“
 ​	She disappears again. 
-​	“You gotta make the best of the situation, is all I’m saying,” says Cindy. She dismounts her horse nimbly and walks 
-​	
-​	
+​	“You gotta make the best of the situation, is all I’m saying,” says Cindy. She dismounted her horse nimbly and walks around the platform, against the motion of the carousel. She keeps perfectly centered in my view. 
+​	“I just want you all to know that did not count as my first show,” I say. 
+​	“What did she say?” says Tim. 
+​	“She said she wants to go to another show,” says Cindy and sits down in his carriage. She smiles at him. “Know any good ones?”
+​	“Well,” he says. “I think the Seven-Tops should start about now, no?”
+​	“That’s not funny,” I say. “I want the Steam Pillars! They make you feel…”
+​	“I said the police thing was the best part!” says Eleanore. “How Mucho was giving it to the cop and the crowd was having none of it… it was the best part of their performance!”
+​	“How do they make you feel, Alice?” calls Cindy and disappears. 
+​	“They make me feel like I want to throw something at them,” I tell myself. 
+​	Barry says, “let’s go find out where they give their next show. Then we’ll follow them around in our cars.”
+​	I smile. “You liked their show, too?”
+​	“I never felt this way,” he says, and then looks as though he’s surprised at his own answer. Behind him, Eleanore’s peeling horse is empty. As the platform turns I see she’s sitting with Tim and Cindy at the carriage. 
+​	“Let’s do that,” I say. 
+​	“Do what?” says Eleanore. 
+​	“Let’s find out where they’re headed and go there, too. Let’s go to their show!”
+​	Cindy Thinks about it and says, “Why are you playing with matches?”
+​	I say, “I got them as a gift.”
+​	“From whom?”
+​	“That kid I danced with,” I say, and I light another one. The blue and orange flame dances between my fingers, and just as it nears my fingers it ebbs out. “He told me I should come on board, then he put those matches in my pocket.”
+​	“What did he mean?”
+​	“I dunno.” I look at the book of matches. It’s yellow and has the Buzz logo and hexagons on it. Inside the cover, someone wrote a letter—“
+​	“Come on board of what?” says Cindy as her carriage disappears from view. 
+​	“Alright, we’re done, everybody get off!” says the operator. He presses a switch and the platform jerks to a hault. The music stops —
 
-“Why are you playing with matches?”
+*(just like pasta e-fasuuuuuuu)*
+
+When everybody comes around to where I’m sitting, I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know when it is.”
+
+
+
+
+
+
+
 
 
 "Those damn Pillars."

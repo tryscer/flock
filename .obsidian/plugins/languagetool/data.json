@@ -18,5 +18,5 @@
   "remoteDictionary": [],
   "pickyMode": true,
   "synonyms": "en",
-  "disabledRules": "EN_UNPAIRED_QUOTES,EN_QUOTES"
+  "disabledRules": "EN_UNPAIRED_QUOTES,EN_QUOTES,AI_HYDRA_LEO_MISSING_COMMA,AI_HYDRA_LEO_MISSING_COMMA,AI_HYDRA_LEO_MISSING_COMMA,AI_HYDRA_LEO_MISSING_COMMA"
 }
