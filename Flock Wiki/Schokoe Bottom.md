@@ -14,8 +14,6 @@ tags:
 ### Poe Museum
 
 Edgar Allan Poe Museum in Shockoe Bottom was open before 1958. It was founded and opened to the public in 1922. It is a few hundred meters from the main street train station
-
-
 #### **Popular Culture and Public Image**
 
 Beyond the classroom, Poe had a strong presence in **1950s popular culture**. His reputation as a dark, troubled, and mysterious figure—often portrayed as a "mad genius"—appealed to youth culture. His work was frequently adapted for radio shows and, later, for television anthology series, which made his stories accessible to a broader audience.
@@ -46,6 +44,7 @@ it is very likely there would have been a sign directing you to U.S. Route 60 fr
 ![[Pasted image 20250927082617.png]]
 
 [Source](https://www.reddit.com/r/rva/comments/os003y/map_of_richmond_from_the_late_1950s_credit_to/#lightbox)
+origin/main
 ## Events effecting in 1958
 
 The construction of the Richmond-Petersburg Turnpike (soon to be I-95) cut a devastating, block-wide swath through the area, physically severing communities and casting a new, concrete shadow over historic landmarks like Main Street Station.
