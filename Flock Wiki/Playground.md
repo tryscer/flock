@@ -16,3 +16,5 @@ The joy and calm of a long road trip
 26-09 14:23 - Eleanore is a flocking geek, always analyzing and verbalizing. She’s the opposite of Alice, who just feels it. 
 
 26-09 15:09 - Chapters 5-6: the quick radicalization following the show in chapter 4. Each of them is radicalized differently but they all become diehards very quickly. 
+
+26-09 19:20 - A story that is retold, becomes the Myth of Barry. (Open source reference)
