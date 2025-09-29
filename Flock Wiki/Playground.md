@@ -18,3 +18,10 @@ The joy and calm of a long road trip
 26-09 15:09 - Chapters 5-6: the quick radicalization following the show in chapter 4. Each of them is radicalized differently but they all become diehards very quickly. 
 
 26-09 19:20 - A story that is retold, becomes the Myth of Barry. (Open source reference)
+
+
+יש סצנה בה צריך להספיק פרויקט מאוד גדול.הפלוק שבא לעשות את העבודה הזו מרגיש שהוא צריך עוד אנשים. הוא מפריש חלק מחבריו לאסוף עוד אנשים מהקרוואן. מגיעים עוד הרבה אנשים שמתחלקים לקבוצות. כל קבוצה עובדתעל חתיכה, יש תיאום קליל בין הקבוצות, ובסוף יש הצלחה. המוזיקה גורמת להם להיות בסינק. אין תחושה של אשמה, אין מבוכה זה מול זה. 
+
+
+צריך רשימה של רגעי פלוקינג מרגשים בחלק ב. 
+

@@ -23,6 +23,10 @@ Beyond the classroom, Poe had a strong presence in **1950s popular culture**. Hi
 **Alfred Hitchcock Presents:** Although Alfred Hitchcock himself only directed a few episodes, this iconic series, which began in 1955, frequently featured suspenseful and often macabre stories that aligned with Poe's themes. While not all episodes were direct adaptations of Poe, the overall tone and many storylines would have resonated with his work.
 
 
+### Road from County fair to Main Station
+![[Pasted image 20250927100510.png]]
+Two options in blue and purple
+
 ### Main Street Train Station
 ![[Pasted image 20250927075615.png]]
 ![[WhatsApp Image 2025-09-27 at 07.47.18_99349f65.jpg]]
