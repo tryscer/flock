@@ -111,7 +111,8 @@ The mixed-race and later predominantly Black character of Navy Hill was a major 
 ## Events effecting in 1958
 
 ### The construction of the Richmond-Petersburg Turnpike (soon to be I-95)
-
+The R-P TP on the map
+![[Pasted image 20250930044235.png]]
 
 The construction cut a devastating, block-wide swath through the area, physically severing communities and casting a new, concrete shadow over historic landmarks like Main Street Station.
 
