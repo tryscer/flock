@@ -10,6 +10,8 @@ Things that are officially part of the book
 
 Synopsis: [[Side 1 Alice]] | [[Side 2 Tim]] | [[Side 3 Jerry lee]]
 
+[[Emotional State beat map]] 
+
 [[Characters]] and [[Flocks]].
 
 [[The Steam Pillars]] and [[How the music works]]
