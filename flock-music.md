@@ -863,11 +863,11 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	“What did he mean?”
 ​	“I dunno.” I look at the book of matches. It’s yellow and has the Buzz logo and hexagons on it. Inside the cover, someone wrote a letter—“
 ​	“Come on board of what?” says Cindy as her carriage disappears from view. 
-​	“Alright, we’re done, everybody get off!” says the operator. He presses a switch and the platform jerks to a hault. The music stops —
+​	“Alright, we’re done, everybody get off!” says the operator. He presses a switch and the platform jerks to a halt. The music stops —
 
-*(just like pasta e-fasuuuuuuu)*
+*(just like pasta e-fasuuuuuuuh...)*
 
-When everybody comes around to where I’m sitting, I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know when it is.”
+When everybody comes around I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know when it is.”
 
 
 
