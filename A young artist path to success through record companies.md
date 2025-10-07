@@ -48,7 +48,7 @@ Ronnie—now Ricky Starr—heads into the studio. Apex's A&R team directs every 
     
 - **Corporate Tie-in:** Ricky Starr's new persona is immediately leveraged for mainstream corporate advertising. Apex arranges for Ricky to appear in a magazine ad campaign, casually leaning against a jukebox with a specific brand of filtered cigarette visible in his hand, implicitly promoting the idea that the singer's smooth voice is unharmed by smoking—a calculated move to target the new youth demographic.
 - ![[Pasted image 20251007115159.png]]
-    
+[Chesterfield Commercial Dean Martin Gerry Lee Louis](https://www.youtube.com/watch?v=FXK81_YzacI)
 
 ### **Stage 5: The National Hit**
 

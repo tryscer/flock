@@ -25,6 +25,8 @@ Record companies served as both launching pads and gatekeepers for young talent:
 - **The Independent Path:** For artists like Chuck Berry or Elvis Presley, the Indies provided the essential platform. Independent labels were often the only viable medium for marginalized African-American artists at the time.
     
 [[ A young artist path to success through record companies]]
+
+[[Personas in the 1950s music industry]]
 ### **The Influence to Change Music (The Cross-Over)**
 
 Record companies actively influenced artists to maximize commercial appeal, often by softening or changing the music's raw edge to achieve "cross-over" success into the white Pop charts:

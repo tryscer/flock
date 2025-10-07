@@ -25,3 +25,6 @@ mentor: [[Dr. Player]]
 [[Mr. C. Evans]]
 [[Mr. Farley]]
 
+Record company
+[[Ahmet Ertegun]]
+
