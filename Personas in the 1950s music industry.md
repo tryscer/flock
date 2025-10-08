@@ -1,3 +1,5 @@
+#research #evil #music #record_companies
+
 # The 1950s Music Industry: A Chain of Influence and Exploitation (Enhanced)
 
 The ecosystem of the record business was divided into layers, moving outward from the corporate core to the people who executed the ground-level work, both legal and illegal.

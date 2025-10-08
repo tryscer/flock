@@ -17,7 +17,7 @@
 [[Eddie]]
 [[Rosetta]] (aka The Cigarette Girl)
 [[Jimmy]]
-manager: [[Betty W. Davis]]
+manager: [[Betye W. Davis]]
 mentor: [[Dr. Player]]
 ## Minor Characters
 [[Sheriff Emerson]]
