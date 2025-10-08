@@ -828,37 +828,38 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
 ​	“Come sit with me on the horse!” cries Cindy. Her horse, of peeling white and fading blue, is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
 ​	“I do not want to celebrate,” I shout after her.  
-​	“I never knew a music show could feel this way,” Barry says, coming into view. His saddle is golden and his smile is idiotic. 
+​	“I never knew a music show could feel this way,” Barry says, coming into view. His saddle is fading gold and his smile is idiotic. 
 ​	“That was one song!”
 ​	"But what a song," he replies, staring at a point above his head. "I mean seeing those cigarette girls was fine, but the music... I mean the dancing..."
 ​	"You don't get it," shouts Eleanore from the edge of the platform, “that show was—“
 ​	“What?” I shout after her.
-​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man, he forewent the horse in favor of a carriage. 
+​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man he forewent the horse in favor of a carriage. 
 ​	“Have you seen that guitarist?" he says. "​I mean did you hear what she did with that guitar?" 
 ​	"What show did you guys see?" asks the kid riding the fading yellow horse behind Tim's carriage. 
-​	"It was the best show ever, man," Tim tells him. "They're called the Steam Pillars." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
+​	"It was the best show ever, man," Tim tells him. "They're called the Steam Pillars and they were on fire." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
 ​	”You'll see other shows!” says Cindy as she reappears. Her golden hair bobs gently around her shoulders. 
 ​	"How?" I say bitterly. "Who will come with me?"
 ​	"I'll come with you!" says the kid. "My name is Bernie."
 ​	“I said that show was *fire!*” Says Eleanor behind her. 
 ​	“It was,” I say. “It was until Barry’s friend shut it all down!”
-​	“Mr. Evans is very friendly,” smiles Barry. He’s looking around the gold-painted trappings of the carousel and humming along with the tacky organ music. “The world,” he adds with a sigh, “is made up of friends.”
+​	"Wait, who's Barry's friend?" asks Bernie. "Come to think of it, who's Barry?"
+​	“I'm Barry and Mr. Evans is a good friend of mine,” says Barry. He’s looking around the gold-painted trappings of the carousel and humming along with the tacky organ music. “The world,” he adds with a sigh, “is made up of good friends.”
 ​	“What’s wrong with you all?” I say. 
-​	“All I'm saying,” says a disappearing Eleanore, “is that this thing with the police was the best—“
+​	“All I'm saying,” says Eleanore, “is that this thing with the police was the best—“
 ​	She disappears again. 
-​	“I'll come with you,” says Cindy. She dismounted her horse nimbly and walks around the platform, against the direction of the carousel. She keeps perfectly centered in my view. "All you have to do is come along."
+​	“I'll come with you,” says Cindy. She dismounted her horse and now she's walking around the edge of the platform, against the direction of the carousel. She keeps perfectly centered in my view. "All you have to do is come along."
 ​	“I just want you all to know that did not count as my first show,” I say. 
 ​	“What did she say?” says Tim. 
 ​	“She said she wants to go to another show,” says Cindy and sits down in his carriage. She smiles at him. “Know any good ones?”
 ​	“Well,” he says. “I think the Seven-Tops should start about now, no?”
 ​	“That’s not funny,” I say, even though I'm laughing. “I want the Steam Pillars! They make you feel…”
 ​	“I said the police thing was the best part!” says Eleanore. “How Mucho was giving it to the cop and the crowd was having none of it… it was the best part of their performance!”
-​	“How do they make you feel, Alice?” asks Bernie. 
+​	“How do they make you feel?” asks Bernie. 
 ​	“They make me feel like I want to throw something at them,” I tell him. 
-​	Barry says, “let’s go find out where they give their next show. Then we’ll follow them around in our car.”
+​	Barry bobs into view and says, “let’s go find out where they give their next show. Then we’ll follow them around in our car.”
 ​	Bernie asks, "why would you want to follow them around?"
 ​	Tim asks, "Don't you have a mother?"
-​	“I never felt this way,” he says, and then looks as though he’s surprised at his own answer. Behind him, Eleanore’s peeling horse is empty. As the platform turns I see she’s sitting with Tim and Cindy at the carriage. 
+​	“I never felt this way,” Barry says, and then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, staring at Cindy. 
 ​	“Let’s do that,” I say. 
 ​	“Do what?” says Eleanore. 
 ​	“Let’s find out where they’re headed and go there, too. Let’s go to their show!”
@@ -875,7 +876,28 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 When everybody comes around I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know when it is.”
 
+“Hot parched peanuts! Jumbo Virginia! Get ’em while they’re hot!”
+​	We are standing in line at the stand, watching an elderly woman in a cafeteria worker's uniform fill small paper packets with huge, fried, salt-encrusted peanuts. Eleanore, Cindy, Barry and Tim surround me. Bernie does, too. 
+​	"What did he say, *exactly*?" says Eleanore. 
+​	"She told you," says Cindy. "He told her to stop idling at the intersection. It's a *metaphor*."
+​	"Stop idling at the *station*," Barry corrects her. "Gee, I sure hope we'll get those peanuts soon." He watches the cafeteria lady and licks his lips. 
+​	"What's it a metaphor for?" asks Bernie. 
+​	"Don't you have a mother, kid?" asks Tim. Bernie shrugs. "And in any case what does it matter what he said, look at what he wrote."
+​	Bernie asks, "what did he write?"
+​	I show him the matchbook cover, where someone hastily penciled in, 
 
+​	*​Tonite, 8*
+
+​	"It's a puzzle!" Bernie calls, and adds an appreciative whistle. 
+​	"I think we shouldn't discount the possibility," says Eleanore, "that he was just asking her out on a date."
+​	"Our peaches?" says Barry. "Ridiculous."
+​	"Gee, thanks, Barry," I say. 
+​	"It is ridiculous," says Cindy. "Even though *Alice* is a very fetching lady..."
+​	"Thanks," I say. 
+​	"...because if he was asking her out on a date, he would also need to ask her where he should pick her up from." Everybody, Bernie included, nod at that dating-world fact. 
+​	"'Ready to come on board?', that's what he asked," I say. "On board the Steam Pillar train, that's where he invited us."
+​	Bernie says, "These guys have a *train?*"
+​	Tim says, "We *obviously* have to go."
 
 
 
