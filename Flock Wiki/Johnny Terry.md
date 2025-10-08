@@ -1,4 +1,4 @@
-#characters 
+#characters #Real_Person 
 
 ![[Pasted image 20250921200821.png]]
 

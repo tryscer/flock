@@ -27,7 +27,7 @@
 ### Musical director, bass singer: [[Johnny Terry]] (Winford E. Terry)
 **The music he brings:** R&B and early funk. 
 **His A-Team Power**: arrangement. From James Brown he learned how to blend a rough lead voice with smooth backings; in this band he does the opposite: blend a smooth vocal lead with edgy guitar, piano and drums. 
-### Band manager: [[Betty W. Davis]]
+### Band manager: [[Betye W. Davis]]
 ### Conductor, special effects: Edwardo Del’Alfonzi ([[Eddie]])
 ### Conductor: Jimmy 
 ### Conductor: [[Rosetta]] 
