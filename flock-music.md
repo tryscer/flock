@@ -870,11 +870,11 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	“What did he mean?”
 ​	“I dunno.” I look at the book of matches. It’s yellow and the cover has the Buzz logo on it. Inside the cover, someone wrote something in pencil... 
 ​	“Come on board of what?” says Cindy as her carriage disappears from view. 
-​	“Alright, we’re done, everybody get off!” says the operator. He presses a switch and the platform jerks to a halt. The music stops —
+​	“Alright, we’re done, everybody get off!” says the operator. He pulls on a lever and the platform jerks to a halt. The music stops —
 
 *(just like pasta e-fasuuuuuuuh...)*
 
-When everybody comes around I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know when it is.”
+When everybody comes around I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know *when* it is.”
 
 “Hot parched peanuts! Jumbo Virginia! Get ’em while they’re hot!”
 ​	We are standing in line at the stand, watching an elderly woman in a cafeteria worker's uniform fill small paper packets with huge, fried, salt-encrusted peanuts. Eleanore, Cindy, Barry and Tim surround me. Bernie does, too. 
@@ -895,18 +895,25 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"It is ridiculous," says Cindy. "Even though *Alice* is a very fetching lady..."
 ​	"Thanks," I say. 
 ​	"...because if he was asking her out on a date, he would also need to ask her where he should pick her up from." Everybody, Bernie included, nod at that dating-world fact. 
-​	"'Ready to come on board?', that's what he asked," I say. "On board the Steam Pillar train, that's where he invited us."
+​	"'Ready to come on board?', that's what he asked," I say. "On board the Steam Pillars train, that's where he invited us."
 ​	Bernie says, "These guys have a *train?*"
 ​	Tim says, "We *obviously* have to go."
+​	Barry says, "Only thing is, at eight our carriage becomes a pumpkin, and we have to be at home."
+​	"Yeah," sighs Cindy. "And also, Eleanore has a train to catch." She gives Eleanore a shifty look, and Eleanore doesn't look back. A wild fantasy brews in my mind: maybe Eleanore will get so sick of this fight with Cindy that she won't allow Cindy to come back with her. Then, I'll have Cindy all for myself. 
+​	"You must be joking," says Bernie. "It's a puzzle! You guys need to solve it!"
+​	"Bernie raises a serious point," says Eleanore. "A puzzle doesn't like to be disrespected like that. Anyway, *I* can always catch a later train."
+​	"If these guys don't come with you, Alice, I'll take you," says Bernie. 
+​	"Thank you, Bernie," I say. "At last, a gentleman."
+​	Tim says, "seriously, Bernie, where's your mother?"
+​	A group of men in identical green suits walks by, looking angry. 
+​​	"Those damn Pillars," one of them says. 
+​	"They'll screw you in each time," says another. 
+​	"What do you want, honey?" says the lady at the stall to Barry. 
+​	Then the PA comes on:
 
+​	*(Barry MacAllister, Jr... Barry MacAllister, Jr... a phone call for you in the fair's management office...)*
 
-
-
-
-
-
-"Those damn Pillars."
-"They'll screw you in each time."
+​	"Are you lost, too?" asks Bernie. 
 
 
 
