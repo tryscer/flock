@@ -892,30 +892,33 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"I think we shouldn't discount the possibility," says Eleanore, "that he was just asking her out on a date."
 ​	"Our peaches?" says Barry. "Ridiculous."
 ​	"Gee, thanks, Barry," I say. 
-​	"It is ridiculous," says Cindy. "Even though *Alice* is a very fetching lady..."
-​	"Thanks," I say. 
+​	"It is ridiculous," says Cindy, and when I raise an eyebrow she adds, "even though *Alice* is a very fetching lady..."
+​	"Thanks, Cin," I say. 
 ​	"...because if he was asking her out on a date, he would also need to ask her where he should pick her up from." Everybody, Bernie included, nod at that dating-world fact. 
 ​	"'Ready to come on board?', that's what he asked," I say. "On board the Steam Pillars train, that's where he invited us."
 ​	Bernie says, "These guys have a *train?*"
 ​	Tim says, "We *obviously* have to go."
 ​	Barry says, "Only thing is, at eight our carriage becomes a pumpkin, and we have to be at home."
-​	"Yeah," sighs Cindy. "And also, Eleanore has a train to catch." She gives Eleanore a shifty look, and Eleanore doesn't look back. A wild fantasy brews in my mind: maybe Eleanore will get so sick of this fight with Cindy that she won't allow Cindy to come back with her. Then, I'll have Cindy all for myself. 
+​	"Yeah," sighs Cindy. "And also, Eleanore has a train to catch." She gives Eleanore a shifty look, and Eleanore doesn't look back. A wild fantasy brews in my mind: maybe Eleanore will get so sick of this fight that she won't allow Cindy to come back with her. Then, I'll have Cindy all for myself. 
 ​	"You must be joking," says Bernie. "It's a puzzle! You guys need to solve it!"
-​	"Bernie raises a serious point," says Eleanore. "A puzzle doesn't like to be disrespected like that. Anyway, *I* can always catch a later train."
+​	"Bernie raises an important point," says Eleanore. "A puzzle doesn't like to be disrespected like that. Anyway, *I* can always catch a later train."
 ​	"If these guys don't come with you, Alice, I'll take you," says Bernie. 
 ​	"Thank you, Bernie," I say. "At last, a gentleman."
-​	Tim says, "seriously, Bernie, where's your mother?"
-​	A group of men in identical green suits walks by, looking angry. 
+​	Tim says, "Seriously, Bernie, where's your mother?"
+​	A group of men in identical green suits walks by, all looking angry. One of them is holding a trumpet case.  
 ​​	"Those damn Pillars," one of them says. 
 ​	"They'll screw you in each time," says another. 
 ​	"What do you want, honey?" says the lady at the stall to Barry. 
 ​	Then the PA comes on:
 
-​	*(Barry MacAllister, Jr... Barry MacAllister, Jr... a phone call for you in the fair's management office...)*
+​	*(Barry MacAllister, Jr... Barry MacAllister, Jr... a phone call for you from your father in the fair's management office...)*
 
 ​	"Are you lost, too?" asks Bernie. 
 
-
+Barry leads the way and we follow. Bernie has petered off to the carousel. 
+​	"Hey Barry, what do you think your dad wants?" asks Eleanore. 
+​	"Leave him alone, Eleanore," says Tim. 
+​	"No, really, Barry, "
 
 
 
