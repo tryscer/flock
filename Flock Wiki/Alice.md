@@ -1,3 +1,8 @@
+---
+aliases:
+  - Allison
+  - Peaches
+---
 #characters #unfinished 
 
 Full name: Allison "Peaches" Parker

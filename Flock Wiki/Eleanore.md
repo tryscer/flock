@@ -1,5 +1,10 @@
 #characters 
-
+```
+---
+aliases:
+  - Poppy
+---
+```
 Cousin of [[Barry]] and [[Cindy]].
 
 

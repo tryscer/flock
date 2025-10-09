@@ -1,5 +1,13 @@
 #characters #unfinished 
 
+```
+---
+aliases:
+  - Mr MacAllister, Jr
+  - Bear
+---
+```
+
 ![[Pasted image 20250922165940.png]]**Full name:** Barry MacAllister, Jr. 
 Brother of [[Cindy]]. 
 Cousin of [[Eleanore]].

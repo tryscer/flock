@@ -1,4 +1,11 @@
 #Real_Person #record_companies 
+```
+---
+aliases:
+  - Ahmet
+  - Mr Ertegun
+---
+```
 ### **Ahmet Ertegun: From Turkish Diplomat’s Son to R&B Kingpin (Up to 1958)**
 
 #### **1. Early Life and the Jazz Obsession (1923 – 1946)**
