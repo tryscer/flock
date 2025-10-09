@@ -1,4 +1,4 @@
-#research #evil #music #record_companies
+#research #evil #music #record-companies 
 
 # The 1950s Music Industry: A Chain of Influence and Exploitation (Enhanced)
 

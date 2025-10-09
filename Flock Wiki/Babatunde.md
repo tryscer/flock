@@ -1,7 +1,7 @@
 ---
 tags:
 ---
-#unfinished #Real_Person #characters 
+#unfinished #Real-Person #characters 
 
 ---
 aliases:
