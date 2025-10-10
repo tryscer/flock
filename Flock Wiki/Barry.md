@@ -2,6 +2,7 @@
 aliases:
   - Mr MacAllister, Jr
   - Bear
+  - בארי
 ---
 #characters #unfinished 
 

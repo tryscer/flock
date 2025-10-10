@@ -1,5 +1,9 @@
-#characters #unfinished 
+---
+aliases:
+  - סינדי
+---
 
+#characters #unfinished
 Full name: Cindy MacAllister
 Sister of [[Barry]].
 Best friend of [[Alice]].

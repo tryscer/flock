@@ -1,10 +1,10 @@
-#characters 
-```
 ---
 aliases:
   - Poppy
+  - אלינור
 ---
-```
+#characters 
+
 Cousin of [[Barry]] and [[Cindy]].
 
 

@@ -2,6 +2,7 @@
 aliases:
   - Allison
   - Peaches
+  - אליס
 ---
 #characters #unfinished 
 
