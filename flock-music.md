@@ -830,17 +830,17 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	“I do not want to celebrate,” I shout after her.  
 ​	“I never knew a music show could feel this way,” Barry says, coming into view. His saddle is fading gold and his smile is idiotic. 
 ​	“That was one song!”
-​	"But what a song," he replies, staring at a point above his head. "I mean seeing those cigarette girls was fine, but the music... I mean the dancing..."
+​	"But what a song," he replies, staring at a point above his head. "I mean seeing those cigarette girls program in action, that was fine, but the music... I mean the dancing..."
 ​	"You don't get it," shouts Eleanore from the edge of the platform, “that show was—“
 ​	“What?” I shout after her.
-​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man he forewent the horse in favor of a carriage. 
-​	“Have you seen that guitarist?" he says. "​I mean did you hear what she did with that guitar?" 
-​	"What show did you guys see?" asks the kid riding the fading yellow horse behind Tim's carriage. 
+​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man he forewent the horse in favor of a carriage. His manliness is challenged by the Bear-gineer he's holding.  
+​	“Have you seen that guitarist?" he says. "​I mean did you hear what she *did* with that *guitar*?" 
+​	"What show did you guys go and see?" asks the child riding the fading yellow horse behind Tim's carriage. 
 ​	"It was the best show ever, man," Tim tells him. "They're called the Steam Pillars and they were on fire." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
 ​	”You'll see other shows!” says Cindy as she reappears. Her golden hair bobs gently around her shoulders. 
-​	"How?" I say bitterly. "Who will come with me?"
+​	"How?" I say, bitterly. "Who will come with me?"
 ​	"I'll come with you!" says the kid. "My name is Bernie."
-​	“I said that show was *fire!*” Says Eleanor behind her. 
+​	“I said that show was *fire!*” Says Eleanor. 
 ​	“It was,” I say. “It was until Barry’s friend shut it all down!”
 ​	"Wait, who's Barry's friend?" asks Bernie. "Come to think of it, who's Barry?"
 ​	“I'm Barry and Mr. Evans is a good friend of mine,” says Barry. He’s looking around the gold-painted trappings of the carousel and humming along with the tacky organ music. “The world,” he adds with a sigh, “is made up of good friends.”
@@ -850,7 +850,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	“I'll come with you,” says Cindy. She dismounted her horse and now she's walking around the edge of the platform, against the direction of the carousel. She keeps perfectly centered in my view. "All you have to do is come along."
 ​	“I just want you all to know that did not count as my first show,” I say. 
 ​	“What did she say?” says Tim. 
-​	“She said she wants to go to another show,” says Cindy and sits down in his carriage. She smiles at him. “Know any good ones?”
+​	“She said she wants to go to see another show,” says Cindy and sits down in his carriage. She smiles at him. “Know any good ones?”
 ​	“Well,” he says. “I think the Seven-Tops should start about now, no?”
 ​	“That’s not funny,” I say, even though I'm laughing. “I want the Steam Pillars! They make you feel…”
 ​	“I said the police thing was the best part!” says Eleanore. “How Mucho was giving it to the cop and the crowd was having none of it… it was the best part of their performance!”
@@ -859,16 +859,19 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	Barry bobs into view and says, “let’s go find out where they give their next show. Then we’ll follow them around in our car.”
 ​	Bernie asks, "why would you want to follow them around?"
 ​	Tim asks, "Don't you have a mother?"
-​	“I never felt this way,” Barry says, and then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, staring at Cindy. 
+​	Bernie answers, "Why are you holding a teddy bear?"
+​	Cindy smirks. Eleanore frowns. 
+​	“I never felt this way,” Barry says, then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, staring at Cindy. 
 ​	“Let’s do that,” I say. 
 ​	“Do what?” says Eleanore. 
 ​	“Let’s find out where they’re headed and go there, too. Let’s go to their show!”
+​	"That would be something," says Barry.
 ​	Cindy thinks about it and says, “Why are you playing with matches?”
 ​	I say, “I got them as a gift.”
 ​	“From whom?”
-​	“That kid I danced with,” I say, and I light another one. The blue and orange flame dances between my fingers, and just as it nears my fingers it ebbs out. “He told me I should come on board, then he put those matches in my hand.”
+​	“That kid I danced with,” I say, and I light a match. The blue and orange flame dances between my fingers, and just as it nears my fingers it ebbs out. “He told me I should come on board, then he put those matches in my hand.”
 ​	“What did he mean?”
-​	“I dunno.” I look at the book of matches. It’s yellow and the cover has the Buzz logo on it. Inside the cover, someone wrote something in pencil... 
+​	“I dunno.” I look at the book of matches: a standard, yellow Buzz Cigarettes matchbook. Inside the cover, someone wrote something in pencil... 
 ​	“Come on board of what?” says Cindy as her carriage disappears from view. 
 ​	“Alright, we’re done, everybody get off!” says the operator. He pulls on a lever and the platform jerks to a halt. The music stops —
 
@@ -877,12 +880,12 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 When everybody comes around I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know *when* it is.”
 
 “Hot parched peanuts! Jumbo Virginia! Get ’em while they’re hot!”
-​	We are standing in line at the stand, watching an elderly woman in a cafeteria worker's uniform fill small paper packets with huge, fried, salt-encrusted peanuts. Eleanore, Cindy, Barry and Tim surround me. Bernie does, too. 
+​	We are standing in line at the stand, watching an elderly woman in a cafeteria worker's uniform shout as she's filling small paper packets with huge, fried, salt-encrusted peanuts. Eleanore, Cindy, Barry and Tim surround me. Bernie does, too. 
 ​	"What did he say, *exactly*?" says Eleanore. 
-​	"She told you," says Cindy. "He told her to stop idling at the intersection. It's a *metaphor*."
-​	"Stop idling at the *station*," Barry corrects her. "Gee, I sure hope we'll get those peanuts soon." He watches the cafeteria lady and licks his lips. 
+​	"She told you," says Cindy. "He said to stop idling at the intersection. It's a *metaphor*."
+​	"Stop idling at the *station*," Barry corrects her. "Gee, I sure hope we'll get those peanuts soon." He watches the cafeteria lady and licks his lips. "The important thing is that he told her to *come on board*." 
 ​	"What's it a metaphor for?" asks Bernie. 
-​	"Don't you have a mother, kid?" asks Tim. Bernie shrugs. "And in any case what does it matter what he said, look at what he wrote."
+​	"Don't you have a mother, kid?" asks Tim. Bernie shrugs. "And in any case what does it matter what he said, look at what he wrote!"
 ​	Bernie asks, "what did he write?"
 ​	I show him the matchbook cover, where someone hastily penciled in, 
 
@@ -917,8 +920,23 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 
 Barry leads the way and we follow. Bernie has petered off to the carousel. 
 ​	"Hey Barry, what do you think your dad wants?" asks Eleanore. 
-​	"Leave him alone, Eleanore," says Tim. 
-​	"No, really, Barry, "
+​	"Leave Barry alone, Eleanore," says Tim. 
+​	"No, really, Barry, did you forget your packed lunch?"
+​	"I think my father," says Barry, walking so fast we hurry to catch up with him, "is calling to hear a report about my successful cigarette girl program."
+​	"That's right," says Tim, putting a hand on Barry's shoulder, "Barry here is the man of the event, and he deserves his praise."
+​	"Thanks, man," says Barry. 
+​	"Maybe Barry deserves the Bear-Gineer," says Eleanore and links her arm through Tim's. 
+​	"The Bear-Gineer is Tim's, I won it for him fair and square," says Cindy and links her arm through Tim's other arm. 
+​	"Alright," says Tim. "You two. I've had it." He breaks free from them. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
+​	Barry says, "Leave Tim alone, girls."
+​	Eleanore says, "You never let me have anything nice, don'tcha Cindy."
+​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and carpark. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
+
+"I'm telling you, Dahlia, the press were all over us, cameras too--"
+​	The outer office 
+
+
+​	
 
 
 
