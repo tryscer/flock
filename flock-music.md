@@ -930,10 +930,38 @@ Barry leads the way and we follow. Bernie has petered off to the carousel.
 ​	"Alright," says Tim. "You two. I've had it." He breaks free from them. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
 ​	Barry says, "Leave Tim alone, girls."
 ​	Eleanore says, "You never let me have anything nice, don'tcha Cindy."
-​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and carpark. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
+​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and car park. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
 
 "I'm telling you, Dahlia, the press were all over us, cameras too--"
-​	The outer office 
+​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in frames pictures and on the dress of the woman sitting behind the table, talking on the phone. We line up behind Barry. ​	
+​	"--and that little man from the *News Leader* was absolutely horrible--"
+​	"Hello," says Barry. "Mr. MacAllister, here to see Mr. C. Evans." He adds, "Ehm."
+​	"All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her head and tells Barry, "You can go right in, honey. Mr. Evans is not here but the telephone is right there on that table." She gestures at the doorway in the middle of the trailer. 
+​	"Good luck, Bear," says Tim. 
+​	Barry puffs his chest and enters.
+​	"I finally find a nice guy and you have to ruin it for me," whispers Eleanore.
+​	"Don't they have three million nice guys in New York?" Cindy whispers back. 
+​	"If you must know, they're not that nice."
+​	Tim whispers, "I can still hear you two."
+​	Through the doorway I can see Barry putting his hand up the phone. He draws a deep breath. A big, fake smile spreads upon his face. He puts the receiver to his ear. I can hear him say, "Father, good afternoon!"
+​	Mr. Evans' secretary says, "I told Mr. Evans, I said so myself, I said 'Don't hire those Pillar people, their manager sounds shady. *And* she's a woman.' But would men listen?"
+​	Cindy whispers, "You're here for a hot second and you claim possession of everything you see. What does that tell you?"
+​	Eleanore whispers back, "You try to buy everything, what does that tell you?"
+​	Mr. Evans' secretary says, "I can also hear you now, girls. Kindly take it outside."
+​	"I tried to warn them, miss," says Tim. 
+​	"You're on thin ice too, young man. Anyway, Dahlia, that is not the hottest story of the day--"
+​	I look at Barry; he's holding the receiver to his ear but not saying anything. His lips are pursed and the blood is fast drawing away from his face. I look the other way: Cindy and Eleanore are standing outside, arguing. I summon some courage and walk up to Tim. 
+​	"So," I say. "Do you think we'll get to see the Pillars again?"
+​	Mr. Evans' secretary says, "Apparently, there was some big-shot mogul's son here at the fair tonight, and while all this brouhaha was happenin' and Mr. Evans had to go over there to straighten things up--"
+​	I watch Barry, receiver to ear, slowly deflating.
+​	"Aha," he says. "Aha, yessir."
+​	Mr. Evans' secretary says, "--so he had to tell this kid's dad that he was dancing with a *black girl*."
+​	Cindy comes back, her face very red. 
+​	"Well," she tells me, "I have nowhere to sleep tonight." 
+​	Outside, Eleanore is smoking a cigarette. Back in the inner office, a shrunken version of Barry is putting down the telephone receiver. He ambles, slowly, back to us. His face is as red as Cindy's. 
+​	"Well," he says. "We're getting in the car and we're going back home."
+​	We all walk back to the car park in silence.
+
 
 
 ​	
