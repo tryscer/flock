@@ -3,7 +3,7 @@ tags:
   - research
   - "#places"
 ---
-A neighborehood in Ric​hmond. 
+A neighborhood in Richmond. 
 
 <img width="1104" height="766" alt="image" src="https://github.com/user-attachments/assets/92f7ffa7-a4f7-468e-9195-07214a237d39" />
 ![[Pasted image 20250921201345.png]]
