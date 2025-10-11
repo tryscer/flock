@@ -1,5 +1,7 @@
 #ideas 
 
+11-10 Calipso Records (nymph Calipso is daughter of Atlas)
+
 24AM
 Betty Davis coming in to give “Heath” a haircut (+hair dye)
 - Jonny
@@ -17,7 +19,6 @@ The joy and calm of a long road trip
 
 26-09 15:09 - Chapters 5-6: the quick radicalization following the show in chapter 4. Each of them is radicalized differently but they all become diehards very quickly. 
 
-<<<<<<< Updated upstream
 26-09 19:20 - A story that is retold, becomes the Myth of Barry. (Open source reference)
 
 
@@ -29,10 +30,5 @@ The joy and calm of a long road trip
 A scene where the pillars are hosting guests musicians, and they have to be horn instruments. 
 
 The record company as our sendup of a startup: young and vicious. 
-=======
+
 26-09 19:20 - A story that is retold, becomes the Myth of Barry. (Open source reference) 
-
-A scene where the pillars are hosting guests musicians, and they have to be horn instruments. 
-
-The record company as our sendup of a startup: young and vicious. 
->>>>>>> Stashed changes
