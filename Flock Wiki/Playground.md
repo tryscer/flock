@@ -1,7 +1,6 @@
 #ideas 
 
-11-10 Calipso Records (nymph Calipso is daughter of Atlas)
-
+11-10 Calypso Records (nymph Calipso is daughter of Atlas). The name _Calypso_ derives from the [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek") καλύπτω (_kalyptō_) meaning 'to cover', 'to conceal', or 'to hide'. In [Homer](https://en.wikipedia.org/wiki/Homer "Homer")'s _[Odyssey](https://en.wikipedia.org/wiki/Odyssey "Odyssey")_, Calypso tries to keep the fabled Greek hero [Odysseus](https://en.wikipedia.org/wiki/Odysseus "Odysseus") on her island to make him her immortal husband, while he also gets to enjoy her sensual pleasures forever. According to Homer, Calypso kept Odysseus prisoner by force at [Ogygia](https://en.wikipedia.org/wiki/Ogygia "Ogygia") for seven years.[[16]](https://en.wikipedia.org/wiki/Calypso_\(mythology\)#cite_note-16) Calypso enchants Odysseus with her singing as she moves to and fro, weaving on her loom with a golden shuttle.
 24AM
 Betty Davis coming in to give “Heath” a haircut (+hair dye)
 - Jonny

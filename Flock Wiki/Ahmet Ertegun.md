@@ -2,8 +2,14 @@
 aliases:
   - Ahmet
   - Mr Ertegun
+tags:
+  - Real-Person
+  - record-companies
+  - characters
+  - research
 ---
-#Real-Person #record-companies 
+![[Pasted image 20251011122745.png]]
+Real-life head of Atlantic Records. 
 
 ### **Ahmet Ertegun: From Turkish Diplomat’s Son to R&B Kingpin (Up to 1958)**
 
