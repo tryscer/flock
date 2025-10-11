@@ -1,6 +1,8 @@
 ---
 aliases:
   - טים
+tags:
+  - characters
 ---
 ![[Pasted image 20250922165926.png]]
 Flock member of [[Wonderland Express]].

@@ -1,7 +1,14 @@
 ---
 aliases:
-​	- Evans
+- Evans
+- אוונס
+tags:
+- characters
+- chapter-2
+- chapter-3
+-
 ---
 
-The Fair manager of the Herico county fair
+The executive manager of the Herico county fair.
+Contact of [[Barry MacAllister Senior]].
 

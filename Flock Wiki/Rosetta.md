@@ -1,5 +1,10 @@
-(aka the cigarette girl)
+---
+aliases:
+  - The Cigarette Girl
+tags:
+  - characters
+  - chapter-2
+---
 
-#characters #unfinished 
 ![[Pasted image 20250922153349.png]]
 

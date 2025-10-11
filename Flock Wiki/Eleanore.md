@@ -4,7 +4,7 @@ aliases:
   - אלינור
 ---
 #characters 
-
+![[Pasted image 20251011100501.png]]
 Cousin of [[Barry]] and [[Cindy]].
 
 
