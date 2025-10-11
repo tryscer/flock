@@ -7,7 +7,7 @@ aliases:
 ---
 #characters #unfinished 
 
-![[Pasted image 20251011100337.png]]
+![[Pasted image 20251011143216.png]]
 
 Full name: Allison "Peaches" Parker
 Best friend of [[Cindy]].

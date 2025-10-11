@@ -4,8 +4,7 @@ aliases:
   - אלינור
 ---
 #characters 
-![[Pasted image 20251011100501.png]]
-Cousin of [[Barry]] and [[Cindy]].
+![[Pasted image 20251011141908.png]]Cousin of [[Barry]] and [[Cindy]].
 
 
 Eleanore is Cindy’s city-slick, New York–based cousin who functions as a sharp, worldly counterpoint to the more naïve and reckless energy of the other characters. She embodies urban sophistication, skepticism about Southern norms, and a readiness to push boundaries, which makes her both a ballast and a provocateur within the group.

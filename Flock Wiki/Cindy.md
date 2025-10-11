@@ -6,7 +6,7 @@ tags:
   - characters
   - unfinished
 ---
-![[Pasted image 20251011100452.png]]
+![[Pasted image 20251011141931.png]]
 Full name: Cindy MacAllister
 Sister of [[Barry]].
 Best friend of [[Alice]].
