@@ -893,18 +893,18 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 
 ​	"It's a puzzle!" Bernie calls, and adds an appreciative whistle. 
 ​	"I think we shouldn't discount the possibility," says Eleanore, "that he was just asking her out on a date."
-​	"Our peaches?" says Barry. "Ridiculous."
+​	"Our Peaches?" says Barry. "Ridiculous."
 ​	"Gee, thanks, Barry," I say. 
-​	"It is ridiculous," says Cindy, and when I raise an eyebrow she adds, "even though *Alice* is a very fetching lady..."
+​	"It *is* ridiculous," says Cindy, and when I raise an eyebrow she adds, "even though *Alice* is a very fetching lady..."
 ​	"Thanks, Cin," I say. 
 ​	"...because if he was asking her out on a date, he would also need to ask her where he should pick her up from." Everybody, Bernie included, nod at that dating-world fact. 
 ​	"'Ready to come on board?', that's what he asked," I say. "On board the Steam Pillars train, that's where he invited us."
 ​	Bernie says, "These guys have a *train?*"
 ​	Tim says, "We *obviously* have to go."
-​	Barry says, "Only thing is, at eight our carriage becomes a pumpkin, and we have to be at home."
-​	"Yeah," sighs Cindy. "And also, Eleanore has a train to catch." She gives Eleanore a shifty look, and Eleanore doesn't look back. A wild fantasy brews in my mind: maybe Eleanore will get so sick of this fight that she won't allow Cindy to come back with her. Then, I'll have Cindy all for myself. 
+​	Barry says, "Only thing is, at sundown our carriage becomes a pumpkin, and we have to be at home."
+​	"Yeah," sighs Cindy. "And also, Eleanore has a train to catch." She gives Eleanore a shifty look, and Eleanore doesn't look back. A wild fantasy brews in my mind: maybe Eleanore will get so sick of all this fighting that she won't allow Cindy to come back with her. Then, I'll have Cindy all for myself. 
 ​	"You must be joking," says Bernie. "It's a puzzle! You guys need to solve it!"
-​	"Bernie raises an important point," says Eleanore. "A puzzle doesn't like to be disrespected like that. Anyway, *I* can always catch a later train."
+​	"Bernie raises an important point," says Eleanore. "Puzzles don't like to be ignored like that. Anyway, *I* can always catch a later train."
 ​	"If these guys don't come with you, Alice, I'll take you," says Bernie. 
 ​	"Thank you, Bernie," I say. "At last, a gentleman."
 ​	Tim says, "Seriously, Bernie, where's your mother?"
@@ -918,25 +918,25 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 
 ​	"Are you lost, too?" asks Bernie. 
 
-Barry leads the way and we follow. Bernie has petered off to the carousel. 
+Barry leads the way and we follow. Bernie has petered off back to the carousel. 
 ​	"Hey Barry, what do you think your dad wants?" asks Eleanore. 
 ​	"Leave Barry alone, Eleanore," says Tim. 
 ​	"No, really, Barry, did you forget your packed lunch?"
-​	"I think my father," says Barry, walking so fast we hurry to catch up with him, "is calling to hear a report about my successful cigarette girl program."
+​	"I think my father," says Barry, walking so fast we scurry to catch up, "is calling to hear a report about my successful cigarette girl program."
 ​	"That's right," says Tim, putting a hand on Barry's shoulder, "Barry here is the man of the event, and he deserves his praise."
 ​	"Thanks, man," says Barry. 
 ​	"Maybe Barry deserves the Bear-Gineer," says Eleanore and links her arm through Tim's. 
-​	"The Bear-Gineer is Tim's, I won it for him fair and square," says Cindy and links her arm through Tim's other arm. 
+​	"The Bear-Gineer is Tim's, *I* won it for him fair and square," says Cindy and links her arm through Tim's other arm. 
 ​	"Alright," says Tim. "You two. I've had it." He breaks free from them. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
 ​	Barry says, "Leave Tim alone, girls."
 ​	Eleanore says, "You never let me have anything nice, don'tcha, Cindy."
 ​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and car park. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
 
-"I'm telling you, Dahlia, the press were all over us, cameras too--"
-​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in frames pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. We line up behind Barry. ​	
-​	"--and that little man from the *News Leader* was absolutely horrible--"
-​	"Hello," says Barry. "Mr. MacAllister, here to see Mr. C. Evans." He adds, "Ehm."
-​	"All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her head and tells Barry, "You can go right in, honey. Mr. Evans is not here but the telephone is right there on that table." She gestures at the doorway in the middle of the trailer. 
+"-- telling you, Dahlia, the press were all over us, cameras too --"
+​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in frames pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. A wall stands in the middle of the trailer, and through that we can see a sparsely decorated inner office. Afternoon rays invade through the half shut blinds. The elderly woman seems strict. We line up behind Barry. ​	
+​	"--and that little man from the *News Leader* was absolutely horrible --"
+​	"Hello," says Barry. "Mr. MacAllister, here to see Mr. C. Evans." He thinks about it and then adds, "Ehm."
+​	"All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her head and tells Barry, "You can go right in, honey. Mr. Evans is not here but the telephone is right there on that table." She gestures at the doorway.
 ​	"Good luck, Bear," says Tim. 
 ​	Barry puffs his chest and enters.
 ​	"I finally find a nice guy and you have to ruin it for me," whispers Eleanore.
@@ -946,23 +946,45 @@ Barry leads the way and we follow. Bernie has petered off to the carousel.
 ​	Through the doorway I can see Barry putting his hand on the phone. He draws a deep breath. A big, fake smile spreads upon his face. He puts the receiver to his ear. I can hear him say, "Father, good afternoon!"
 ​	Mr. Evans' secretary says, "I told Mr. Evans, I said so myself, I said 'Don't hire those Pillar people, their manager sounds shady. *And* she's a woman.' But would men listen?"
 ​	Cindy whispers, "You're here for a hot second and you claim possession of everything you see. What does that tell you?"
-​	Eleanore whispers back, "You try to buy everything you see, what does that tell you?"
+​	Eleanore whispers back, "You try to buy everything you see, with cash or stuffed animals, what does that tell you?"
 ​	Mr. Evans' secretary says, "I can also hear you now, girls. Kindly take it outside."
 ​	"I tried to warn them, miss," says Tim. 
 ​	"You're on thin ice too, young man. Anyway, Dahlia, that is not the hottest story of the day--"
 ​	I look at Barry; he's holding the receiver to his ear but not saying anything. His lips are pursed and the blood is fast drawing away from his face. I look the other way: Cindy and Eleanore are standing outside, arguing. I summon some courage and walk up to Tim. 
 ​	"So," I say. "Do you think we'll get to see the Pillars again?"
-​	Mr. Evans' secretary says, "Apparently, there was some top banana's son here at the fair tonight, and while all this brouhaha was happenin' and Mr. Evans had to go over there to straighten things up--"
+​	Mr. Evans' secretary says, "Apparently, there's some top banana's son here at the fair today, and while all this brouhaha was happenin' and Mr. Evans had to go over there to straighten things up--"
 ​	I watch Barry, receiver to ear, as he's slowly deflating.
-​	"Aha," he says. "Aha, yessir."
-​	Mr. Evans' secretary says, "--so he had to tell that kid's dad the boy was dancing with a *black girl*."
+​	"Aha," he says. "I mean -- yessir."
+​	Mr. Evans' secretary says, "--so he had to tell that kid's dad that his boy was dancing with a *black girl*."
 ​	Cindy comes back, her face very red. 
-​	"Well," she tells me, "I have nowhere to sleep tonight." 
-​	Outside, Eleanore is smoking a cigarette. Back in the inner office, a shrunken version of Barry is putting down the telephone receiver. He ambles, slowly, back to us. His face is as red as Cindy's. 
-​	"Well," he says. "We're getting in the car right now and we're going back home."
+​	"Well," she tells me, "now I have nowhere to sleep." 
+​	I try to feel sad for her but fail. Outside, Eleanore is smoking a cigarette. Back in the inner office, a shrunken version of Barry is putting down the telephone receiver. He ambles slowly back to us. His face is about as red as Cindy's. 
+​	"Well," he says. "We're getting in the car right now and we're going right back home."
 ​	We all walk back to the car park in silence.
 
-
+"Look at the bright side, Cind."
+​	"What bright side?"
+​	We two keep to the back of the procession, whispering. 
+​	"That you don't have to tell Barry that you're leaving."
+​	Cindy laughs; it's not a happy laugh. I hug her and I can feel in the way she doesn't lean into my smile how unhappy she is. I feel ashamed at how jubilant I feel inside. 
+​	"I really thought I'm getting away this time," she says. 
+​	"I know how you feel," I say and pat her head. "I thought I'll be seeing my first show today."
+​	"Yeah, roughly the same thing."
+​	I link my hand through hers. "We'll have a big slumber party when we get back," I tell her. "Just you and me."
+​​
+The car park is a dusty field right in view of Mr. Evans's office. Barry's car is waiting for us, red and white and smoking. 
+​	"What's that smoke coming out of your car?" asks Eleanore. 
+​	Barry pricks his ears, alarmed; then his muscles go limp. 
+​	"I have a pretty good idea," he says. 
+​	We near the car and Barry opens the back door. Eddie sits inside, still in his mechanic's overalls, smoking a cigarette. 
+​	"Are those my cigarettes?" Barry asks him. 
+​	"Shut up and listen," says Eddie. "Hi, Alice."
+​	"Hi Eddie," I say. I'm hoping Tim notices how popular I've become with the boys. 
+​	Eddie says, "We have a serious situation on our hand, Barry."
+​	Barry says, "Yeah, we kind of really do, so if you don't mind stepping out of my, you know, vehicle..."
+​	Eddie says, "I'm not kidding, Barry. It was revealed to me by trustworthy sources that the police are in this very moment looking for an individual bearing a striking, but unfortunate, resemblance to yours truly..."
+​	Barry says, "Eddie -- or Edwardo -- or whatever -- I'm not in the mood, alright?"
+​	Eddie reaches out from inside the car and grabs Barry by his shirt collar. "Barry," he says, "they're not only looking for my dead ringer. They're looking for his known accomplices."
 
 ​	
 
