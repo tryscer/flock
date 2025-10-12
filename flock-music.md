@@ -933,7 +933,7 @@ Barry leads the way and we follow. Bernie has petered off back to the carousel.
 ​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and car park. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
 
 "-- telling you, Dahlia, the press were all over us, cameras too --"
-​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in frames pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. A wall stands in the middle of the trailer, and through that we can see a sparsely decorated inner office. Afternoon rays invade through the half shut blinds. The elderly woman seems strict. We line up behind Barry. ​	
+​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in frames pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. Through a doorway we can see a sparsely decorated inner office. Afternoon rays invade through the half shut blinds. The elderly woman, in glasses, seems strict. We line up behind Barry. ​	
 ​	"--and that little man from the *News Leader* was absolutely horrible --"
 ​	"Hello," says Barry. "Mr. MacAllister, here to see Mr. C. Evans." He thinks about it and then adds, "Ehm."
 ​	"All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her head and tells Barry, "You can go right in, honey. Mr. Evans is not here but the telephone is right there on that table." She gestures at the doorway.
@@ -943,10 +943,10 @@ Barry leads the way and we follow. Bernie has petered off back to the carousel.
 ​	"Don't they have three million nice guys in New York?" Cindy whispers back. 
 ​	"If you must know, they're not that nice."
 ​	Tim whispers, "I can still hear you two."
-​	Through the doorway I can see Barry putting his hand on the phone. He draws a deep breath. A big, fake smile spreads upon his face. He puts the receiver to his ear. I can hear him say, "Father, good afternoon!"
+​	Through the doorway I can see Barry putting his hand on the phone. He draws a deep breath. A big, elastic smile spreads upon his face. He puts the receiver to his ear. I can hear him say, "Father, good afternoon!"
 ​	Mr. Evans' secretary says, "I told Mr. Evans, I said so myself, I said 'Don't hire those Pillar people, their manager sounds shady. *And* she's a woman.' But would men listen?"
 ​	Cindy whispers, "You're here for a hot second and you claim possession of everything you see. What does that tell you?"
-​	Eleanore whispers back, "You try to buy everything you see, with cash or stuffed animals, what does that tell you?"
+​	Eleanore whispers back, "You try to buy everything you see, with cash or with stuffed animals, what does that tell you?"
 ​	Mr. Evans' secretary says, "I can also hear you now, girls. Kindly take it outside."
 ​	"I tried to warn them, miss," says Tim. 
 ​	"You're on thin ice too, young man. Anyway, Dahlia, that is not the hottest story of the day--"
@@ -962,15 +962,18 @@ Barry leads the way and we follow. Bernie has petered off back to the carousel.
 ​	"Well," he says. "We're getting in the car right now and we're going right back home."
 ​	We all walk back to the car park in silence.
 
-"Look at the bright side, Cind."
+"And so," says Cindy, "ends our day in Wonderland."
+​	I nod. 
+​	"Not with a bang but with a whisper."
+​	"Look at the bright side, Cind."
 ​	"What bright side?"
 ​	We two keep to the back of the procession, whispering. 
-​	"That you don't have to tell Barry that you're leaving."
-​	Cindy laughs; it's not a happy laugh. I hug her and I can feel in the way she doesn't lean into my smile how unhappy she is. I feel ashamed at how jubilant I feel inside. 
-​	"I really thought I'm getting away this time," she says. 
-​	"I know how you feel," I say and pat her head. "I thought I'll be seeing my first show today."
+​	"That you don't have to tell Barry you'll be leaving."
+​	Cindy laughs; it's not a happy laugh. I hug her and I can feel  the way she won't lean into my arms. I feel ashamed at how jubilant I feel. 
+​	"I really thought I'll be getting away this time," she says. 
+​	"I know how you feel," I say and I pat her head. "I thought I'll be seeing my first show today."
 ​	"Yeah, roughly the same thing."
-​	I link my hand through hers. "We'll have a big slumber party when we get back," I tell her. "Just you and me."
+​	I link my hand through hers. "We'll have a big old slumber party when we get back," I tell her. "Just you and me."
 ​​
 The car park is a dusty field right in view of Mr. Evans's office. Barry's car is waiting for us, red and white and smoking. 
 ​	"What's that smoke coming out of your car?" asks Eleanore. 
@@ -982,12 +985,41 @@ The car park is a dusty field right in view of Mr. Evans's office. Barry's car i
 ​	"Hi Eddie," I say. I'm hoping Tim notices how popular I've become with the boys. 
 ​	Eddie says, "We have a serious situation on our hand, Barry."
 ​	Barry says, "Yeah, we kind of really do, so if you don't mind stepping out of my, you know, vehicle..."
-​	Eddie says, "I'm not kidding, Barry. It was revealed to me by trustworthy sources that the police are in this very moment looking for an individual bearing a striking, but unfortunate, resemblance to yours truly..."
+​	Eddie says, "I'm not kidding, Barry. It was confided to me by trustworthy sources that the police are at this very moment looking for an individual bearing a striking, but unfortunate, resemblance to yours truly..."
 ​	Barry says, "Eddie -- or Edwardo -- or whatever -- I'm not in the mood, alright?"
-​	Eddie reaches out from inside the car and grabs Barry by his shirt collar. "Barry," he says, "they're not only looking for my dead ringer. They're looking for his known accomplices."
+​	Eddie reaches out from inside the car and grabs Barry by his shirt collar. "Barry," he says, "they're might not only be looking for my dead ringer. They *might* also be looking for his known *accomplices*. And do you know what *they* look like?"
+​	Barry hangs his head back as if the clouds might be harboring a secret savior. He lets out a long, exasperated sigh. 
+​	"All I wanted was to listen to some music," he says. 
+​	"I know just how you feel," says Eddie. "I was having a relaxing morning back in Durham before a rowdy gang of teens swayed me off the beaten track with their soft drinks and their corner-dancing."
+​	"Hate to say it, Bear," says Tim.
+​	"Don't say it, then."
+​	"Alright, I'll say it," says Eleanore. "We have got to help Eddie. There he was, facing the *man*..."​	
+​	Cindy chuckles.
+​	"Shut up, Cin."
+​	"*You* shut up," says Cindy. 
+​	"Both of you shut up," says Tim.
+​	"Of course we'll help you," I suddenly say. 
+​	Everybody looks at me. 
+​	"I mean," I say and I shuffle my feet a little. "I mean, Barry, of course we'll help him, won't we?"
+​	Barry looks at me and nods. 
+​	"Yeah," he says. "I guess we're just mincing words."
+​	Tim says, "You got any blankets in your trunk?"
 
-​	
-
+At the [!!!] we wait our turn at the head of a long, single-file line of cars. The air is still and the car is steaming. Up ahead two ==policemen== are peering through the window of a Ford pickup. Behind us an impatient driver leans on his horn and other impatient drivers yell back. 
+​	"Now," Barry says, clutching at the wheel. "I mean it. Y'all say zip squat. You smile and you nod. Eleanore, what do you do?"
+​	"Leave me alone."
+​	"She smiles and she nods," says Tim. "We all do."
+​	The policeman signals us to come ahead. On the wheel, Barry's knuckles turn white. In the back seat, I take Cindy's hand. After some thought I take Eleanore's hand as well. She grabs me back. 
+​	"Here we go. Smile and nod," says Barry.
+​	The cop, dusty and sweating on the tarmac, cocks his head at us.
+​	Barry gives him a slight, almost imperceptible nod... My heart is beating so hard I can swear I hear it. 
+​	The cop, almost mechanically, returns the nod and waves us through. 
+​	"That was it?" I say.
+​	"It's like you know their secret handshake," says Tim. There's jealousy in his voice. 
+​	We drive on. 
+​	"Did he do it?" says Eddie from under the blanket beneath our feet. 
+​	"Yeah, he did it," says Cindy. 
+​	"So why aren't you guys cheering?"
 
 
 
