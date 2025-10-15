@@ -1,6 +1,6 @@
 ```show-diff
 show-diff commits: 
-from: HEAD~1 
+from: HEAD^ 
 to: HEAD 
 
 exclude: 
