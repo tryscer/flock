@@ -901,13 +901,9 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"'Ready to come on board?', that's what he asked," I say. "On board the Steam Pillars train, that's where he invited us."
 ​	Bernie says, "These guys have a *train?*"
 ​	Tim says, "We *obviously* have to go."
-​	Barry says, "Only thing is, at sundown our carriage becomes a pumpkin, and we have to be at home."
-​	"Yeah," sighs Cindy. "And also, Eleanore has a train to catch." She gives Eleanore a shifty look, and Eleanore doesn't look back. A wild fantasy brews in my mind: maybe Eleanore will get so sick of all this fighting that she won't allow Cindy to come back with her. Then, I'll have Cindy all for myself. 
-​	"You must be joking," says Bernie. "It's a puzzle! You guys need to solve it!"
-​	"Bernie raises an important point," says Eleanore. "Puzzles don't like to be ignored like that. Anyway, *I* can always catch a later train."
-​	"If these guys don't come with you, Alice, I'll take you," says Bernie. 
-​	"Thank you, Bernie," I say. "At last, a gentleman."
-​	Tim says, "Seriously, Bernie, where's your mother?"
+​	Barry says, "Or die trying."
+​	Cindy says, "But... you know, Eleanore, she has a train to cat​ch home." She tries to give Eleanore a shifty look. 
+​	"Don't worry about me, Cindy," says Eleanore, not meeting her gaze. 
 ​	A group of men in identical green suits walks by, all looking angry. One of them is holding a trumpet case.  
 ​​	"Those damn Pillars," one of them says. 
 ​	"They'll screw you in each time," says another. 
@@ -981,13 +977,13 @@ The car park is a dusty field right in view of Mr. Evans's office. Barry's car i
 ​	"I have a pretty good idea," he says. 
 ​	We near the car and Barry opens the back door. Eddie sits inside, still in his mechanic's overalls, smoking a cigarette. 
 ​	"Are those my cigarettes?" Barry asks him. 
-​	"Shut up and listen," says Eddie. "Hi, Alice."
+​	=="Shut up and listen," says Eddie. "Hi, Alice."
 ​	"Hi Eddie," I say. I'm hoping Tim notices how popular I've become with the boys. 
 ​	Eddie says, "We have a serious situation on our hand, Barry."
 ​	Barry says, "Yeah, we kind of really do, so if you don't mind stepping out of my, you know, vehicle..."
-​	Eddie says, "I'm not kidding, Barry. It was confided to me by trustworthy sources that the police are at this very moment looking for an individual bearing a striking, but unfortunate, resemblance to yours truly..."
+​	Eddie says, "I'm not kidding, Barry. It was confided to me by trustworthy sources that the police are at this very moment looking for an individual bearing a striking, but unfortunate, resemblance to yours truly..."==
 ​	Barry says, "Eddie -- or Edwardo -- or whatever -- I'm not in the mood, alright?"
-​	Eddie reaches out from inside the car and grabs Barry by his shirt collar. "Barry," he says, "they're might not only be looking for my dead ringer. They *might* also be looking for his known *accomplices*. And do you know what *they* look like?"
+​	Eddie reaches out from inside the car and grabs Barry by his shirt collar. "Barry," he says, "if the police would, god forbid, make this awful mistake, how will you live with yourself?"
 ​	Barry hangs his head back as if the clouds might be harboring a secret savior. He lets out a long, exasperated sigh. 
 ​	"All I wanted was to listen to some music," he says. 
 ​	"I know just how you feel," says Eddie. "I was having a relaxing morning back in Durham before a rowdy gang of teens swayed me off the beaten track with their soft drinks and their corner-dancing."
@@ -1003,24 +999,26 @@ The car park is a dusty field right in view of Mr. Evans's office. Barry's car i
 ​	"I mean," I say and I shuffle my feet a little. "I mean, Barry, of course we'll help him, won't we?"
 ​	Barry looks at me and nods. 
 ​	"Yeah," he says. "I guess we're just mincing words."
-​	Tim says, "You got any blankets in your trunk?"
+​	==Tim says, "You got any blankets?"==
 
-At the [!!!] we wait our turn at the head of a long, single-file line of cars. The air is still and the car is steaming. Up ahead two ==policemen== are peering through the window of a Ford pickup. Behind us an impatient driver leans on his horn and other impatient drivers yell back. 
-​	"Now," Barry says, clutching at the wheel. "I mean it. Y'all say zip squat. You smile and you nod. Eleanore, what do you do?"
+The sandy hill surrounding the fairground gives way to a dirt road where we wait our turn at the head of a long, single-file line of cars. The air is still and the car is steaming. Up ahead, a group of khaki-clad policemen are peering through the window of a Ford pickup. Somewhere ahead, an impatient driver leans on his horn and other impatient drivers yell back. 
+​	"Now," Barry says, clutching at the wheel. "I mean it. Y'all say zilch. You smile and you nod. Eleanore, what do you do?"
 ​	"Leave me alone."
-​	"She smiles and she nods," says Tim. "We all do."
+​	"She says zilch and she smiles and she nods," says Tim. "We all do that."
 ​	The policeman signals us to come ahead. On the wheel, Barry's knuckles turn white. In the back seat, I take Cindy's hand. After some thought I take Eleanore's hand as well. She grabs me back. 
 ​	"Here we go. Smile and nod," says Barry.
-​	The cop, dusty and sweating on the tarmac, cocks his head at us.
-​	Barry gives him a slight, almost imperceptible nod... My heart is beating so hard I can swear I hear it thudding in my ears and stomach. 
+​	The cop, dusty and sweating under his campaign hat on the tarmac, cocks his head at us.
+​	Barry gives him a slight, almost imperceptible nod... my heart is beating so hard I can swear I hear it thudding in my ears and stomach, sounding just like Babatunde's drum. 
 ​	The cop, almost mechanically, returns the nod. He waves us through. 
 ​	We drive on. 
 ​	"Was that it?" I say.
 ​	"It's like you know their secret handshake," Tim says. There's jealousy in his voice. 
 ​	In the back window, the Henrico County Fair grows smaller and smaller. 
 
-==description==
-"Did he do it?" says Eddie from under the blanket beneath our feet. 
+The dusty road gives way to a broad, wealthy residential street. Broad houses sit far away from the street in the shade of large trees. Streetcar tracks cross the wide asphalt road. It seems I have awoken from a sweet and happy dream. 
+​	"There goes Wonderland," I say. "Nothing but a story to tell the grandchildren."
+​	"That wasn't the show of your lifetime, it seems, kiddo," says Tim. "Sorry, Alice. I was wrong."
+​	"Did he do it?" says Eddie from under the blanket beneath our feet. 
 ​	"Yeah, he did it," says Cindy. 
 ​	"So why aren't you guys cheering?"
 ​	"We're not in the mood," says Cindy. 
@@ -1031,7 +1029,7 @@ At the [!!!] we wait our turn at the head of a long, single-file line of cars. T
 ​​	“And how did you come to this conclusion?” Eddie says. 
 ​	“Well,” I say. “I got this matchbook.” 
 ​	A hand shoots between the blankets. “Show me.”
-​	I give Eddie the Buzz Cigarettes matchbook. ==description== Eddie pulls the blankets away and sits down underneath us. Cindy shrieks. 
+​	I give Eddie the Buzz Cigarettes matchbook. Eddie pulls the blankets away and sits down underneath us. Cindy shrieks. 
 ​	“Sorry, sorry, sorry, lady,” says Eddie. He unfolds the matchbook and looks at the writing inside. ”Alice,” he says, “do you know what it means?”
 ​	“I know what it means,” I say. “It means other people will be having fun while we’ll be at home, crying.”
 ​	Eddie looks at me, then at Barry. “You!” he says. “Why?”
@@ -1045,6 +1043,9 @@ At the [!!!] we wait our turn at the head of a long, single-file line of cars. T
 ​	“You know, she’s right,” Tim tells him. 
 ​	“You, too?”
 ​	“I’ve been to some shows, man. That was something else.”
+
+The road ahead slopes down, down, down. We look into an ugly, overgrown valley, like a jungle road. My heart sinks, and I can hear it beating again.
+​	"Anyone else hears drums?" says Eleanore.
 ​	“What did you mean?” I ask Eddie. “When you said, ‘Do you know what it means?’”
 ​	Eddie turns to me. He holds my hand and looks deep into my eyes. “It means you were chosen, Alice.”
 ​​	​I hear my heart beating in my ears again, like Babatunde’s big drum. I’m not sure what to say, so to play it safe, I giggle. 
@@ -1052,13 +1053,13 @@ At the [!!!] we wait our turn at the head of a long, single-file line of cars. T
 ​	“That’ll be the day.”
 ​	“How did you feel?”
 ​	“What do you mean?” Barry says. 
-​​	“When they played, man. When you were there listening to their music. Tell me how it felt.” 
+​​	“When they were playing, man. When you were there listening to their music. Tell me how it felt.” 
 ​	Barry takes a deep breath. 
 ​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders, alright? It was the best few minutes of my life. But now it’s over, our carriage is now a pumpkin, and we’re due at our regular life, where you don’t play around with the police and you don’t — you don’t steal people’s Coke away.”
 ​	“And,” says Eddie, “where your corporate life awaits you. Right, Bear?”
 ​	"Don't call me that. Only my friends call me that."
 
-==train station==
+In the front view window, a big clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels... only this Big Ben is dwarfed by a big, ugly highway bridge rising above it. 
 ​	
 
 
