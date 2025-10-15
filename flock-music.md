@@ -836,7 +836,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man he forewent the horse in favor of a carriage. His manliness is challenged by the Bear-gineer he's holding.  
 ​	“Have you seen that guitarist?" he says. "​I mean did you hear what she *did* with that *guitar*?" 
 ​	"What show did you guys go and see?" asks the child riding the fading yellow horse behind Tim's carriage. 
-​	"It was the best show ever, man," Tim tells him. "They're called the Steam Pillars and they were on fire." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
+​	"It was the best show ever, man," Tim tells him. "They're called the Steam Pillars. They were on fire." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
 ​	”You'll see other shows!” says Cindy as she reappears. Her golden hair bobs gently around her shoulders. 
 ​	"How?" I say, bitterly. "Who will come with me?"
 ​	"I'll come with you!" says the kid. "My name is Bernie."
@@ -964,12 +964,12 @@ Barry leads the way and we follow. Bernie has petered off back to the carousel.
 
 "And so," says Cindy, "ends our day in Wonderland."
 ​	I nod. 
-​	"Not with a bang but with a whisper."
+​	"Not with a bang but with a whisper," she adds.
 ​	"Look at the bright side, Cind."
 ​	"What bright side?"
 ​	We two keep to the back of the procession, whispering. 
 ​	"That you don't have to tell Barry you'll be leaving."
-​	Cindy laughs; it's not a happy laugh. I hug her and I can feel  the way she won't lean into my arms. I feel ashamed at how jubilant I feel. 
+​	Cindy laughs; it's not a happy laugh. I hug her and I can sense the way she won't lean into my arms. I feel ashamed at how jubilant I feel. 
 ​	"I really thought I'll be getting away this time," she says. 
 ​	"I know how you feel," I say and I pat her head. "I thought I'll be seeing my first show today."
 ​	"Yeah, roughly the same thing."
@@ -1012,14 +1012,55 @@ At the [!!!] we wait our turn at the head of a long, single-file line of cars. T
 ​	The policeman signals us to come ahead. On the wheel, Barry's knuckles turn white. In the back seat, I take Cindy's hand. After some thought I take Eleanore's hand as well. She grabs me back. 
 ​	"Here we go. Smile and nod," says Barry.
 ​	The cop, dusty and sweating on the tarmac, cocks his head at us.
-​	Barry gives him a slight, almost imperceptible nod... My heart is beating so hard I can swear I hear it. 
-​	The cop, almost mechanically, returns the nod and waves us through. 
-​	"That was it?" I say.
-​	"It's like you know their secret handshake," says Tim. There's jealousy in his voice. 
+​	Barry gives him a slight, almost imperceptible nod... My heart is beating so hard I can swear I hear it thudding in my ears and stomach. 
+​	The cop, almost mechanically, returns the nod. He waves us through. 
 ​	We drive on. 
-​	"Did he do it?" says Eddie from under the blanket beneath our feet. 
+​	"Was that it?" I say.
+​	"It's like you know their secret handshake," Tim says. There's jealousy in his voice. 
+​	In the back window, the Henrico County Fair grows smaller and smaller. 
+
+==description==
+"Did he do it?" says Eddie from under the blanket beneath our feet. 
 ​	"Yeah, he did it," says Cindy. 
 ​	"So why aren't you guys cheering?"
+​	"We're not in the mood," says Cindy. 
+​	"And you're lying on my foot," says Eleanore. 
+​	​"We're going home," I tell him. “Instead of going to the Pillars’ real show.”​	
+​	I hear laughter from underneath the blankets. “What makes you think there’s another show?” Eddie says. 
+​	“Your game is up,” Eleanore tells the blanket. “We know everything. It’s tonight at eight.”
+​​	“And how did you come to this conclusion?” Eddie says. 
+​	“Well,” I say. “I got this matchbook.” 
+​	A hand shoots between the blankets. “Show me.”
+​	I give Eddie the Buzz Cigarettes matchbook. ==description== Eddie pulls the blankets away and sits down underneath us. Cindy shrieks. 
+​	“Sorry, sorry, sorry, lady,” says Eddie. He unfolds the matchbook and looks at the writing inside. ”Alice,” he says, “do you know what it means?”
+​	“I know what it means,” I say. “It means other people will be having fun while we’ll be at home, crying.”
+​	Eddie looks at me, then at Barry. “You!” he says. “Why?”
+​	Barry sighs. “Listen,” he says to the rearview mirror. “Seeing that you’re not in trouble anymore — we’re going to the train station to drop off Eleanore, so feel very free to get off anytime, you know what I mean?”
+​	Eddie leans on the back of the front seat. “What’s wrong with you?” he says. “Can’t you feel excitement anymore?”
+​	“That’s what I want to know,” I say. 
+​	“I *am* excited,” says Barry. “I’m really looking forward to you not being in my car.”
+​	“I’m looking forward to similar things,” says Cindy, looking at Eleanore. 
+​	“Shut up,” says Eleanore. “Eddie is right. Here you are, given an opportunity you will never again have in your young life, and you run back home to daddy.” 
+​	“You shut up,” says Barry. 
+​	“You know, she’s right,” Tim tells him. 
+​	“You, too?”
+​	“I’ve been to some shows, man. That was something else.”
+​	“What did you mean?” I ask Eddie. “When you said, ‘Do you know what it means?’”
+​	Eddie turns to me. He holds my hand and looks deep into my eyes. “It means you were chosen, Alice.”
+​​	​I hear my heart beating in my ears again, like Babatunde’s big drum. I’m not sure what to say, so to play it safe, I giggle. 
+​	Cindy says, “You’re the chosen one, Alice!” Eddie makes a sour face at her, then turns back to Eddie. “Just tell me one thing, man. One thing and then I’ll leave you alone.”
+​	“That’ll be the day.”
+​	“How did you feel?”
+​	“What do you mean?” Barry says. 
+​​	“When they played, man. When you were there listening to their music. Tell me how it felt.” 
+​	Barry takes a deep breath. 
+​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders, alright? It was the best few minutes of my life. But now it’s over, our carriage is now a pumpkin, and we’re due at our regular life, where you don’t play around with the police and you don’t — you don’t steal people’s Coke away.”
+​	“And,” says Eddie, “where your corporate life awaits you. Right, Bear?”
+​	"Don't call me that. Only my friends call me that."
+
+==train station==
+​	
+
 
 
 
