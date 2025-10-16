@@ -1015,7 +1015,7 @@ The sandy hill surrounding the fairground gives way to a dirt road where we wait
 ​	"It's like you know their secret handshake," Tim says. There's jealousy in his voice. 
 ​	In the back window, the Henrico County Fair grows smaller and smaller. 
 
-The dusty road gives way to a broad, wealthy residential street. Broad houses sit far away from the street in the shade of large trees. Streetcar tracks cross the wide asphalt road. It seems I have awoken from a sweet and happy dream. 
+The dusty road gives way to a broad, wealthy residential street. Broad houses sit far away from the road in the shade of large trees. Streetcar tracks cross the wide asphalt road and I rock and jerk as we go over them. It seems I have been rudely awoken from a sweet and happy dream. 
 ​	"There goes Wonderland," I say. "Nothing but a story to tell the grandchildren."
 ​	"That wasn't the show of your lifetime, it seems, kiddo," says Tim. "Sorry, Alice. I was wrong."
 ​	"Did he do it?" says Eddie from under the blanket beneath our feet. 
@@ -1028,7 +1028,7 @@ The dusty road gives way to a broad, wealthy residential street. Broad houses si
 ​	“Your game is up,” Eleanore tells the blanket. “We know everything. It’s tonight at eight.”
 ​​	“And how did you come to this conclusion?” Eddie says. 
 ​	“Well,” I say. “I got this matchbook.” 
-​	A hand shoots between the blankets. “Show me.”
+​	A hand shoots up from between the blankets. “Show me.”
 ​	I give Eddie the Buzz Cigarettes matchbook. Eddie pulls the blankets away and sits down underneath us. Cindy shrieks. 
 ​	“Sorry, sorry, sorry, lady,” says Eddie. He unfolds the matchbook and looks at the writing inside. ”Alice,” he says, “do you know what it means?”
 ​	“I know what it means,” I say. “It means other people will be having fun while we’ll be at home, crying.”
@@ -1044,22 +1044,27 @@ The dusty road gives way to a broad, wealthy residential street. Broad houses si
 ​	“You, too?”
 ​	“I’ve been to some shows, man. That was something else.”
 
-The road ahead slopes down, down, down. We look into an ugly, overgrown valley, like a jungle road. My heart sinks, and I can hear it beating again.
+The road ahead slopes down, down, down. We look into an ugly, overgrown valley, like a jungle road in the middle of the city. My heart sinks, and I can hear it beating again.
 ​	"Anyone else hears drums?" says Eleanore.
 ​	“What did you mean?” I ask Eddie. “When you said, ‘Do you know what it means?’”
 ​	Eddie turns to me. He holds my hand and looks deep into my eyes. “It means you were chosen, Alice.”
 ​​	​I hear my heart beating in my ears again, like Babatunde’s big drum. I’m not sure what to say, so to play it safe, I giggle. 
-​	Cindy says, “You’re the chosen one, Alice!” Eddie makes a sour face at her, then turns back to Eddie. “Just tell me one thing, man. One thing and then I’ll leave you alone.”
+​	Cindy says, “You’re the chosen one, Alice!” 
+​	Eddie makes a sour face at her, then turns back to Eddie. “Just tell me one thing, man. One thing and then I’ll leave you alone.”
 ​	“That’ll be the day.”
 ​	“How did you feel?”
 ​	“What do you mean?” Barry says. 
 ​​	“When they were playing, man. When you were there listening to their music. Tell me how it felt.” 
 ​	Barry takes a deep breath. 
-​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders, alright? It was the best few minutes of my life. But now it’s over, our carriage is now a pumpkin, and we’re due at our regular life, where you don’t play around with the police and you don’t — you don’t steal people’s Coke away.”
+​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders? It was the best few minutes of my life. But now it’s over, our carriage is a pumpkin, and we’re due at our regular life, where you don’t play around with the police and you don’t — you don’t steal people’s Coke away.”
 ​	“And,” says Eddie, “where your corporate life awaits you. Right, Bear?”
 ​	"Don't call me that. Only my friends call me that."
+​	"All that responsibility, the little perks... the nice suits... and maybe, someday, if you slave hard enough, that corner office looming in the future..."
+​	"Well," Barry says, "not all of us are such big fans of day-drinking and idleness."
 
-In the front view window, a big clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels... only this Big Ben is dwarfed by a big, ugly highway bridge rising above it. 
+​	
+
+In the front window, a big clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels... only this Big Ben is dwarfed by a big, new highway bridge rising above it. 
 ​	
 
 
