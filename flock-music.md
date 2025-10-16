@@ -1076,13 +1076,9 @@ We get out of the car, gloomy and stormy in the bright summer sun.
 
 ​	*(Boom.)*
 
-​"Aw," says Eddie. "That is very heartwarming. Say, that reminds me of something. Barry, could I have your car keys?"
-​	"Good God, will you go already?"
-​	"In a moment, in a moment, in a moment. This is for a good cause, trust me."
-
-​	*(Boom.)*
-
-Barry hands him the car keys, and Eddie walks to the back of the car, where he unlocks the trunk. He swings the lid open and out ambles a very sweaty man in foreign, ceremonial garb, holding a very large drum. 
+​"Aw," says Eddie. "That is very heartwarming."
+​	Barry hands Eleanore the car keys, and she walks to the back of the car. She swings the lid open and stumbles back. Out ambles a very sweaty man in foreign, ceremonial garb, holding a very large drum. 
+​	"Oh yeah," Eddie says. "I knew I forgot something."
 ​	"Babatunde!" I cry. "What are you doing in the trunk?"
 ​	
 
