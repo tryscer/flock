@@ -1048,23 +1048,42 @@ The road ahead slopes down, down, down. We look into an ugly, overgrown valley, 
 ​	"Anyone else hears drums?" says Eleanore.
 ​	“What did you mean?” I ask Eddie. “When you said, ‘Do you know what it means?’”
 ​	Eddie turns to me. He holds my hand and looks deep into my eyes. “It means you were chosen, Alice.”
-​​	​I hear my heart beating in my ears again, like Babatunde’s big drum. I’m not sure what to say, so to play it safe, I giggle. 
-​	Cindy says, “You’re the chosen one, Alice!” 
-​	Eddie makes a sour face at her, then turns back to Eddie. “Just tell me one thing, man. One thing and then I’ll leave you alone.”
+​	I giggle.
+​	Cindy says, “You’re the chosen one, Alice!” Eddie makes a sour face at her.
+​​	Inside, I'm boiling. Was I really chosen? No matter for what, I think, when did anyone ever choose me? I hear my heart beating in my ears again, like Babatunde’s big drum.
+
+​	*(BOOM!)*
+
+“Just tell me one thing," Eddie says to Barry. "One thing and then I’ll leave you alone.”
 ​	“That’ll be the day.”
 ​	“How did you feel?”
 ​	“What do you mean?” Barry says. 
 ​​	“When they were playing, man. When you were there listening to their music. Tell me how it felt.” 
 ​	Barry takes a deep breath. 
-​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders? It was the best few minutes of my life. But now it’s over, our carriage is a pumpkin, and we’re due at our regular life, where you don’t play around with the police and you don’t — you don’t steal people’s Coke away.”
+​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders? It was the best few minutes of my life. But now it’s over, our carriage is a pumpkin, and we’re due at our regular life, where you don’t play around with the police and you don’t — don't -- you don’t steal people’s Coke away.”
 ​	“And,” says Eddie, “where your corporate life awaits you. Right, Bear?”
 ​	"Don't call me that. Only my friends call me that."
 ​	"All that responsibility, the little perks... the nice suits... and maybe, someday, if you slave hard enough, that corner office looming in the future..."
-​	"Well," Barry says, "not all of us are such big fans of day-drinking and idleness."
+​	"Well," Barry says, "not all of us are such big fans of day-drinking." 
+​	"The future is a long carpeted corridor," Eddie says. "Think about that. A long carpeted corridor terminating in a big offic​e."
 
+In the front window, a big clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels... only this Big Ben is dwarfed by a big highway bridge being constructed above it. As we drive near it, it seems to have a grotesquely fancy train station building attached to its midriff. Barry parks the car. 
+​	"Well," he says. "...yeah."
+​	"It's been a pleasure as always," says Eleanore. ​	
 ​	
+We get out of the car, gloomy and stormy in the bright summer sun. 
+​	"My luggage is in the trunk," Eleanore says. "Then I guess I'll be on my way." Suddenly and without notice, Cindy breaks down and hugs her. Eleanore puts on a disgusted face, but then hugs her back.
 
-In the front window, a big clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels... only this Big Ben is dwarfed by a big, new highway bridge rising above it. 
+​	*(Boom.)*
+
+​"Aw," says Eddie. "That is very heartwarming. Say, that reminds me of something. Barry, could I have your car keys?"
+​	"Good God, will you go already?"
+​	"In a moment, in a moment, in a moment. This is for a good cause, trust me."
+
+​	*(Boom.)*
+
+Barry hands him the car keys, and Eddie walks to the back of the car, where he unlocks the trunk. He swings the lid open and out ambles a very sweaty man in foreign, ceremonial garb, holding a very large drum. 
+​	"Babatunde!" I cry. "What are you doing in the trunk?"
 ​	
 
 
