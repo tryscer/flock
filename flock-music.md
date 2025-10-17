@@ -1060,32 +1060,75 @@ The road ahead slopes down, down, down. We look into an ugly, overgrown valley, 
 ​	“What do you mean?” Barry says. 
 ​​	“When they were playing, man. When you were there listening to their music. Tell me how it felt.” 
 ​	Barry takes a deep breath. 
-​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders? It was the best few minutes of my life. But now it’s over, our carriage is a pumpkin, and we’re due at our regular life, where you don’t play around with the police and you don’t — don't -- you don’t steal people’s Coke away.”
-​	“And,” says Eddie, “where your corporate life awaits you. Right, Bear?”
+​	“It felt amazing,” he suddenly shouts. “Okay? It felt like a thousand pounds have been lifted off my shoulders... come to think of it, it was the best few minutes of my life. Alright? But now it’s over, our carriage is a pumpkin, and we’re due at our regular life, where you don’t horse around with the police and you don’t — don't -- you don’t steal people’s Cokes away.”
+​	"Also," says Eleanore, "daddy called."
+​	“So that's it,” says Eddie, “your father beckoned you back into your Junior Executive life. Right, Bear?”
 ​	"Don't call me that. Only my friends call me that."
-​	"All that responsibility, the little perks... the nice suits... and maybe, someday, if you slave hard enough, that corner office looming in the future..."
+​	"All that responsibility... making daddy proud... the nice suits... and maybe, someday, if you slave hard enough, that corner office looming in the future."
 ​	"Well," Barry says, "not all of us are such big fans of day-drinking." 
 ​	"The future is a long carpeted corridor," Eddie says. "Think about that. A long carpeted corridor terminating in a big offic​e."
 
-In the front window, a big clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels... only this Big Ben is dwarfed by a big highway bridge being constructed above it. As we drive near it, it seems to have a grotesquely fancy train station building attached to its midriff. Barry parks the car. 
+In the front window, a clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels. Only this Big Ben is dwarfed by a big highway bridge being constructed above it. As we drive near it, it seems to have a grotesquely fancy train station building attached to its midriff. Barry parks near it. 
 ​	"Well," he says. "...yeah."
-​	"It's been a pleasure as always," says Eleanore. ​	
-​	
-We get out of the car, gloomy and stormy in the bright summer sun. 
-​	"My luggage is in the trunk," Eleanore says. "Then I guess I'll be on my way." Suddenly and without notice, Cindy breaks down and hugs her. Eleanore puts on a disgusted face, but then hugs her back.
+​	We get out of the car, gloomy and stormy in the bright summer sun. 
+​	"It's been a pleasure as always," Eleanore says. "My luggage is in the trunk, then I guess I'll be on my way." 
+
 
 ​	*(Boom.)*
 
 ​"Aw," says Eddie. "That is very heartwarming."
-​	Barry hands Eleanore the car keys, and she walks to the back of the car. She swings the lid open and stumbles back. Out ambles a very sweaty man in foreign, ceremonial garb, holding a very large drum. 
-​	"Oh yeah," Eddie says. "I knew I forgot something."
+​	Barry hands Eleanore the car keys, and she walks to the back of the car. She swings the lid open and stumbles back. Out ambles a very sweaty man in foreign, ceremonial garb clinging to his body. He's holding a pink, flowery suitcase in one hand and in the other a very large drum. The drum sounds as he exits...
+
+​	*(...boom)*
+
+​"Oh yeah," Eddie says. "I knew I forgot something."
 ​	"Babatunde!" I cry. "What are you doing in the trunk?"
-​	
+​	Barry and Tim shout together, "Eddie!"
+​	Babatunde puts down the flowery suitcase and wipes his forehead with his huge, loose sleeve. At a concerned passerby who stops by he flashes a big grin. 
+​	"Sorry, Baba," says Eddie. "That took a little longer than I thought it would."
+​	Eleanore laughs.  
+​	"I'm so sorry, Mr. Babatunde," says Barry. "I didn't know."
+​	"Feel no remorse, Mr. MacAllister," says Babatunde. He smiles at us. "I would like to commend you for your safe and able driving. You have made my journey as comfortable as you possibly could."
+​	Eleanore says, "Eddie, you little piece of shit." They both grin.
+​	Tim offers Babatunde his handkerchief. "Mr. Babatunde," he says, "I can't tell you how your music effected me. I can still hear your drumming--" he points at his perfect belly -- "right here."
+​	"We all can," says Cindy. 
+​	"I'm very honored," says Babatunde. He sits on the trunk and breathes hard. "I'm also very sorry you won't make it to the show tonight. I apologize, but it seems I overheard your conversation on the way."
+​	"I'm sorry, Babatunde," I say. "Trust me, I'm not just saying."
+​	"Well," says Babatunde. "Maybe another time, eh? Oh, Mr. MacAllister, one more thing, if I may."
+​	"Yes, sir."
+​	"Barry, if you end your journey now because you have decided to, I want you to know I respect you."
+​	"Thank you, Mr. Babatunde. Finally some vindication."
+​	"...but if your reason is that you are afraid of another man, I want you to know you do not respect yourself."
+​	Barry face falls. Cindy clasps my hand. 
+​	"Something pretty bad is about to happen," she whispers in my ear.
+​	"Well," says Eddie. "It's been a blast. I'll always remember you, Barry."
+​	"Yeah," says Eleanore. "It's been *something*." Suddenly and without notice, Cindy breaks down and hugs her. Eleanore puts on a disgusted face, but then hugs her back.
+​	"Thank you all for the ride," says Babatunde. "Miss Eleanore, I assume this is your bag?"
+​	"No it isn't," says Eleanore, giving Cindy an apologetic look.
+​	I watch Barry turning and looking at Cindy's pink, flowery suitcase, and then at Cindy.
 
-
-
-
-
+*(Yip yip yip yip, boom boom -- click!)*
+​	"I'm not in the mood," says Barry. 
+​	Cindy sits next to Barry in the front seat. Tim sits next to me. I sit with my hands clasped on my lap. I've never been quite this close to someone so pretty. 
+​	​​"Just talk to me," says Cindy. 
+​	"When were you going to tell me?"
+​	"Well--"
+​	"I can't believe you. I can't."
+​	"I'm sorry. I really am. But--"
+​	"Were you really going to let me tell Father you've run away?"
+​	"I didn't think. But, Barry--"
+​	"Damn right you didn't."
+​	"Barry -- I can't breathe."
+​	Barry shoots her a worried look. "What do you mean?"
+​	"When I'm at home. I can't breath. I can't."
+​	==description of arriving to the bridge.==
+​	"I'm a young woman," says Cindy. She's turning to Barry, looking at him with pleading eyes. "I need to live. I choke at home. I choke under his control. And ever since mom died... and just thinking of going back home makes me unable to breathe."
+​	Barry hangs his head, so low I worry he's fallen asleep at the wheel. He's quiet for a long while. After some time, Cindy lays a hand on his shoulder. 
+​	"I am sorry," she says. "Please forgive me."
+​	"I can't solve your problem," says Barry. 
+​	"What do you mean?"
+​	"I mean I'm just a boy," says Barry. "I can't solve your problem. But sister -- before we have to go back home, do you want to catch a show?
+​	==Cinematic u-turn==
 
 
 
