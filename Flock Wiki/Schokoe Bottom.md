@@ -62,9 +62,9 @@ it is very likely there would have been a sign directing you to U.S. Route 60 fr
 ![[Pasted image 20250927082159.png]]
 
 ![[Pasted image 20250927082617.png]]
-
+![[Pasted image 20251017103335.png]]
 [Source](https://www.reddit.com/r/rva/comments/os003y/map_of_richmond_from_the_late_1950s_credit_to/#lightbox)
-origin/main
+[old and new 9th st bridge](https://theshockoeexaminer.blogspot.com/2025/05/july-8-1972-1873-ninth-street-bridge.html)origin/main
 
 ### Hippodrome
 The Hippodrome Theater is located at **528 North 2nd Street** in Richmond, Virginia, in the Jackson Ward neighborhood, just north of Shockoe Bottom. In 1958, this area was the cultural hub of the city's Black community and a famous destination for music and entertainment.
