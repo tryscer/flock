@@ -1073,7 +1073,6 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	We get out of the car, gloomy and stormy in the bright summer sun. 
 ​	"It's been a pleasure as always," Eleanore says. "My luggage is in the trunk, then I guess I'll be on my way." 
 
-
 ​	*(Boom.)*
 
 ​"Aw," says Eddie. "That is very heartwarming."
@@ -1121,14 +1120,45 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	"Barry -- I can't breathe."
 ​	Barry shoots her a worried look. "What do you mean?"
 ​	"When I'm at home. I can't breath. I can't."
-​	==description of arriving to the bridge.==
-​	"I'm a young woman," says Cindy. She's turning to Barry, looking at him with pleading eyes. "I need to live. I choke at home. I choke under his control. And ever since mom died... and just thinking of going back home makes me unable to breathe."
+​	We turn left at a little sign saying NINTH STREET VIADUCT ERECTED M.C.M.XIII (1913) GEORGE AINSLIE MAYOR, and find ourselves on a long, tall wooden bridge, flanked on both sides by the stormy waters of the George River. In the distance, grey chimneys shoot out from the horizon. The wheels rattle on the wooden planks of the bridge and we all vibrate. It gives a comical aspect to Cindy's earnestness. 
+​	"I'm a young woman," says Cindy. She's turning to Barry, looking at him with pleading eyes. "I need to live. I choke at home. I choke under his control. And ever since mom died... Barry, just thinking of going back home makes me unable to breathe."
 ​	Barry hangs his head, so low I worry he's fallen asleep at the wheel. He's quiet for a long while. After some time, Cindy lays a hand on his shoulder. 
 ​	"I am sorry," she says. "Please forgive me."
 ​	"I can't solve your problem," says Barry. 
 ​	"What do you mean?"
-​	"I mean I'm just a boy," says Barry. "I can't solve your problem. But sister -- before we have to go back home, do you want to catch a show?
-​	==Cinematic u-turn==
+​	"I mean I'm just a boy," Barry tells her. "I can't solve your problem. But sister -- before we have to go back home, do you want to catch a show?"
+​	He slams on the brakes. Behind us a car horn goes off. Barry spins the wheel and we turn around. Cars, stuck on both directions, starts honking at us. 
+​	"Sorry, sorry!" Barry says. "Family emergency."
+​	He backs up, turns again, backs up again. 
+​	"Learn to drive!" someone shouts at him. 
+​	Barry breaks free and steps on the gas. We all cheer. 
+​	"We have to get Eleanore before she gets on the train," says Cindy. 
+​	"Set sail for Eleanore!" says Barry.
+​	"Someone turn on the radio!" I say.
+
+*(Caaaatch-a-falling-staaar and putitin-your-pock-et…)*
+
+We run up the many stairs of the Richmond Main Street train station. 
+​	"What time is her train?" says   
+
+==into the train station, seeing Eleanore==
+
+​	"I was never on the train," she says, still pretending to read the newspaper. 
+​	"What were you doing?" asks Cindy. 
+​	"I was waiting for you guys."
+​	She peers at Cindy above the newspaper. She winks. Cindy smiles. "Anyway," says Eleanore, "I know Barry is a good guy. I knew he'd do the right thing."
+​	"Aw, Puppy..." says Cindy. 
+​	"Don't call me that. Stop hugging me."
+​	But she's hugging her back.
+
+"Now, let's get serious," says Barry. "We've got a show to catch."
+​	"That's right!" I say. Finally, the day is back on track. I hold the matchbook in my hand should one of my fellow detectives wish to inspect it. 
+​	Tim says, "We know when it is, we need to find out where it is."
+​	Cindy says, "Barry, why don't you ask your friend Mr. Evans."
+​	"Very funny," says Barry. "He's the last one they would tell."
+​	"It's supposed to be *Obvious*," says Eleanore. 
+​	"You kids doing a treasure hunt?" says the newspaper man. He's an old
+​	
 
 
 
