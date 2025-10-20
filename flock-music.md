@@ -1108,7 +1108,7 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 
 *(Yip yip yip yip, boom boom -- click!)*
 ​	"I'm not in the mood," says Barry. 
-​	Cindy sits next to Barry in the front seat. Tim sits next to me. I sit with my hands clasped on my lap. I've never been quite this close to someone so pretty. 
+​	Cindy sits next to Barry in the front seat. Tim sits next to me in the back. I sit with my hands clasped on my lap. I've never been quite this close to someone so pretty. 
 ​	​​"Just talk to me," says Cindy. 
 ​	"When were you going to tell me?"
 ​	"Well--"
@@ -1120,29 +1120,40 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	"Barry -- I can't breathe."
 ​	Barry shoots her a worried look. "What do you mean?"
 ​	"When I'm at home. I can't breath. I can't."
-​	We turn left at a little sign saying NINTH STREET VIADUCT ERECTED M.C.M.XIII (1913) GEORGE AINSLIE MAYOR, and find ourselves on a long, tall wooden bridge, flanked on both sides by the stormy waters of the George River. In the distance, grey chimneys shoot out from the horizon. The wheels rattle on the wooden planks of the bridge and we all vibrate. It gives a comical aspect to Cindy's earnestness. 
-​	"I'm a young woman," says Cindy. She's turning to Barry, looking at him with pleading eyes. "I need to live. I choke at home. I choke under his control. And ever since mom died... Barry, just thinking of going back home makes me unable to breathe."
+​	We turn left at a little sign saying NINTH STREET VIADUCT - ERECTED M.C.M.XIII - GEORGE AINSLIE MAYOR, and find ourselves on a long, tall wooden bridge, flanked on both sides by the stormy waters of the George River. In the distance, grey chimneys shoot out from the horizon. The wheels rattle on the wooden planks of the bridge and we all vibrate. It gives a comical aspect to Cindy's earnestness. 
+​	"I'm a young woman," says Cindy. She's looking at Barry with pleading eyes. "I need to live. I choke at home. I choke under his control. And ever since mom died... Barry, just thinking of going back home makes me unable to breathe."
 ​	Barry hangs his head, so low I worry he's fallen asleep at the wheel. He's quiet for a long while. After some time, Cindy lays a hand on his shoulder. 
 ​	"I am sorry," she says. "Please forgive me."
 ​	"I can't solve your problem," says Barry. 
 ​	"What do you mean?"
-​	"I mean I'm just a boy," Barry tells her. "I can't solve your problem. But sister -- before we have to go back home, do you want to catch a show?"
-​	He slams on the brakes. Behind us a car horn goes off. Barry spins the wheel and we turn around. Cars, stuck on both directions, starts honking at us. 
+​	"I mean I'm just a boy," Barry tells her. "A boy who's still afraid of his father. I can't solve your problem. But sister -- before we have to go back home, how about we catch a show?"
+​	Cindy's nodding. She's smiling.​	Barry slams on the brakes. Behind us a car horn goes off. Barry spins the wheel and we turn around. Cars, stuck on both directions, starts honking at us. 
 ​	"Sorry, sorry!" Barry says. "Family emergency."
 ​	He backs up, turns again, backs up again. 
 ​	"Learn to drive!" someone shouts at him. 
-​	Barry breaks free and steps on the gas. We all cheer. 
+​	Barry breaks free and steps on the gas. The wheel rattle on the wooden bridge. 
 ​	"We have to get Eleanore before she gets on the train," says Cindy. 
 ​	"Set sail for Eleanore!" says Barry.
+​	We all cheer.
 ​	"Someone turn on the radio!" I say.
 
 *(Caaaatch-a-falling-staaar and putitin-your-pock-et…)*
 
-We run up the many stairs of the Richmond Main Street train station. 
-​	"What time is her train?" says   
-
-==into the train station, seeing Eleanore==
-
+We run up the many stairs of the Richmond Main Street train station, a big block of columns and ornamental windows and thatched roofs. 
+​	"What time is her train?" says Barry. "Did we miss it?"
+​	We hear a loud *braaaaaaang* above our head. I look up to see the huge clock face showing it's half past six. The sky is pink behind the clock tower.
+​	"It should be leaving now!" says Cindy. At the top of the stairs we pass a column with the inscription "1500 East" and push through the doors.
+​	"Eleanore!" Barry yells. 
+​	"Eleanore!" I join in. 
+​	We are surrounded by hundreds of people. Eleanore is nowhere to be found. The huge main room is all Greek columns and light from huge round windows and white marble floors and wide stone staircases reaching the train platform and little signs that say "Restrooms - Whites Only."
+​	"Run!" says Cindy. "I can hear the train. We might just get her."
+​	We run towards the staircase. 
+​	"We'll spread out and search," says Barry.
+​	"Or," says Tim, breathing hard, "we'll go to the news stand."
+​	"Why?" says Barry.
+​	"Because she's standing right there."
+​	To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS and MAGAZINES - GENERAL INTEREST. Some people stand next to it, reading the merchandize. One of them is a young woman in a black turtleneck and black cigarette pants, reading The Richmond Afro-American.
+​	We run to her. "Eleanore!" says Cindy. "Why aren't you on that train?"
 ​	"I was never on the train," she says, still pretending to read the newspaper. 
 ​	"What were you doing?" asks Cindy. 
 ​	"I was waiting for you guys."
@@ -1156,8 +1167,42 @@ We run up the many stairs of the Richmond Main Street train station.
 ​	Tim says, "We know when it is, we need to find out where it is."
 ​	Cindy says, "Barry, why don't you ask your friend Mr. Evans."
 ​	"Very funny," says Barry. "He's the last one they would tell."
-​	"It's supposed to be *Obvious*," says Eleanore. 
-​	"You kids doing a treasure hunt?" says the newspaper man. He's an old
+​	"It's supposed to be *obvious*," says Eleanore. 
+​	"You kids doing a treasure hunt?" says the newspaper vendor. He's an old man in a felt cap, gazing at us between the hanging newspaper​​s with twinkling eyes. 
+​	"We are," I tell him.
+​	"We're really not," says Eleanore. "It's supposed to be *obvious*, you see."
+​	​Tim says, "We sure are, sir. Do you know The Steam Pillars?"
+​	"Dunno," the newspaper man says. "Are they black?"
+​	"How did you know?"
+​	"Because," says the man, "your friend over there is reading the amusement section in a black newspaper."
+​	Cindy says, "Is it there, Eleanore?"
+​	"It isn't," Eleanore says, folding the newspaper. "But that's not the point. The point is, Alice, the guy who gave you that matchbook wanted you to be in the show. He probably assumed most people who get a matchbook will know where the show will be."
+​	"So where is it?" says Barry. 
+​	"Well, for starters, I can tell you it's right here in Shockoe Bottom."
+​	I giggle. "Where?"
+​	"Shockoe Bottom," Eleanore says earnestly. 
+​	"Where's that?"
+​	"It's the neighborhood you're in," says the newspaper man. "So is there a treasure hunt or no?"
+​	"Absolutely not," says Eleanore.
+​	"But why?" I ask. 
+​	"Because," says Eleanore, "I saw Eddie leave with Babatunde. And they left *on foot*."
+​	"No car, then it must be around," Cindy says. "So where is it?"
+​	"It's just a matter," says Eleanore, "of looking through the clubs right here in Shockoe Bottom."
+​	"Good luck," says the newspaper man. "There are no clubs in this slum. Only old warehouses."
+​	"Oh," says Eleanore.
+​	"No, what you want to do," says the newspaper man, feeling the treasure hunt is back on, "what you want to do is go north from here, to Jackson Ward. Then you find the Deuce. That's where your treasure should be."
+
+
+
+
+
+==at the news stand==
+==the deuce, hippodrom, meeting mickey the jew==
+==mickey takes them to a barbershop==
+==barbershop==
+==back in shockoe bottom with mickey==
+==parking lot, meeting other fans==
+==into the rabbit hole==
 ​	
 
 

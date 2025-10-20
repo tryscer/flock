@@ -56,7 +56,7 @@ This photo is from the last days of the bridge, 1972, when the new bridge is sho
 From the bridge you can see the Main St Station Clock tower
 While a specific traffic report from that day is not available, we can piece together a likely scenario based on what we know about the old Ninth Street Bridge and the era.
 
-The bridge was a narrow, two-lane structure with a wooden deck and no lane separation. A Saturday late afternoon in June would have been a high-traffic period, with people coming and going from downtown, running errands, or heading out for the evening.
+The bridge was a narrow, two-lane structure with a wooden deck and ==no lane separation==. A Saturday late afternoon in June would have been a high-traffic period, with people coming and going from downtown, running errands, or heading out for the evening.
 
 Given the bridge's narrow design and the lack of modern traffic management, it would have been a bottleneck. It's highly probable that traffic would have been slow-moving and congested, with cars potentially backed up on both sides as they waited to cross. The sound of tires on the wooden deck and metal strips would have been a constant backdrop to the stop-and-go traffic.
 #### Arriving on the bridge:
