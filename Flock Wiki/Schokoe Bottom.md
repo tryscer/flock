@@ -44,6 +44,8 @@ If you are looking for venues and events for a white audience, the most likely s
 
 These would be the **Richmond Times-Dispatch** and the **Richmond News Leader**. Their entertainment sections and local event listings would have been the primary place to find information on music halls, theaters, and other venues catering to a white clientele.
 
+The black newspaper most likely to have published showtimes and information about music and entertainment in Richmond's Black community, particularly for venues like the Hippodrome Theater in Jackson Ward, was the **Richmond Afro-American** (often referred to simply as the **Afro-American**).
+
 ![[Pasted image 20250929211540.png]]
 
 Image below generated based on [National Register of Historic Places nomination](https://www.dhr.virginia.gov/wp-content/uploads/2018/04/127-0172_MainSt_Station_1970_Final_Nomination_NRHP.pdf) with input from the above image of the east main street entrance
