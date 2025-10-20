@@ -826,7 +826,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 “Come on, Alice!”  
 ​	“I don’t want to.”
 ​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
-​	“Come sit with me on the horse!” cries Cindy. Her horse, of peeling white and fading blue, is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
+​	“Come sit with me on the horse!” cries Cindy. Her horse, of peeling white fur and fading blue saddle, is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
 ​	“I do not want to celebrate,” I shout after her.  
 ​	“I never knew a music show could feel this way,” Barry says, coming into view. His saddle is fading gold and his smile is idiotic. 
 ​	“That was one song!”
@@ -848,9 +848,9 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	“All I'm saying,” says Eleanore, “is that this thing with the police was the best—“
 ​	She disappears again. 
 ​	“I'll come with you,” says Cindy. She dismounted her horse and now she's walking around the edge of the platform, against the direction of the carousel. She keeps perfectly centered in my view. "All you have to do is come along."
-​	“I just want you all to know that did not count as my first show,” I say. 
+​	I huff. “I just want you all to know that did not count as my first show,” I say. 
 ​	“What did she say?” says Tim. 
-​	“She said she wants to go to see another show,” says Cindy and sits down in his carriage. She smiles at him. “Know any good ones?”
+​	“She said she wants to go and see another show,” says Cindy and sits down in his carriage. She smiles at him. “Know any good ones?”
 ​	“Well,” he says. “I think the Seven-Tops should start about now, no?”
 ​	“That’s not funny,” I say, even though I'm laughing. “I want the Steam Pillars! They make you feel…”
 ​	“I said the police thing was the best part!” says Eleanore. “How Mucho was giving it to the cop and the crowd was having none of it… it was the best part of their performance!”
@@ -860,7 +860,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	Bernie asks, "why would you want to follow them around?"
 ​	Tim asks, "Don't you have a mother?"
 ​	Bernie answers, "Why are you holding a teddy bear?"
-​	Cindy smirks. Eleanore frowns. 
+​	Cindy smirks.  
 ​	“I never felt this way,” Barry says, then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, staring at Cindy. 
 ​	“Let’s do that,” I say. 
 ​	“Do what?” says Eleanore. 
@@ -883,7 +883,7 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	We are standing in line at the stand, watching an elderly woman in a cafeteria worker's uniform shout as she's filling small paper packets with huge, fried, salt-encrusted peanuts. Eleanore, Cindy, Barry and Tim surround me. Bernie does, too. 
 ​	"What did he say, *exactly*?" says Eleanore. 
 ​	"She told you," says Cindy. "He said to stop idling at the intersection. It's a *metaphor*."
-​	"Stop idling at the *station*," Barry corrects her. "Gee, I sure hope we'll get those peanuts soon." He watches the cafeteria lady and licks his lips. "The important thing is that he told her to *come on board*." 
+​	"Stop idling at the *station*," Barry corrects her. "Gee, I sure hope we'll get those peanuts soon." He watches the peanuts and licks his lips. "The important thing is that he told her to *come on board*." 
 ​	"What's it a metaphor for?" asks Bernie. 
 ​	"Don't you have a mother, kid?" asks Tim. Bernie shrugs. "And in any case what does it matter what he said, look at what he wrote!"
 ​	Bernie asks, "what did he write?"
@@ -922,17 +922,17 @@ Barry leads the way and we follow. Bernie has petered off back to the carousel.
 ​	"That's right," says Tim, putting a hand on Barry's shoulder, "Barry here is the man of the event, and he deserves his praise."
 ​	"Thanks, man," says Barry. 
 ​	"Maybe Barry deserves the Bear-Gineer," says Eleanore and links her arm through Tim's. 
-​	"The Bear-Gineer is Tim's, *I* won it for him fair and square," says Cindy and links her arm through Tim's other arm. 
-​	"Alright," says Tim. "You two. I've had it." He breaks free from them. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
+​	"The Bear-Gineer is Tim's, *I* won it for him fair and square," says Cindy, takes the teddy and links her arm through Tim's other arm. 
+​	"Alright," says Tim. "You two. I've had it." He breaks free from them and takes the teddy away. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
 ​	Barry says, "Leave Tim alone, girls."
 ​	Eleanore says, "You never let me have anything nice, don'tcha, Cindy."
 ​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and car park. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
 
 "-- telling you, Dahlia, the press were all over us, cameras too --"
 ​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in frames pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. Through a doorway we can see a sparsely decorated inner office. Afternoon rays invade through the half shut blinds. The elderly woman, in glasses, seems strict. We line up behind Barry. ​	
-​	"--and that little man from the *News Leader* was absolutely horrible --"
+​	"-- and that little man from the *News Leader* was absolutely horrible --"
 ​	"Hello," says Barry. "Mr. MacAllister, here to see Mr. C. Evans." He thinks about it and then adds, "Ehm."
-​	"All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her head and tells Barry, "You can go right in, honey. Mr. Evans is not here but the telephone is right there on that table." She gestures at the doorway.
+​	"All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her gaze and tells Barry, "You can go right in, honey. Mr. Evans is not in but the telephone is right there on that table." She gestures at the doorway.
 ​	"Good luck, Bear," says Tim. 
 ​	Barry puffs his chest and enters.
 ​	"I finally find a nice guy and you have to ruin it for me," whispers Eleanore.
@@ -944,10 +944,11 @@ Barry leads the way and we follow. Bernie has petered off back to the carousel.
 ​	Cindy whispers, "You're here for a hot second and you claim possession of everything you see. What does that tell you?"
 ​	Eleanore whispers back, "You try to buy everything you see, with cash or with stuffed animals, what does that tell you?"
 ​	Mr. Evans' secretary says, "I can also hear you now, girls. Kindly take it outside."
-​	"I tried to warn them, miss," says Tim. 
-​	"You're on thin ice too, young man. Anyway, Dahlia, that is not the hottest story of the day--"
+​	Cindy and Eleanore look at each other. They leave to fight outside.
+​	Tim hands the Bear-Gineer to the secretary. "This is for you, gorgeous," he says.
+​	The secretary smiles. "You are a sweet heart, young man. Anyway, Dahlia, that is not the hottest story of the day--"
 ​	I look at Barry; he's holding the receiver to his ear but not saying anything. His lips are pursed and the blood is fast drawing away from his face. I look the other way: Cindy and Eleanore are standing outside, arguing. I summon some courage and walk up to Tim. 
-​	"So," I say. "Do you think we'll get to see the Pillars again?"
+​	"So," I say. "Don't I get a bear?"
 ​	Mr. Evans' secretary says, "Apparently, there's some top banana's son here at the fair today, and while all this brouhaha was happenin' and Mr. Evans had to go over there to straighten things up--"
 ​	I watch Barry, receiver to ear, as he's slowly deflating.
 ​	"Aha," he says. "I mean -- yessir."
@@ -965,7 +966,7 @@ Barry leads the way and we follow. Bernie has petered off back to the carousel.
 ​	"What bright side?"
 ​	We two keep to the back of the procession, whispering. 
 ​	"That you don't have to tell Barry you'll be leaving."
-​	Cindy laughs; it's not a happy laugh. I hug her and I can sense the way she won't lean into my arms. I feel ashamed at how jubilant I feel. 
+​	Cindy laughs; it's not a happy laugh. I hug her and I can feel how she won't lean into my arms. I feel ashamed at how jubilant I feel. 
 ​	"I really thought I'll be getting away this time," she says. 
 ​	"I know how you feel," I say and I pat her head. "I thought I'll be seeing my first show today."
 ​	"Yeah, roughly the same thing."
@@ -977,14 +978,15 @@ The car park is a dusty field right in view of Mr. Evans's office. Barry's car i
 ​	"I have a pretty good idea," he says. 
 ​	We near the car and Barry opens the back door. Eddie sits inside, still in his mechanic's overalls, smoking a cigarette. 
 ​	"Are those my cigarettes?" Barry asks him. 
-​	=="Shut up and listen," says Eddie. "Hi, Alice."
+​	==MAKE EDDIE MORE MANIPULATIVE, ALSO NOT READING THE ROOM, ONLY THEN ASKS THEM FOR A FAVOR.
+​	"Shut up and listen," says Eddie. "Hi, Alice."
 ​	"Hi Eddie," I say. I'm hoping Tim notices how popular I've become with the boys. 
 ​	Eddie says, "We have a serious situation on our hand, Barry."
 ​	Barry says, "Yeah, we kind of really do, so if you don't mind stepping out of my, you know, vehicle..."
 ​	Eddie says, "I'm not kidding, Barry. It was confided to me by trustworthy sources that the police are at this very moment looking for an individual bearing a striking, but unfortunate, resemblance to yours truly..."==
 ​	Barry says, "Eddie -- or Edwardo -- or whatever -- I'm not in the mood, alright?"
 ​	Eddie reaches out from inside the car and grabs Barry by his shirt collar. "Barry," he says, "if the police would, god forbid, make this awful mistake, how will you live with yourself?"
-​	Barry hangs his head back as if the clouds might be harboring a secret savior. He lets out a long, exasperated sigh. 
+​	Barry hangs his head back, looking up as if the clouds might be harboring a secret savior. He lets out a long, exasperated sigh. 
 ​	"All I wanted was to listen to some music," he says. 
 ​	"I know just how you feel," says Eddie. "I was having a relaxing morning back in Durham before a rowdy gang of teens swayed me off the beaten track with their soft drinks and their corner-dancing."
 ​	"Hate to say it, Bear," says Tim.
@@ -1001,7 +1003,7 @@ The car park is a dusty field right in view of Mr. Evans's office. Barry's car i
 ​	"Yeah," he says. "I guess we're just mincing words."
 ​	==Tim says, "You got any blankets?"==
 
-The sandy hill surrounding the fairground gives way to a dirt road where we wait our turn at the head of a long, single-file line of cars. The air is still and the car is steaming. Up ahead, a group of khaki-clad policemen are peering through the window of a Ford pickup. Somewhere ahead, an impatient driver leans on his horn and other impatient drivers yell back. 
+The sandy hill surrounding the fairground gives way to a dirt road, where we wait our turn at the head of a long, single-file line of cars. The air is still and the car is steaming. Up ahead, a group of khaki-clad policemen are peering through the window of a Ford pickup. Somewhere ahead, an impatient driver leans on his horn and other impatient drivers yell back. 
 ​	"Now," Barry says, clutching at the wheel. "I mean it. Y'all say zilch. You smile and you nod. Eleanore, what do you do?"
 ​	"Leave me alone."
 ​	"She says zilch and she smiles and she nods," says Tim. "We all do that."
@@ -1015,7 +1017,7 @@ The sandy hill surrounding the fairground gives way to a dirt road where we wait
 ​	"It's like you know their secret handshake," Tim says. There's jealousy in his voice. 
 ​	In the back window, the Henrico County Fair grows smaller and smaller. 
 
-The dusty road gives way to a broad, wealthy residential street. Broad houses sit far away from the road in the shade of large trees. Streetcar tracks cross the wide asphalt road and I rock and jerk as we go over them. It seems I have been rudely awoken from a sweet and happy dream. 
+The dusty road gives way to a broad, wealthy residential street. Fancy houses sit far away from the road in the shade of large trees. Streetcar tracks cross the wide asphalt road and we rock and jerk as we go over them. It seems I have been rudely awoken from a sweet and happy dream. 
 ​	"There goes Wonderland," I say. "Nothing but a story to tell the grandchildren."
 ​	"That wasn't the show of your lifetime, it seems, kiddo," says Tim. "Sorry, Alice. I was wrong."
 ​	"Did he do it?" says Eddie from under the blanket beneath our feet. 
@@ -1044,15 +1046,15 @@ The dusty road gives way to a broad, wealthy residential street. Broad houses si
 ​	“You, too?”
 ​	“I’ve been to some shows, man. That was something else.”
 
-The road ahead slopes down, down, down. We look into an ugly, overgrown valley, like a jungle road in the middle of the city. My heart sinks, and I can hear it beating again.
+The road ahead slopes down, down, down. We look into an ugly, overgrown valley, like a jungle road in the middle of the city. My heart sinks and I can hear it beating again.
 ​	"Anyone else hears drums?" says Eleanore.
 ​	“What did you mean?” I ask Eddie. “When you said, ‘Do you know what it means?’”
 ​	Eddie turns to me. He holds my hand and looks deep into my eyes. “It means you were chosen, Alice.”
 ​	I giggle.
 ​	Cindy says, “You’re the chosen one, Alice!” Eddie makes a sour face at her.
-​​	Inside, I'm boiling. Was I really chosen? No matter for what, I think, when did anyone ever choose me? I hear my heart beating in my ears again, like Babatunde’s big drum.
+​​	Inside, I'm boiling. Was I really chosen? No matter for what, I think. When did anyone ever choose me? I hear my heart beating in my ears again, like Babatunde’s big drum.
 
-​	*(BOOM!)*
+​	*(BOOM)*
 
 “Just tell me one thing," Eddie says to Barry. "One thing and then I’ll leave you alone.”
 ​	“That’ll be the day.”
@@ -1068,10 +1070,10 @@ The road ahead slopes down, down, down. We look into an ugly, overgrown valley, 
 ​	"Well," Barry says, "not all of us are such big fans of day-drinking." 
 ​	"The future is a long carpeted corridor," Eddie says. "Think about that. A long carpeted corridor terminating in a big offic​e."
 
-In the front window, a clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels. Only this Big Ben is dwarfed by a big highway bridge being constructed above it. As we drive near it, it seems to have a grotesquely fancy train station building attached to its midriff. Barry parks near it. 
+In the front window, a clock tower rises above dilapidated houses, its arched top mimicking London as I've seen it in newsreels. Only this Big Ben is dwarfed by a big highway bridge being constructed above it. As we drive near the tower, it seems to have a grotesquely fancy train station building attached to its midriff. Barry parks near it. 
 ​	"Well," he says. "...yeah."
 ​	We get out of the car, gloomy and stormy in the bright summer sun. 
-​	"It's been a pleasure as always," Eleanore says. "My luggage is in the trunk, then I guess I'll be on my way." 
+​	"It's been a pleasure as always," Eleanore says. "My luggage is in the trunk, then... I guess I'll be on my way." 
 
 ​	*(Boom.)*
 
@@ -1086,23 +1088,22 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	Babatunde puts down the flowery suitcase and wipes his forehead with his huge, loose sleeve. At a concerned passerby who stops by he flashes a big grin. 
 ​	"Sorry, Baba," says Eddie. "That took a little longer than I thought it would."
 ​	Eleanore laughs.  
-​	"I'm so sorry, Mr. Babatunde," says Barry. "I didn't know."
-​	"Feel no remorse, Mr. MacAllister," says Babatunde. He smiles at us. "I would like to commend you for your safe and able driving. You have made my journey as comfortable as you possibly could."
+​	"I'm so sorry, Mr. Babatunde," says Barry. "I didn't know you were in my trunk."
+​	"Feel no remorse, Mr. MacAllister," says Babatunde. He smiles at us all. "I would like to commend you for your safe and able driving. You have made my journey as comfortable as you possibly could."
 ​	Eleanore says, "Eddie, you little piece of shit." They both grin.
 ​	Tim offers Babatunde his handkerchief. "Mr. Babatunde," he says, "I can't tell you how your music effected me. I can still hear your drumming--" he points at his perfect belly -- "right here."
-​	"We all can," says Cindy. 
-​	"I'm very honored," says Babatunde. He sits on the trunk and breathes hard. "I'm also very sorry you won't make it to the show tonight. I apologize, but it seems I overheard your conversation on the way."
+​	"We all can," says Eleanore. 
+​	"I'm very honored," says Babatunde. He sits on the trunk and breathes hard, then wipes his forehead with Tim's handkerchief. "I'm also very sorry you won't make it to the show tonight. I apologize, but I overheard your conversation on the way."
 ​	"I'm sorry, Babatunde," I say. "Trust me, I'm not just saying."
 ​	"Well," says Babatunde. "Maybe another time, eh? Oh, Mr. MacAllister, one more thing, if I may."
 ​	"Yes, sir."
 ​	"Barry, if you end your journey now because you have decided to, I want you to know I respect you."
 ​	"Thank you, Mr. Babatunde. Finally some vindication."
 ​	"...but if your reason is that you are afraid of another man, I want you to know you do not respect yourself."
-​	Barry face falls. Cindy clasps my hand. 
-​	"Something pretty bad is about to happen," she whispers in my ear.
+​	Barry face falls. Cindy clasps my hand. "Something pretty bad is about to happen," she whispers in my ear.
 ​	"Well," says Eddie. "It's been a blast. I'll always remember you, Barry."
-​	"Yeah," says Eleanore. "It's been *something*." Suddenly and without notice, Cindy breaks down and hugs her. Eleanore puts on a disgusted face, but then hugs her back.
-​	"Thank you all for the ride," says Babatunde. "Miss Eleanore, I assume this is your bag?"
+​	"Yeah," says Eleanore. "It's been *something*." Suddenly and without notice, Cindy breaks down and hugs her. Eleanore puts on a strained face.
+​	"Thank you for the transportation," says Babatunde. "Eleanore, I assume this is your bag?"
 ​	"No it isn't," says Eleanore, giving Cindy an apologetic look.
 ​	I watch Barry turning and looking at Cindy's pink, flowery suitcase, and then at Cindy.
 
@@ -1145,7 +1146,7 @@ We run up the many stairs of the Richmond Main Street train station, a big block
 ​	"It should be leaving now!" says Cindy. At the top of the stairs we pass a column with the inscription "1500 East" and push through the doors.
 ​	"Eleanore!" Barry yells. 
 ​	"Eleanore!" I join in. 
-​	We are surrounded by hundreds of people. Eleanore is nowhere to be found. The huge main room is all Greek columns and light from huge round windows and white marble floors and wide stone staircases reaching the train platform and little signs that say "Restrooms - Whites Only."
+​	==We are surrounded by hundreds of people. Eleanore is nowhere to be found. The huge main room is all Greek columns and light from huge round windows and white marble floors and wide stone staircases reaching the train platform and little signs that say "Restrooms - Whites Only."==
 ​	"Run!" says Cindy. "I can hear the train. We might just get her."
 ​	We run towards the staircase. 
 ​	"We'll spread out and search," says Barry.
@@ -1154,9 +1155,9 @@ We run up the many stairs of the Richmond Main Street train station, a big block
 ​	"Because she's standing right there."
 ​	To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS and MAGAZINES - GENERAL INTEREST. Some people stand next to it, reading the merchandize. One of them is a young woman in a black turtleneck and black cigarette pants, reading The Richmond Afro-American.
 ​	We run to her. "Eleanore!" says Cindy. "Why aren't you on that train?"
-​	"I was never on the train," she says, still pretending to read the newspaper. 
+​	"I was never going to go on the train," she says, still pretending to read the newspaper. 
 ​	"What were you doing?" asks Cindy. 
-​	"I was waiting for you guys."
+​	"Waiting for you guys."
 ​	She peers at Cindy above the newspaper. She winks. Cindy smiles. "Anyway," says Eleanore, "I know Barry is a good guy. I knew he'd do the right thing."
 ​	"Aw, Puppy..." says Cindy. 
 ​	"Don't call me that. Stop hugging me."
@@ -1191,9 +1192,44 @@ We run up the many stairs of the Richmond Main Street train station, a big block
 ​	"Good luck," says the newspaper man. "There are no clubs in this slum. Only old warehouses."
 ​	"Oh," says Eleanore.
 ​	"No, what you want to do," says the newspaper man, feeling the treasure hunt is back on, "what you want to do is go north from here, to Jackson Ward. Then you find the Deuce. That's where your treasure should be."
+​	"Treasure hunt!" exclaims Cindy. 
+​	"Who's the Deuce?" I ask.
 
+We park alongside a street sign that reads 2ND AVE., right next to a demolished building. Heaps of bricks and twisted metal wires are poking through the upturned earth. The building right next to it is a big theatre, its marquee shining bright (THE HIPPODROME - TONIGHT ONLY, THE COASTERS.) A mass of people in their Saturday-night bests are piling at the entrance. Most are black, but some are white teenagers, like us. The street is bustling with people, who overflow from the sidewalk to the street, mixing with the cars, talking and hooting and laughing. ​	
+​	"Excuse me, sir," says Tim to a passerby, "do you know where I can find the Deuce?"
+​	"Guess you did," says the man without stopping to explain.
+​	"Hi," says Cindy to a woman standing in line. "Excuse me. I'm looking for the Deuce."
+​	"Child," says the woman, already turning back, "the Deuce is all around you."
+​	Tim says, "Give me a minute." He walks over to a group of black teenagers, who soon burst in laughter. He comes back red-faced.
+​	"Yeah," he says. "Turns out the Deuce is--"
+​	"Let me guess," says Eleanore. "This street?"
+​	"It's this street," says Tim. 
+​	"How did you know?" I ask. 
+​	"Well," says Eleanore. "It is *second avenue*..."
+​	"Heard you were looking for the Deuce," says a gold-toothed man in a hound's-tooth, grey and brown tweed jacket and a yellow fedora. "Well, I'm the Deuce. How may I be of service this fine evening?"
+​	"No," says Eleanore. "It's where we are, that's the Deuce. Go away."
+​	"It is the name of this little stretch of land," says the man, showing no inclination to go away, "but it is also the name of the king of all the Deuce. Danny the Deuce, at your service, ma'am."
+​	"We are not interested," says Tim. 
+​	"You sure? You kids look like you're looking to have some fun."
+​	"We all wish you a good evening, sir," says Cindy. 
+​	Barry returns from the box office. "They never heard of them," he says. 
+​	"Alright," says Cindy. "That's the plan. We split up and spread out. We each take a part of the street. We'll ask every box office attendant. We'll read every billboard, top to bottom. Hell, let's even ask at that drugstore over there."
+​	​"Are you kids doing a treasure hunt?" asks the Deuce. 
+​	"For the last time, no!" says Eleanore. 
+​	"Alright, I understand," says the Deuce. "I will leave you alone. I just thought you kids wanted some tickets." He turns to leave.
+​	We all shout, "Wait!"
 
-
+"So let me get this straight," says the Deuce. He's leaning against Barry's Chevy, picking at his teeth. "You say these guys are like the best band ever..."
+​	I say, "Absolutely."
+​	Tim says, "You have no idea, Mr. Deuce. No idea."
+​	The Deuce says, "...and yet no one knows who they are."
+​	Eleanore says, "Well, *you* don't know who they are."
+​	​The Deuce says, "Miss Eleanore, the king of the Deuce tells you right now, right in your face: there are no tickets for something called The Steam Pillars anywhere today, not just here, but in all of Richmond."
+​	I sit on the floor. 
+​	"I don't understand," says Eleanore. "It was supposed to be *obvious*."
+​	"Then it must be obvious in a different way," Cindy says
+​	
+​	
 
 
 ==at the news stand==
