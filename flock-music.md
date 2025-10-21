@@ -11,7 +11,7 @@ i love eft
 — *Elvis Aaron Presley*
 
 # Side 1: Alice
-## Track 1: Alice Gets in a Car<!-- {"fold":true} -->
+## Track 1: Alice Gets in a Car
 
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
@@ -31,7 +31,7 @@ and stuff some necessities into my handbag: a little powder kit, my babysitting 
 Inside it's full of people and already steaming hot. Ricky Nelson is singing on the radio about having been a little fool. Cindy is stunning in a coral dress in the back seat, blonde and blue-eyed and radiating sunshine. I hug her and she says quietly, "I've got something to–"  
 ​	"Peaches\!"  
 "Don't call me that," I say to Barry, who’s sweating at the wheel in a brown suit that looks too big for him.   
- ​	"Who's she?" says the girl sitting next to Cindy,without looking in my direction. She’s got black cigarette pants and a black turtleneck and black sunglasses and black flat shoes. She’s reading through *Seventeen* (“The Big FASHION Issue\!”.)   
+ ​	"Who's she?" says the girl sitting next to Cindy without looking in my direction. She’s got black cigarette pants and a black turtleneck and black sunglasses and black flat shoes. She’s reading through *Seventeen* (“The Big FASHION Issue\!”.)   
 ​	"Oh," says Cindy, storing her secret. "I want you to meet my favorite cousin.” Her voice, warm and loud and Southern, takes on its Party-Hostess quality.   
 ​	"Eleanore," says the cousin over the magazine. Cindy lays a hand on her knee and says, "After we’re done, we're taking Eleanore back to the train station going home. She lives in *New-York-City*, you know". Eleanore winces.  
 ​	"We've met before," I tell Eleanore.  
@@ -440,7 +440,7 @@ Somebody turns on the radio…
 ​	“Turn the dial, man\!”  
 ​	Outside the car window, a metal sign rolls by, black with green lettering, saying “WELCOME TO VIRGINIA \- THE OLD DOMINION”, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
 
-## Track 2: Alice Gets a Book of Matches<!-- {"fold":true} -->
+## Track 2: Alice Gets a Book of Matches
 *Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what music shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love...*
 
 *(Yooooooor precious looahahv...)*
@@ -825,20 +825,21 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 “Come on, Alice!”  
 ​	“I don’t want to.”
-​	I’m sitting on the ground in front of the carousel. Everybody else is riding the horses. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
+​	I’m sitting on the ground in front of the carousel, playing with a book of matches. I let each one burn until it almost reaches my fingers, then toss it in the grass. A small pile of blackened match ends sits next to me, smelling of sulfur and warm earth.
+​	Everybody else is riding on the horses. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
 ​	“Come sit with me on the horse!” cries Cindy. Her horse, of peeling white fur and fading blue saddle, is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
 ​	“I do not want to celebrate,” I shout after her.  
-​	“I never knew a music show could feel this way,” Barry says, coming into view. His saddle is fading gold and his smile is idiotic. 
-​	“That was one song!”
-​	"But what a song," he replies, staring at a point above his head. "I mean seeing those cigarette girls program in action, that was fine, but the music... I mean the dancing..."
+​	“I never knew a music show can be like that,” Barry says, coming into view. His saddle is fading gold and his smile is idiotic. 
+​	“That was one song!” I shout. 
+​	"But what a song," he replies, staring at a point above his head. "I mean seeing those cigarette girls in action, that was fine, but the music... I mean the dancing..."
 ​	"You don't get it," shouts Eleanore from the edge of the platform, “that show was—“
-​	“What?” I shout after her.
-​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man he forewent the horse in favor of a carriage. His manliness is challenged by the Bear-gineer he's holding.  
+​	I shout after her, “What?” 
+​	Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man he forewent the horse in favor of a carriage. His manliness is challenged by the Bear-gineer he's still holding.  
 ​	“Have you seen that guitarist?" he says. "​I mean did you hear what she *did* with that *guitar*?" 
-​	"What show did you guys go and see?" asks the child riding the fading yellow horse behind Tim's carriage. 
+​	"What show did you guys go and see?" asks the kid riding the fading yellow-saddled horse behind Tim's carriage. 
 ​	"It was the best show ever, man," Tim tells him. "They're called the Steam Pillars. They were on fire." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
 ​	”You'll see other shows!” says Cindy as she reappears. Her golden hair bobs gently around her shoulders. 
-​	"How?" I say, bitterly. "Who will come with me?"
+​	"How?" I say bitterly. "Who will come with me?"
 ​	"I'll come with you!" says the kid. "My name is Bernie."
 ​	“I said that show was *fire!*” Says Eleanor. 
 ​	“It was,” I say. “It was until Barry’s friend shut it all down!”
@@ -847,32 +848,29 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	“What’s wrong with you all?” I say. 
 ​	“All I'm saying,” says Eleanore, “is that this thing with the police was the best—“
 ​	She disappears again. 
-​	“I'll come with you,” says Cindy. She dismounted her horse and now she's walking around the edge of the platform, against the direction of the carousel. She keeps perfectly centered in my view. "All you have to do is come along."
+​	“I'll come with you,” says Cindy. She has dismounted her horse and now she's walking around the edge of the platform, against the direction of the carousel. She keeps perfectly centered in my view. "All you have to do is come along."
 ​	I huff. “I just want you all to know that did not count as my first show,” I say. 
 ​	“What did she say?” says Tim. 
 ​	“She said she wants to go and see another show,” says Cindy and sits down in his carriage. She smiles at him. “Know any good ones?”
 ​	“Well,” he says. “I think the Seven-Tops should start about now, no?”
-​	“That’s not funny,” I say, even though I'm laughing. “I want the Steam Pillars! They make you feel…”
+​	“That’s not funny,” I say, even though I'm laughing. “I want the Steam Pillars!”
 ​	“I said the police thing was the best part!” says Eleanore. “How Mucho was giving it to the cop and the crowd was having none of it… it was the best part of their performance!”
-​	“How do they make you feel?” asks Bernie. 
-​	“They make me feel like I want to throw something at them,” I tell him. 
-​	Barry bobs into view and says, “let’s go find out where they give their next show. Then we’ll follow them around in our car.”
-​	Bernie asks, "why would you want to follow them around?"
+​	Barry bobs into view and says, “we should go find Eddie. He's a swell guy. He'll tell us where the band is headed.”
+​	Bernie asks, "Who's Eddie?"
 ​	Tim asks, "Don't you have a mother?"
 ​	Bernie answers, "Why are you holding a teddy bear?"
-​	Cindy smirks.  
-​	“I never felt this way,” Barry says, then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, staring at Cindy. 
+​	Cindy smirks.
+​	“I never felt this way,” Barry says, and then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, crowding in the seat with Tim, Cindy and the Bear-Gineer. 
 ​	“Let’s do that,” I say. 
 ​	“Do what?” says Eleanore. 
-​	“Let’s find out where they’re headed and go there, too. Let’s go to their show!”
-​	"That would be something," says Barry.
+​	“Let’s find out where they’re headed and go there, too. Let’s go to their show!” I say.
+​	"That would be something," says Barry and disappears from view.
 ​	Cindy thinks about it and says, “Why are you playing with matches?”
 ​	I say, “I got them as a gift.”
 ​	“From whom?”
-​	“That kid I danced with,” I say, and I light a match. The blue and orange flame dances between my fingers, and just as it nears my fingers it ebbs out. “He told me I should come on board, then he put those matches in my hand.”
+​	“That kid I danced with,” I say, and I light another. The blue and orange flame dances between my fingers, and just as it nears my fingers it ebbs out. “He told me I should come on board, then he put those matches in my hand.”
 ​	“What did he mean?”
 ​	“I dunno.” I look at the book of matches: a standard, yellow Buzz Cigarettes matchbook. Inside the cover, someone wrote something in pencil... 
-​	“Come on board of what?” says Cindy as her carriage disappears from view. 
 ​	“Alright, we’re done, everybody get off!” says the operator. He pulls on a lever and the platform jerks to a halt. The music stops —
 
 *(just like pasta e-fasuuuuuuuh...)*
@@ -911,14 +909,17 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	Then the PA comes on:
 
 ​	*(Barry MacAllister, Jr... Barry MacAllister, Jr... a phone call for you from your father in the fair's management office...)*
-
+​	Barry abandons his position at the top of the line and starts to walk down the midway. 
 ​	"Are you lost, too?" asks Bernie. 
-
-Barry leads the way and we follow. Bernie has petered off back to the carousel. 
+​	"See you, kid," says Tim. "We got adult business." 
+​	"Alright see ya guys. Alice, if these guys don't take you to the show, think of me."
+​	I give him a little kiss on the cheek. We follow Barry.  
 ​	"Hey Barry, what do you think your dad wants?" asks Eleanore. 
-​	"Leave Barry alone, Eleanore," says Tim. 
-​	"No, really, Barry, did you forget your packed lunch?"
-​	"I think my father," says Barry, walking so fast we scurry to catch up, "is calling to hear a report about my successful cigarette girl program."
+​	"Yeah," I say, trying to join in, "what do you think he wants?"
+​	"No, really, Barry, did you forget your packed lunch?" says Eleanore.
+​	​"Leave Barry alone, Eleanore," says Tim. 
+​	Cindy says, "Do you think he's heard about the *riot*?"
+​	"I think father," says Barry, walking so fast we need to scurry to catch up, "is calling to hear a report about my successful cigarette girl program."
 ​	"That's right," says Tim, putting a hand on Barry's shoulder, "Barry here is the man of the event, and he deserves his praise."
 ​	"Thanks, man," says Barry. 
 ​	"Maybe Barry deserves the Bear-Gineer," says Eleanore and links her arm through Tim's. 
@@ -1219,15 +1220,15 @@ We park alongside a street sign that reads 2ND AVE., right next to a demolished 
 ​	"Alright, I understand," says the Deuce. "I will leave you alone. I just thought you kids wanted some tickets." He turns to leave.
 ​	We all shout, "Wait!"
 
-"So let me get this straight," says the Deuce. He's leaning against Barry's Chevy, picking at his teeth. "You say these guys are like the best band ever..."
+"So let me get this straight," says the Deuce. He's leaning against Barry's Chevy, picking at his teeth. "You say these guys are the best band ever..."
 ​	I say, "Absolutely."
-​	Tim says, "You have no idea, Mr. Deuce. No idea."
+​	Tim says, "You have no idea, Mr. Deuce."
 ​	The Deuce says, "...and yet no one knows who they are."
 ​	Eleanore says, "Well, *you* don't know who they are."
 ​	​The Deuce says, "Miss Eleanore, the king of the Deuce tells you right now, right in your face: there are no tickets for something called The Steam Pillars anywhere today, not just here, but in all of Richmond."
-​	I sit on the floor. 
+​	I sit on the floor. I take out my matchbook and light a match. I see I only have four left...
 ​	"I don't understand," says Eleanore. "It was supposed to be *obvious*."
-​	"Then it must be obvious in a different way," Cindy says
+​	"Then it must be obvious in a different way," I say, looking at the flame.
 ​	
 ​	
 
