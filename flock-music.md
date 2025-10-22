@@ -826,7 +826,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 “Come on, Alice!”  
 ​	“I don’t want to.”
 ​	I’m sitting on the ground in front of the carousel, playing with a book of matches. I let each one burn until it almost reaches my fingers, then toss it in the grass. A small pile of blackened match ends sits next to me, smelling of sulfur and warm earth.
-​	Everybody else is riding on the horses. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
+​	Everybody else is riding on the carousel. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
 ​	“Come sit with me on the horse!” cries Cindy. Her horse, of peeling white fur and fading blue saddle, is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
 ​	“I do not want to celebrate,” I shout after her.  
 ​	“I never knew a music show can be like that,” Barry says, coming into view. His saddle is fading gold and his smile is idiotic. 
@@ -883,7 +883,7 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"She told you," says Cindy. "He said to stop idling at the intersection. It's a *metaphor*."
 ​	"Stop idling at the *station*," Barry corrects her. "Gee, I sure hope we'll get those peanuts soon." He watches the peanuts and licks his lips. "The important thing is that he told her to *come on board*." 
 ​	"What's it a metaphor for?" asks Bernie. 
-​	"Don't you have a mother, kid?" asks Tim. Bernie shrugs. "And in any case what does it matter what he said, look at what he wrote!"
+​	"Why are you here, kid?" asks Tim. Bernie shrugs. "And in any case what does it matter what he said, look at what he wrote!"
 ​	Bernie asks, "what did he write?"
 ​	I show him the matchbook cover, where someone hastily penciled in, 
 
@@ -907,12 +907,11 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"They'll screw you in each time," says another. 
 ​	"What do you want, honey?" says the lady at the stall to Barry. 
 ​	Then the PA comes on:
-
 ​	*(Barry MacAllister, Jr... Barry MacAllister, Jr... a phone call for you from your father in the fair's management office...)*
 ​	Barry abandons his position at the top of the line and starts to walk down the midway. 
-​	"Are you lost, too?" asks Bernie. 
+​	"Is he lost, too?" asks Bernie. 
 ​	"See you, kid," says Tim. "We got adult business." 
-​	"Alright see ya guys. Alice, if these guys don't take you to the show, think of me."
+​	"Alright," says Bernie. "See ya guys. Alice, if these guys don't take you to the show, think of me."
 ​	I give him a little kiss on the cheek. We follow Barry.  
 ​	"Hey Barry, what do you think your dad wants?" asks Eleanore. 
 ​	"Yeah," I say, trying to join in, "what do you think he wants?"
@@ -924,7 +923,7 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"Thanks, man," says Barry. 
 ​	"Maybe Barry deserves the Bear-Gineer," says Eleanore and links her arm through Tim's. 
 ​	"The Bear-Gineer is Tim's, *I* won it for him fair and square," says Cindy, takes the teddy and links her arm through Tim's other arm. 
-​	"Alright," says Tim. "You two. I've had it." He breaks free from them and takes the teddy away. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
+​	"Alright," says Tim. "You two. I've had it." He breaks free from them and takes the teddy away from Cindy. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
 ​	Barry says, "Leave Tim alone, girls."
 ​	Eleanore says, "You never let me have anything nice, don'tcha, Cindy."
 ​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and car park. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
@@ -940,8 +939,8 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"Don't they have three million nice guys in New York?" Cindy whispers back. 
 ​	"If you must know, they're not that nice."
 ​	Tim whispers, "I can still hear you two."
-​	Through the doorway I can see Barry putting his hand on the phone. He draws a deep breath. A big, elastic smile spreads upon his face. He puts the receiver to his ear. I can hear him say, "Father, good afternoon!"
-​	Mr. Evans' secretary says, "I told Mr. Evans, I said so myself, I said 'Don't hire those Pillar people, their manager sounds shady. *And* she's a woman.' But would men listen?"
+​	Through the doorway I can see Barry putting his hand on the phone. He draws a deep breath. A big, elastic smile spreads upon his face. He puts the receiver to his ear. I can hear him exclaim, "Father, good afternoon!"
+​	Mr. Evans' secretary says, "I told Mr. Evans, I said so myself, I said, 'Don't hire those Pillar people, their manager sounds shady. *And* she's a woman.' But would men listen?"
 ​	Cindy whispers, "You're here for a hot second and you claim possession of everything you see. What does that tell you?"
 ​	Eleanore whispers back, "You try to buy everything you see, with cash or with stuffed animals, what does that tell you?"
 ​	Mr. Evans' secretary says, "I can also hear you now, girls. Kindly take it outside."
@@ -952,12 +951,12 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"So," I say. "Don't I get a bear?"
 ​	Mr. Evans' secretary says, "Apparently, there's some top banana's son here at the fair today, and while all this brouhaha was happenin' and Mr. Evans had to go over there to straighten things up--"
 ​	I watch Barry, receiver to ear, as he's slowly deflating.
-​	"Aha," he says. "I mean -- yessir."
+​	"Uh-ha," he says. "I mean -- yessir."
 ​	Mr. Evans' secretary says, "--so he had to tell that kid's dad that his boy was dancing with a *black girl*."
 ​	Cindy comes back, her face very red. 
 ​	"Well," she tells me, "now I have nowhere to sleep." 
 ​	I try to feel sad for her but fail. Outside, Eleanore is smoking a cigarette. Back in the inner office, a shrunken version of Barry is putting down the telephone receiver. He ambles slowly back to us. His face is about as red as Cindy's. 
-​	"Well," he says. "We're getting in the car right now and we're going right back home."
+​	"Well," he says. "Now. We're going right back home."
 ​	We all walk back to the car park in silence.
 
 "And so," says Cindy, "ends our day in Wonderland."
@@ -967,8 +966,8 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"What bright side?"
 ​	We two keep to the back of the procession, whispering. 
 ​	"That you don't have to tell Barry you'll be leaving."
-​	Cindy laughs; it's not a happy laugh. I hug her and I can feel how she won't lean into my arms. I feel ashamed at how jubilant I feel. 
-​	"I really thought I'll be getting away this time," she says. 
+​	Cindy laughs; it's not a happy laugh. I hug her and I feel how she won't lean into my hug. I feel ashamed at how jubilant I feel. 
+​	"I really thought I'd be getting away this time," she says. 
 ​	"I know how you feel," I say and I pat her head. "I thought I'll be seeing my first show today."
 ​	"Yeah, roughly the same thing."
 ​	I link my hand through hers. "We'll have a big old slumber party when we get back," I tell her. "Just you and me."
@@ -1032,7 +1031,7 @@ The dusty road gives way to a broad, wealthy residential street. Fancy houses si
 ​​	“And how did you come to this conclusion?” Eddie says. 
 ​	“Well,” I say. “I got this matchbook.” 
 ​	A hand shoots up from between the blankets. “Show me.”
-​	I give Eddie the Buzz Cigarettes matchbook. Eddie pulls the blankets away and sits down underneath us. Cindy shrieks. 
+​	I give Eddie the Buzz Cigarettes matchbook. Eddie pulls the blankets away and sits up underneath us. Cindy shrieks. 
 ​	“Sorry, sorry, sorry, lady,” says Eddie. He unfolds the matchbook and looks at the writing inside. ”Alice,” he says, “do you know what it means?”
 ​	“I know what it means,” I say. “It means other people will be having fun while we’ll be at home, crying.”
 ​	Eddie looks at me, then at Barry. “You!” he says. “Why?”
@@ -1140,6 +1139,7 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	"Someone turn on the radio!" I say.
 
 *(Caaaatch-a-falling-staaar and putitin-your-pock-et…)*
+==chapter break== 
 
 We run up the many stairs of the Richmond Main Street train station, a big block of columns and ornamental windows and thatched roofs. 
 ​	"What time is her train?" says Barry. "Did we miss it?"
@@ -1190,58 +1190,7 @@ We run up the many stairs of the Richmond Main Street train station, a big block
 ​	"Because," says Eleanore, "I saw Eddie leave with Babatunde. And they left *on foot*."
 ​	"No car, then it must be around," Cindy says. "So where is it?"
 ​	"It's just a matter," says Eleanore, "of looking through the clubs right here in Shockoe Bottom."
-​	"Good luck," says the newspaper man. "There are no clubs in this slum. Only old warehouses."
-​	"Oh," says Eleanore.
-​	"No, what you want to do," says the newspaper man, feeling the treasure hunt is back on, "what you want to do is go north from here, to Jackson Ward. Then you find the Deuce. That's where your treasure should be."
-​	"Treasure hunt!" exclaims Cindy. 
-​	"Who's the Deuce?" I ask.
-
-We park alongside a street sign that reads 2ND AVE., right next to a demolished building. Heaps of bricks and twisted metal wires are poking through the upturned earth. The building right next to it is a big theatre, its marquee shining bright (THE HIPPODROME - TONIGHT ONLY, THE COASTERS.) A mass of people in their Saturday-night bests are piling at the entrance. Most are black, but some are white teenagers, like us. The street is bustling with people, who overflow from the sidewalk to the street, mixing with the cars, talking and hooting and laughing. ​	
-​	"Excuse me, sir," says Tim to a passerby, "do you know where I can find the Deuce?"
-​	"Guess you did," says the man without stopping to explain.
-​	"Hi," says Cindy to a woman standing in line. "Excuse me. I'm looking for the Deuce."
-​	"Child," says the woman, already turning back, "the Deuce is all around you."
-​	Tim says, "Give me a minute." He walks over to a group of black teenagers, who soon burst in laughter. He comes back red-faced.
-​	"Yeah," he says. "Turns out the Deuce is--"
-​	"Let me guess," says Eleanore. "This street?"
-​	"It's this street," says Tim. 
-​	"How did you know?" I ask. 
-​	"Well," says Eleanore. "It is *second avenue*..."
-​	"Heard you were looking for the Deuce," says a gold-toothed man in a hound's-tooth, grey and brown tweed jacket and a yellow fedora. "Well, I'm the Deuce. How may I be of service this fine evening?"
-​	"No," says Eleanore. "It's where we are, that's the Deuce. Go away."
-​	"It is the name of this little stretch of land," says the man, showing no inclination to go away, "but it is also the name of the king of all the Deuce. Danny the Deuce, at your service, ma'am."
-​	"We are not interested," says Tim. 
-​	"You sure? You kids look like you're looking to have some fun."
-​	"We all wish you a good evening, sir," says Cindy. 
-​	Barry returns from the box office. "They never heard of them," he says. 
-​	"Alright," says Cindy. "That's the plan. We split up and spread out. We each take a part of the street. We'll ask every box office attendant. We'll read every billboard, top to bottom. Hell, let's even ask at that drugstore over there."
-​	​"Are you kids doing a treasure hunt?" asks the Deuce. 
-​	"For the last time, no!" says Eleanore. 
-​	"Alright, I understand," says the Deuce. "I will leave you alone. I just thought you kids wanted some tickets." He turns to leave.
-​	We all shout, "Wait!"
-
-"So let me get this straight," says the Deuce. He's leaning against Barry's Chevy, picking at his teeth. "You say these guys are the best band ever..."
-​	I say, "Absolutely."
-​	Tim says, "You have no idea, Mr. Deuce."
-​	The Deuce says, "...and yet no one knows who they are."
-​	Eleanore says, "Well, *you* don't know who they are."
-​	​The Deuce says, "Miss Eleanore, the king of the Deuce tells you right now, right in your face: there are no tickets for something called The Steam Pillars anywhere today, not just here, but in all of Richmond."
-​	I sit on the floor. I take out my matchbook and light a match. I see I only have four left...
-​	"I don't understand," says Eleanore. "It was supposed to be *obvious*."
-​	"Then it must be obvious in a different way," I say, looking at the flame.
-​	
-​	
-
-
-==at the news stand==
-==the deuce, hippodrom, meeting mickey the jew==
-==mickey takes them to a barbershop==
-==barbershop==
-==back in shockoe bottom with mickey==
-==parking lot, meeting other fans==
-==into the rabbit hole==
-​	
-
+​
 
 
 
