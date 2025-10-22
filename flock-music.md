@@ -1139,22 +1139,27 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	"Someone turn on the radio!" I say.
 
 *(Caaaatch-a-falling-staaar and putitin-your-pock-et…)*
+
 ==chapter break== 
+
+​==radio break==
 
 We run up the many stairs of the Richmond Main Street train station, a big block of columns and ornamental windows and thatched roofs. 
 ​	"What time is her train?" says Barry. "Did we miss it?"
 ​	We hear a loud *braaaaaaang* above our head. I look up to see the huge clock face showing it's half past six. The sky is pink behind the clock tower.
-​	"It should be leaving now!" says Cindy. At the top of the stairs we pass a column with the inscription "1500 East" and push through the doors.
+​	"It should be leaving now!" says Cindy. At the top of the stairs we pass ==a column with the inscription "1500 East"== and push through the doors.
 ​	"Eleanore!" Barry yells. 
 ​	"Eleanore!" I join in. 
 ​	==We are surrounded by hundreds of people. Eleanore is nowhere to be found. The huge main room is all Greek columns and light from huge round windows and white marble floors and wide stone staircases reaching the train platform and little signs that say "Restrooms - Whites Only."==
 ​	"Run!" says Cindy. "I can hear the train. We might just get her."
 ​	We run towards the staircase. 
 ​	"We'll spread out and search," says Barry.
+​	"We'll go from car to car," pants Cindy.
 ​	"Or," says Tim, breathing hard, "we'll go to the news stand."
 ​	"Why?" says Barry.
 ​	"Because she's standing right there."
-​	To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS and MAGAZINES - GENERAL INTEREST. Some people stand next to it, reading the merchandize. One of them is a young woman in a black turtleneck and black cigarette pants, reading The Richmond Afro-American.
+​
+To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS and MAGAZINES - GENERAL INTEREST. Some people stand next to it, reading the merchandize. One of them is a young woman in a black turtleneck and black cigarette pants, reading The Richmond Afro-American.
 ​	We run to her. "Eleanore!" says Cindy. "Why aren't you on that train?"
 ​	"I was never going to go on the train," she says, still pretending to read the newspaper. 
 ​	"What were you doing?" asks Cindy. 
@@ -1171,14 +1176,14 @@ We run up the many stairs of the Richmond Main Street train station, a big block
 ​	"Very funny," says Barry. "He's the last one they would tell."
 ​	"It's supposed to be *obvious*," says Eleanore. 
 ​	"You kids doing a treasure hunt?" says the newspaper vendor. He's an old man in a felt cap, gazing at us between the hanging newspaper​​s with twinkling eyes. 
-​	"We are," I tell him.
+​	"We are," I tell him. I show him my matchbook but he's not impressed.
 ​	"We're really not," says Eleanore. "It's supposed to be *obvious*, you see."
 ​	​Tim says, "We sure are, sir. Do you know The Steam Pillars?"
 ​	"Dunno," the newspaper man says. "Are they black?"
 ​	"How did you know?"
 ​	"Because," says the man, "your friend over there is reading the amusement section in a black newspaper."
 ​	Cindy says, "Is it there, Eleanore?"
-​	"It isn't," Eleanore says, folding the newspaper. "But that's not the point. The point is, Alice, the guy who gave you that matchbook wanted you to be in the show. He probably assumed most people who get a matchbook will know where the show will be."
+​	"It isn't," Eleanore says, folding the newspaper. "But that's not the point. The point is, Alice, the guy who gave you that matchbook wanted you to be in the show. You're probably not the only one who got one. He must have assumed most people who get a matchbook will know where the show will be."
 ​	"So where is it?" says Barry. 
 ​	"Well, for starters, I can tell you it's right here in Shockoe Bottom."
 ​	I giggle. "Where?"
@@ -1190,6 +1195,57 @@ We run up the many stairs of the Richmond Main Street train station, a big block
 ​	"Because," says Eleanore, "I saw Eddie leave with Babatunde. And they left *on foot*."
 ​	"No car, then it must be around," Cindy says. "So where is it?"
 ​	"It's just a matter," says Eleanore, "of looking through the clubs right here in Shockoe Bottom."
+​	"Pfft," says the newspaper man. "Good luck doing that."
+
+We leave the train station, deep in discussion. I feel like we're a crack team of detectives, hot after the prey. The sun has already disappeared behind the dilapidated, grey blocks of buildings surrounding the station. On a big warehouse in front of us, the logo and hexagonal design of Buzz Cigarettes is peeling on the bricks, twenty feet in the air. A stray dog is sleeping in its abandoned parking lot.
+​​	"Let's find a bulletin board," says Barry.
+
+At the intersection of East Main and 17th we spot one: a thick pillar made fatter by the layers of paper and glue. We surround the pole. 
+​	"There's one here," says Eleanore. "Apparently, if you're bald, there's a tonic for that."
+​	Cindy giggles. "I can get two suits for the price of one!"
+​	I stroke the crinkly page. "There's a place called The Hippodrome on 2nd," I say. "They've got lots of shows."
+​	"Is one of them The Steam Pillars?" asks Eleanore. 
+​	"No," I say. "Here's another! Bobby Smith and the Soul Brothers. They're on Club 533, on 2nd."
+​	Tim yells from the other side, "There you go: 'For tickets, enquire at the Deep Groove Record shop".
+
+At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of vinyl, the owner never heard of the Pillars. He's a fat old man with face full of zits. He's sitting at the counter, sucking on a gerkin. 
+​	"I've got the Coasters, do you kids want to go see the Coasters?"
+​	"We sure do," says Cindy. "How much are they?"
+​	"Cindy!" I say. "We do not want to see the Coasters. We want the Steam Pillars!"
+​	"How about the Five Royals? They do blues and boogie."
+​	"Ooh, blues and boogie," says Cindy. 
+​	"Cindy, focus please," says Tim, my new ally. 
+​	"You kids like Ruth Brown?"
+​	"Love her," says Eleanore.
+​	"Because her backing band is here in town."
+​	"Oh," says Eleanore. "No."
+​	"Guys," I say. "No matter what happens we're going to see the Steam Pillars."
+​	"You guys need a hotel," says the shop owner. He's reaching into a large glass jar and picks up another gerkin. 
+
+At the Eggleston Hotel, a once-fancy lobby with broken checkered floor tiles and scratched wood waistcoating and once-yellow paint on the walls, the receptionist is old and deaf and doesn't know what we're talking about​.
+​	"So you guys want a room?" she says, holding the telephone receiver between her ear and her shoulder.
+​	"No, the Steam Pillars are a band," Barry explains. "They have a show in town tonight."
+​	"And will they be requiring rooms?"
+​	"No."
+​	"How many rooms?"
+​	"Look," says Barry. "Do you sell tickets here or not?"
+​	"We do," says the receptionist. 
+​	"Great," says Barry. 
+​	"Do you kids like Perry Como?"
+
+At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps outside. The cardboard image of the poet, mussy-haired and wearing a ridiculous mustache, stares blankly at us.
+​	"It's hopeless," says Cindy. "Let's see that boogie show."
+​	"It's like they don't exist," says Barry. "Did we hallucinate them?"
+​	I stomp my feet. "Tim," I say. "Tell'em."
+​	Tim says, "It's a black show."
+​	"Mixed," says Eleanore. 
+​	"Yeah, I guess... but down here it's all the same, know what I'm saying?"
+​	"What are you saying?"
+​	"I'm saying we should go where black crowds go to listen to music."
+​	Eleanore says, "Alice, when you were looking at the billboard, where were all those venues?"
+​	"Second street," I say. 
+​	The receptionist says, "Two rooms, then?"
+
 ​
 
 
