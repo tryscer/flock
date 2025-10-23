@@ -697,7 +697,7 @@ Mucho climbs on stage again, holding a huge, upright bass in one hand, like he�
 ​	Babatunde sits behind a huge caulderon covered in animal hide. If it’s a drum, I think, it’s the biggest drum I’ve ever seen. He raps his fingers on it. Suddenly Mucho’s little bass rythm has a drum rythm friend to dance with. 
 ​	Johnny Terry climbs on stage. Someone yells, “Hi there, Johnny!” And some people clap. He finds his place behind Mucho and starts singing into the microphone in a low, low voice:
 ​	“*Go, go, go*…”
-​	Johnny’s voice and Mucho’s bass and Babatunde’s drum all vibrate through me. I can feel them in my chest, in my feet, in my butt. A tall, broad-shouldered woman comes on, taking her place in front, wearing a black dress and an afro and holding a shiny, golden electric guitar, slim and small in her large hands.   
+​	Johnny’s voice and Mucho’s bass and Babatunde’s drum all vibrate through me. I can feel them in my chest, in my feet, even in my butt. A tall, broad-shouldered woman comes on, taking her place in front, wearing a black dress and an afro and holding a shiny, golden electric guitar, slim and small in her large hands.   
 	​“Holy hell, it’s a Broadcaster\!” Says Tim.
 ​	 Eddie throws the woman a line and she catches it, plugs it to her guitar. The tent explodes in an electrified howling scream — not at all pleasant. The crowd is stirring. Eddie slaps a large crate, covered in yellow tweed. The howling stops. The crate sits there, buzzing and vibrating.   ​	“That’s a Bassman amp, Eleanore, see?” Says Tim.   
 ​	“Shut up, Tim\!” I say, very excited. “Don’t ruin my first show\!” I slip my hand into my purse, feeling my change of underwear. I imagine my panties landing on Mucho’s head and giggle.   
@@ -742,7 +742,7 @@ Now the guitarist hits the strings. I’ve never seen an electrical guitar being
 ​	“Alright, alright!”
 ​	“Barry, grab Tim when you come over!”
 
-I look at the crowd. Everybody is dancing. The crowd is swaying with the guitar and the singing, thumping their feet to the rhythm of the drums, the piercing jabs of the horns. Everywhere a butt still kisses a seat, there are people pulling at strangers’ hands, cajoling.  
+I look at the crowd. Everybody is dancing. They sway with the guitar and the singing, thumping their feet to the rhythm of the drums, the piercing jabs of the horns. Everywhere a butt still kisses a seat, there are people pulling at strangers’ hands, cajoling.  
 ​	Now the choir of men’s voices rises and the crowd, slowly, starts to sing with them:
 
 *(waaaaaay dooooown in Egypt-land!)*
@@ -1197,18 +1197,38 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​	"It's just a matter," says Eleanore, "of looking through the clubs right here in Shockoe Bottom."
 ​	"Pfft," says the newspaper man. "Good luck doing that."
 
-We leave the train station, deep in discussion. I feel like we're a crack team of detectives, hot after the prey. The sun has already disappeared behind the dilapidated, grey blocks of buildings surrounding the station. On a big warehouse in front of us, the logo and hexagonal design of Buzz Cigarettes is peeling on the bricks, twenty feet in the air. A stray dog is sleeping in its abandoned parking lot.
-​​	"Let's find a bulletin board," says Barry.
+We leave the train station, deep in discussion. I feel like we're a crack team of detectives, hot after the prey. The sun has already disappeared behind the dilapidated and grey blocks of buildings surrounding the station. On the face of a big warehouse in front of us, the logo and hexagonal design of Buzz Cigarettes is peeling on the bricks, twenty feet in the air. A stray dog is sleeping in an abandoned parking lot.
+​​​
+At the bottom of the stairs sits a beggar in a gray, dirty suit and white flannel wrapped around his eyes, like a refugee. Around his neck he's hung a cardboard sign, painted in greasy ink: "BLINDED IN OKINAWA." He's shaking the coins in his tin cup to a rhythm and whistling along to it. ​	
+​	Cindy goes over.
+​	"Excuse me," she says.
+​	The beggar whistles.
+​	"Pardon me," says Cindy.
+​	"Caint hear ya without the pling of change in my cup," says the beggar.
+​	"Oh," says Cindy. "Sorry." She finds a quarter in her handbag and puts it in the cup. The beggar changes his rhythm. 
+​	"Thank you," he says. 
+​	"So sir -- did you happen to see this guy with funny clothes and a big drum in his hand?"
+​	The beggar raises his head at her. 
+​	"See?" he asks. 
+​	"Oh," says Cindy. "Right." She scratches her head. "So, have you perhaps heard of this band called The Steam Pillars?"
+​	"Lady, do I look like a bulletin board?"
+​	"Oh!" says Tim. "That's a good idea."
 
 At the intersection of East Main and 17th we spot one: a thick pillar made fatter by the layers of paper and glue. We surround the pole. 
 ​	"There's one here," says Eleanore. "Apparently, if you're bald, there's a tonic for that."
 ​	Cindy giggles. "I can get two suits for the price of one!"
-​	I stroke the crinkly page. "There's a place called The Hippodrome on 2nd," I say. "They've got lots of shows."
+​	I stroke the crinkly page. 
+​	Cindy says, "There's a place called The Hippodrome on 2nd, they've got lots of shows."
 ​	"Is one of them The Steam Pillars?" asks Eleanore. 
-​	"No," I say. "Here's another! Bobby Smith and the Soul Brothers. They're on Club 533, on 2nd."
-​	Tim yells from the other side, "There you go: 'For tickets, enquire at the Deep Groove Record shop".
+​	"No," says Cindy. "Here's another! Bobby Smith and the Soul Brothers. They're on Club 533, on 2nd."
+​	"Cind," I say. "We want the Pillars, right?"
+​	"As long as it's a show, I don't care," she says. 
+​	"Wrong answer," I say. 
+​	Tim yells from the other side, "There you go: 'The Del-Tones will appear today for one night only."
+​	I say, "You too, Tim?"
+​	​Tim says, "Hear me out: blah-blah-blah... 'For tickets, enquire at the Deep Groove Record shop".
 
-At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of vinyl, the owner never heard of the Pillars. He's a fat old man with face full of zits. He's sitting at the counter, sucking on a gerkin. 
+At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of warm vinyl, the owner never heard of the Pillars. He's a fat old man with face full of zits. He's sitting at the counter, sucking on a gerkin. 
 ​	"I've got the Coasters, do you kids want to go see the Coasters?"
 ​	"We sure do," says Cindy. "How much are they?"
 ​	"Cindy!" I say. "We do not want to see the Coasters. We want the Steam Pillars!"
@@ -1219,14 +1239,14 @@ At the Deep Groove Record Shop, a stuffy room filled with creates and smelling o
 ​	"Love her," says Eleanore.
 ​	"Because her backing band is here in town."
 ​	"Oh," says Eleanore. "No."
-​	"Guys," I say. "No matter what happens we're going to see the Steam Pillars."
+​	"Guys," I say. "No matter what happens, we're going to see the Steam Pillars."
 ​	"You guys need a hotel," says the shop owner. He's reaching into a large glass jar and picks up another gerkin. 
 
-At the Eggleston Hotel, a once-fancy lobby with broken checkered floor tiles and scratched wood waistcoating and once-yellow paint on the walls, the receptionist is old and deaf and doesn't know what we're talking about​.
+At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty overalls, looking to me like railroad engineers, the receptionist is old and deaf and doesn't know what we're talking about​.
 ​	"So you guys want a room?" she says, holding the telephone receiver between her ear and her shoulder.
-​	"No, the Steam Pillars are a band," Barry explains. "They have a show in town tonight."
-​	"And will they be requiring rooms?"
-​	"No."
+​	"No, the Steam Pillars, we want to go see them," Barry explains. "They are in town tonight."
+​	"And what railway do they work for?"
+​	"No, no..."
 ​	"How many rooms?"
 ​	"Look," says Barry. "Do you sell tickets here or not?"
 ​	"We do," says the receptionist. 
@@ -1242,9 +1262,9 @@ At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps out
 ​	"Yeah, I guess... but down here it's all the same, know what I'm saying?"
 ​	"What are you saying?"
 ​	"I'm saying we should go where black crowds go to listen to music."
-​	Eleanore says, "Alice, when you were looking at the billboard, where were all those venues?"
-​	"Second street," I say. 
-​	The receptionist says, "Two rooms, then?"
+​	Eleanore says, "Cindy, when you were looking at the billboard, where were all those venues?"
+​	"Second street," says Cindy. 
+
 
 ​
 
