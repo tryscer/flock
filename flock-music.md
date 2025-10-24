@@ -1265,6 +1265,37 @@ At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps out
 ​	Eleanore says, "Cindy, when you were looking at the billboard, where were all those venues?"
 ​	"Second street," says Cindy. 
 
+Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. The streets are dark save for a few islands of yellow light, and those grow farther and farther apart. Every time we pass under a street lamp we see lots full of the demolished debris of a house; buildings with windows and doors boarded up; streets dug up so deep that they become little rivulets bisecting the neighborehood. 
+​	“Are we sure we’re in the right place, Bear?” says Cindy. Barry looks at Tim, who takes a look at his map and nods. 
+​	“Yeah, we’re in the right place,” says Barry. 
+​	“Where is this show?” says Eleanore. “Hiroshima?”
+​	“Puppy!” cries Cindy. “Not cool!”
+​	“Don’t call me that,” says Eleanore, laughing. 
+​​	The road grows broader and broader. A big billboard, lit by greenish-yellow floodlights, shows a picture of pretty white children playing in the front lawn of a beautiful house. The sign says COMING SOON TO JACKSON WARD and, in smaller lettering, A PROJECT FOR THE ELIMINATION OF BLIGHT AND THE PROMOTION OF CIVIC PROGRESS IN RICHMOND. 
+​	I let out a laugh. 
+​	A drunk couple, laughing and hugging, are walking on the road towards us. Barry slows down and rolls down the window. 
+​	“Excuse me,” he says to the couple, “where’s all the music?”
+​	The man and the woman — black, young and drunk — look at each other. 
+​	“You’re looking for the Deuce,” she says. “Head for the Deuce!”
+​	The man says, “the Deuce is rocking tonight!” He snickers.
+​	“Who’s he?” says Barry. But the couple moves on. 
+​	As we’re driving, cars begin to fill the curbs. People appear, at first a smattering, then groups, then the streetlamps return and we are in the midst of a thick mass of people. On our right, a big theatre markee says HIPPODROME and TONIGHT ONLY - THE COASTERS. But no one is queueing at the box office. Police cars are everywhere, their gumballs coloring the street in red. 
+​	“You had better park, Barry,” says Tim. 
+​	We get out of the car. The crowd is walking together, shouting, singing, carrying signs. 
+​	“This doesn’t look like a night out,” says Eleanore. “This looks like a *rally*.”
+​	“Just our luck,” says Cindy. “So no Coasters tonight?”
+​	I shout, “Cindy!”
+​	“Alright, sorry, sorry!”
+​	The crowd moves past us. Someone shouts “You can’t stop the music!” and people around us call back “You can’t stop the music!” Someone else walks by carrying a sign saying BLACK MUSICIANS ARE THE BACKBONE OF THE MUSICAL INDUSTRY IN THESE UNITED STATES!
+​	“Nice,” Eleanore tells her. “Pithy.”
+​	Police officers stand like a wall around the theatres around. Next to the Hippodrome, two policemen are handcuffing a black boy in his Sunday bests. One of the policemen has his baton out and the other has his foot on the boy’s back. The boy is crying. 
+​	Someone shouts, “Music is our right!”
+​	I shout back with the crowd: “Music is our right!”
+
+==meeting the trumpeter for the seven tops==
+
+
+
 
 ​
 
