@@ -1167,7 +1167,7 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​	She peers at Cindy above the newspaper. She winks. Cindy smiles. "Anyway," says Eleanore, "I know Barry is a good guy. I knew he'd do the right thing."
 ​	"Aw, Puppy..." says Cindy. 
 ​	"Don't call me that. Stop hugging me."
-​	But she's hugging her back.
+​	But she's hugging Cindy back.
 
 "Now, let's get serious," says Barry. "We've got a show to catch."
 ​	"That's right!" I say. Finally, the day is back on track. I hold the matchbook in my hand should one of my fellow detectives wish to inspect it. 
@@ -1179,7 +1179,7 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​	"We are," I tell him. I show him my matchbook but he's not impressed.
 ​	"We're really not," says Eleanore. "It's supposed to be *obvious*, you see."
 ​	​Tim says, "We sure are, sir. Do you know The Steam Pillars?"
-​	"Dunno," the newspaper man says. "Are they black?"
+​	"Dunno," the newspaper man says. "Are they a black band?"
 ​	"How did you know?"
 ​	"Because," says the man, "your friend over there is reading the amusement section in a black newspaper."
 ​	Cindy says, "Is it there, Eleanore?"
@@ -1193,7 +1193,7 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​	"Absolutely not," says Eleanore.
 ​	"But why?" I ask. 
 ​	"Because," says Eleanore, "I saw Eddie leave with Babatunde. And they left *on foot*."
-​	"No car, then it must be around," Cindy says. "So where is it?"
+​	"No car, then it must be around," Tim says. "So where is it?"
 ​	"It's just a matter," says Eleanore, "of looking through the clubs right here in Shockoe Bottom."
 ​	"Pfft," says the newspaper man. "Good luck doing that."
 
@@ -1205,7 +1205,7 @@ At the bottom of the stairs sits a beggar in a gray, dirty suit and white flanne
 ​	The beggar whistles.
 ​	"Pardon me," says Cindy.
 ​	"Caint hear ya without the pling of change in my cup," says the beggar.
-​	"Oh," says Cindy. "Sorry." She finds a quarter in her handbag and puts it in the cup. The beggar changes his rhythm. 
+​	"Oh," says Cindy. "Sorry." She finds a quarter in her handbag and puts it in the cup.  
 ​	"Thank you," he says. 
 ​	"So sir -- did you happen to see this guy with funny clothes and a big drum in his hand?"
 ​	The beggar raises his head at her. 
@@ -1224,9 +1224,9 @@ At the intersection of East Main and 17th we spot one: a thick pillar made fatte
 ​	"Cind," I say. "We want the Pillars, right?"
 ​	"As long as it's a show, I don't care," she says. 
 ​	"Wrong answer," I say. 
-​	Tim yells from the other side, "There you go: 'The Del-Tones will appear today for one night only."
+​	Tim yells from the other side, "There you go: 'The Del-Tones will appear today for one night only.'"
 ​	I say, "You too, Tim?"
-​	​Tim says, "Hear me out: blah-blah-blah... 'For tickets, enquire at the Deep Groove Record shop".
+​	​Tim says, "Hear me out: blah-blah-blah... 'For tickets, enquire at the Deep Groove Record shop'".
 
 At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of warm vinyl, the owner never heard of the Pillars. He's a fat old man with face full of zits. He's sitting at the counter, sucking on a gerkin. 
 ​	"I've got the Coasters, do you kids want to go see the Coasters?"
@@ -1241,8 +1241,8 @@ At the Deep Groove Record Shop, a stuffy room filled with creates and smelling o
 ​	"Oh," says Eleanore. "No."
 ​	"Guys," I say. "No matter what happens, we're going to see the Steam Pillars."
 ​	"You guys need a hotel," says the shop owner. He's reaching into a large glass jar and picks up another gerkin. 
-
-At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty overalls, looking to me like railroad engineers, the receptionist is old and deaf and doesn't know what we're talking about​.
+ 
+At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty overalls, looking like railroad engineers, the receptionist is old and deaf and doesn't know what we're talking about​. She wearing a little hat, cocked at an angle, and sitting behind a sign saying "Tickets to musical & other amusements shows sold here."
 ​	"So you guys want a room?" she says, holding the telephone receiver between her ear and her shoulder.
 ​	"No, the Steam Pillars, we want to go see them," Barry explains. "They are in town tonight."
 ​	"And what railway do they work for?"
@@ -1253,7 +1253,7 @@ At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty 
 ​	"Great," says Barry. 
 ​	"Do you kids like Perry Como?"
 
-At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps outside. The cardboard image of the poet, mussy-haired and wearing a ridiculous mustache, stares blankly at us.
+At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps outside. The cardboard image of the poet, mussy-haired and wearing a ridiculous mustache, stares blankly at us through glass doors.
 ​	"It's hopeless," says Cindy. "Let's see that boogie show."
 ​	"It's like they don't exist," says Barry. "Did we hallucinate them?"
 ​	I stomp my feet. "Tim," I say. "Tell'em."
@@ -1265,10 +1265,10 @@ At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps out
 ​	Eleanore says, "Cindy, when you were looking at the billboard, where were all those venues?"
 ​	"Second street," says Cindy. 
 
-Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. The streets are dark save for a few islands of yellow light, and those grow farther and farther apart. Every time we pass under a street lamp we see lots full of the demolished debris of a house; buildings with windows and doors boarded up; streets dug up so deep that they become little rivulets bisecting the neiborhood. 
+Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. The streets are dark save for a few islands of yellow light, and those grow farther and farther apart. Every time we pass under a street lamp we see lots full of the demolished debris of a house; buildings with windows and doors boarded up; streets dug up so deep that they become little rivulets bisecting the neighborhood. 
 ​	“Are we sure we’re in the right place, Bear?” says Cindy. Barry looks at Tim, who takes a look at his map and nods. 
 ​	“Yeah, we’re in the right place,” says Barry. 
-​	“Where is this show?” says Eleanore. “Hiroshima?”
+​	“Where is this show?” says Eleanore. “Hiroshima?"
 ​	“Puppy!” cries Cindy. “Not cool!”
 ​	“Don’t call me that,” says Eleanore, laughing. 
 ​​	The road grows broader and broader. A big billboard, lit by greenish-yellow floodlights, shows a picture of pretty white children playing in the front lawn of a beautiful house. The sign says COMING SOON TO JACKSON WARD and, in smaller lettering, A PROJECT FOR THE ELIMINATION OF BLIGHT AND THE PROMOTION OF CIVIC PROGRESS IN RICHMOND. 
@@ -1286,7 +1286,7 @@ Back in the car, the sweltering June heat gives way to a cool evening wind strea
 ​	“Just our luck,” says Cindy. “So no Coasters tonight?”
 ​	I shout, “Cindy!”
 ​	“Alright, sorry, sorry!”
-​	The crowd moves past us. Someone shouts “You can’t stop the music!” and people around us call back “You can’t stop the music!” Someone else walks by carrying a sign saying BLACK MUSICIANS ARE THE BACKBONE OF THE MUSICAL INDUSTRY IN THESE UNITED STATES!
+​	The crowd moves past us. Someone shouts “You can’t stop the music!” and people around us call back, “You can’t stop the music!” Someone else walks by carrying a sign saying BLACK MUSICIANS ARE THE BACKBONE OF THE MUSICAL INDUSTRY IN THESE UNITED STATES!
 ​	“Nice,” Eleanore tells her. “Pithy.”
 ​	Police officers stand like a wall around the theatres. Next to the Hippodrome, two policemen are handcuffing a black boy in his Sunday bests. One of the policemen has his baton out and the other has his foot on the boy’s back. The boy is crying. 
 ​	Someone shouts, “Music is our right!”
@@ -1312,7 +1312,7 @@ Back in the car, the sweltering June heat gives way to a cool evening wind strea
 I go back to the group, standing next to a barbershop ("SCOT'S BARBARSHOP -- Men $1.5"); Tim is deep in conversation with a couple of black kids. 
 ​	"Haven't seen you at the shows," one kid tells him. "Too chicken to come?"
 ​	"Hey Pete, forget about that for a second," Tim says. "Where are all the shows?"
-​	"There were some troubles at Strawberry Hill up north, at the fair," says Pete. "And the police decided to shut down the Deuce for the whole day!"
+​	"There were some troubles at Strawberry Hill up north, at the fair," says Pete. "And the police decided to shut down the whole Deuce for the night."
 ​	"It's collective punishment!" says the other kid. 
 ​	"We won't let you shut us down!" the crowd cries. 
 ​	"That's disgusting!" says Eleanore. "Come on, guys, let's march with them!"
@@ -1323,6 +1323,21 @@ I go back to the group, standing next to a barbershop ("SCOT'S BARBARSHOP -- Men
 ​	"Cindy!" I yell. This whole day feels like a long tease. 
 ​	"Who are they?" says Pete. 
 ​	"They're..." Tim starts. "They are an integrated band, if you know what I mean."
+​	​"Like at the warehouses?" asks Pete. 
+​	"Yeah, exactly like at the warehouses," says Tim. "Actually, now that I think about it, I know exactly where the Pillars are tonight. Come on, gang."
+
+*Braaaangggggg!*
+​	The hands on the clock on the tower above the Main Street train station show it's seven thirty. The sky around the clock is black. 
+​	"So we're back at the beginning," says Cindy.
+​	"Yeah," says Tim. "Yeah. Back in North Carolina, if someone like me wants to dance with someone like Pete, then that someone goes to an *underground* show. We couldn't find the Pillars because we were looking for... you know, an *above-ground* show. Alice, give me your matchbook."
+​	I hand my Buzz Cigarettes matchbook to my fellow detective. Tim holds it up and it catches the light from the train station behind us. 
+​	"You can't have integrated shows in, like, official venues, because that's illegal," Tim says, looking at the matchbook. "So they usually take place in big old tobacco warehouses. Barry, where's the Buzz Cigarettes warehouse in Richmond?"
+​	"It's... well... oh. Oh!" says Barry. Tim puts down the matchbook. Behind it, the Buzz logo is peeling on the building in front of us.
+​	"It's right here in Shockoe Bottom," says Tim. "Like Eleanore said, it was supposed to be obvious."
+
+==chapter break==
+
+
 
 
 
