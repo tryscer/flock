@@ -1265,21 +1265,21 @@ At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps out
 ​	Eleanore says, "Cindy, when you were looking at the billboard, where were all those venues?"
 ​	"Second street," says Cindy. 
 
-Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. The streets are dark save for a few islands of yellow light, and those grow farther and farther apart. Every time we pass under a street lamp we see lots full of the demolished debris of a house; buildings with windows and doors boarded up; streets dug up so deep that they become little rivulets bisecting the neighborehood. 
+Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. The streets are dark save for a few islands of yellow light, and those grow farther and farther apart. Every time we pass under a street lamp we see lots full of the demolished debris of a house; buildings with windows and doors boarded up; streets dug up so deep that they become little rivulets bisecting the neiborhood. 
 ​	“Are we sure we’re in the right place, Bear?” says Cindy. Barry looks at Tim, who takes a look at his map and nods. 
 ​	“Yeah, we’re in the right place,” says Barry. 
 ​	“Where is this show?” says Eleanore. “Hiroshima?”
 ​	“Puppy!” cries Cindy. “Not cool!”
 ​	“Don’t call me that,” says Eleanore, laughing. 
 ​​	The road grows broader and broader. A big billboard, lit by greenish-yellow floodlights, shows a picture of pretty white children playing in the front lawn of a beautiful house. The sign says COMING SOON TO JACKSON WARD and, in smaller lettering, A PROJECT FOR THE ELIMINATION OF BLIGHT AND THE PROMOTION OF CIVIC PROGRESS IN RICHMOND. 
-​	I let out a laugh. 
+​	Eleanore lets out a laugh. 
 ​	A drunk couple, laughing and hugging, are walking on the road towards us. Barry slows down and rolls down the window. 
 ​	“Excuse me,” he says to the couple, “where’s all the music?”
 ​	The man and the woman — black, young and drunk — look at each other. 
-​	“You’re looking for the Deuce,” she says. “Head for the Deuce!”
-​	The man says, “the Deuce is rocking tonight!” He snickers.
-​	“Who’s he?” says Barry. But the couple moves on. 
-​	As we’re driving, cars begin to fill the curbs. People appear, at first a smattering, then groups, then the streetlamps return and we are in the midst of a thick mass of people. On our right, a big theatre markee says HIPPODROME and TONIGHT ONLY - THE COASTERS. But no one is queueing at the box office. Police cars are everywhere, their gumballs coloring the street in red. 
+​	“You’re looking for the Deuce,” the woman says. “Head for the Deuce!”
+​	The man says, “the Deuce is on fire tonight!” They both snicker -- a very drunk laugh.
+​	“Who’s the Deuce?” says Barry. But the couple moves on, laughing and hugging. 
+​	As we’re driving, cars begin to fill the curbs. People appear, at first a smattering, then groups, then the street lamps return and we are in the midst of a thick mass of people. On our right, a big theatre marquee says HIPPODROME and TONIGHT ONLY - THE COASTERS. But no one is queueing at the box office. Police cars are everywhere, their gumballs coloring the street in red. 
 ​	“You had better park, Barry,” says Tim. 
 ​	We get out of the car. The crowd is walking together, shouting, singing, carrying signs. 
 ​	“This doesn’t look like a night out,” says Eleanore. “This looks like a *rally*.”
@@ -1288,16 +1288,41 @@ Back in the car, the sweltering June heat gives way to a cool evening wind strea
 ​	“Alright, sorry, sorry!”
 ​	The crowd moves past us. Someone shouts “You can’t stop the music!” and people around us call back “You can’t stop the music!” Someone else walks by carrying a sign saying BLACK MUSICIANS ARE THE BACKBONE OF THE MUSICAL INDUSTRY IN THESE UNITED STATES!
 ​	“Nice,” Eleanore tells her. “Pithy.”
-​	Police officers stand like a wall around the theatres around. Next to the Hippodrome, two policemen are handcuffing a black boy in his Sunday bests. One of the policemen has his baton out and the other has his foot on the boy’s back. The boy is crying. 
+​	Police officers stand like a wall around the theatres. Next to the Hippodrome, two policemen are handcuffing a black boy in his Sunday bests. One of the policemen has his baton out and the other has his foot on the boy’s back. The boy is crying. 
 ​	Someone shouts, “Music is our right!”
 ​	I shout back with the crowd: “Music is our right!”
+​	Cindy says, "I don't think we're in the right place, Barry."
+​	"It must be," says Eleanore. "We're on Second street."
+​	"And?" says Tim. 
+​	"It's called the Deuce?" says Eleanore. "God, man."
+​	Up ahead, a man with in a green suit is walking with the protesters, holding a sign and chanting along. He's wearing a red fez. I go up to him. 
+​	"Let my people sing!" he shouts. The crowd chants along, all around us, "Let my people sing!"
+​	"Hi!" I say. 
+​	"No crime by one man shuts down the whole land!" he shouts with the crowd. 
+​	"You're a Seven-Top," I say. "Aren't you?"
+​	"'Kookie' Mason, Trumpeter extraordinaire, at your service, young lady."
+​	"I'm sorry your show got canceled," I say. "I'm a friend of Babatunde. I was wondering if you know--"
+​	Mr. Mason curses and spits. "You're a *Pillars* fan?"
+​	"Now that you mention it, I guess that's what I am," I say, as surprised as anybody.
+​	"Look at what they did, young lady. Look around."
+​	Around, about five or six hundred angry people are marching, shouting; policemen are standing on alert; the theatres are shut.
+​	"Did they do all this?" I ask. 
+​	"Kookie" Mason moves on with the crowd. 
 
-==meeting the trumpeter for the seven tops==
-
-
-
-
-​
+I go back to the group, standing next to a barbershop ("SCOT'S BARBARSHOP -- Men $1.5"); Tim is deep in conversation with a couple of black kids. 
+​	"Haven't seen you at the shows," one kid tells him. "Too chicken to come?"
+​	"Hey Pete, forget about that for a second," Tim says. "Where are all the shows?"
+​	"There were some troubles at Strawberry Hill up north, at the fair," says Pete. "And the police decided to shut down the Deuce for the whole day!"
+​	"It's collective punishment!" says the other kid. 
+​	"We won't let you shut us down!" the crowd cries. 
+​	"That's disgusting!" says Eleanore. "Come on, guys, let's march with them!"
+​	"Hey, you're alright," says Pete. 
+​	"I can't believe it," I say. "I can't believe it. After all this trouble..."
+​	"What show did you have tickets for?" says one. "The Coasters?"
+​	"I wish," says Cindy. "It's the Steam Pillars."
+​	"Cindy!" I yell. This whole day feels like a long tease. 
+​	"Who are they?" says Pete. 
+​	"They're..." Tim starts. "They are an integrated band, if you know what I mean."
 
 
 
