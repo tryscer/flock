@@ -460,10 +460,11 @@ I say, “it’s all so alive!”
 ​	Tim says, “Alright, Peggy Sue, don’t embarrass us in front of the cool cats”. 
 ​	Eddie says, “Since when do you know any cool cats?”
 ​	We walk through the midway, moving between pockets of PA sound. We stare at the stalls selling Friend Chicken and funnel cakes and pulled pork sandwiches and at the kids enjoying themselves on the Tilt-a-Wheel and the merry-go-round. I watch the midway, bustling with a huge throng of people, young parents with babies and old people and gangs of teenagers like us, all black. When we pass by them we get curious, reserved looks; people keep their distance. We are in a bubble in the crowd. 
+==pete plan a==
 ​	“Bet you want a ride on the merry-go-round, Peaches,” says Barry. 
-​	“We said we don’t call me that, Bartholimio,” I say, “and as a matter of fact, I would very much like to go on the merry-go-round.” I give Tim a look I hope will convey forlorning, a word I learned from a book. 
+​	“We said we don’t call me that, Bartholimio,” I say, “and as a matter of fact, I would very much like to go on the merry-go-round.” I give Tim a look I hope will convey forlonging, a word I learned from a book. 
 ​	“Well, tough luck, *Alice*, we’re here to do a job and go home.”
-​	“Do a job,” says Cindy, “then watch an amazing show, and *then* go home. 
+​	“Do a job,” says Cindy, “then watch the show, and *then*... you know." 
 ​	“Right,” says Tim. 
 ​	“And before that,” says Eleanore, “maybe watch the biggest pumpkin awards. You guys got that down here, right?”
 ​	“Very funny, city girl.”
@@ -513,8 +514,8 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 ​	“I’m going to die of boredom,” whispers Eleanore. “That’s what it’s all about.”
 ​	Mr C. Evans says, “but is this…” he gestures at the crowd — “even a *lucrative*, I mean *profitable*, market for you guys at Buzz?”
 ​	“Any Buzz smoker is a welcome member of the Buzz family,” says Mr. Farley. 
-​	“Why,” says Barry, eager to make his point, “our representative here — he shoves the unwilling cigarette girl into the spotlight — “has already given out *forty-two* samples and had to restock *three times*. And it’s only an hour and a half past noon. And she is only one of our fine, fine…”  
-​	”Edwardo\!”  
+​	“Why,” says Barry, eager to make his point, “our representative here — he shoves the unwilling cigarette girl into the spotlight — “has already given out *forty-two* samples and had to restock *three times*. And it’s only an hour and a half past noon. And she is only one of our fine, fine…”  ==this is too long==
+​	”Edwardo!”  
 ​	The voice is fierce, low, piercing through the racket. It is soon thereafter joined by the biggest body I’ve ever seen — a tall, fat black guy in overalls — moving swiftly towards us. I notice with interest that the only ones who stops to flinch is Eleanore and Mr. C. Evans.   
 ​	Eddie raises his head towards the big guy —  
 ​	“Edwardo\!”  
@@ -541,10 +542,10 @@ A few people are sitting on folding chairs next to a big tent. Eddie and the hug
 ​	“Good answer, good answer.”  
 ​	“My name is Babatunde,” says the man in the dress. He’s got a quiet, exotic speech: soft and commanding. “On behalf of the Steam Pillars, and its friends, we would like to thank you, Alice. We were apart and now that Edwardo is with us we are whole again.”
 ​	“Hello, Batunde,” I say. “I think you’re a musician, because other jobs won’t allow you to dress like that.”
-​	Batunde laughs. “Very good, Alice. I am a percussionist with the band. 
+​	Babatunde laughs. “Very good, Alice. I am a percussionist with the band. 
 ​	“What does percussionist mean?”
 ​	“Means he ain’t no drummer,” bellows Besame Mucho. 
-​	Babatunde laughs. 
+​	Babatunde laughs, a hearty laugh. 
 ​	“He ain’t no drummer,” says the woman, “he is a *magician*. I’m Vilma, Alice and friends. I sing for the band. And I’m… happy you brought Edwardo back to us.” She has a small voice, like a girl’s. 
 ​	“I’m Johnny Terry,” says the man with the thick curls. “I’m with the choir, you could say.”
 ​	“You guys have a *choir*?”
@@ -564,6 +565,8 @@ Barry comes over, looking very smug.
 ​	“You didn’t seem to me like a cog when you were ordering that cigarette girl around.”
 ​	“Well,” says Barry, suddenly sounding a lot like his father, “sometimes you need to be firm.”
 ​	“You enjoy telling others what to do,” sighs Babatunde.   ​​	“Well — I mean — hello, I’m Barry,” says Barry.  
+​	“You enjoy telling others what to do,” sighs Babatunde.   ​​	
+​	“Well — I mean — hello, I’m Barry,” says Barry.  
 ​	“I used to like telling people what to do, too,” says Babatunde. “It’s human nature. Don’t feel too bad about that.”  
 ​	“Right. Right,” says Barry.   
 ​	“What kind of people did you get to order around, Babatunde?” I ask.  
@@ -572,7 +575,7 @@ Barry comes over, looking very smug.
 ​	“I am. But you know, Barry, I was never happy telling people what to do. I was never happy until I came to this land and started playing music. Can you guess why?”  
 ​	“Why?”  
 ​	“Because it’s only when I stopped ordering people around and started playing music with them when I… well…” he looks at Johnny Terry – “well, in your religion there’s the idea of being subject to one another. Of submitting to one another.”  
-​	“As Christ is subject to his Church,” says Johnny.   
+​	“As Christ is subject to his Church,” says Johnny. 
 ​	“...when you play music with others, sometimes you lead. Sometimes you follow. When you lead you do so without authority, and when you follow you do so without coercion. And thus, my friend, beautiful music is made.”  
 ​	“Well —“ says Barry. Absentmindedly, he reaches for his coat pocket and takes out the hand-rolled cigarette he confiscated from the cigarette girl. He takes out a yellow Buzz Cigarettes matchbook and lights it.    
 ​	“Boy, that tastes real funny,” he says. He hands the cigarette to Tim, who puffs on it, then opens his eyes real wide. Some of the band members laugh.   
@@ -583,13 +586,24 @@ Barry comes over, looking very smug.
 ​	“Yeah, yeah,” he says. “It feels like a safe smoke. What do you think, Babatunde?” He passes the cigarette over and Babatunde smirks and draws from it, then passes it over to Mucho. Mucho draws and bellows, “it’s very good for you, Barry.”
 ​	Barry takes the half-smoked cigarette. 
 ​	“Is that hygienic?” I ask. For some reason, they laugh.
-​	“Is that the cold, *crisp taste of Coke I see in a bottle before me?” Says Barry. 
+​	“Is that the cold, *crisp taste of Coke* I see in a bottle before me?” Says Barry. 
 ​	“See?” Says Eleanore. “You’re already better.” 
 
-We walk around the fairgrounds, waiting for the show to start. We pass an ice cream stand, where a young girl is crying over a fallen cone. When we pass by, she stops crying and stares at us. Eleanore draws closer to Tim, and Cindy watches that with disdain. 
-​	“Tim,” she says, “will you win me a teddy?”
-​	At the next stall, under the string of bare lightbulbs, the hand-painted sign at the nearby booth says “10 shots \- 25¢,” and the red-faced man in the open-collared shirt under it is busy counting shots of .22 into the hand of a young black patron, who’s chatting excitedly with his girlfriend. A bunch of old Winchester rifles lie at the counter. The man is picking up one of them and shooting into the depths of the booth, where metal cutouts, shot to tatters, are supposed to imitate ducks and quails. 
-​	Every time a rifle fires, the red-faced man jumps.   
+We walk around the fairgrounds, waiting for the show to start. We pass an ice cream stand, where a young girl is crying over a fallen cone. When we pass by, she stops crying and stares at us. 
+​	I duck down beside the girl. "Hey, don't cry," I say. "Mommy will buy you another!"
+​	The little girl's mommy comes over and pulls her daughter by the elbow, hurrying her along. 
+​	"I *told* you not to talk to strangers," she tells her.
+​	"So good to see a friendly face!"
+​	The young black man clasping Tim on the back is dressed in a dandy straw fedora and a mint-green button down shirt. A big gold watch on his wrist is catching the midday sun. From my perch close to the ground I watch in awe as Tim gives the man a big hug, and as the mother and child both stare at them, slack-jawed.
+​	"Pete, how the hell are ya, kid?" he says. "Gang, this is my friend Pete. We sometimes go dancing together back home."
+​	"Man," says Pete. "This fair, I tellya... It's all *squares* coming along with their *mothers*. Wait, are these your friends?"
+​	"So... see you at the Seven-Tops show?" says Tim, growing crimson. 
+​	"You bet your bottom dollar." 
+​	Eleanore draws closer to Tim, and Cindy watches that with disdain. "Tim," she says, "I didn't know you were *with it*." 
+​	“Tim,” says Cindy, “will you win me a teddy?”
+​
+At the next stall, under the string of bare lightbulbs, the hand-painted sign at the nearby booth says “10 shots \- 25¢,” and the red-faced man in the open-collared shirt under it is busy counting shots of .22 into the hand of a young black patron, who’s chatting excitedly with his girlfriend. A bunch of old Winchester rifles lie at the counter. The man is picking up one of them and shooting into the depths of the booth, where metal cutouts, shot to tatters, are supposed to imitate ducks and quails. 
+​	Every time a rifle fires, the red-faced man jumps.  
 ​	“Excuse me,” says Cindy in her charming voice, “this young man would like to win me the largest teddy bear you have.”  
 ​	”That would be the Bear-gineer,” says the red-faced man and wipes a handkerchief across his sweaty forehead. He gestures towards the top shelf above his head, where a large bear, wearing a train engineer’s hat and overalls, is sitting. 
 ​	“Gotta warn you, young man, 12 days so far and no one won him yet.” The man next to us fires a round into the line of automated duck-like things and it spins around its axis with a *ping\!*  
@@ -597,7 +611,7 @@ We walk around the fairgrounds, waiting for the show to start. We pass an ice cr
 ​	“What do I need to do to win?” says Tim and puts a quarter on the counter. The man at the counter counts ten shots into his hand.   
 ​	“Ten shots at the ducks and quails,” says the man and jumps at another ping\!, “and I’ll be counting”.   
 ​	“That will not be a problem,” says Tim, picks up a rifle and immediately drops half his shots to the ground.   
-​	“Have you ever fired a rifle before?” asks Cindy.   
+​	“Have you ever fired a rifle before?” asks Cindy.  
 ​	“Sure have\!” says a blushing Tim. He pulls the lever on the old rifle and drops the rest of his shots. He ducks, takes one shot from the ground, cleans it against his shirt and puts it in the rifle. He smiles at me, trying to save face. Eleanore smirks. He aims, fires — and takes the Bear-gineer’s eye out. The shot teddy flops in its place like an injured cowboy.   
 ​	“At the ducks and quails\!” shouts the red-faced man. “Not the trophies\!”  
 ​	Tim smiles weakly at Cindy.   
@@ -610,7 +624,7 @@ We walk around the fairgrounds, waiting for the show to start. We pass an ice cr
 ​	”That was a long time ago,” says Eleanore and walks away, towards Barry and his identical executive friends. But she looks back, somewhat appeased.   
 ​	Cindy turns around and picks up the old Winchester like a trained soldier. She sends her left leg back, like a ballet dancer, like an expert shot. She puts the rifle to her temple and I can tell that there’s a longstanding familiarity about it. I look back: Eleanore is behind me, watching too.
 ​	“Turn around, girl,” she says, “you’ll miss the show… it goes by awful quick.”  
-​	I turn around just in time to watch Cindy squeezing the trigger, once, twice, ten times, barely breathing, and five ripped-metal ducks and five tattered quails going *ping\!-*ing and spinning away. The red-faced man backs away. So do some of the patrons and competitors at the shooting booth. In this moment, even I can feel there’s something very much intimidating in soft, sweet, blue-eyed Cindy.    
+​	I turn around just in time to watch Cindy squeezing the trigger, once, twice, ten times, barely breathing, and five ripped-metal ducks and five tattered quails going *ping!* -ing and spinning away. The red-faced man backs away. So do some of the patrons and competitors at the shooting booth. In this moment, even I can feel there’s something very much intimidating in soft, sweet, blue-eyed Cindy.    
 ​	Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   
 ​	Tim takes the teddy, all red. Some people laugh — not many, though.   
 ​	“Hey, hey,” he says to the faces around us. “I deserve it, right?”  
@@ -622,7 +636,7 @@ We stand alone by the shooting booth. Life has resumed its course, ducks-a-pingi
 ​	“I angered Eleanore.”
 ​	“Thought that was your plan all along.”
 ​	“Yeah, but I think I overdid it. And she *is* my ticket out of here.”  
-​	My eyes suddenly fill with so much tears that I can’t see anything and to hide that I’m looking down. 
+​	My eyes suddenly fill with so many tears that I can’t see anything and to hide that I’m looking down. 
 ​	“What do you mean, your ticket out of here?” I ask her shoes.   
 ​	“Listen, Peach — I mean listen…”   
 ​	I shuffle my feet. “You still owe me an explanation,” I say.   
@@ -632,7 +646,7 @@ We stand alone by the shooting booth. Life has resumed its course, ducks-a-pingi
 ​	“What will you even do without me?”
 ​	“I don’t know, Peach. I don’t know. All I know is since mama passed away… I can’t be in the house anymore.”
 
-Over the past hour I have come to a decision. During the show, I will wait for that tingle in my underwear that Eleanore warned me about. At that moment I will reach into my handbag and throw my extra pair of panties onto the stage. It will be my rite of passage into adulthood.
+==Over the past hour I have come to a decision. During the show, I will wait for that tingle in my underwear that Eleanore warned me about. At that moment I will reach into my handbag and throw my extra pair of panties onto the stage. It will be my rite of passage into adulthood.==
 
 The tent is the largest thing on the fairground, a big balloon in stripes of red and white, radiating sunlight, its flaps raised to welcome patrons. Inside, it looks cool and dark, and rows and rows of seats are already filling with teenagers and families. 
 ​	“Hey you white kids\!”  
@@ -887,7 +901,7 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	Bernie asks, "what did he write?"
 ​	I show him the matchbook cover, where someone hastily penciled in, 
 
-​	*​Tonite, 8*
+​	*​Tonite, 9pm*
 
 ​	"It's a puzzle!" Bernie calls, and adds an appreciative whistle. 
 ​	"I think we shouldn't discount the possibility," says Eleanore, "that he was just asking her out on a date."
@@ -1140,16 +1154,16 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 
 *(Caaaatch-a-falling-staaar and putitin-your-pock-et…)*
 
-==chapter break== 
+## ==chapter break== 
 
 ​==radio break==
 
 We run up the many stairs of the Richmond Main Street train station, a big block of columns and ornamental windows and thatched roofs. 
 ​	"What time is her train?" says Barry. "Did we miss it?"
-​	We hear a loud *braaaaaaang* above our head. I look up to see the huge clock face showing it's half past six. The sky is pink behind the clock tower.
-​	"It should be leaving now!" says Cindy. At the top of the stairs we pass ==a column with the inscription "1500 East"== and push through the doors.
+​	We hear a loud *braaaaaaang* above our head. I look up to see the huge clock face showing it's half past seven. The sun is low behind the clock tower, casting a long shadow over us.
+​	"It should be leaving now!" says Cindy. At the top of the stairs we push through the doors.
 ​	"Eleanore!" Barry yells. 
-​	"Eleanore!" I join in. 
+​	"Eleanore!" I join in.
 ​	==We are surrounded by hundreds of people. Eleanore is nowhere to be found. The huge main room is all Greek columns and light from huge round windows and white marble floors and wide stone staircases reaching the train platform and little signs that say "Restrooms - Whites Only."==
 ​	"Run!" says Cindy. "I can hear the train. We might just get her."
 ​	We run towards the staircase. 
@@ -1168,8 +1182,8 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​	"Aw, Puppy..." says Cindy. 
 ​	"Don't call me that. Stop hugging me."
 ​	But she's hugging Cindy back.
-
-"Now, let's get serious," says Barry. "We've got a show to catch."
+​	Golden rays of sun stream through the arched windows above us, illuminating Cindy's golden hair.
+​	"Now, let's get serious," says Barry. "We've got a show to catch."
 ​	"That's right!" I say. Finally, the day is back on track. I hold the matchbook in my hand should one of my fellow detectives wish to inspect it. 
 ​	Tim says, "We know when it is, we need to find out where it is."
 ​	Cindy says, "Barry, why don't you ask your friend Mr. Evans."
@@ -1197,9 +1211,9 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​	"It's just a matter," says Eleanore, "of looking through the clubs right here in Shockoe Bottom."
 ​	"Pfft," says the newspaper man. "Good luck doing that."
 
-We leave the train station, deep in discussion. I feel like we're a crack team of detectives, hot after the prey. The sun has already disappeared behind the dilapidated and grey blocks of buildings surrounding the station. On the face of a big warehouse in front of us, the logo and hexagonal design of Buzz Cigarettes is peeling on the bricks, twenty feet in the air. A stray dog is sleeping in an abandoned parking lot.
+We leave the train station, deep in discussion. I feel like we're a crack team of detectives, hot after the prey. The sun has already disappeared behind the dilapidated blocks of buildings surrounding the station, their grey made more miserable in the lilac sky. On the face of a big warehouse in front of us, the hexagon logo of Buzz Cigarettes is peeling on the bricks, twenty feet in the air. A stray dog is sleeping in an abandoned parking lot.
 ​​​
-At the bottom of the stairs sits a beggar in a gray, dirty suit and white flannel wrapped around his eyes, like a refugee. Around his neck he's hung a cardboard sign, painted in greasy ink: "BLINDED IN OKINAWA." He's shaking the coins in his tin cup to a rhythm and whistling along to it. ​	
+At the bottom of the stairs, in the shadow of the Richmond - Petersburg Turnpike, sits a beggar in a gray, dirty suit and white flannel wrapped around his eyes, like a refugee. Around his neck he's hung a cardboard sign, painted in greasy ink: "BLINDED IN OKINAWA." He's shaking the coins in his tin cup to a rhythm and whistling along to it. ​	
 ​	Cindy goes over.
 ​	"Excuse me," she says.
 ​	The beggar whistles.
@@ -1212,17 +1226,19 @@ At the bottom of the stairs sits a beggar in a gray, dirty suit and white flanne
 ​	"See?" he asks. 
 ​	"Oh," says Cindy. "Right." She scratches her head. "So, have you perhaps heard of this band called The Steam Pillars?"
 ​	"Lady, do I look like a bulletin board?"
-​	"Oh!" says Tim. "That's a good idea."
+​	"Oh!" says Tim. "A bulletin board!"
 
 At the intersection of East Main and 17th we spot one: a thick pillar made fatter by the layers of paper and glue. We surround the pole. 
-​	"There's one here," says Eleanore. "Apparently, if you're bald, there's a tonic for that."
-​	Cindy giggles. "I can get two suits for the price of one!"
-​	I stroke the crinkly page. 
-​	Cindy says, "There's a place called The Hippodrome on 2nd, they've got lots of shows."
+​	"Lookit," says Eleanore, "apparently, if you're bald, there's a tonic for that."
+​	Cindy giggles. "I can get a man's haircut for one-fifty at Scotty's on second!"
+​	"That's a good price!" says Eleanore.
+​	I stroke the crinkly page. In the dimming light, the bulletin board is a candy shop of amusements and products: vaudeville acts and magic shows and shoes and rock and roll. But no Steam Pillars. 
+​	I step back and take out my Buzz matchbook and light one more match. It casts a low, yellow light on the paper. Only two matches left.
+​	Cindy says, "There's a place called The Hippodrome on second. They've got lots of shows."
 ​	"Is one of them The Steam Pillars?" asks Eleanore. 
-​	"No," says Cindy. "Here's another! Bobby Smith and the Soul Brothers. They're on Club 533, on 2nd."
+​	"No," says Cindy. "Here's another! Bobby Smith and the Soul Brothers. They're on Club 533, on second."
 ​	"Cind," I say. "We want the Pillars, right?"
-​	"As long as it's a show, I don't care," she says. 
+​	"As long as it's a music show, I don't care," she says. 
 ​	"Wrong answer," I say. 
 ​	Tim yells from the other side, "There you go: 'The Del-Tones will appear today for one night only.'"
 ​	I say, "You too, Tim?"
@@ -1234,12 +1250,12 @@ At the Deep Groove Record Shop, a stuffy room filled with creates and smelling o
 ​	"Cindy!" I say. "We do not want to see the Coasters. We want the Steam Pillars!"
 ​	"How about the Five Royals? They do blues and boogie."
 ​	"Ooh, blues and boogie," says Cindy. 
-​	"Cindy, focus please," says Tim, my new ally. 
+​	"Cindy, focus please," says Tim, my new ally and hero. 
 ​	"You kids like Ruth Brown?"
 ​	"Love her," says Eleanore.
 ​	"Because her backing band is here in town."
 ​	"Oh," says Eleanore. "No."
-​	"Guys," I say. "No matter what happens, we're going to see the Steam Pillars."
+​	"Guys," I say. "No matter what happens today, we're going to see the Steam Pillars."
 ​	"You guys need a hotel," says the shop owner. He's reaching into a large glass jar and picks up another gerkin. 
  
 At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty overalls, looking like railroad engineers, the receptionist is old and deaf and doesn't know what we're talking about​. She wearing a little hat, cocked at an angle, and sitting behind a sign saying "Tickets to musical & other amusements shows sold here."
@@ -1253,87 +1269,83 @@ At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty 
 ​	"Great," says Barry. 
 ​	"Do you kids like Perry Como?"
 
-At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps outside. The cardboard image of the poet, mussy-haired and wearing a ridiculous mustache, stares blankly at us through glass doors.
+At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps outside. The sky is dark and blue. The cardboard image of the poet, mussy-haired and wearing a ridiculous mustache, stares blankly at us through glass doors.
 ​	"It's hopeless," says Cindy. "Let's see that boogie show."
 ​	"It's like they don't exist," says Barry. "Did we hallucinate them?"
-​	I stomp my feet. "Tim," I say. "Tell'em."
+​	I light another match. "Tim," I say. "Be my hero. Tell'em."
 ​	Tim says, "It's a black show."
 ​	"Mixed," says Eleanore. 
-​	"Yeah, I guess... but down here it's all the same, know what I'm saying?"
+​	"Yeah, I guess... but it's not a *white* show, know what I'm saying?"
 ​	"What are you saying?"
 ​	"I'm saying we should go where black crowds go to listen to music."
+​	Across the museum's wall I see a row of framed posters under heavy glass. They all bear a placard saying they were placed there by the RICHMOND CHAMBER OF COMMERCE. One poster urges me to go and see the Museum of the Confederacy. On another, I see a magnificent drawing of a bustling street at night time. The brightly lit marquee near the top of the drawing reads THE HIPPODROME and under it I see a stream of people, all black, all dressed fancy-like, laughing, drinking... the stream of people continues all down the street, which is full of marquees, all sending yellow beams of light into the crowd. The lettering at the bottom read COME ENJOY THE "HARLEM OF THE SOUTH" - COME ENJOY "THE DEUCE."
 ​	Eleanore says, "Cindy, when you were looking at the billboard, where were all those venues?"
 ​	"Second street," says Cindy. 
 
-Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. The streets are dark save for a few islands of yellow light, and those grow farther and farther apart. Every time we pass under a street lamp we see lots full of the demolished debris of a house; buildings with windows and doors boarded up; streets dug up so deep that they become little rivulets bisecting the neighborhood. 
+Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. Yellow-pink light streams between the buildings to our left. Every now and then the light bursts into the street through the demolished debris of a house. The rest hides in shadow: loafers idling about, their faces dark and their movement slow; buildings with some windows boarded up and black; stores with display windows soaped over and signs torn from the concrete, no longer illuminating.
 ​	“Are we sure we’re in the right place, Bear?” says Cindy. Barry looks at Tim, who takes a look at his map and nods. 
 ​	“Yeah, we’re in the right place,” says Barry. 
+​	We come close to a bridge and suddenly the buildings give way to an open stretching to the horizon to our right and our left. Scattered rubble shines like pebbles in the deserted, muddy ground. Every now and then a lone, disheveled building remains. A trench bisects this field like a scar. As we cross the bridge (2ND STREET OVERPASS - RICHMOND-PETERSBURG TURNPIKE) I see the river is an asphalt road.
 ​	“Where is this show?” says Eleanore. “Hiroshima?"
-​	“Puppy!” cries Cindy. “Not cool!”
+​	"Puppy!" cries Cindy. "Not cool!"
 ​	“Don’t call me that,” says Eleanore, laughing. 
-​​	The road grows broader and broader. A big billboard, lit by greenish-yellow floodlights, shows a picture of pretty white children playing in the front lawn of a beautiful house. The sign says COMING SOON TO JACKSON WARD and, in smaller lettering, A PROJECT FOR THE ELIMINATION OF BLIGHT AND THE PROMOTION OF CIVIC PROGRESS IN RICHMOND. 
-​	Eleanore lets out a laugh. 
-​	A drunk couple, laughing and hugging, are walking on the road towards us. Barry slows down and rolls down the window. 
+​​	At the other side of the asphalt river, homes and stores return to surround us. Now the road grows broader and broader. A big billboard, lit by greenish-blue floodlights, shows a picture of pretty white children playing in the front lawn of a beautiful house. The sign says COMING SOON TO JACKSON WARD and, in smaller lettering, A PROJECT FOR THE ELIMINATION OF BLIGHT AND THE PROMOTION OF CIVIC PROGRESS IN RICHMOND. 
+​	Eleanore lets out a snort. 
+
+​A drunk couple, laughing and hugging, are walking on the road towards us. Barry slows down and rolls down the window. Under the indigo sky, their faces are illegible.
 ​	“Excuse me,” he says to the couple, “where’s all the music?”
 ​	The man and the woman — black, young and drunk — look at each other. 
 ​	“You’re looking for the Deuce,” the woman says. “Head for the Deuce!”
-​	The man says, “the Deuce is on fire tonight!” They both snicker -- a very drunk laugh.
-​	“Who’s the Deuce?” says Barry. But the couple moves on, laughing and hugging. 
-​	As we’re driving, cars begin to fill the curbs. People appear, at first a smattering, then groups, then the street lamps return and we are in the midst of a thick mass of people. On our right, a big theatre marquee says HIPPODROME and TONIGHT ONLY - THE COASTERS. But no one is queueing at the box office. Police cars are everywhere, their gumballs coloring the street in red. 
-​	“You had better park, Barry,” says Tim. 
-​	We get out of the car. The crowd is walking together, shouting, singing, carrying signs. 
-​	“This doesn’t look like a night out,” says Eleanore. “This looks like a *rally*.”
-​	“Just our luck,” says Cindy. “So no Coasters tonight?”
-​	I shout, “Cindy!”
-​	“Alright, sorry, sorry!”
-​	The crowd moves past us. Someone shouts “You can’t stop the music!” and people around us call back, “You can’t stop the music!” Someone else walks by carrying a sign saying BLACK MUSICIANS ARE THE BACKBONE OF THE MUSICAL INDUSTRY IN THESE UNITED STATES!
-​	“Nice,” Eleanore tells her. “Pithy.”
-​	Police officers stand like a wall around the theatres. Next to the Hippodrome, two policemen are handcuffing a black boy in his Sunday bests. One of the policemen has his baton out and the other has his foot on the boy’s back. The boy is crying. 
-​	Someone shouts, “Music is our right!”
-​	I shout back with the crowd: “Music is our right!”
-​	Cindy says, "I don't think we're in the right place, Barry."
-​	"It must be," says Eleanore. "We're on Second street."
-​	"And?" says Tim. 
-​	"It's called the Deuce?" says Eleanore. "God, man."
-​	Up ahead, a man with in a green suit is walking with the protesters, holding a sign and chanting along. He's wearing a red fez. I go up to him. 
-​	"Let my people sing!" he shouts. The crowd chants along, all around us, "Let my people sing!"
-​	"Hi!" I say. 
-​	"No crime by one man shuts down the whole land!" he shouts with the crowd. 
-​	"You're a Seven-Top," I say. "Aren't you?"
-​	"'Kookie' Mason, Trumpeter extraordinaire, at your service, young lady."
-​	"I'm sorry your show got canceled," I say. "I'm a friend of Babatunde. I was wondering if you know--"
-​	Mr. Mason curses and spits. "You're a *Pillars* fan?"
-​	"Now that you mention it, I guess that's what I am," I say, as surprised as anybody.
-​	"Look at what they did, young lady. Look around."
-​	Around, about five or six hundred angry people are marching, shouting; policemen are standing on alert; the theatres are shut.
-​	"Did they do all this?" I ask. 
-​	"Kookie" Mason moves on with the crowd. 
+​	The man says, “the Deuce is on fire tonight!” They both snicker -- a very drunk laugh. They move on, laughing and hugging. 
+​	As we’re driving, cars begin to fill the curbs. People appear, at first a smattering, then groups, then the street lights, one by one, flicker on, running down the street in their greenish-blue light...
 
-I go back to the group, standing next to a barbershop ("SCOT'S BARBARSHOP -- Men $1.5"); Tim is deep in conversation with a couple of black kids. 
-​	"Haven't seen you at the shows," one kid tells him. "Too chicken to come?"
-​	"Hey Pete, forget about that for a second," Tim says. "Where are all the shows?"
-​	"There were some troubles at Strawberry Hill up north, at the fair," says Pete. "And the police decided to shut down the whole Deuce for the night."
-​	"It's collective punishment!" says the other kid. 
-​	"We won't let you shut us down!" the crowd cries. 
-​	"That's disgusting!" says Eleanore. "Come on, guys, let's march with them!"
-​	"Hey, you're alright," says Pete. 
-​	"I can't believe it," I say. "I can't believe it. After all this trouble..."
-​	"What show did you have tickets for?" says one. "The Coasters?"
-​	"I wish," says Cindy. "It's the Steam Pillars."
-​	"Cindy!" I yell. This whole day feels like a long tease. 
-​	"Who are they?" says Pete. 
-​	"They're..." Tim starts. "They are an integrated band, if you know what I mean."
-​	​"Like at the warehouses?" asks Pete. 
-​	"Yeah, exactly like at the warehouses," says Tim. "Actually, now that I think about it, I know exactly where the Pillars are tonight. Come on, gang."
+*(POP-POP-POP-POP)*
+
+We stop at the curb near the Hippodrome theatre. ​	
+​	"Wait," says Cindy. "What happened to all the lights?"
+​	In the front window the Hippodrome looks like a ship lost at sea. Its marquee is eerily dark; its doors are barred. Police officers stand, hands on their batons, near a white wooden saw-horse.
+
+*(You can't stop the music!)*
+
+Instead of the bustle of a busy nightlife corner, we hear the chanting of an angry crowd.
+​	"What should we do?" says Barry.
+​	"Let's go outside," says Tim. "I need to see this."
+​	Cindy squeezes my hand. We get out of the car.​	
+
+​​Outside, the whole street is dark and littered with a long line of dead marquees, their grey corpses pale against the indigo sky. Near us, a mass of people rendered faceless by the growing darkness is huddled in by a battalion of police officers and squad cars. The red police lights sweep across the street, cutting across the fa​ces of the crowd. The puddles near the curb are alternately red, then dark, deep blue.
+​	​"What the hell?" says Cindy.
+​	I open my mouth to say something about not getting to see my show, but then the red rays fall on the angry faces and I think better of it.
+​	"Pete," says Tim. "Pete!"
+​	The red lights bounce against the dandy golden watch of Tim's friend. Tim walks over, and we walk over with him, and so we join the rally. 
+​	
+*(You can't stop the music!)*
+
+​The crowd yells and shouts and we stand in silence and darkness next to Tim. Across and around us, the policemen look like a wall of giants.
+​​	"What happened, Pete?"
+​	"Man, it's not the time for you to be standing next to me, know what I mean?"
+​	"Just tell me what happened."
+​	We all look at a couple of policemen who break rank and rush towards us, their faces black holes in the dark blue sky.
+​	"Tim, I mean it. You and your friends, stand away from me."
+​	Cindy goes over to the curb, and we all follow. 
+​	"Think what father would have said," says Cindy to Barry, "if he saw us all here."
+​	The two cops barrel down the gulf between us and Pete. They grab a slim silhouette standing right besides Pete. The crowd parts around them. 
+​	"Go," says Pete. "Go into that store. Don't be here."
+​	One cop drops his baton square into the silhouette's midriff; soon thereafter, the other has his knee on his back. The crowd stops chanting. The street is suddenly quiet but for muffled thuds and crying. Pete has disappeared into the darkness.​	
+​	​We find refuge in the nearest store.
+
+
+​	
+
+​	 "Actually, now that I think about it, I know exactly where the Pillars are tonight. Come on, gang."
 
 *Braaaangggggg!*
-​	The hands on the clock on the tower above the Main Street train station show it's seven thirty. The sky around the clock is black. 
+​	The hands on the clock on the tower above the Main Street train station show it's eight thirty. The sky around the clock is black. 
 ​	"So we're back at the beginning," says Cindy.
 ​	"Yeah," says Tim. "Yeah. Back in North Carolina, if someone like me wants to dance with someone like Pete, then that someone goes to an *underground* show. We couldn't find the Pillars because we were looking for... you know, an *above-ground* show. Alice, give me your matchbook."
 ​	I hand my Buzz Cigarettes matchbook to my fellow detective. Tim holds it up and it catches the light from the train station behind us. 
 ​	"You can't have integrated shows in, like, official venues, because that's illegal," Tim says, looking at the matchbook. "So they usually take place in big old tobacco warehouses. Barry, where's the Buzz Cigarettes warehouse in Richmond?"
-​	"It's... well... oh. Oh!" says Barry. Tim puts down the matchbook. Behind it, the Buzz logo is peeling on the building in front of us.
-​	"It's right here in Shockoe Bottom," says Tim. "Like Eleanore said, it was supposed to be obvious."
+​	"It's... well... oh. Oh!" says Barry. Tim puts down the matchbook. ==Behind it, the Buzz logo is peeling on the building in front of us==.
+​	"It's right here in Shockoe Bottom," says Tim. "Like Eleanore said, it was supposed to be *obvious*."
 
 ==chapter break==
 
