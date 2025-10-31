@@ -67,7 +67,6 @@ Scenic Greensboro rolls across the windows: the trimmed green lawns and rustic r
 ​	Cindy presses against me. I look to my left: Eleanore and Cindy are sitting a foot apart. Both are locking sights on Tim. It suddenly feels even hotter in the car. "Tim, didn’t you say," says Cindy, “it's not the number of shows, it's how *gas* the numbers are. Isn't that right, Tim?”  
 "That's right, kidd-o”, says Tim, without looking up from his map.   
 ​	Cindy ventures, "Is the show we're going to… in your opinion, of course…"  
-​	"Well," says Tim, and looks back at Cindy. This favor does not go unnoticed with Cindy. "well, kidd-o… this will be the show of your young life. Years from now, when you're… like… forty or something… you'll tell your grandkids all about that show you saw today". The sun going through the strands of his orange hair seems to fill me with pleasant tingles.  
 ​	"What's their name, pretty?" I say. I realize what it is I said when everybody, Barry included, turns to look at me. "What's their pretty name I mean. I mean I bet their name is real pretty". I sink into my seat and add: "Um".  
 Barry and Tim exchange disgusted, amused looks. To my horror, Cindy and Eleanore do the same. It seems my catastrophe has reunited them… if only for a moment. The next one, Eleanore is saying, “So, Tim, have you been to any of their shows?”  
 ​	“Who?” I venture. “Who are they?”  
