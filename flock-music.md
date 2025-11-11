@@ -836,7 +836,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 “Come on, Alice!”  
 ​	“I don’t want to.”
-​	I’m sitting on the ground in front of the carousel, playing with a book of matches. I let each one burn until it almost reaches my fingers, then toss it in the grass. A small pile of blackened match ends sits next to me, smelling of sulfur and warm earth.
+​	I’m sitting on the ground in front of the carousel, playing with the book of matches. I let each one burn until it almost reaches my fingers, then toss it in the grass. A small pile of blackened match ends sits next to me, smelling of sulfur and warm earth.
 ​	Everybody else is riding on the carousel. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
 ​	“Come sit with me on the horse!” cries Cindy. Her horse, of peeling white fur and fading blue saddle, is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
 ​	“I do not want to celebrate,” I shout after her.  
@@ -871,7 +871,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​	Tim asks, "Don't you have a mother?"
 ​	Bernie answers, "Why are you holding a teddy bear?"
 ​	Cindy smirks.
-​	“I never felt this way,” Barry says, and then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, crowding in the seat with Tim, Cindy and the Bear-Gineer. 
+​	“I never felt this way,” Barry says, and then looks as though he’s surprised at his own words. Behind him, Eleanore’s horse is empty. As the platform turns I see she’s sitting at Tim's carriage, crowding in the seat with Tim, Cindy and the one-eyed Bear-Gineer. 
 ​	“Let’s do that,” I say. 
 ​	“Do what?” says Eleanore. 
 ​	“Let’s find out where they’re headed and go there, too. Let’s go to their show!” I say.
@@ -888,7 +888,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 When everybody comes around I say, “Hey Barry. I don’t know where the Steam Pillars’ next show is, but I think I know *when* it is.”
 
-“Hot parched peanuts! Jumbo Virginia! Get ’em while they’re hot!”
+*(“Hot parched peanuts! Jumbo Virginia! Get ’em while they’re hot!”)*
 ​	We are standing in line at the stand, watching an elderly woman in a cafeteria worker's uniform shout as she's filling small paper packets with huge, fried, salt-encrusted peanuts. Eleanore, Cindy, Barry and Tim surround me. Bernie does, too. 
 ​	"What did he say, *exactly*?" says Eleanore. 
 ​	"She told you," says Cindy. "He said to stop idling at the intersection. It's a *metaphor*."
@@ -932,15 +932,15 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"I think father," says Barry, walking so fast we need to scurry to catch up, "is calling to hear a report about my successful cigarette girl program."
 ​	"That's right," says Tim, putting a hand on Barry's shoulder, "Barry here is the man of the event, and he deserves his praise."
 ​	"Thanks, man," says Barry. 
-​	"Maybe Barry deserves the Bear-Gineer," says Eleanore and links her arm through Tim's. 
+​	"Maybe Barry deserves the one-eyed Bear-Gineer," says Eleanore and links her arm through Tim's. 
 ​	"The Bear-Gineer is Tim's, *I* won it for him fair and square," says Cindy, takes the teddy and links her arm through Tim's other arm. 
 ​	"Alright," says Tim. "You two. I've had it." He breaks free from them and takes the teddy away from Cindy. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
 ​	Barry says, "Leave Tim alone, girls."
-​	Eleanore says, "You never let me have anything nice, don'tcha, Cindy."
+​	Eleanore says, "You can never let me have anything nice, don'tcha, Cindy."
 ​	Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and car park. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
 
 "-- telling you, Dahlia, the press were all over us, cameras too --"
-​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in frames pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. Through a doorway we can see a sparsely decorated inner office. Afternoon rays invade through the half shut blinds. The elderly woman, in glasses, seems strict. We line up behind Barry. ​	
+​	The small outer office is dominated by flowers: real ones in pitchers and painted ones in framed pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. Through a doorway we can see a sparsely furnished inner office. Afternoon rays invade through the half-shut blinds. The elderly woman, in glasses, seems strict, so we line up behind Barry. ​	
 ​	"-- and that little man from the *News Leader* was absolutely horrible --"
 ​	"Hello," says Barry. "Mr. MacAllister, here to see Mr. C. Evans." He thinks about it and then adds, "Ehm."
 ​	"All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her gaze and tells Barry, "You can go right in, honey. Mr. Evans is not in but the telephone is right there on that table." She gestures at the doorway.
@@ -950,7 +950,7 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	"Don't they have three million nice guys in New York?" Cindy whispers back. 
 ​	"If you must know, they're not that nice."
 ​	Tim whispers, "I can still hear you two."
-​	Through the doorway I can see Barry putting his hand on the phone. He draws a deep breath. A big, elastic smile spreads upon his face. He puts the receiver to his ear. I can hear him exclaim, "Father, good afternoon!"
+​	Through the doorway I can see Barry putting his hand on the phone. He draws a deep breath. A big plastic smile spreads upon his face. He puts the receiver to his ear. I can hear him exclaim, "Father, good afternoon!"
 ​	Mr. Evans' secretary says, "I told Mr. Evans, I said so myself, I said, 'Don't hire those Pillar people, their manager sounds shady. *And* she's a woman.' But would men listen?"
 ​	Cindy whispers, "You're here for a hot second and you claim possession of everything you see. What does that tell you?"
 ​	Eleanore whispers back, "You try to buy everything you see, with cash or with stuffed animals, what does that tell you?"
@@ -966,7 +966,7 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​	Mr. Evans' secretary says, "--so he had to tell that kid's dad that his boy was dancing with a *black girl*."
 ​	Cindy comes back, her face very red. 
 ​	"Well," she tells me, "now I have nowhere to sleep." 
-​	I try to feel sad for her but fail. Outside, Eleanore is smoking a cigarette. Back in the inner office, a shrunken version of Barry is putting down the telephone receiver. He ambles slowly back to us. His face is about as red as Cindy's. 
+​	I try to feel sad for her but fail. Outside, Eleanore is smoking a cigarette. Back in the inner office, a shrunken version of Barry is putting down the telephone receiver. He ambles slowly back to us. His face is about as white as Cindy's is red. 
 ​	"Well," he says. "Now. We're going right back home."
 ​	We all walk back to the car park in silence.
 
@@ -1012,9 +1012,9 @@ The car park is a dusty field right in view of Mr. Evans's office. Barry's car i
 ​	"I mean," I say and I shuffle my feet a little. "I mean, Barry, of course we'll help him, won't we?"
 ​	Barry looks at me and nods. 
 ​	"Yeah," he says. "I guess we're just mincing words."
-​	==Tim says, "You got any blankets?"==
+​	Tim says, "You got any blankets?"
 
-The sandy hill surrounding the fairground gives way to a dirt road, where we wait our turn at the head of a long, single-file line of cars. The air is still and the car is steaming. Up ahead, a group of khaki-clad policemen are peering through the window of a Ford pickup. Somewhere ahead, an impatient driver leans on his horn and other impatient drivers yell back. 
+The muddy hill surrounding the fairground gives way to a muddy road, where we wait our turn at the head of a long, single-file line of cars. The air is still and the car is steaming. Up ahead, a group of khaki-clad policemen are peering through the window of a Ford pickup. Somewhere ahead, an impatient driver leans on his horn and other impatient drivers yell back. 
 ​	"Now," Barry says, clutching at the wheel. "I mean it. Y'all say zilch. You smile and you nod. Eleanore, what do you do?"
 ​	"Leave me alone."
 ​	"She says zilch and she smiles and she nods," says Tim. "We all do that."
@@ -1038,7 +1038,7 @@ The dusty road gives way to a broad, wealthy residential street. Fancy houses si
 ​	"And you're lying on my foot," says Eleanore. 
 ​	​"We're going home," I tell him. “Instead of going to the Pillars’ real show.”​	
 ​	I hear laughter from underneath the blankets. “What makes you think there’s another show?” Eddie says. 
-​	“Your game is up,” Eleanore tells the blanket. “We know everything. It’s tonight at eight.”
+​	“Your game is up,” Eleanore tells the blanket. “We know everything. It’s tonight at nine.”
 ​​	“And how did you come to this conclusion?” Eddie says. 
 ​	“Well,” I say. “I got this matchbook.” 
 ​	A hand shoots up from between the blankets. “Show me.”
@@ -1062,8 +1062,8 @@ The road ahead slopes down, down, down. We look into an ugly, overgrown valley, 
 ​	“What did you mean?” I ask Eddie. “When you said, ‘Do you know what it means?’”
 ​	Eddie turns to me. He holds my hand and looks deep into my eyes. “It means you were chosen, Alice.”
 ​	I giggle.
-​	Cindy says, “You’re the chosen one, Alice!” Eddie makes a sour face at her.
-​​	Inside, I'm boiling. Was I really chosen? No matter for what, I think. When did anyone ever choose me? I hear my heart beating in my ears again, like Babatunde’s big drum.
+​	Cindy says, “You’re the chosen one, Alice of Wonderland!” Eddie makes a sour face at her.
+​​	Inside, I'm boiling. Was I really chosen? No matter for what -- when did anyone ever choose me? I hear as my heart beats in my ears again, like Babatunde’s big drum.
 
 ​	*(BOOM)*
 
@@ -1088,8 +1088,7 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 
 ​	*(Boom.)*
 
-​"Aw," says Eddie. "That is very heartwarming."
-​	Barry hands Eleanore the car keys, and she walks to the back of the car. She swings the lid open and stumbles back. Out ambles a very sweaty man in foreign, ceremonial garb clinging to his body. He's holding a pink, flowery suitcase in one hand and in the other a very large drum. The drum sounds as he exits...
+​Barry hands Eleanore the car keys, and she walks to the back of the car. She swings the lid open and stumbles back. Out climbs a very sweaty man in foreign, ceremonial garb clinging to his body. He's holding a pink, flowery suitcase in one hand and in the other a very large drum. The drum sounds as he exits...
 
 ​	*(...boom)*
 
@@ -1100,7 +1099,7 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	"Sorry, Baba," says Eddie. "That took a little longer than I thought it would."
 ​	Eleanore laughs.  
 ​	"I'm so sorry, Mr. Babatunde," says Barry. "I didn't know you were in my trunk."
-​	"Feel no remorse, Mr. MacAllister," says Babatunde. He smiles at us all. "I would like to commend you for your safe and able driving. You have made my journey as comfortable as you possibly could."
+​	"Feel no remorse, Mr. MacAllister," says Babatunde. He smiles at us all. "I would like to commend you for your safe and able driving, Barry. You have made my journey as comfortable as you possibly could."
 ​	Eleanore says, "Eddie, you little piece of shit." They both grin.
 ​	Tim offers Babatunde his handkerchief. "Mr. Babatunde," he says, "I can't tell you how your music effected me. I can still hear your drumming--" he points at his perfect belly -- "right here."
 ​	"We all can," says Eleanore. 
@@ -1139,21 +1138,20 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​	"I can't solve your problem," says Barry. 
 ​	"What do you mean?"
 ​	"I mean I'm just a boy," Barry tells her. "A boy who's still afraid of his father. I can't solve your problem. But sister -- before we have to go back home, how about we catch a show?"
-​	Cindy's nodding. She's smiling.​	Barry slams on the brakes. Behind us a car horn goes off. Barry spins the wheel and we turn around. Cars, stuck on both directions, starts honking at us. 
+​	Cindy's eyes fill with tears. She's nodding.
+​	"Yeah?" says Barry.
+​	"Yeah,​" says Cindy, smiling.
+​	Barry slams on the brakes. Behind us a car horn goes off. Barry spins the wheel and we turn around. Cars, stuck on both directions, starts honking at us. 
 ​	"Sorry, sorry!" Barry says. "Family emergency."
 ​	He backs up, turns again, backs up again. 
 ​	"Learn to drive!" someone shouts at him. 
-​	Barry breaks free and steps on the gas. The wheel rattle on the wooden bridge. 
+​	Barry breaks free and steps on the gas. The wheels rattle on the wooden bridge. 
 ​	"We have to get Eleanore before she gets on the train," says Cindy. 
 ​	"Set sail for Eleanore!" says Barry.
 ​	We all cheer.
 ​	"Someone turn on the radio!" I say.
 
-*(Caaaatch-a-falling-staaar and putitin-your-pock-et…)*
-
-## ==chapter break== 
-
-​==radio break==
+*(Caaaatch-a-falling-staaar and putitin-your-pock-CLICK!)*
 
 We run up the many stairs of the Richmond Main Street train station, a big block of columns and ornamental windows and thatched roofs. 
 ​	"What time is her train?" says Barry. "Did we miss it?"
@@ -1172,10 +1170,10 @@ We run up the many stairs of the Richmond Main Street train station, a big block
 ​
 To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS and MAGAZINES - GENERAL INTEREST. Some people stand next to it, reading the merchandize. One of them is a young woman in a black turtleneck and black cigarette pants, reading The Richmond Afro-American.
 ​	We run to her. "Eleanore!" says Cindy. "Why aren't you on that train?"
-​	"I was never going to go on the train," she says, still pretending to read the newspaper. 
+​	"I was never going to go on that train," says Eleanore, still pretending to read the newspaper. 
 ​	"What were you doing?" asks Cindy. 
 ​	"Waiting for you guys."
-​	She peers at Cindy above the newspaper. She winks. Cindy smiles. "Anyway," says Eleanore, "I know Barry is a good guy. I knew he'd do the right thing."
+​	She peers at Cindy above the paper. She winks. Cindy smiles. "Anyway," says Eleanore, "I know Barry is a good guy. I knew he'd do the right thing."
 ​	"Aw, Puppy..." says Cindy. 
 ​	"Don't call me that. Stop hugging me."
 ​	But she's hugging Cindy back.
@@ -1216,8 +1214,8 @@ At the bottom of the stairs, in the shadow of the Richmond - Petersburg Turnpike
 ​	The beggar whistles.
 ​	"Pardon me," says Cindy.
 ​	"Caint hear ya without the pling of change in my cup," says the beggar.
-​	"Oh," says Cindy. "Sorry." She finds a quarter in her handbag and puts it in the cup.  
-​	"Thank you," he says. 
+​	"Oh," says Cindy. "Sorry." She finds a coin in her handbag and puts it in the cup.  
+​	"Thank you," says the beggar. 
 ​	"So sir -- did you happen to see this guy with funny clothes and a big drum in his hand?"
 ​	The beggar raises his head at her. 
 ​	"See?" he asks. 
@@ -1241,7 +1239,7 @@ At the intersection of East Main and 17th we spot one: a thick pillar made fatte
 ​	I say, "You too, Tim?"
 ​	​Tim says, "Hear me out: blah-blah-blah... 'For tickets, enquire at the Deep Groove Record shop'".
 
-At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of warm vinyl, the owner never heard of the Pillars. He's a fat old man with face full of zits. He's sitting at the counter, sucking on a gerkin. 
+At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of warm vinyl, the owner never heard of the Pillars. He's a fat young man with face full of zits. He's sitting at the counter, sucking on a gerkin. 
 ​	"I've got the Coasters, do you kids want to go see the Coasters?"
 ​	"We sure do," says Cindy. "How much are they?"
 ​	"Cindy!" I say. "We do not want to see the Coasters. We want the Steam Pillars!"
@@ -1279,10 +1277,10 @@ At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps out
 ​	Eleanore says, "Cindy, when you were looking at the billboard, where were all those venues?"
 ​	"Second street," says Cindy. 
 
-Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. Yellow-pink light streams between the buildings to our left. Every now and then the light bursts into the street through the demolished debris of a house. The rest hides in shadow: loafers idling about, their faces dark and their movement slow; buildings with some windows boarded up and black; stores with display windows soaped over and signs torn from the concrete, no longer illuminating.
+Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. Yellow-pink light streams between the buildings to our left. Every now and then the light bursts into the street through the demolished debris of a house. The rest hides in shadow: loafers idling about, their faces dark and their movement slow; buildings with some windows boarded up and dark; stores with display windows soaped over and signs torn from the concrete, no longer illuminating.
 ​	“Are we sure we’re in the right place, Bear?” says Cindy. Barry looks at Tim, who takes a look at his map and nods. 
 ​	“Yeah, we’re in the right place,” says Barry. 
-​	We come close to a bridge and suddenly the buildings give way to an open stretching to the horizon to our right and our left. Scattered rubble shines like pebbles in the deserted, muddy ground. Every now and then a lone, disheveled building remains. A trench bisects this field like a scar. As we cross the bridge (2ND STREET OVERPASS - RICHMOND-PETERSBURG TURNPIKE) I see the river is an asphalt road.
+​	We come close to a bridge and suddenly the buildings give way to an open field stretching to the horizon to our right and our left. Scattered rubble shines like pebbles in the deserted, muddy ground. Every now and then a lone and disheveled building remains. A trench bisects this field like a scar. As we cross the bridge (2ND STREET OVERPASS - RICHMOND-PETERSBURG TURNPIKE) I see the river is an asphalt road.
 ​	“Where is this show?” says Eleanore. “Hiroshima?"
 ​	"Puppy!" cries Cindy. "Not cool!"
 ​	“Don’t call me that,” says Eleanore, laughing. 
@@ -1300,7 +1298,7 @@ Back in the car, the sweltering June heat gives way to a cool evening wind strea
 
 We stop at the curb near the Hippodrome theatre. ​	
 ​	"Wait," says Cindy. "What happened to all the lights?"
-​	In the front window the Hippodrome looks like a ship lost at sea. Its marquee is eerily dark; its doors are barred. Police officers stand, hands on their batons, near a white wooden saw-horse.
+​	In the front window, the Hippodrome looks like a ship lost at sea. Its marquee is eerily dark; its doors are barred. Police officers stand, hands on their batons, near a white wooden saw-horse.
 
 *(You can't stop the music!)*
 
@@ -1310,38 +1308,39 @@ Instead of the bustle of a busy nightlife corner, we hear the chanting of an ang
 ​	Cindy squeezes my hand. We get out of the car.​	
 
 ​​Outside, the whole street is darkened, littered with a long line of dead marquees, their grey corpses pale against the indigo sky. Near us, a mass of people rendered faceless by the growing shadow is huddled in by a battalion of police officers and squad cars. Red police lights sweep across the street, cutting across the fa​ces of the crowd. The puddles near the curb are alternately red, then dark, deep blue.
-​	​"What the hell?" says Cindy.
+​	​"Where the hell are we?" says Cindy.
 ​	I open my mouth to say something about not getting to see my show, but then the red rays fall on the angry faces and I think better of it. I see women in night dresses, men in fancy suits. A group of men wearing identical dark jackets stand together.
 ​	Eleanore says, "Aren't these the Seven-Tops?" She turns to Tim, but Tim has spotted someone in the crowd...
 ​	"Pete," says Tim. "Pete!" 
-​	The red lights bounce against the dandy golden watch of Tim's friend. Tim walks down the road, towards Pete, and we walk over with him, and so we join the rally. 
+​	The red lights bounce against the dandy golden watch of Tim's friend, who stands shouting in the crowd. He’s holding his hat in his hand and shouting. Tim dismounts the curb and walks on the road, towards Pete, and we walk over with him, and so we join the rally. 
 ​	
 *(You can't stop the music!)*
 
-​The crowd yells and shouts and we stand in darkness and silence next to Tim. Across and around us, the policemen seem to me like a wall of giants.
+​The crowd yells and shouts and we stand in darkness and silence behind Tim. Across and around us, the policemen seem to me like a wall of giants.
 ​​	"What happened, Pete?"
+​	“Police closed the Deuce for the night. Collective punishment for the Fair,” says Pete. 
+​	“Can we join you?” says Eleanore.
 ​	"Man, it's not the time for you to be standing next to me, know what I mean?"
 ​	"Just tell me what happened."
 ​	We all look at a couple of policemen who turn their attention towards us, their faces black holes in the dark blue sky.
 ​	"Tim, I mean it. You and your friends, stay away from me."
-​	Cindy goes over to the curb, and we all follow. 
+​	“Okay, Pete. I’ll catch you later.”
+​	Tim goes over to the curb, and we all follow. 
 ​	"Think what father would have said," says Cindy to Barry, "if he saw us all here."
-​	The two cops barrel down the gulf between us and Pete. They grab a slim silhouette standing right besides Pete. The crowd parts around them, standing closer. 
-​	"Go," says Pete. "Go back into your car. Don't be here."
+​	The two cops barrel down the gulf between us and Pete. They grab a slim silhouette standing right besides Pete. The crowd parts around them, huddling closer. 
+​	"Go," shouts Pete. "Go back into your car. Don't be here!"
 ​	One cop drops his baton square into the silhouette's midriff; soon thereafter, the other has his knee on his back. The crowd stops chanting. The street is suddenly quiet but for muffled thuds and crying. Pete has disappeared into the darkness.​	Then someone sings.
 
 *(When Israel was in Egypt land...)*
 
-The whole crowd, even the Seven-Tops, answers back in a soft, hushed voice. The policemen near us raise their heads, surprised.
+The whole crowd, even the Seven-Tops, answers back in a soft, hushed voice. The two policemen raise their heads, surprised…
 
-*(Let my people go...)*
+*(Let my people go!)*
 
 ​​We find refuge in the our car.
 
-## chapter break
-==radio break==
 "It's my fault," says Barry. 
-​	We drive back down the road, traveling between islands of streetlamp light. In the front seat, the light falls on Tim’s handsom figure and he looks dishevelled and distressed. 
+​	We drive back down the road, traveling between islands of streetlamp light. In the front seat, as the light falls on Tim’s handsome figure, he looks disheveled and distressed. 
 ​	"How is it your fault?" Cindy asks Barry. "It's not your fault."
 ​	"This was..." Eleanore starts, then quiets up. I notice that she's shaking.
 ​	Tim says, “I hope Pete’s okay.”
@@ -1357,20 +1356,67 @@ The whole crowd, even the Seven-Tops, answers back in a soft, hushed voice. The 
 ​	Tim says, “They’re obviously underground shows. The music’s really good. They do stuff you won’t hear on the radio. The location’s always secret. You need to know someone who knows someone to get the location. The police can never know so they do it in abandoned railway garages, old tobacco warehouses… man, I hope Pete’s okay.” He rolls down the window and puffs smoke out. 
 ​	”There you have it, the police can never know,” Barry says. “I didn’t know that and I caused all this trouble.”
 ​​	I ask, “How?”
-​	"Because,” he says, “I danced with that black girl and Mr. Evans told my father about it, and you can bet your last buck  my father made a few phone calls of his own."
+​	"Because,” he says, “I danced with that black girl and Mr. Evans told our father about it, and you can bet your last buck our father made a few phone calls of his own."
 ​	"That's still crap," says Cindy. 
 ​	“I know where the Steam Pillars are tonight,” says Eleanore. “Drive on, Barry.”
 
 *Braaaangggggg!*
-​	The hands on the clock on the tower above the Main Street train station show it's eight-thirty. The sky around the clock is black and the moon is a thin sliver of itself. 
+​	The hands on the clock on the tower above the Main Street train station point to eight-thirty. The sky around the clock is black and the moon is a thin sliver of itself. 
 ​	"So we're back at the beginning," says Cindy.
 ​	"Yeah," says Eleanore. “Yeah. Alice, give me your matchbook."
 ​	I hand my Buzz Cigarettes matchbook to my fellow detective. Eleanore holds it up and it catches the light from the train station behind us. 
-​	"You can't have integrated shows in official venues,” says Eleanore. “That’s illegal down here. The cops must never know. Right, Tim? So it has to be in old railway garages, tobacco warehouses, right?Barry, where's the Buzz Cigarettes tobacco warehouse in Richmond?"
-​	"It's... well... oh. Oh!" says Barry. Eleanore puts down the matchbook. Behind it, the Buzz logo is peeling on the building in front of us.
-​	"It's right here in Shockoe Bottom," says Eleanore. "I told you guys, it was supposed to be *obvious*."
+​	"You can't have integrated shows in official venues,” says Eleanore. “That’s illegal down here. The cops must never know. Right, Tim? So it has to be in old railway garages, tobacco warehouses, right?
+Barry, where's the Buzz Cigarettes tobacco warehouse in Richmond?"
+​	"It's... well... oh. Oh!" says Barry. Eleanore puts down the matchbook. Behind it, the Buzz logo is peeling on the old warehouse in front of us.
+​	"I told you guys," says Eleanore. "It was supposed to be *obvious*."
+
 ## Track 4: Alice Goes to Wonderland
 ==radio break==
+
+We   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "He sure looks like him," she shouts.
 
 But my ear, that has heard this voice so often, knows different. It was the same set of fingers on that keyboard, the same playful southern drawl.
@@ -1425,7 +1471,7 @@ Cindy, Kimberly and I walk outside together. In the parking lot, the Conductors 
 
 "I've been to my first ever show, Eddie\!"
 
-He smiles broadly and hands me a braid. It's a simple, uncolored wool braid but it has two coins slotted on it. They jingle against one another in my hand.
+He smiles broadly and hands me a braid. It's a simple, uncolored cotton braid but it has two coins slotted on it. They jingle against one another in my hand.
 
 "What's this for, Eds?"
 
@@ -1465,11 +1511,11 @@ Then this one guy walks over to his car. I think he's leaving but he bends over,
 
 "Another bird joins the flock," says Kimberly.
 
-When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little clearing. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little car-lit parking lot has become. At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
+When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little lot. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember from the show they'd just watched. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little car-lit parking lot has become. At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
 
 I whisper to Cindy, "talk to him. Tell him. Tell him you'll be leaving either way".
 
-But Cindy knows her brother better. She walks over to him and takes his hand. Suddenly they seem to me like they were when I first met them, these two kids from the country, holding each other’s hand in this big city. 
+But Cindy knows her brother better. She walks over to him and takes his hand. Suddenly they seem to me like they were when I first met them, these two kids from the country, holding each other’s hand in the recess ground of a big-city school.
 
 Barry is looking at the people in the clearing and nodding, as if to an unheard beat.
 
@@ -1483,7 +1529,7 @@ He walks towards the middle of the parking lot, where paint and brushes are wait
 
 ## Track 5: Morning, Gorgeous
 
-I first fell in love with Alice at the sunrise after we decided to follow The Midnight Engine. Sometimes an early sun would catch my eye just right and I would instantly see it again, how she was asleep in the back seat of Barry’s old car, how her head was slumped on the window with her big patches of freckles on that very white skin — how her fingers and hair were dipped in radiant pink. Barry has been driving right behind the band’s van, and every now and then Eddie would pop his head out of the window and shout something back, something like, *we stop for gas in a mile or two*. We’ve been driving all night, at first so excited we talked in hushed, urgent voices, like we were sharing a secret. Everybody was congratulating or joshing Barry about his newfound freedom. It took a long time for the girls to fall asleep. Now it was just me and Barry, my hand hanging on the seat behind him, taking in the view. Then I looked back and I saw Alice, all freckles and paint, and a pain I never felt before went coursing through my veins. I thought, *I’ve never seen anything so pretty*. I thought, *I’ve never been happier*. I thought, *I’ve never been quite so miserable*. 
+I first fell in love with Alice at the sunrise after we decided to follow The Midnight Engine. Sometimes an early sun would catch my eye just right and I would instantly see it again, how she was asleep in the back seat of Barry’s old car, how her head was slumped on the window with her big patches of freckles on that very white skin — how her fingers and hair were dipped in radiant pink paint. Barry has been driving right behind the band’s van, and every now and then Eddie would pop his head out of the window and shout something back, something like, *we stop for gas in a mile or two*. We’ve been driving all night, at first so excited we talked in hushed, urgent voices, like we were sharing a secret. Everybody was congratulating or joshing Barry about his newfound freedom. It took a long time for the girls to fall asleep. Now it was just me and Barry, my hand hanging on the seat him, taking in the view. Then I looked back and I saw Alice in the back seat, all freckles and paint, and a pain I never felt before went coursing through my veins. I thought, *I’ve never seen anything so pretty*. I thought, *I’ve never been happier*. I thought, *I’ve never been quite so miserable*. 
 
 Around us were cars driven by fellow fans, sometimes overtaking, sometimes slowing down. Every now and then Kimberly’s car, its doors painted with red hearts, would drive by us, and she would lean out of the window and blow kisses at us. Lots of other drivers of those painted cars would signal and wave as they passed, but Kimberly sent kisses. 
 
@@ -1491,9 +1537,12 @@ Our car had its own ornament, right there ahead of us, taking up all of the spac
 
 At first he was  
 
+
+...WONDERLAND OR BUST
+
 —————
 
-“The thing is,” I say, stumbling over the words, “the thing is I like red nail polish. It… it attracts my attention. And the thing is that Jo always has her fingernails in red. And ever since the first show, back at the county fair, I used to watch her fingernails. I was transfixed. I’d see nothing but them. I’d hear the music, like, on another track in my head, and my councious brain was all in those fingernails runnin on the neck of that guitar. I’d see them in my dreams. And in my waking hours I would memorize them. Those patterns of shapes they take when the music sounds like this, like *that*. So when I picked up your guitar I knew: *this* shape means *this sound*.” I pluck to illustrate my point. 
+“The thing is,” I say, stumbling over the words, “the thing is I like red nail polish. It… it attracts my attention. And the thing is that Jo always has her fingernails in red. And ever since the first show, back at the county fair, I used to watch her fingernails. I was transfixed. I’d see nothing but them. I’d hear the music, like, on another track in my head, and my councious brain was all in those fingernails of her left hand runnin on the neck of that guitar. I’d see them in my dreams. And in my waking hours I would memorize them. Those patterns of shapes they take when the music sounds like this, like *that*. So when I picked up your guitar I knew: *this* shape means *this sound*.” I pluck to illustrate my point. 
 	“That’s a G-Major,” Jo says softly. 
 	“I don’t know from that,” I say. “I know what it sounds like.”
 	“Boy,” says Jo. “Never seen a face so red.”
