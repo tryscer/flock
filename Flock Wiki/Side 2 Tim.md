@@ -5,22 +5,27 @@ tags:
 ## General Arcs
 
 if the first Side was about a one-car, one-day road trip, the second side is about a long, multi-car trip: — a caravan — a youthful summer excursion. 
+
 For the band, a different experience: professional life on the road, from obscurity to success. 
+
 For Tim, it’s his arc away from flocking and back into the corporate life that initially was waiting for Barry. 
+
 For Barry, it’s the opposite: from being a king’s son to being the moses / jesus / buddha of the movement.
 For Alice, it’s her maturation into a holy example-setter, the spirit of the flock. 
+
 Eleanore is the philosopher, the opposite of Alice who’s the heart. Their interactions show the beginnings of a religion. 
+
 Cindy will probably die, something to do with Barry and the Father, BJ MacAllister. 
 
-For the reader: enjoying wish fullfilment -> WF becomes an ideological utopia -> leaving the utopia at the end makes the user want to return by implementing the ideaology in their lives.
+For the reader: enjoying wish fulfillment -> WF becomes an ideological utopia -> leaving the utopia at the end makes the user want to return by implementing the ideology in their lives.
 
 
 our main goal is to sell the transformation as plausible. earn each fantasy. 
 
 flocking is:
-- mainly described through lessenning of ego (initially felt like the freedom of being on long holiday)
-- ​	causes people to only “lead” when ​	​	they should (know the way there, for ​	​example)
-- lessenning of fear from society causes more agency and self-assuredness
+- mainly described through lessening of ego (initially felt like the freedom of being on long holiday)
+- ​	causes people to only “lead” when ​they should (know the way there, for ​	​example)
+- lessening of fear from society causes more agency and self-assuredness
 - optimizing for quality (of experience, relationship) over efficiency
 - a reverse prisoner’s dilemma out of a feeling of תודעת שפע
 - flocking is being able to exist in several social circles (flocks) and have a separate identity in each

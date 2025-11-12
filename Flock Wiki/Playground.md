@@ -1,5 +1,37 @@
 #ideas 
 
+  
+  
+
+05-11 17:17 - ההזייה של אליס מתחילה כשהיא רואה את האבק רוקד על התוף של באבא
+
+  
+
+05-11 17:19 - יומולדת 18 לאליס. חצוצרן אורח מנגן לה שיר מארץ הפלאות. מביאים לה עוגה. מעריצים חדשים מסתכלים *עליה* בהערצה: בת כמה את? אליס: אני בת 0.
+
+  
+
+05-11 17:21 - חצי פרק יוקדש לצרות לוגיסטיות
+
+  
+
+05-11 17:37 - ההופעה בפאקינגטון היא אירוע יותר גדול של כמה להקות. הפילרז גונבים את הקהל
+
+  
+
+09-11 13:49 - בהופעה בפרק 4 - יש כבר טקסים בהשתתפות הקהל שהפזמניקים מכירים לאליס
+
+  
+
+09-11 15:07 - גרפיטי - i see it too
+
+  
+
+09-11 15:08 -
+
+![[cam_2025-11-09_15-08-03.jpg]]
+
+
 11-10 Calypso Records (nymph Calipso is daughter of Atlas). The name _Calypso_ derives from the [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek") καλύπτω (_kalyptō_) meaning 'to cover', 'to conceal', or 'to hide'. In [Homer](https://en.wikipedia.org/wiki/Homer "Homer")'s _[Odyssey](https://en.wikipedia.org/wiki/Odyssey "Odyssey")_, Calypso tries to keep the fabled Greek hero [Odysseus](https://en.wikipedia.org/wiki/Odysseus "Odysseus") on her island to make him her immortal husband, while he also gets to enjoy her sensual pleasures forever. According to Homer, Calypso kept Odysseus prisoner by force at [Ogygia](https://en.wikipedia.org/wiki/Ogygia "Ogygia") for seven years. Calypso enchants Odysseus with her singing. 
 
 24AM

@@ -101,6 +101,29 @@
 
 ## Chapter 4 
 
+- crossing the street, a holy feeling
+- parking lot, some painted cars. a car stops and a woman gets out, disappears into the ally
+- alley, lanters, woman disappears into doorway. 
+- alice lights a lantern with her last match
+- in the warehouse, woman disappears into the little door
+- inside the drying room, about 100 people. the mystery woman is Shirley, who greets them.
+- it's a maze of boxes
+- There's an elevated archway and the door is closed.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - שומעים ברדיו את אלן פרייד בתוכניתו הכלל ארצית מדבר על אלוויס. 
 
 - קהל שלם המום וחפוי ראש בחדר הייבוש, מישהו הולך הביתה
