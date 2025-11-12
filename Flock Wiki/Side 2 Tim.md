@@ -56,23 +56,23 @@ eleanore is a studious disciple, finding theory in the flock’s behavior
 cindy is action. 
 
 Ideas that will appear in the side
-communications though public washroom graffiti . Haikues by Kinmberly. Flock name written on the wall.
+communications though public washroom graffiti . Haikus by Kimberly. Flock name written on the wall.
 
 the bear-geneer is a prominante item. at a point we will have to go back and rescue it from somewhere
 
 Building a barn, call the guys over. some people go to bath in the stream mid day. some join, some leave.
 
 
-the flocks learn how to recreate the music performance experience usng singing, stomping and bracelets
+the flocks learn how to recreate the music performance experience using singing, stomping and bracelets
 
 
 
-The record company is named Calypso and its brand logo is a lyre. they’re a slick startup, and all the people it sends are well spoken, friendly, and make you want to shower after you’ve met them. connection with buzz — uncertain. 
+The record company is named Calypso and its brand logo is a lyre. they’re a slick startup, and all the people it sends are well spoken, friendly, and make you want to shower after you’ve met them. Connection with buzz — uncertain. 
 
-calipso joins when the phenomenon of steam pillars starts to be well known… as we learn from the breaks (radio?)
-they try to take control of the steam pillars but fail. luckily they groomed tim just for that. they turn their jaws on him, make him a star and drive him away from alice. 
+Calypso joins when the phenomenon of steam pillars starts to be well known… as we learn from the breaks (radio?)
+they try to take control of the steam pillars but fail. Luckily they groomed Tim just for that. They turn their jaws on him, make him a star and drive him away from Alice. 
 
-tim and the pillars
+Tim and the pillars
 he starts as someone who changes a string for mucho on chapter 4
 he becomes a lowly roady and everybody is a little mean to him, jo especially. 
 he learns to play from watching jo
