@@ -77,23 +77,15 @@
 - טים מזהה בדרמטיות שזה המחסן של באזז 
   the clue must be in front of our eyes
   Its not in front our eyes, its in our hand, and above our head
-### מגרש החניה
-- מגיעים - יחד עם ג'ימי וויליאם למגרש החניה -בלוק  מול המחסנים. בחניה כבר יש הרבה רכבים, אחד עם כתובות. איך שמגיעים רואים את קימברלי נעלמת לסמטא (הארנב).
-- שיחה עם בארי ערך לאוטו פחות או יותר
-- סינדי מציעה שיעקבו אחרי הלהקה (במקום בריחה מהבית)
-- מחפשים איך נכנסים, מנסים את הדלת הראשית - נעולה
-- מזהים את הכניסה לפי לנטרן בתחילת הסמטא
-### במורד מחילת הארנב
-- איך שנכנסים לסמטא רואים את קימברלי נעלמת בדלת בצד
-- 
-- נכנסים, יורדים במדרגות, מגיעים לחדר הייבוש, פוגשים עוד אנשים
-- בארי מרגיש אשמה על ההליכה למופע
-- פוגשים את קימברלי ופלוקה
--  אליס מדברת עם קימברלי 
-- 
+
 - 
 ## Chapter 4 
-
+crossing the street, a holy feeling
+- parking lot, some painted cars. a car stops and a woman gets out, disappears into the ally
+- alley, lanterns, crossroads quilt. woman disappears into doorway. 
+- Alice lights a lantern with her last match
+- in the warehouse, woman disappears into the little door
+- inside the drying room, about 100 people. 
 * ההופעה מתקיימת בחדר הייבוש - יש מעבר מרכזי פנוי, ויש מעברי צד בין הבאלות של עלי הטבק
 *  שירלי נעלמת בקהל (קצת חשוך, יש מעברים)
 * פוגשים את רוזטה, המגש של באז משמש עכשיו לאיסוף כספים מהנכנסים. אינטראקציה משעשעת עם בארי
@@ -122,6 +114,31 @@
 
 
 === ישן ===
+=======
+- crossing the street, a holy feeling
+- parking lot, some painted cars. a car stops and a woman gets out, disappears into the ally
+- alley, lanters, woman disappears into doorway. 
+- alice lights a lantern with her last match
+- in the warehouse, woman disappears into the little door
+- inside the drying room, about 100 people. the mystery woman is Shirley, who greets them.
+- it's a maze of boxes
+- There's an elevated archway and the door is closed.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - שומעים ברדיו את אלן פרייד בתוכניתו הכלל ארצית מדבר על אלוויס. 
 
 - קהל שלם המום וחפוי ראש בחדר הייבוש, מישהו הולך הביתה
