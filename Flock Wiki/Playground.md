@@ -1,7 +1,15 @@
 #ideas 
 
   
-  
+  mdma effects: seeing shirley's ear
+  mdma effects: touching each others' fingers, will later become a flock ceremony
+  solution for the cindy running away situation
+  barry and tim getting closer to the music (not sexual)
+  nobody's fault is first
+  the stomping is described as a physical sensation 
+  vilma is the person who works the crowd
+  https://music.apple.com/il/album/shout-pts-1-2/1030461597?i=1030462242
+    
 
 05-11 17:17 - ההזייה של אליס מתחילה כשהיא רואה את האבק רוקד על התוף של באבא
 
