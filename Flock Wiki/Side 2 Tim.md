@@ -89,6 +89,12 @@ we hint he was successful, at least for a while, after the book ends.
 
 
 ## Track 5
+opening song
+https://music.apple.com/il/album/honeycomb-single-version/303251190?i=303251309
+
+https://music.apple.com/il/album/why-do-fools-fall-in-love/1544753342?i=1544753343
+
+
 
 ## Track 6 Bear-geneer to be rescued
 
