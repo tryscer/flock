@@ -4,8 +4,8 @@
   mdma effects: seeing shirley's ear
   mdma effects: touching each others' fingers, will later become a flock ceremony
   solution for the cindy running away situation
-  barry and tim getting closer to the music (not sexual)
-  nobody's fault is first
+  barry and tim getting closer to the music (not sexual) - alice sees them touching fingers, maybe tries to reconstruct it
+  nobody's fault is first (more emotional, less psychedelic)
   the stomping is described as a physical sensation 
   vilma is the person who works the crowd
   https://music.apple.com/il/album/shout-pts-1-2/1030461597?i=1030462242
