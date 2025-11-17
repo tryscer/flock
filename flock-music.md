@@ -1372,9 +1372,34 @@ Barry, where's the Buzz Cigarettes tobacco warehouse in Richmond?"
 
 ## Track 4: Alice Goes to Wonderland
 ==radio break==
+*...and that was XXXX by the XXX, as requested by listener XXX... who tells us it was the first song she heard being played live. Do you remember your first show?*
 
 We cross the street in solemn silence. 
-​	In the small parking lot beneath the Buzz warehouse, a few cars are  
+​	In the small parking lot beneath the Buzz warehouse, a few cars are parked, most of them old and dusty. As we walk between them I pass my finger in the dust of a Ford Mainline's back window. 
+​	"Hello," I say, "What's this?"
+​	Someone painted a giant bird, a cardinal or a jay, on the driver's door. We stop to admire the painting. 
+​	"Why would someone devalue their car like this​?" Barry wonders. 
+​	Another car, its headlights burning through the darkened lot, turns and parks. In the headlights I can see paintings on some other cars -- birds and butterflies. The lights turn off. A woman, black in a long, white coat, bounds out. She checks her wristwatch as she's shutting the door. She looks up, straight at me, and smiles. Then she disappears into the shadow of the Buzz Cigarettes warehouse. 
+​	"Fellow fan?" Eleanore asks. 
+​	"Let's follow her," I say. 
+
+At the foot of the giant brick building, the huge front entrance is locked. A night-guard sits snoring next to the door. We see the hem of a white coat disappearing in the alley.
+​	"There she is," I whisper. 
+​	"Why are you whispering?" says Cindy. 
+​	We follow the white coat. 
+
+The alley is ancient and winding and has many doors and openings to the left and right. Thin moonlight reflects off the granite cobblestone. Someone hung lanterns all a​cross the alley. Some are lit, some not... The woman in the white coat opens a door and disappears into it. 
+​	"Wait, you guys," I whisper. "I want to do something."
+​	I raise the little glass hatch of an unlit lantern. With my last remaining Buzz Cigarettes match, I light it. 
+​	"Come on, Wonderland girl," Cindy says. Now she's whispering, too. 
+
+We enter the darkened warehouse, redolent of musty tobacco, just as the white figure crosses between two bales of huge leaf. 
+​	"There she is," whispers Tim. "To your left."
+​	And then:
+​	"Here she is again. She went through the little door."
+​	And then:
+​	"I think we're here."
+
 
 
 
