@@ -7,17 +7,28 @@
 ## Chapter 4 
 ### BEAT MAP
 #### following the white rabbit
-*a beat to make us feel we're into the meat now* 
+*a beat to make us feel we're into the meat now*
+- seeing the painted cars
+- lighting the lantern with the last match
 #### pre-show
 *quick reminder for the reader about the still-existing tensions in the group; introducing Mama (Betty)*
+- dozens of people and the band is mostly on "stage"
+- shirley says hi to babatunde, this is how she meets alice finally
+- mama comes to give mucho his bass
+- mama gives eddie a nudge, he turns off the lights...
 #### nobody's fault 
 *coming to terms with personal guilt and old anger; starting to learn about the caravan; solving tensions*
 - heath coming in through the crowd. 
+- alice watches barry getting into it - he's shouting into the mic
+- elanore brings tim to cindy... resolution
+- alice tells cindy she lets her go her own way
 #### babatunde's rythme 
 *going deep into hallucination, personal euphoria (short beat)*
+- alice watches barry getting into it - he's taking off his coat and tie and alice sees it in hallucination (shlez - butterfly)
 - alice seeing the dust on his drums
 #### (last song)
 *mdma-like feeling of love for others, the crowd disengages from the performers; learning more about the caravan*
+- barry and tim touching fingers
 #### winding down
 *coming back into reality*
 (written)
