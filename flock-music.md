@@ -1379,7 +1379,7 @@ We cross the street in solemn silence.
 ​	"Hello," I say, "What's this?"
 ​	Someone painted a giant bird, a cardinal or a jay, on the driver's door. We stop to admire the painting. 
 ​	"Why would someone devalue their car like this​?" Barry wonders. 
-​	Another car, its headlights burning through the darkened lot, turns and parks. In the headlights I can see paintings on some other cars -- birds and butterflies. The lights turn off. A woman, black in a long, white coat, bounds out. She checks her wristwatch as she's shutting the door. She looks up, straight at me, and smiles. Then she disappears into the shadow of the Buzz Cigarettes warehouse. 
+​	Another car, a bluebird painted on its trunk lid and its headlights burning through the darkened lot, turns and parks. In the headlights I can see paintings on some other cars -- birds and butterflies. The lights turn off. A woman, black in a long, white coat, bounds out. She checks her wristwatch as she's shutting the door. She looks up, straight at me, and smiles. Then she disappears into the shadow of the Buzz Cigarettes warehouse. 
 ​	"Fellow fan?" Eleanore asks. 
 ​	"Let's follow her," I say. 
 
@@ -1388,20 +1388,53 @@ At the foot of the giant brick building, the huge front entrance is locked. A ni
 ​	"Why are you whispering?" says Cindy. 
 ​	We follow the white coat. 
 
-The alley is ancient and winding and has many doors and openings to the left and right. Thin moonlight reflects off the granite cobblestone. Someone hung lanterns all a​cross the alley. Some are lit, some not... The woman in the white coat opens a door and disappears into it. 
+The alley is ancient and dusty and has many doors and openings to the left and right. Thin moonlight reflects off the granite cobblestone. Someone hung lanterns all down the alley. Some are lit, some not... The woman in the white coat opens a door and disappears into it. 
 ​	"Wait, you guys," I whisper. "I want to do something."
-​	I raise the little glass hatch of an unlit lantern. With my last remaining Buzz Cigarettes match, I light it. 
+​	I raise the little glass hatch of the unlit lantern next to the door. With my last remaining Buzz Cigarettes match, I light it. In the light of the lantern, I can see someone painted a big, blue X on the door.
 ​	"Come on, Wonderland girl," Cindy says. Now she's whispering, too. 
 
 We enter the darkened warehouse, redolent of musty tobacco, just as the white figure crosses between two bales of huge leaf. 
 ​	"There she is," whispers Tim. "To your left."
+​	Passageways wind between the tall wobbly towers of tobacco. We scurry after the figure, quietly.
+​	"Take a left," says Tim.
 ​	And then:
-​	"Here she is again. She went through the little door."
+​	"Here she is again. She went between these two crates."
 ​	And then:
 ​	"I think we're here."
 
+We reach a clearing amidst the tobacco towers. Someone turned on the lights in the little clearing and under them I see a few dozen people idling around, some with flasks and beer bottles in their hands. The smell of burning tobacco melds into the smell of the uncured tobacco all around. Their voices boom under the high ceiling. The white-coated lady vanishes into the crowd...
+​	"Hey Mr. MacAllister -- may I interest you in a *honey* of a smoke?"
+​	The cigarette lady we met at the fair now wears denim overalls, but she's still carrying her Buzz-branded tray. Instead of fine tobacco products it now holds loose change and crumpled-up dollar bills.
+​	The cigarette lady winks at Barry. "Welcome to the show," she says.
+​	I find myself sitting down on the ground. It suddenly hits me: I'm here. I'm at my very first show. Cindy strokes my hair.
+​	"It's Rosetta, by the way," the cigarette girl says. Across the hidden clearing, someone yells, "Babatunde, you old fiend!" and some people cheer. 
+​	"What is?" says Barry. 
+​	"My name. It's Rosetta. Hi, Boss..."
+​	Barry smirks at her and she squeezes his shoulder. He reaches into his coat pocket and fishes up some bills. 
+​	"It's Barry," he tells her. 
+​	I say, "Is Babatunde here?"
 
+We walk among the most peculiar crowd I've ever witnessed: black and white people all in flamboyant dress and so mixed together -- here a white boy has his arm around the neck of a black girl, here a black and white guy are joshing around beneath a bale of leaves. 
+​	"Watch out, don't topple the stack!"
+​	And here, at the end of the clearing, on a makeshift stage barely rising from the floor, sits Babatunde, now in green dress and cap, stretching the leather on an elaborate, ornate drum set. 
+​	"Babatunde!" I cry. We run to the stage. 
+​	"What you need to do is listen," says Babatunde to another lady. "You don't hurry it along. Just open your ear-holes." I look over and spot a familiar, long, white coat.
+​	"Hi!" I say. "Thanks for showing us the way. We were following you."
+​	The lady flashes me a smile. She's pretty, about my ages, with freckles over her moccha-colored face and big gold hoop earrings and a sequin-covered dress, grey in the dim light.
+​	"A greenhorn!" she says. "Hey guys, we've got a greenhorn here!"
+​	A few faces turn to watch us. Then:
+​	"Heyyyyyyy!"
+​	A cheer rolls across the little group around us. The white-coated woman hugs me. 
+​	"I'm Shirley," she says in my ear. She smells of lavender and rosewater. 
+​	"I'm Alice."
+​	"Barry, I see you decided to come in spite of your predicament," says Babatunde. "I hope you will not regret it."
+​	Barry smiles. His every movement seems lighter to me, as if he really was unburdened. He puts his arm around Cindy's shoulder. "I'm really here for my sister," he tells Babatunde. 
+​	Babatunde and Cindy share a secret smile. 
 
+"Look what Mama brought me!"
+​	The bellowing voice is followed by the huge figure of Besame Mucho, who walks on from the darkness behind the stage. He's holding an electric guitar, pale yellow and new. In his hands, it looks like a toy. He fumbles for a cable to connect to. 
+​	"Mama provides," sighs Babatunde. He winks at me. 
+​	"That's a Fender Precision!" says Tim. "Hey, Mr. Mucho, let me help you..." he climbs onto the makeshift 
 
 
 
