@@ -1408,19 +1408,22 @@ We reach a clearing amidst the tobacco towers. Someone turned on the lights in t
 ​	The cigarette lady winks at Barry. "Welcome to the show," she says.
 ​	I find myself sitting down on the ground. It suddenly hits me: I'm here. I'm at my very first show. Cindy strokes my hair.
 ​	"It's Rosetta, by the way," the cigarette girl says. Across the hidden clearing, someone yells, "Babatunde, you old fiend!" and some people cheer. 
-​	"What is?" says Barry. 
+​	"What's Rosetta?" says Barry. 
 ​	"My name. It's Rosetta. Hi, Boss..."
 ​	Barry smirks at her and she squeezes his shoulder. He reaches into his coat pocket and fishes up some bills. 
-​	"It's Barry," he tells her. 
-​	I say, "Is Babatunde here?"
+​	"Now, it's Barry, by the way," he tells her. 
+​	I say, "Wait, is Babatunde here?"
 
-We walk among the most peculiar crowd I've ever witnessed: black and white people all in flamboyant dress and so mixed together -- here a white boy has his arm around the neck of a black girl, here a black and white guy are joshing around beneath a bale of leaves. 
-​	"Watch out, don't topple the stack!"
-​	And here, at the end of the clearing, on a makeshift stage barely rising from the floor, sits Babatunde, now in green dress and cap, stretching the leather on an elaborate, ornate drum set. 
+We walk among the most peculiar crowd I've ever witnessed: black and white people all in flamboyant dress and mixed together -- here a white boy has his arm around the neck of a black girl, here a black and white guy are joshing around beneath a bale of leaves. 
+​	I think of that poor cop from the tent earlier and what his face would look like seeing this crowd.
+​	I giggle. 
+​	I hear a drumroll, quick and abrupt, across the clearing.
+​	=="It's almost showtime," I say to Cindy. She squeezes my hand.==
+​	At the end of the clearing, on a makeshift stage barely rising from the floor, sits Babatunde, now in green dress and cap, stretching the leather on an elaborate, ornate drum set. 
 ​	"Babatunde!" I cry. We run to the stage. 
-​	"What you need to do is listen," says Babatunde to another lady. "You don't hurry it along. Just open your ear-holes." I look over and spot a familiar, long, white coat.
+​	"All you need to do," says Babatunde to another lady, "is listen. Don't hurry it along, just keep your ear-holes open." I look over and spot a familiar, long, white coat.
 ​	"Hi!" I say. "Thanks for showing us the way. We were following you."
-​	The lady flashes me a smile. She's pretty, about my ages, with freckles over her moccha-colored face and big gold hoop earrings and a sequin-covered dress, grey in the dim light.
+​	The lady flashes me a smile. She's pretty, about my age, with freckles over her moccha-colored face and big gold hoop earrings and a sequin-covered dress, grey in the dim light.
 ​	"A greenhorn!" she says. "Hey guys, we've got a greenhorn here!"
 ​	A few faces turn to watch us. Then:
 ​	"Heyyyyyyy!"
@@ -1434,7 +1437,20 @@ We walk among the most peculiar crowd I've ever witnessed: black and white peopl
 "Look what Mama brought me!"
 ​	The bellowing voice is followed by the huge figure of Besame Mucho, who walks on from the darkness behind the stage. He's holding an electric guitar, pale yellow and new. In his hands, it looks like a toy. He fumbles for a cable to connect to. 
 ​	"Mama provides," sighs Babatunde. He winks at me. 
-​	"That's a Fender Precision!" says Tim. "Hey, Mr. Mucho, let me help you..." he climbs onto the makeshift 
+​	"That's a Fender Precision!" says Tim. "Hey, Mr. Mucho, let me help you..." he climbs onto the makeshift stage and digs for the cable on the dark floor. As picks up the cable, the big-figured guitarist comes on stage, holding her golden harp. 
+​	"Hi," Tim says. His face is red. "I'm Tim." He drops the cable. 
+​	The guitarist raises an eyebrow.
+​	"Jo," she says. "And that was *my* line."
+
+Vilma climbs on stage now, wearing a red night-gown, silken and tight. The crowd grows suddenly quiet...
+​	"Is this it?" I whisper to Cindy.
+​	"I don't know," says Cindy. "I've never been to anything like this before."
+​	Around us, more people join in. I look at them trying to determine who's a "greenhorn" and who's a seasoned fan. The two amplifiers issue competing sounds now, Mucho's base and Jo's guitar, and ​I squeeze Cindy's hand harder.
+​	"I think it's going to start," says Cindy. "And you're breaking my hand."
+​	"Sorry."
+​	Now I hear Babatunde's drums, and his musical voice saying, "We're ready, Mama."
+​	Beyond the stage, a stern woman in engineer's overalls puts two finger's in her mouth and whistles. 
+​	The lights go out.
 
 
 
