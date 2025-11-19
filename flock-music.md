@@ -1445,18 +1445,64 @@ We walk among the most peculiar crowd I've ever witnessed: black and white peopl
 Vilma climbs on stage now, wearing a red night-gown, silken and tight. The crowd grows suddenly quiet...
 ​	"Is this it?" I whisper to Cindy.
 ​	"I don't know," says Cindy. "I've never been to anything like this before."
+​	The mystery pianist climbs on stage and sits next to the little dinged-up piano in the back. People in the little group next to the stage greet him with "Heath!" and "Cain the man!" and he shyly waves at them, plays an oddly familiar tune with his left hand. Jo adds electrified plucks to his jabs at the keys.
 ​	Around us, more people join in. I look at them trying to determine who's a "greenhorn" and who's a seasoned fan. The two amplifiers issue competing sounds now, Mucho's base and Jo's guitar, and ​I squeeze Cindy's hand harder.
 ​	"I think it's going to start," says Cindy. "And you're breaking my hand."
 ​	"Sorry."
 ​	Now I hear Babatunde's drums, and his musical voice saying, "We're ready, Mama."
-​	Beyond the stage, a stern woman in engineer's overalls puts two finger's in her mouth and whistles. 
+​	Beyond the stage, a stern woman in engineer's overalls puts two fingers in her mouth and whistles. 
 ​	The lights go out.
 
+*(One-two-three-go!)*
 
+One bare lightbulb lights up above the stage, casting the band in dim, intimate light. Babatunde starts drumming... Mucho plucks his toy-sized bass... and now Jo and the pianist play a fast lick, unrelenting, like wheels turning on the rail. I am engulfed in sound. I hear stomping on the concrete floor and turn around to see the whole crowd standing close to the stage now, dancing around me. The unrelenting beat travels down from my ears to my feet. They feel lighter and with a will of their own. Ever so slightly, I start swaying to the music.
+​	"Now you!" Babatunde cries into the microphone.
+​	Around me, people sing in unison,
 
+*(Train ah-ri-hide...)*
 
+​	Babatunde and Muco answer in their own rhythmic language,
 
+*(Tam-taka-taka-taka!)*
 
+I hold Cindy and we sing with the others,
+
+*(Sixteen coaches long!)*
+
+Over the singing and the playing, Vilma says, "So many new faces here tonight!"
+​	The crowd answers, 
+
+*(Train I ri-hide...)*
+
+Vilma says, "And so many familiar faces, too!"
+​	I look around, to see who in the crowd is a seasoned fan. I see the white-coated lady, Shirley, raising her hand up and shaking her arm. She's wearing a bracelet which makes a rattling sound. Others raise their hands, shaking bracelets.
+​	"How many are with us since the Woodshed?" asks Vilma. A couple of people rattle their bracelets.
+​	Mucho and Heath join the crowd, singing,
+
+*(Sixteen coaches long...)*
+
+​	"How many came on board in Charleston?" asks Vilma, and more people sound off. The trainwheel rhythm engulfs me. I see Barry and Tim dancing, too, as if a demon possesses them.
+​	"How many in Wilmington? How many came here from the Henrico county fair this morning?"
+​	Cindy and I hoot. Eleanore shouts, "Go Eddie! Give'em steam!"
+​	"How many came straight from the Second Avenue demonstration?"
+​	Eleanore shouts, "That's us too! Go Pete!"
+​	"Pete!" says Tim. "Excuse me." He ducks into the crowd. 
+​	Vilma says, "Give a big hand to all the newcomers!" and the crowd cheers. I feel strangely in a new world and, even more strange, right at home.
+​	"There's a lot of pain out there tonight," Vilma says over the singing. "A lot of sorrows left in our wake."
+​	The crowd murmurs.
+​	"There's a lot of guilt to carry," Vilma says, picking up steam and force. To me, dancing in the first row, her diminutive figure seems to be harboring a coming storm. "Too much guilt for human shoulders!" she cries.
+​	The crowd cheers.
+​	"And if I feel guilt," Vilma calls, "It's nobody's fault but mine."
+
+On a dime, the whole band changes its tune. Now Mucho's bass is soft and crooning, Babatunde's drums a whisper under the beat, Jo's guitar a soft, sad whistle. 
+​	Vilma sings,
+
+*(I got a Bible in my home...)*
+
+​The men in the band answer in harmony,
+
+*(I've got a Bible in my home...)*
+​
 
 
 
