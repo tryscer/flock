@@ -1375,137 +1375,70 @@ Barry, where's the Buzz Cigarettes tobacco warehouse in Richmond?"
 *...and that was XXXX by the XXX, as requested by listener XXX... who tells us it was the first song she heard being played live. Do you remember your first show?*
 
 We cross the street in solemn silence. 
-​	In the small parking lot beneath the Buzz warehouse, a few cars are parked, most of them old and dusty. As we walk between them I pass my finger in the dust of a Ford Mainline's back window. 
+​	In the small parking lot beneath the Buzz warehouse, a few cars are parked, most of them old and dusty. As we walk between them I pass my finger in the dust of a Ford's back window. 
 ​	"Hello," I say, "What's this?"
 ​	Someone painted a giant bird, a cardinal or a jay, on the driver's door. We stop to admire the painting. 
 ​	"Why would someone devalue their car like this​?" Barry wonders. 
-​	Another car, a bluebird painted on its trunk lid and its headlights burning through the darkened lot, turns and parks. In the headlights I can see paintings on some other cars -- birds and butterflies. The lights turn off. A woman, black in a long, white coat, bounds out. She checks her wristwatch as she's shutting the door. She looks up, straight at me, and smiles. Then she disappears into the shadow of the Buzz Cigarettes warehouse. 
+​​	​Eleanore snorts.
+​	"It's beautiful," I say.
+​	Another car, a bluebird painted on its trunk lid and its headlights burning through the darkened lot, turns and parks. In the headlights I can see paintings on some other cars -- birds and butterflies, clouds and railroad tracks. The lights turn off. A woman, black in a long, white coat, bounds out. She checks her wristwatch as she's shutting the door. She looks up, straight at me, and smiles. Then she disappears into the shadow of the warehouse. 
 ​	"Fellow fan?" Eleanore asks. 
 ​	"Let's follow her," I say. 
+​	We do.
 
-At the foot of the giant brick building, the huge front entrance is locked. A night-guard sits snoring next to the door. We see the hem of a white coat disappearing in the alley.
+At the foot of the giant building the huge front entrance is locked. A night-guard sits snoring next to the door. We see the hem of a white coat disappearing in the alley.
 ​	"There she is," I whisper. 
-​	"Why are you whispering?" says Cindy. 
+​	"Why are you whispering?" whispers Cindy. 
 ​	We follow the white coat. 
 
-The alley is ancient and dusty and has many doors and openings to the left and right. Thin moonlight reflects off the granite cobblestone. Someone hung lanterns all down the alley. Some are lit, some not... The woman in the white coat opens a door and disappears into it. 
+The alley is ancient and dusty and has many doors and openings to the left and right. The thin moonlight reflects off the granite cobblestones. Someone hung lanterns all down the alley. Some are lit, some not... The woman in the white coat opens a door next to an unlit lantern and disappears into it. 
 ​	"Wait, you guys," I whisper. "I want to do something."
-​	I raise the little glass hatch of the unlit lantern next to the door. With my last remaining Buzz Cigarettes match, I light it. In the light of the lantern, I can see someone painted a big, blue X on the door.
-​	"Come on, Wonderland girl," Cindy says. Now she's whispering, too. 
+​	I raise the little glass hatch of the unlit lantern next to the door. With my last remaining Buzz Cigarettes match, I light it. In the light of the lantern I can see someone painted a big, black X on the door, with red where the lines cross.
+​	"Come on, Wonderland girl, it's panty time," Cindy whispers. Eleanore snickers. Tim opens the little door. 
 
-We enter the darkened warehouse, redolent of musty tobacco, just as the white figure crosses between two bales of huge leaf. 
+I go down a long, narrow staircase, careful in this darkness to hold on to the metal railing. At the bottom another door opens to a darkened cathedral of a warehouse, redolent of musty tobacco, and we enter it just as the white figure crosses between two bales of huge leaf. 
 ​	"There she is," whispers Tim. "To your left."
-​	Passageways wind between the tall wobbly towers of tobacco. We scurry after the figure, quietly.
+​	Passageways wind between the tall wobbly towers of tobacco. 
+​	​"They built a maze," Eleanore says. "Who are these people?" 
+​	At some point we are lost in the maze, but then a white hem appears again. We scurry after the figure, quietly.
 ​	"Take a left," says Tim.
 ​	And then:
 ​	"Here she is again. She went between these two crates."
 ​	And then:
-​	"I think we're here."
+​	"I think we're close."
 
-We reach a clearing amidst the tobacco towers. Someone turned on the lights in the little clearing and under them I see a few dozen people idling around, some with flasks and beer bottles in their hands. The smell of burning tobacco melds into the smell of the uncured tobacco all around. Their voices boom under the high ceiling. The white-coated lady vanishes into the crowd...
-​	"Hey Mr. MacAllister -- may I interest you in a *honey* of a smoke?"
-​	The cigarette lady we met at the fair now wears denim overalls, but she's still carrying her Buzz-branded tray. Instead of fine tobacco products it now holds loose change and crumpled-up dollar bills.
-​	The cigarette lady winks at Barry. "Welcome to the show," she says.
-​	I find myself sitting down on the ground. It suddenly hits me: I'm here. I'm at my very first show. Cindy strokes my hair.
-​	"It's Rosetta, by the way," the cigarette girl says. Across the hidden clearing, someone yells, "Babatunde, you old fiend!" and some people cheer. 
-​	"What's Rosetta?" says Barry. 
-​	"My name. It's Rosetta. Hi, Boss..."
-​	Barry smirks at her and she squeezes his shoulder. He reaches into his coat pocket and fishes up some bills. 
-​	"Now, it's Barry, by the way," he tells her. 
-​	I say, "Wait, is Babatunde here?"
+*(I mean, at the last show Heath played this hopping number--listen, man...)*
 
-We walk among the most peculiar crowd I've ever witnessed: black and white people all in flamboyant dress and mixed together -- here a white boy has his arm around the neck of a black girl, here a black and white guy are joshing around beneath a bale of leaves. 
-​	I think of that poor cop from the tent earlier and what his face would look like seeing this crowd.
-​	I giggle. 
-​	I hear a drumroll, quick and abrupt, across the clearing.
-​	=="It's almost showtime," I say to Cindy. She squeezes my hand.==
-​	At the end of the clearing, on a makeshift stage barely rising from the floor, sits Babatunde, now in green dress and cap, stretching the leather on an elaborate, ornate drum set. 
-​	"Babatunde!" I cry. We run to the stage. 
-​	"All you need to do," says Babatunde to another lady, "is listen. Don't hurry it along, just keep your ear-holes open." I look over and spot a familiar, long, white coat.
-​	"Hi!" I say. "Thanks for showing us the way. We were following you."
-​	The lady flashes me a smile. She's pretty, about my age, with freckles over her moccha-colored face and big gold hoop earrings and a sequin-covered dress, grey in the dim light.
-​	"A greenhorn!" she says. "Hey guys, we've got a greenhorn here!"
-​	A few faces turn to watch us. Then:
-​	"Heyyyyyyy!"
-​	A cheer rolls across the little group around us. The white-coated woman hugs me. 
-​	"I'm Shirley," she says in my ear. She smells of lavender and rosewater. 
-​	"I'm Alice."
-​	"Barry, I see you decided to come in spite of your predicament," says Babatunde. "I hope you will not regret it."
-​	Barry smiles. His every movement seems lighter to me, as if he really was unburdened. He puts his arm around Cindy's shoulder. "I'm really here for my sister," he tells Babatunde. 
-​	Babatunde and Cindy share a secret smile. 
+Up ahead we hear the small din of a small crowd, we smell burning tobacco against the backdrop of wet leaf. Someone says something and someone laughs and as we reach a little clearing among the tobacco towers, someone whistles. The lights shut off. We see our white-coat girl as she's swallowed by a little crowd. 
+​	We walk towards the little crowd. I hold Cindy's hand. 
+​	"I think this is it," I tell her. "This is it." She squeezes my hand back. My first show is about to begin. 
 
-"Look what Mama brought me!"
-​	The bellowing voice is followed by the huge figure of Besame Mucho, who walks on from the darkness behind the stage. He's holding an electric guitar, pale yellow and new. In his hands, it looks like a toy. He fumbles for a cable to connect to. 
-​	"Mama provides," sighs Babatunde. He winks at me. 
-​	"That's a Fender Precision!" says Tim. "Hey, Mr. Mucho, let me help you..." he climbs onto the makeshift stage and digs for the cable on the dark floor. As picks up the cable, the big-figured guitarist comes on stage, holding her golden harp. 
-​	"Hi," Tim says. His face is red. "I'm Tim." He drops the cable. 
-​	The guitarist raises an eyebrow.
-​	"Jo," she says. "And that was *my* line."
-
-Vilma climbs on stage now, wearing a red night-gown, silken and tight. The crowd grows suddenly quiet...
-​	"Is this it?" I whisper to Cindy.
-​	"I don't know," says Cindy. "I've never been to anything like this before."
-​	The mystery pianist climbs on stage and sits next to the little dinged-up piano in the back. People in the little group next to the stage greet him with "Heath!" and "Cain the man!" and he shyly waves at them, plays an oddly familiar tune with his left hand. Jo adds electrified plucks to his jabs at the keys.
-​	Around us, more people join in. I look at them trying to determine who's a "greenhorn" and who's a seasoned fan. The two amplifiers issue competing sounds now, Mucho's base and Jo's guitar, and ​I squeeze Cindy's hand harder.
-​	"I think it's going to start," says Cindy. "And you're breaking my hand."
-​	"Sorry."
-​	Now I hear Babatunde's drums, and his musical voice saying, "We're ready, Mama."
-​	Beyond the stage, a stern woman in engineer's overalls puts two fingers in her mouth and whistles. 
-​	The lights go out.
-
-*(One-two-three-go!)*
-
-One bare lightbulb lights up above the stage, casting the band in dim, intimate light. Babatunde starts drumming... Mucho plucks his toy-sized bass... and now Jo and the pianist play a fast lick, unrelenting, like wheels turning on the rail. I am engulfed in sound. I hear stomping on the concrete floor and turn around to see the whole crowd standing close to the stage now, dancing around me. The unrelenting beat travels down from my ears to my feet. They feel lighter and with a will of their own. Ever so slightly, I start swaying to the music.
-​	"Now you!" Babatunde cries into the microphone.
-​	Around me, people sing in unison,
-
-*(Train ah-ri-hide...)*
-
-​	Babatunde and Muco answer in their own rhythmic language,
-
-*(Tam-taka-taka-taka!)*
-
-I hold Cindy and we sing with the others,
-
-*(Sixteen coaches long!)*
-
-Over the singing and the playing, Vilma says, "So many new faces here tonight!"
-​	The crowd answers, 
-
-*(Train I ri-hide...)*
-
-Vilma says, "And so many familiar faces, too!"
-​	I look around, to see who in the crowd is a seasoned fan. I see the white-coated lady, Shirley, raising her hand up and shaking her arm. She's wearing a bracelet which makes a rattling sound. Others raise their hands, shaking bracelets.
-​	"How many are with us since the Woodshed?" asks Vilma. A couple of people rattle their bracelets.
-​	Mucho and Heath join the crowd, singing,
-
-*(Sixteen coaches long...)*
-
-​	"How many came on board in Charleston?" asks Vilma, and more people sound off. The trainwheel rhythm engulfs me. I see Barry and Tim dancing, too, as if a demon possesses them.
+A single spotlight falls on a little stage on the other side of the clearing, illuminating a single black woman in a workman's overalls. The crowd starts cheering. Someone yells, "Mama!" and the woman shoots a smile at the crowd. She holds the microphone to her mouth. 
+​	"Ladies and gentlemen," she says, "honkeys and negroes!"
+​​	The crowd belts a cheer. I search for the white-coat lady but I can't see her. 
+​	The woman on stage says, "I give you the Steam Pillars!"
+​	Tim and Eleanore and me and the rest of the crowd cheer. The lights come up on stage now, illuminating Ruth and Rosetta and Willie and Heath. Babatunde starts drumming, an ancient, alien beat... and then bam! The rest of the band joins in, a wall of happy music, electric guitar and electrifying piano.
+​	"I see a lot of new faces here today!" Ruth says into the microphone. Even from across the room she's stunning in a grey-green evening dress. 
+​	"We're new faces!" I scream. Eleanore and Cindy hoot.
+​	Ruth says, "And so many familiar faces, too!"
+​	I look around, to see who in the crowd is a seasoned fan. In the light coming from the stage I see the most extravagant group of people I've ever seen: men in Pompadour hairs wearing denim jackets and women in poodle skirts, long and multicolored and bearing appliqués of rails and trains; here a white boy in a midnight-blue suit is hugging a black girl with pin curls in her hair and a pencil skirt revealing her knees; there two guys in oversized Zoot suits, looking like mini Elvises, are hooting at the stage; there two girls in circle skirts and slim waists are twirling around each other, each a little whirlpool of fabric. 
+​	"How many of you, how many," says Ruth, "Have boarded the Steam Pillars train all the way back at the Coal Woodshed?" 
+​	Two voices call and shout and the rest of the crowd laughs.
+​	"Who here came on board in Charleston? Who in ==birmingham?==" asks Ruth, and more people sound off. The winding, complicated rhythm engulfs me. 
 ​	"How many in Wilmington? How many came here from the Henrico county fair this morning?"
-​	Cindy and I hoot. Eleanore shouts, "Go Eddie! Give'em steam!"
-​	"How many came straight from the Second Avenue demonstration?"
+​	Cindy and I hoot. Eleanore shouts, "Go Eddie! Give'em **steam!**"
+​	​"How many came straight from the Second Avenue demonstration?"
 ​	Eleanore shouts, "That's us too! Go Pete!"
-​	"Pete!" says Tim. "Excuse me." He ducks into the crowd. 
-​	Vilma says, "Give a big hand to all the newcomers!" and the crowd cheers. I feel strangely in a new world and, even more strange, right at home.
-​	"There's a lot of pain out there tonight," Vilma says over the singing. "A lot of sorrows left in our wake."
-​	The crowd murmurs.
-​	"There's a lot of guilt to carry," Vilma says, picking up steam and force. To me, dancing in the first row, her diminutive figure seems to be harboring a coming storm. "Too much guilt for human shoulders!" she cries.
-​	The crowd cheers.
-​	"And if I feel guilt," Vilma calls, "It's nobody's fault but mine."
+​	"Pete!" says Tim. "Excuse me." He ducks into the crowd.
+​	Ruth says, "And who here is ready, who here is willing! I say who here is ready and willing to ride this train?"
+​	The little crowd roars in applause. The drums are alone now, their rhythm a slow churning of train wheels. 
 
-On a dime, the whole band changes its tune. Now Mucho's bass is soft and crooning, Babatunde's drums a whisper under the beat, Jo's guitar a soft, sad whistle. 
-​	Vilma sings,
+*(CHACHA-chacha-CHACHA-chacha!)*
 
-*(I got a Bible in my home...)*
-
-​The men in the band answer in harmony,
-
-*(I've got a Bible in my home...)*
-​
-
-
-
+Now the guitarist she ducks towards the amplifier and strums. The guitar vibrates in her hands. The air is now full with an electric whistle like a train horn. Cindy and I shuffle our feet to the increasing tempo of the wheels, trying to keep up with the changes. 
+​	Tim comes back, his hands draped around the shoulder of Pete. Pete is all smiles, but his coat is torn. "You see what I told you! The guitarist--she's using a feedback loop to make this sound--"
+​	"Shut up, Tim," Eleanore and I shout in unison. The railroad rhythm is strong now. The piano issues a familiar tune under the asc​erbic 
+​	
 
 
 
