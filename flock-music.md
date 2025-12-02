@@ -1424,7 +1424,7 @@ A single spotlight falls on a little stage on the other side of the clearing, il
 ​	I look around, to see who in the crowd is a seasoned fan. In the light coming from the stage I see the most extravagant group of people I've ever seen: men in Pompadour hairs wearing denim jackets and women in poodle skirts, long and multicolored and bearing appliqués of rails and trains; here a white boy in a midnight-blue suit is hugging a black girl with pin curls in her hair and a pencil skirt revealing her knees; there two guys in oversized Zoot suits, looking like mini Elvises, are hooting at the stage; there two girls in circle skirts and slim waists are twirling around each other, each a little whirlpool of fabric. 
 ​	"How many of you, how many," says Ruth, "Have boarded the Steam Pillars train all the way back at the Coal Woodshed?" 
 ​	Two voices call and shout and the rest of the crowd laughs.
-​	"Who here came on board in Charleston? Who in ==birmingham?==" asks Ruth, and more people sound off. The winding, complicated rhythm engulfs me. 
+​	"Who here came on board in Charleston? Who in Raleigh?" asks Ruth, and more people sound off. The winding, complicated rhythm engulfs me. 
 ​	"How many in Wilmington? How many came here from the Henrico county fair this morning?"
 ​	Cindy and I hoot. Eleanore shouts, "Go Eddie! Give'em **steam!**"
 ​	​"How many came straight from the Second Avenue demonstration?"
@@ -1432,15 +1432,67 @@ A single spotlight falls on a little stage on the other side of the clearing, il
 ​	"Pete!" says Tim. "Excuse me." He ducks into the crowd.
 ​	Ruth says, "And who here is ready, who here is willing! I say who here is ready and willing to ride this train?"
 ​	The little crowd roars in applause. The drums are alone now, their rhythm a slow churning of train wheels. 
-
+@
 *(CHACHA-chacha-CHACHA-chacha!)*
 
-Now the guitarist she ducks towards the amplifier and strums. The guitar vibrates in her hands. The air is now full with an electric whistle like a train horn. Cindy and I shuffle our feet to the increasing tempo of the wheels, trying to keep up with the changes. 
+Now the guitarist ducks towards the amplifier and strums. The guitar vibrates in her hands. The air is now full with an electric whistle like a train horn. Cindy and I shuffle our feet to the increasing tempo of the wheels, trying to keep up with the changes. 
 ​	Tim comes back, his hands draped around the shoulder of Pete. Pete is all smiles, but his coat is torn. "You see what I told you! The guitarist--she's using a feedback loop to make this sound--"
-​	"Shut up, Tim," Eleanore and I shout in unison. The railroad rhythm is strong now. The piano issues a familiar tune under the asc​erbic 
+​	"Shut up, Tim," Eleanore and I shout in unison. The railroad rhythm is strong now. The piano issues a familiar tune under the scorching whistle of the guitar. And suddenly it's like we're moving; like this whole mass of people is transported forward on invisible wheels. Cindy and I dance. Eleanore shouts, "Woohoo! The train is leaving!"
+
+Ruth is singing, 
+
+*(Thi-is train... is bound for glory--)*
 ​	
+We dance but Barry's rigid, frozen; he stands as if the music's silent.   
 
+*(THIS TRAIN!)*
 
+Pete is dancing solo; then Tim, his hands a-flailing, finds him. He grabs him by the shoulder and they both dance together. 
+
+*(THIS TRAIN!)*
+
+In fact, the whole crowd's dancing weirdly. Like Tim, they don't do dances I know: no Jitterbugs or Strolls, no Bunny-hops or Boogie-Woogie. Each one has his own movement. Barry, his legs still frozen, stares hard at Pete, his face a solid granite. 
+
+*(This train is bound for glory...
+Don’t ride nothing but the righteous and the holy--)*
+
+"Dance, Bear," I say to Barry. 
+​	"Dance, Bear," says Cindy. "Don't want them to think you're a *square*."
+​	"I am," says Barry. "I am dancing."
+​	"Take off your jacket!"
+​	On stage, the five musicians look happy. Willie and Ruth are dancing around. Sister Rosetta sits on Heath's piano and they both go to town on their instruments, shaking their heads. Ruth sings,
+
+*(This traaaaahinnn... don't take no Aces... No HOT-shots and no first-PLACERS... This train...)*
+
+"May I interest you in a *honey* of a smoke?"
+​	The black girl is young, lithe... but not wearing her yellow Buzz uniform. She's tapping Barry on the shoulder and he turns around, surprised... 
+​	"Aren't you that Cigarette girl I hired?"
+​	"Hi, boss," she's shouting over the music. She's wearing a yellow dress that twirls as she's dancing in front of his rigid figure. "Got that green cigarette of mine?". 
+​	"'fraid I smoked it," says Barry.
+​	"You HAVE?" She asks, clearly impressed. "Hey, why aren't you dancing?"
+​	"I am!"
+
+*(This train... don't take no rebels... No lone wolves, no Canes and Ables... This train...)*
+
+==cindy and alice==
+
+aba
+aba 
+ab 
+c no false pretenders and no backbiters 
+aba 
+
+This train is bound for glory this train  
+This train is bound for glory this train  
+This train is bound for glory  
+Don’t ride nothing but the righteous and the holy  
+This train is bound for glory this train
+
+This train don’t carry no gamblers this train  
+This train don’t carry no gamblers this train  
+This train don’t carry no gamblers  
+No hypocrites no midnight ramblers  
+This train is bound for glory this train
 
 
 
