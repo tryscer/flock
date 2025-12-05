@@ -15,3 +15,7 @@ What were the very late Fifties like?
 ​	The waves would crash into each other, changing each other's direction: Negro culture penetrated into the safe haven of the suburban home, smuggled stealthily into the altars of white decency by teenaged double agents. Even sex was no longer the dominion of men and woman who've been brought into the secret cult of marriage. Music radio invaded the small town, the university halls, the merchant ships at sea. No matter who you were, some part of the era's soundtrack was jarring to your ears, awful, hateful, either ancient or rebellious, always foreign. It was indeed a time of foreigners. We were foreigners to each other. 
 ​	
 In those tumultuous, jarring, unfunny times, the Pillar's sudden, gargantuan success was nothing to wonder about: we all needed a good laugh. 
+
+
+*It was impossible to predict the mass effect we now call The Flocking, and indeed, nobody -- not the police set to intercept the Caravan at the edge of Fuckington, not the press, not indeed the flock itself, have anticipated it.*
+(From the memoirs of Prof. Puppington)
