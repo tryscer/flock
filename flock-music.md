@@ -1409,78 +1409,111 @@ I go down a long, narrow staircase, careful in this darkness to hold on to the m
 
 *(I mean, at the last show Heath played this hopping number--listen, man...)*
 
-Up ahead we hear the small din of a small crowd, we smell burning tobacco against the backdrop of wet leaf. Someone says something and someone laughs and as we reach a little clearing among the tobacco towers, someone whistles. The lights shut off. We see our white-coat girl as she's swallowed by a little crowd. 
-​	We walk towards the little crowd. I hold Cindy's hand. 
-​	"I think this is it," I tell her. "This is it." She squeezes my hand back. My first show is about to begin. 
+Up ahead we hear voices chatting excitedly, smell burning tobacco against the backdrop of wet leaf. Someone says something and someone laughs and as we reach a little clearing among the tobacco towers, we see our white-coat girl as she's swallowed by a little crowd. 
+​	We stand in a little clearing bordered by tall tobacco towers, a little bubble far away from the crowd. In the dim light I see the most extravagant group of people I've ever seen: men in Pompadour haircuts wearing denim jackets and women in poodle skirts, long and multicolored and bearing appliqués of rails and trains; here a white boy in a vest adorned with badges, like military medals, is hugging a black girl with pin curls in her hair and a pencil skirt revealing her knees; there two guys in oversized Zoot suits, looking like mini Elvises, are trying to chat up two girls in circle skirts and large, buckled belts.
+​	"First she says you can do a steam pillar, then she doesn't want a steam pillar," says a voice behind me. I turn around with a grin.
+​	"Eddie!" I say happily.
+​	"I mean the whole name of the band, *Madonna*, is The Steam Pillars," says Eddie as he's grinning at me from atop a mess of plugs and wires. 
+​	"Eddie," says Barry, unhappily. 
+​	"So the corner-dancing troupe has arrived!" says Eddie. He connects two wires and sparks fly out, illuminating his face. "Hi, Mr. MacAllister," he says, "I see you're still wearing your corporate uniform." 
+​	Barry scowls. 
+​	"What are you building?" I ask.
+​	"Never mind what am I building. Let's just say it's awesome and you'll never get to see it. First she says go ahead, Eddie, build your steam pillar, then all of a sudden--" he turns to me, earnestly: "Tell me, when did safety become such an issue at a *rock and roll concert?*" 
+​	"What's a steam pillar, Eddie?" Eleanore says, clenching and un​clenching her fists.
+​	"What are you kids still doing here?" says Eddie. "Go on, scatter. You're in the show now. Go mix with the crowd. Dance. This is what you were chasing."
+​	​I hold Cindy's hand as we walk into the crowd.
+​	"We're in the show now," I tell her. "This is it." She squeezes my hand. The lights go out.
 
-A single spotlight falls on a little stage on the other side of the clearing, illuminating a single black woman in a workman's overalls. The crowd starts cheering. Someone yells, "Mama!" and the woman shoots a smile at the crowd. She holds the microphone to her mouth. 
-​	"Ladies and gentlemen," she says, "honkeys and negroes!"
-​​	The crowd belts a cheer. I search for the white-coat lady but I can't see her. 
-​	The woman on stage says, "I give you the Steam Pillars!"
-​	Tim and Eleanore and me and the rest of the crowd cheer. The lights come up on stage now, illuminating Ruth and Rosetta and Willie and Heath. Babatunde starts drumming, an ancient, alien beat... and then bam! The rest of the band joins in, a wall of happy music, electric guitar and electrifying piano.
+A single spotlight falls on a little stage on the other side of the clearing, illuminating The Steam Pillars. At the back of the stage Babatunde starts drumming on an array of little drums: an ancient, alien beat... and then bam! The rest of the band joins in, a wall of happy music, electric guitar and electrifying piano. The crowd erupts in applause. I find myself immediately and without thinking of it engaged in dancing, moving with the crowd. 
 ​	"I see a lot of new faces here today!" Ruth says into the microphone. Even from across the room she's stunning in a grey-green evening dress. 
 ​	"We're new faces!" I scream. Eleanore and Cindy hoot.
 ​	Ruth says, "And so many familiar faces, too!"
-​	I look around, to see who in the crowd is a seasoned fan. In the light coming from the stage I see the most extravagant group of people I've ever seen: men in Pompadour hairs wearing denim jackets and women in poodle skirts, long and multicolored and bearing appliqués of rails and trains; here a white boy in a midnight-blue suit is hugging a black girl with pin curls in her hair and a pencil skirt revealing her knees; there two guys in oversized Zoot suits, looking like mini Elvises, are hooting at the stage; there two girls in circle skirts and slim waists are twirling around each other, each a little whirlpool of fabric. 
+​	I look around, to see who in the crowd is a seasoned fan and who's a greenhorn. At the back of the room, I see Eddie still fussing and cussing over his mess of electricity.
 ​	"How many of you, how many," says Ruth, "Have boarded the Steam Pillars train all the way back at the Coal Woodshed?" 
-​	Two voices call and shout and the rest of the crowd laughs.
-​	"Who here came on board in Charleston? Who in Raleigh?" asks Ruth, and more people sound off. The winding, complicated rhythm engulfs me. 
-​	"How many in Wilmington? How many came here from the Henrico county fair this morning?"
-​	Cindy and I hoot. Eleanore shouts, "Go Eddie! Give'em **steam!**"
+​	A couple of voices call and shout and the rest of the crowd laughs.
+​	"Who here came on board in Charleston? Who in Raleigh?" asks Ruth, and more people sound off. "How many in Wilmington? How many came here from the Henrico county fair this morning?"
+​	Cindy and I hoot. Eddie walks by, pushing his way through the crowd. He stops next to Barry, motioning for him to move.
 ​	​"How many came straight from the Second Avenue demonstration?"
-​	Eleanore shouts, "That's us too! Go Pete!"
-​	"Pete!" says Tim. "Excuse me." He ducks into the crowd.
+​	Eleanore shouts, "That's us too!"
+​​	Eddie kneels at Barry's feet, pulling at some cables the way you pull turnips out of the ground. 
+​	"What are you doing?" Barry shouts, politely.
+​	"She says she doesn't want a steam pillar!" Eddie shouts back. "So I'm disassembling the steam pillar. First she says go ahead--"
+​	"That's it!" Barry laughs. "Do what you're told. Conform!"
 ​	Ruth says, "And who here is ready, who here is willing! I say who here is ready and willing to ride this train?"
 ​	The little crowd roars in applause. The drums are alone now, their rhythm a slow churning of train wheels. 
-@
+
 *(CHACHA-chacha-CHACHA-chacha!)*
 
-Now the guitarist ducks towards the amplifier and strums. The guitar vibrates in her hands. The air is now full with an electric whistle like a train horn. Cindy and I shuffle our feet to the increasing tempo of the wheels, trying to keep up with the changes. 
-​	Tim comes back, his hands draped around the shoulder of Pete. Pete is all smiles, but his coat is torn. "You see what I told you! The guitarist--she's using a feedback loop to make this sound--"
-​	"Shut up, Tim," Eleanore and I shout in unison. The railroad rhythm is strong now. The piano issues a familiar tune under the scorching whistle of the guitar. And suddenly it's like we're moving; like this whole mass of people is transported forward on invisible wheels. Cindy and I dance. Eleanore shouts, "Woohoo! The train is leaving!"
+Now the guitarist ducks towards the amplifier and strums. The guitar vibrates in her hands. The air is now full with an electric whistle like a train horn, growing louder and louder. 
+​	"You know what, you're right," Eddie yells over the siren. "Safety?" He pulls two wires close together. "What safety? We're dealing with *magic*!" He drops the wires to the ground. A whole mass of them starts whizzing and crackling. We all take a step back, then another, then, as the guitar-horn's sounds reaches deafening proportions, a huge pillar of steam erupts from where we stood only a moment ago. The crowd is hooting and dancing around the geyser. Then the steam and the sound both ebb away. A mist of warm water covers my face. Cindy shouts in surprise and we both laugh.
+​	"What did I tell you?" says Eddie. "Magic." 
+​	As he turns to leave he winks at me and says, "Move closer to the stage, Alice of Wonderland. That's where magical things happen."
+
+*(CHACHA-chacha-CHACHA-chacha!)*
+
+Cindy and I shuffle our feet to the tempo of the wheels and it increases with every beat. The eruption of steam has cleared a little space and people dance around it.   
+​​	The railroad rhythm is strong now. The piano issues a familiar tune under the scorching whistle of the guitar. And suddenly it's like everybody around the little clearing is moving; like this whole mass of people is pushed forward on invisible wheels. Eleanore puts two fingers in her mouth and whistles and shouts, "All aboard!"
 
 Ruth is singing, 
 
-*(Thi-is train... is bound for glory--)*
+*(Thi-is train... is a clean train--)*
 ​	
-We dance but Barry's rigid, frozen; he stands as if the music's silent.   
+We dance but Barry's frozen, rigid; he stands as if the music's silent.   
 
 *(THIS TRAIN!)*
 
-Pete is dancing solo; then Tim, his hands a-flailing, finds him. He grabs him by the shoulder and they both dance together. 
-
-*(THIS TRAIN!)*
-
-In fact, the whole crowd's dancing weirdly. Like Tim, they don't do dances I know: no Jitterbugs or Strolls, no Bunny-hops or Boogie-Woogie. Each one has his own movement. Barry, his legs still frozen, stares hard at Pete, his face a solid granite. 
+Around, the whole crowd's dancing strangely. No one is doing dances I know: no Jitterbugs or Strolls, no Bunny-hops or Boogie-Woogies. 
 
 *(This train is bound for glory...
 Don’t ride nothing but the righteous and the holy--)*
 
 "Dance, Bear," I say to Barry. 
 ​	"Dance, Bear," says Cindy. "Don't want them to think you're a *square*."
-​	"I am," says Barry. "I am dancing."
+​	"I am," says Barry. "I am *dancing*."
 ​	"Take off your jacket!"
-​	On stage, the five musicians look happy. Willie and Ruth are dancing around. Sister Rosetta sits on Heath's piano and they both go to town on their instruments, shaking their heads. Ruth sings,
+​	==On stage, the five musicians look happy. Willie and Ruth are dancing around. Sister Rosetta sits on Heath's piano and they both go to town on their instruments, shaking their heads. ==Ruth sings,
 
-*(This traaaaahinnn... don't take no Aces... No HOT-shots and no first-PLACERS... This train...)*
+*(This traaaaahinnn... don't take no Aces... No hot-shots and no first-placers... This train...)*
 
 "May I interest you in a *honey* of a smoke?"
 ​	The black girl is young, lithe... but not wearing her yellow Buzz uniform. She's tapping Barry on the shoulder and he turns around, surprised... 
 ​	"Aren't you that Cigarette girl I hired?"
-​	"Hi, boss," she's shouting over the music. She's wearing a yellow dress that twirls as she's dancing in front of his rigid figure. "Got that green cigarette of mine?". 
-​	"'fraid I smoked it," says Barry.
-​	"You HAVE?" She asks, clearly impressed. "Hey, why aren't you dancing?"
+​	"Hi, boss," she's shouting over the music. She's wearing a yellow dress that twirls as she's dancing in front of his rigid figure. 
+​	The round clearing made by the Eddie's steam pillar remains a stable bubble in the middle of the room. Every now and then a dancer wanders in, showing some dance moves. The nameless dances, inspired by the alien drumming, seem to me like they are trying to re-summon the steam pillar.
+​	"All the girls you hired are here tonight. We're all with the UR," the cigarette girl says to Barry.
+​	"I am what?" Barry shouts back. 
+​	"The U-R," the cigarette girl shouts back. 
+​	"What?"
+​	"Oh, man," she says, rolling her big eyes, "I thought you're *in the know*. Just forget about it! Do you still have that green cigarette of mine?"
+​	"'fraid I smoked it," says Barry. "Who's U.R.?"
+​	"You HAVE?" asks the cigarette girl, clearly impressed. "Hey, why aren't you dancing?"
 ​	"I am!"
 
 *(This train... don't take no rebels... No lone wolves, no Canes and Ables... This train...)*
 
-==cindy and alice==
+Cindy and I are dancing. Cindy hugs me, all soft in my arms, happy. I say, "You didn't leave me after all," and I smile at her. Cindy grows still in my hug. 
+​	"Oh no," I say.
 
-aba
+*(this traaaaaaaaaaain--)*
+
+I look at Babatunde. His hands are raised to signal something. On stage, Ruth is bellowing into the mic and the guitarist goes to town on the strings. Then: bam! They all strum one last note and the crowd screams and shouts and claps.
+​	"You all," Ruth intimates into the mic, "are welcome aboard this train."
+​	Then: bam! All of a sudden the steam pillars erupts again. We stare and laugh and some people yell "go steam pillar," and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
+​	"Except," Ruth says on stage, "For Eddie, who might be killed by mama before the day is out."
+
+I find myself drawing away from Cindy and into the embrace of the crowd. As it moves around the clearing in the middle of the room it carries me with it, towards the stage, where magical things happen. 
+​	
+
+
+==a papa
+b pa pa pa papa  
+c papa pa pa papa papa 
+
+==aba
 aba 
-ab 
-c no false pretenders and no backbiters 
+abc 
 aba 
+
 
 This train is bound for glory this train  
 This train is bound for glory this train  

@@ -9,7 +9,7 @@ aliases:
 
 ![[Pasted image 20251011143216.png]]
 
-Full name: Allison "Peaches" Parker
+Full name: Allison "Peaches" 
 Best friend of [[Cindy]].
 Love interest of [[Tim]].
 Flock member of [[Wonderland Express]].
