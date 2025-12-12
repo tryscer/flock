@@ -1498,34 +1498,60 @@ Cindy and I are dancing. Cindy hugs me, all soft in my arms, happy. I say, "You 
 
 I look at Babatunde. His hands are raised to signal something. On stage, Ruth is bellowing into the mic and the guitarist goes to town on the strings. Then: bam! They all strum one last note and the crowd screams and shouts and claps.
 ​	"You all," Ruth intimates into the mic, "are welcome aboard this train."
-​	Then: bam! All of a sudden the steam pillars erupts again. We stare and laugh and some people yell "go steam pillar," and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
-​	"Except," Ruth says on stage, "For Eddie, who might be killed by mama before the day is out."
+​	Then: bam! All of a sudden the steam pillars erupts again in the middle of the clearing. We stare and laugh and someone yells, "manna from heaven!" and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
+​	"All of you except," Ruth says on stage, "for Eddie, who might be killed by mama before the day is out."
 
-I find myself drawing away from Cindy and into the embrace of the crowd. As it moves around the clearing in the middle of the room it carries me with it, towards the stage, where magical things happen. 
-​	
+I find myself drawing away from Cindy and into the embrace of the crowd. As the bodies move and wash over me I find myself swept with it and it carries me along, towards the stage, where magical things are told to happen. I look back and see the cigarette girl undoing Barry's tie. Barry looks flushed and unusually happy.
+​	"I think she's gonna do the nobody's fault number now," says a man next to me. I push forward.
+​	Sister Rosetta walks to the front of the stage now. She holds up her white guitar and plays a little tune -- a bumbling, limping one, soft and small. Around me I hear scattered applause. This, I decide, is the sound of the veteran fans. One veteran on the other side of the empty clearing yells, "It's nobody's fault but mine, Sister!" I push between groups of fans. I see the white-coat lady, almost within my reach...
+​	The guitar sounds again, playing the same little ditty. But now it's louder, angrier: I see the sound as it washes over the faces of the people around me, see heads bob up and down in ascent.  
+
+At the foot of the stage, the site of magic, the crowd is thick and already moving together to the beat, like synchronized swimmers in colorful dresses and made-up hair. A kid with railway patches on his vest shouts something at the stage and Willie shouts back. 
+​	"Are you new here?"
+​​	==I turn my head. There, the lady in the white coat is dancing next to me. Up close, she's pretty; freckles cover her cheeks, around her nose, under a pair of shades. I've never seen anyone wear sunglasses indoor before. Under her coat she's wearing a tight-fitting evening gown, silver and sequined.==
+​	"Are you new here?"
+​	"I am," I say. "My name is Alice and this is my first show."
+​	"A greenhorn," says the woman and suddenly grins. She throws her arms around me and says, "==Welcome==!"
+​	Now the little tune coming from the stage is a hulking monster, a disjointed, angry cry, and the drums and bass start to thunder down on it. The crowd jumps and dances to the strange rhythm...
+​	"My name is Shirley," says the woman. 
+​	Ruth's voice fills the little space, bouncing and reverberating off the tall ceiling:
+
+*(If I die and my soul gets lost...)*
+
+"She's coming down!" says someone next to us. 
+​	"Coming down?" I ask Shirley. 
+​	"Ruth is going to come to us," she shouts in my ear, "and this is the crucial part. In this show you're not a spectator. You need to join in."
+​	"I'm not a what?"
+​	"You need to join in," she says. "It's nobody's fault but mine!" she sings. The foot-of-the-stage crowd around us dances and sings with her. Once again I feel the music's strange effect on my body: my arms in the air, my feet dancing as if on their own volition. 
+​	"Shirley!" says a man with patches on his vest. "Come dance with us!" 
+​	"Maybe we'll dance later," says Shirley. She dances her way back. 
+
+The pianist starts hammering at the piano. His sound -- dulcet, sweet, but rhythmically forceful -- competes with the scorching disarray of notes emanating from the guitar. It is incredibly loud up here, and each sound seems to bounce off the thick throngs of people, reverberate and multiply. I can feel Babatunde and Willie in my chest. 
+​	Now Ruth nods to Babatunde, whose rhythm changes -- a sound of tension and expectation. Ruth removes her microphone from its stand and climbs down from the little stage. Surrounded by the crowd she seems slight, almost tiny, but with every step she takes the crowd parts in front of her. She makes her way, microphone in hand and long cable dragging behind her, deep into the crowd. Now the drums issue a warning -- *TA-TA-ta-TAM!* -- and Ruth starts singing:
+
+*(Nobody's fault but mine,
+Nobody's fault but mine.
+If I don't go back to my love tonight--)*
+
+Ruth thrusts up the microphone in the face of a good looking woman standing alone. The crowd waits in anticipation. The  woman's face lights up. With all the air in her lungs she shouts into the microphone, 
+
+*(It's nobody's fault but mine!)*
+
+The crowd roars in applause. Someone puts her hand on the  woman's shoulder. Ruth moves on to sound of the the sweet and scorching music, dancing and swaying her hips as she does. She stands next to a worried looking man, singing, 
+
+*(If I don't bring the dough back home--)*
+
+The man issues a grimy, gravelly, off-tune, "It's nobody's fault but mine!" into the microphone, almost knocking back Ruth with its force. The crowd erupts. In the dim light coming from the stage I can see his eyes are red. Ruth walks on, every now and then thrusting the microphone into somebody's face; in the distance I see her as she sings, 
+
+*(If I choose which path to walk...)* 
+
+And a young man's voice shouting into the microphone, enthusiastic and off key, "Nobody's fault but mine!" I look and see Barry holding on to Ruth's microphone, red-faced. Tim is clasping him on the shoulder as the crowd cheers.
+​	Ruth is walking back now, towards the stage. 
+​	I wonder what my own voice would sound like, bouncing off the many ears in the room. As Ruth nears me I stand tall in the middle of the empty path she left behind her. Ruth looks me in the eye and nods. She's standing right in front of me. Her eyes seem to scan me from top to bottom. My heart beats and for a moment it seems the music coming from the stage dies down. It's only Ruth and me in the dim light, and she sings, very close to me,
+
+*()*
 
 
-==a papa
-b pa pa pa papa  
-c papa pa pa papa papa 
-
-==aba
-aba 
-abc 
-aba 
-
-
-This train is bound for glory this train  
-This train is bound for glory this train  
-This train is bound for glory  
-Don’t ride nothing but the righteous and the holy  
-This train is bound for glory this train
-
-This train don’t carry no gamblers this train  
-This train don’t carry no gamblers this train  
-This train don’t carry no gamblers  
-No hypocrites no midnight ramblers  
-This train is bound for glory this train
 
 
 
@@ -1535,6 +1561,19 @@ This train is bound for glory this train
 
 
 
+
+
+
+
+
+
+
+
+The Steam Pillars issue a huge opening chord -- and then a huge, unmusical, popping sound. 
+​	"Damn those electric basses," I hear Willie say. "Eddie!"
+​	From the back of the room I hear Eddie shouting, faintly, "In a minute!"
+​	Tim passes by me as he runs towards the stage. He squeezes my shoulder and smiles.
+​	"Say hi to Babatunde!" I shout after him.
 
 
 
