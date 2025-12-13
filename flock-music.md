@@ -1371,11 +1371,11 @@ Barry, where's the Buzz Cigarettes tobacco warehouse in Richmond?"
 ​	"I told you guys," says Eleanore. "It was supposed to be *obvious*."
 
 ## Track 4: Alice Goes to Wonderland
-==radio break==
-*...and that was XXXX by the XXX, as requested by listener XXX... who tells us it was the first song she heard being played live. Do you remember your first show?*
+==radio break
+*...and that was XXXX by the XXX, as requested by listener XXX... who tells us it was the first song she heard being played live. Do you remember your first show?*==
 
 We cross the street in solemn silence. 
-​	In the small parking lot beneath the Buzz warehouse, a few cars are parked, most of them old and dusty. As we walk between them I pass my finger in the dust of a Ford's back window. 
+​	In the small parking lot beneath the Buzz warehouse, a few cars are parked, most of them old and dusty. As we walk between them I pass my finger through the dust on a Ford's back window. 
 ​	"Hello," I say, "What's this?"
 ​	Someone painted a giant bird, a cardinal or a jay, on the driver's door. We stop to admire the painting. 
 ​	"Why would someone devalue their car like this​?" Barry wonders. 
@@ -1415,16 +1415,16 @@ Up ahead we hear voices chatting excitedly, smell burning tobacco against the ba
 ​	"Eddie!" I say happily.
 ​	"I mean the whole name of the band, *Madonna*, is The Steam Pillars," says Eddie as he's grinning at me from atop a mess of plugs and wires. 
 ​	"Eddie," says Barry, unhappily. 
-​	"So the corner-dancing troupe has arrived!" says Eddie. He connects two wires and sparks fly out, illuminating his face. "Hi, Mr. MacAllister," he says, "I see you're still wearing your corporate uniform." 
+​	"So the corner-dancing troupe has arrived," says Eddie. He connects two wires and sparks fly out, illuminating his face. "Hi, Mr. MacAllister," he says, "I see you're still wearing your corporate uniform." 
 ​	Barry scowls. 
 ​	"What are you building?" I ask.
 ​	"Never mind what am I building. Let's just say it's awesome and you'll never get to see it. First she says go ahead, Eddie, build your steam pillar, then all of a sudden--" he turns to me, earnestly: "Tell me, when did safety become such an issue at a *rock and roll concert?*" 
 ​	"What's a steam pillar, Eddie?" Eleanore says, clenching and un​clenching her fists.
 ​	"What are you kids still doing here?" says Eddie. "Go on, scatter. You're in the show now. Go mix with the crowd. Dance. This is what you were chasing."
 ​	​I hold Cindy's hand as we walk into the crowd.
-​	"We're in the show now," I tell her. "This is it." She squeezes my hand. The lights go out.
+​	"We're in the show now," I tell her. "This is it." She squeezes my hand. Someone whistles. The lights go out.
 
-A single spotlight falls on a little stage on the other side of the clearing, illuminating The Steam Pillars. At the back of the stage Babatunde starts drumming on an array of little drums: an ancient, alien beat... and then bam! The rest of the band joins in, a wall of happy music, electric guitar and electrifying piano. The crowd erupts in applause. I find myself immediately and without thinking of it engaged in dancing, moving with the crowd. 
+A single spotlight falls on a little stage on the other side of the clearing, illuminating The Steam Pillars. At the back of the stage Babatunde starts drumming on an array of little drums, an ancient, alien beat... and then bam! The rest of the band joins in, a wall of happy music, electric guitar and electrifying piano. The crowd erupts in applause. I find myself immediately and without thinking of it engaged in dancing, moving with the crowd. 
 ​	"I see a lot of new faces here today!" Ruth says into the microphone. Even from across the room she's stunning in a grey-green evening dress. 
 ​	"We're new faces!" I scream. Eleanore and Cindy hoot.
 ​	Ruth says, "And so many familiar faces, too!"
@@ -1439,20 +1439,20 @@ A single spotlight falls on a little stage on the other side of the clearing, il
 ​	"What are you doing?" Barry shouts, politely.
 ​	"She says she doesn't want a steam pillar!" Eddie shouts back. "So I'm disassembling the steam pillar. First she says go ahead--"
 ​	"That's it!" Barry laughs. "Do what you're told. Conform!"
-​	Ruth says, "And who here is ready, who here is willing! I say who here is ready and willing to ride this train?"
+​	On stage, Ruth says, "And who here is ready, who here is willing! I say who here is ready and willing to ride this train?"
 ​	The little crowd roars in applause. The drums are alone now, their rhythm a slow churning of train wheels. 
 
 *(CHACHA-chacha-CHACHA-chacha!)*
 
-Now the guitarist ducks towards the amplifier and strums. The guitar vibrates in her hands. The air is now full with an electric whistle like a train horn, growing louder and louder. 
-​	"You know what, you're right," Eddie yells over the siren. "Safety?" He pulls two wires close together. "What safety? We're dealing with *magic*!" He drops the wires to the ground. A whole mass of them starts whizzing and crackling. We all take a step back, then another, then, as the guitar-horn's sounds reaches deafening proportions, a huge pillar of steam erupts from where we stood only a moment ago. The crowd is hooting and dancing around the geyser. Then the steam and the sound both ebb away. A mist of warm water covers my face. Cindy shouts in surprise and we both laugh.
+Now the guitarist ducks towards the amplifier and strums. The guitar vibrates in her hands. It seems to grow bigger. The air is now full with an electric whistle like a train horn, growing louder and louder. 
+​	"You know what, you're right," Eddie yells over the siren. "Safety?" He pulls two wires close together. "What safety? We're dealing with *magic*!" He drops the wires to the ground. A whole mass of them starts whizzing and crackling. We all take a step back, then another, then, as the guitar-horn's sounds reaches deafening proportions, *whoosh!* -- a huge pillar of steam erupts from where we stood only a moment ago. The crowd is hooting and dancing around the geyser. Then the steam and the sound both ebb away. A mist of warm water covers my face. Cindy shouts in surprise and we both laugh.
 ​	"What did I tell you?" says Eddie. "Magic." 
 ​	As he turns to leave he winks at me and says, "Move closer to the stage, Alice of Wonderland. That's where magical things happen."
 
 *(CHACHA-chacha-CHACHA-chacha!)*
 
-Cindy and I shuffle our feet to the tempo of the wheels and it increases with every beat. The eruption of steam has cleared a little space and people dance around it.   
-​​	The railroad rhythm is strong now. The piano issues a familiar tune under the scorching whistle of the guitar. And suddenly it's like everybody around the little clearing is moving; like this whole mass of people is pushed forward on invisible wheels. Eleanore puts two fingers in her mouth and whistles and shouts, "All aboard!"
+Cindy and I shuffle our feet to the tempo of the wheels and it increases with every beat. The eruption of steam has cleared a little round clearing and people dance around it.  
+​​	The railroad rhythm is strong now. The piano issues a familiar tune under the scorching whistle of the guitar. And suddenly it's like everybody around the little clearing is moving forwards; like this whole mass of people is pushed  on invisible wheels. Eleanore puts two fingers in her mouth and whistles and shouts, "All aboard!"
 
 Ruth is singing, 
 
@@ -1479,7 +1479,7 @@ Don’t ride nothing but the righteous and the holy--)*
 ​	The black girl is young, lithe... but not wearing her yellow Buzz uniform. She's tapping Barry on the shoulder and he turns around, surprised... 
 ​	"Aren't you that Cigarette girl I hired?"
 ​	"Hi, boss," she's shouting over the music. She's wearing a yellow dress that twirls as she's dancing in front of his rigid figure. 
-​	The round clearing made by the Eddie's steam pillar remains a stable bubble in the middle of the room. Every now and then a dancer wanders in, showing some dance moves. The nameless dances, inspired by the alien drumming, seem to me like they are trying to re-summon the steam pillar.
+​	The round clearing made by the Eddie's steam pillar remains a stable bubble in the middle of the room. Every now and then a dancer wanders in, showing some dance moves, then backs away. The nameless dances, inspired by the alien drumming, seem to me like they are meant to re-summon the steam pillar.
 ​	"All the girls you hired are here tonight. We're all with the UR," the cigarette girl says to Barry.
 ​	"I am what?" Barry shouts back. 
 ​	"The U-R," the cigarette girl shouts back. 
@@ -1498,33 +1498,34 @@ Cindy and I are dancing. Cindy hugs me, all soft in my arms, happy. I say, "You 
 
 I look at Babatunde. His hands are raised to signal something. On stage, Ruth is bellowing into the mic and the guitarist goes to town on the strings. Then: bam! They all strum one last note and the crowd screams and shouts and claps.
 ​	"You all," Ruth intimates into the mic, "are welcome aboard this train."
-​	Then: bam! All of a sudden the steam pillars erupts again in the middle of the clearing. We stare and laugh and someone yells, "manna from heaven!" and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
-​	"All of you except," Ruth says on stage, "for Eddie, who might be killed by mama before the day is out."
+​	Then, all of a sudden, Eddie's steam pillars erupts again in the middle of the clearing. We stare and laugh and someone yells, "manna from heaven!" and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
+​	"All of you except," Ruth says on stage, "for Eddie, who might be killed by Mama before the day is out."
 
-I find myself drawing away from Cindy and into the embrace of the crowd. As the bodies move and wash over me I find myself swept with it and it carries me along, towards the stage, where magical things are told to happen. I look back and see the cigarette girl undoing Barry's tie. Barry looks flushed and unusually happy.
+I find myself drawing away from Cindy and into the embrace of the crowd. As the bodies move and wash over me I find myself swept with them and they carry me along, towards the stage, where magical things are told to happen. I look back and see the cigarette girl undoing Barry's tie. Barry looks flushed and unusually happy.
 ​	"I think she's gonna do the nobody's fault number now," says a man next to me. I push forward.
 ​	Sister Rosetta walks to the front of the stage now. She holds up her white guitar and plays a little tune -- a bumbling, limping one, soft and small. Around me I hear scattered applause. This, I decide, is the sound of the veteran fans. One veteran on the other side of the empty clearing yells, "It's nobody's fault but mine, Sister!" I push between groups of fans. I see the white-coat lady, almost within my reach...
-​	The guitar sounds again, playing the same little ditty. But now it's louder, angrier: I see the sound as it washes over the faces of the people around me, see heads bob up and down in ascent.  
+​	The guitar sounds again, playing the same little ditty. But now it's louder, angrier: I see the sound as it washes over the faces of t he people around me, see heads bob up and down in ascent.  
 
 At the foot of the stage, the site of magic, the crowd is thick and already moving together to the beat, like synchronized swimmers in colorful dresses and made-up hair. A kid with railway patches on his vest shouts something at the stage and Willie shouts back. 
 ​	"Are you new here?"
-​​	==I turn my head. There, the lady in the white coat is dancing next to me. Up close, she's pretty; freckles cover her cheeks, around her nose, under a pair of shades. I've never seen anyone wear sunglasses indoor before. Under her coat she's wearing a tight-fitting evening gown, silver and sequined.==
+​​	I turn my head. There, the lady in the white coat is dancing next to me. Up close, she's pretty; freckles cover her cheeks, around her nose, under a pair of shades. I've never seen anyone wear sunglasses indoor before. Under her coat she's wearing a tight-fitting evening gown, silver and sequined.
 ​	"Are you new here?"
 ​	"I am," I say. "My name is Alice and this is my first show."
-​	"A greenhorn," says the woman and suddenly grins. She throws her arms around me and says, "==Welcome==!"
+​	"A greenhorn," says the woman and suddenly grins. She throws her arms around me and says, "Do you care to dance?"
+​	My heart beats. "I sure would love to!" I shout, happy, when I realize we're *already* dancing.
 ​	Now the little tune coming from the stage is a hulking monster, a disjointed, angry cry, and the drums and bass start to thunder down on it. The crowd jumps and dances to the strange rhythm...
-​	"My name is Shirley," says the woman. 
+​	"My name is Shirley," she shouts. 
 ​	Ruth's voice fills the little space, bouncing and reverberating off the tall ceiling:
 
 *(If I die and my soul gets lost...)*
 
 "She's coming down!" says someone next to us. 
 ​	"Coming down?" I ask Shirley. 
-​	"Ruth is going to come to us," she shouts in my ear, "and this is the crucial part. In this show you're not a spectator. You need to join in."
+​	"Ruth is going to come to us," she shouts in my ear, "and this is the crucial part, greenhorn. In this show you're not a spectator. You need to join in."
 ​	"I'm not a what?"
 ​	"You need to join in," she says. "It's nobody's fault but mine!" she sings. The foot-of-the-stage crowd around us dances and sings with her. Once again I feel the music's strange effect on my body: my arms in the air, my feet dancing as if on their own volition. 
 ​	"Shirley!" says a man with patches on his vest. "Come dance with us!" 
-​	"Maybe we'll dance later," says Shirley. She dances her way back. 
+​	"Maybe we'll dance later," says Shirley. She dances away. 
 
 The pianist starts hammering at the piano. His sound -- dulcet, sweet, but rhythmically forceful -- competes with the scorching disarray of notes emanating from the guitar. It is incredibly loud up here, and each sound seems to bounce off the thick throngs of people, reverberate and multiply. I can feel Babatunde and Willie in my chest. 
 ​	Now Ruth nods to Babatunde, whose rhythm changes -- a sound of tension and expectation. Ruth removes her microphone from its stand and climbs down from the little stage. Surrounded by the crowd she seems slight, almost tiny, but with every step she takes the crowd parts in front of her. She makes her way, microphone in hand and long cable dragging behind her, deep into the crowd. Now the drums issue a warning -- *TA-TA-ta-TAM!* -- and Ruth starts singing:
@@ -1533,9 +1534,7 @@ The pianist starts hammering at the piano. His sound -- dulcet, sweet, but rhyth
 Nobody's fault but mine.
 If I don't go back to my love tonight--)*
 
-Ruth thrusts up the microphone in the face of a good looking woman standing alone. The crowd waits in anticipation. The  woman's face lights up. With all the air in her lungs she shouts into the microphone, 
-
-*(It's nobody's fault but mine!)*
+Ruth thrusts up the microphone in the face of a good looking woman standing alone. The crowd waits in anticipation. The  woman's face lights up. With all the air in her lungs she shouts into the microphone, "It's nobody's fault but mine!"
 
 The crowd roars in applause. Someone puts her hand on the  woman's shoulder. Ruth moves on to sound of the the sweet and scorching music, dancing and swaying her hips as she does. She stands next to a worried looking man, singing, 
 
@@ -1543,13 +1542,46 @@ The crowd roars in applause. Someone puts her hand on the  woman's shoulder. Rut
 
 The man issues a grimy, gravelly, off-tune, "It's nobody's fault but mine!" into the microphone, almost knocking back Ruth with its force. The crowd erupts. In the dim light coming from the stage I can see his eyes are red. Ruth walks on, every now and then thrusting the microphone into somebody's face; in the distance I see her as she sings, 
 
-*(If I choose which path to walk...)* 
+*(If I choose my path to walk...)* 
 
-And a young man's voice shouting into the microphone, enthusiastic and off key, "Nobody's fault but mine!" I look and see Barry holding on to Ruth's microphone, red-faced. Tim is clasping him on the shoulder as the crowd cheers.
+And a young man's voice shouting into the microphone, enthusiastic and off-key and familiar, "Nobody's faaaaaault but minnnne!" I look and see Barry holding on to Ruth's microphone, red-faced. Tim is clasping him on the shoulder as the crowd cheers.
 ​	Ruth is walking back now, towards the stage. 
 ​	I wonder what my own voice would sound like, bouncing off the many ears in the room. As Ruth nears me I stand tall in the middle of the empty path she left behind her. Ruth looks me in the eye and nods. She's standing right in front of me. Her eyes seem to scan me from top to bottom. My heart beats and for a moment it seems the music coming from the stage dies down. It's only Ruth and me in the dim light, and she sings, very close to me,
 
-*()*
+*(If I dance all by myself...)*
+
+She puts her microphone to my face, her face a mask of expectation. I see the microphone cable snaking behind her, a long black line reaching all the way back to the stage. I breathe in, fully prepared to say it's all my fault that I'm over here dancing alone, without my Cindy. Then I think of Cindy going limp in my arms, signaling she's still leaving. Then I think of Cindy's face in the car, imploring Barry to listen, to hear that she can't breathe at home.
+​	I sing into the microphone, "It's nobody's fault!"
+​	Ruth's face changes. She giggles. Then she laughs, a hearty laugh. Then the audience laughs. My face grows hot. Then the audience cheers. Someone from far back yells, "You tell 'em, sis!" and Ruth takes the microphone and ad-libs, "Damn right it's nobody's fault!" and the players on stage burst into a complicated, energetic riff... Ruth makes her way back to the stage and the crowd chants to the music,
+
+*(Nobody's fault! Nobody's fault!)*
+
+Strangers around me give me sympathetic looks. Some girl I don't know is hugging me. I have found momentary stardom. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
