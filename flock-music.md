@@ -1511,11 +1511,14 @@ At the foot of the stage, the site of magic, the crowd is thick and already movi
 ​​	I turn my head. There, the lady in the white coat is dancing next to me. Up close, she's pretty; freckles cover her cheeks, around her nose, under a pair of shades. I've never seen anyone wear sunglasses indoor before. Under her coat she's wearing a tight-fitting evening gown, silver and sequined.
 ​	"Are you new here?"
 ​	"I am," I say. "My name is Alice and this is my first show."
-​	"A greenhorn," says the woman and suddenly grins. She throws her arms around me and says, "Do you care to dance?"
-​	My heart beats. "I sure would love to!" I shout, happy, when I realize we're *already* dancing.
+​	"A greenhorn," says the woman and suddenly grins. She throws her arms around me and says, "Would you care to dance?"
+​	My heart thumps. "I sure would love to!" I shout, happy, when I realize we're *already* dancing.
 ​	Now the little tune coming from the stage is a hulking monster, a disjointed, angry cry, and the drums and bass start to thunder down on it. The crowd jumps and dances to the strange rhythm...
-​	"My name is Shirley," she shouts. 
-​	Ruth's voice fills the little space, bouncing and reverberating off the tall ceiling:
+​	"My name is Shirley," she shouts. Her body sways along with the rhythm of the crowd. I try to match my movement with hers and fail. At last I settle on the Bunny Hop and Shirley nods in approval as she dances her weird dance. 
+​	"Why did you paint on your car?" I shout.
+​	"Pardon?"
+​	"Why is there a painting on the hood of your car? The bird painting!"
+​	Shirley smiles but doesn't answer. Then Ruth's voice fills the little space, bouncing and reverberating off the tall ceiling:
 
 *(If I die and my soul gets lost...)*
 
@@ -1523,9 +1526,11 @@ At the foot of the stage, the site of magic, the crowd is thick and already movi
 ​	"Coming down?" I ask Shirley. 
 ​	"Ruth is going to come to us," she shouts in my ear, "and this is the crucial part, greenhorn. In this show you're not a spectator. You need to join in."
 ​	"I'm not a what?"
-​	"You need to join in," she says. "It's nobody's fault but mine!" she sings. The foot-of-the-stage crowd around us dances and sings with her. Once again I feel the music's strange effect on my body: my arms in the air, my feet dancing as if on their own volition. 
+​	"You need to join in," she says. "It's nobody's fault but mine!" she sings. The foot-of-the-stage crowd around us dances and sings with her. Once again I feel the music's strange effect on my body: my arms in the air, my feet dancing as if on their own volition... The Bunny Hop becoming something else entirely. 
 ​	"Shirley!" says a man with patches on his vest. "Come dance with us!" 
-​	"Maybe we'll dance later," says Shirley. She dances away. 
+​	"Maybe we'll dance later," says Shirley. 
+​	"I hope we will!"
+​	She dances away. 
 
 The pianist starts hammering at the piano. His sound -- dulcet, sweet, but rhythmically forceful -- competes with the scorching disarray of notes emanating from the guitar. It is incredibly loud up here, and each sound seems to bounce off the thick throngs of people, reverberate and multiply. I can feel Babatunde and Willie in my chest. 
 ​	Now Ruth nods to Babatunde, whose rhythm changes -- a sound of tension and expectation. Ruth removes her microphone from its stand and climbs down from the little stage. Surrounded by the crowd she seems slight, almost tiny, but with every step she takes the crowd parts in front of her. She makes her way, microphone in hand and long cable dragging behind her, deep into the crowd. Now the drums issue a warning -- *TA-TA-ta-TAM!* -- and Ruth starts singing:
@@ -1534,204 +1539,111 @@ The pianist starts hammering at the piano. His sound -- dulcet, sweet, but rhyth
 Nobody's fault but mine.
 If I don't go back to my love tonight--)*
 
-Ruth thrusts up the microphone in the face of a good looking woman standing alone. The crowd waits in anticipation. The  woman's face lights up. With all the air in her lungs she shouts into the microphone, "It's nobody's fault but mine!"
+Ruth thrusts up the microphone in the face of a tall, good looking woman standing alone. The crowd waits in anticipation. The woman's face lights up. With all the air in her lungs she shouts into the microphone, "It's nobody's fault but mine!"
 
-The crowd roars in applause. Someone puts her hand on the  woman's shoulder. Ruth moves on to sound of the the sweet and scorching music, dancing and swaying her hips as she does. She stands next to a worried looking man, singing, 
+The crowd roars in applause. Someone puts her hand on the  woman's shoulder. Ruth moves on to sound of the the sweet and scorching music, dancing and swaying her hips as she does. She stands next to a worried looking man and singing, 
 
 *(If I don't bring the dough back home--)*
 
-The man issues a grimy, gravelly, off-tune, "It's nobody's fault but mine!" into the microphone, almost knocking back Ruth with its force. The crowd erupts. In the dim light coming from the stage I can see his eyes are red. Ruth walks on, every now and then thrusting the microphone into somebody's face; in the distance I see her as she sings, 
+The man issues a grimy, gravelly, off-tune, "It's nobody's fault but mine!" into the microphone, almost knocking back Ruth with its force. The crowd erupts. In the dim light coming from the stage I can see his eyes are misty. Ruth walks on, every now and then thrusting the microphone into somebody's face; in the distance I see her as she sings, 
 
-*(If I choose my path to walk...)* 
+*(If I choose which path I'll walk...)* 
 
-And a young man's voice shouting into the microphone, enthusiastic and off-key and familiar, "Nobody's faaaaaault but minnnne!" I look and see Barry holding on to Ruth's microphone, red-faced. Tim is clasping him on the shoulder as the crowd cheers.
+And a young man's voice shouting into the microphone, enthusiastic and off-key and familiar, "Nobody's faaaaaault but minnnne!" I look and see Barry holding on to Ruth's microphone, red-faced. Tim is hugging him as the crowd cheers.
 ​	Ruth is walking back now, towards the stage. 
-​	I wonder what my own voice would sound like, bouncing off the many ears in the room. As Ruth nears me I stand tall in the middle of the empty path she left behind her. Ruth looks me in the eye and nods. She's standing right in front of me. Her eyes seem to scan me from top to bottom. My heart beats and for a moment it seems the music coming from the stage dies down. It's only Ruth and me in the dim light, and she sings, very close to me,
+​	I wonder what my own voice would sound like, bouncing off the many eardrums in the room. As Ruth nears me I stand  in the middle of the empty path she left behind her. Ruth looks me in the eye and nods. She's standing right in front of me. Her eyes seem to scan me from top to bottom. My heart beats and for a moment it seems the music coming from the stage dies down. It's only Ruth and me in the dim light, and she sings, very close to me,
 
 *(If I dance all by myself...)*
 
-She puts her microphone to my face, her face a mask of expectation. I see the microphone cable snaking behind her, a long black line reaching all the way back to the stage. I breathe in, fully prepared to say it's all my fault that I'm over here dancing alone, without my Cindy. Then I think of Cindy going limp in my arms, signaling she's still leaving. Then I think of Cindy's face in the car, imploring Barry to listen, to hear that she can't breathe at home.
-​	I sing into the microphone, "It's nobody's fault!"
-​	Ruth's face changes. She giggles. Then she laughs, a hearty laugh. Then the audience laughs. My face grows hot. Then the audience cheers. Someone from far back yells, "You tell 'em, sis!" and Ruth takes the microphone and ad-libs, "Damn right it's nobody's fault!" and the players on stage burst into a complicated, energetic riff... Ruth makes her way back to the stage and the crowd chants to the music,
-
-*(Nobody's fault! Nobody's fault!)*
-
-Strangers around me give me sympathetic looks. Some girl I don't know is hugging me. I have found momentary stardom. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Steam Pillars issue a huge opening chord -- and then a huge, unmusical, popping sound. 
-​	"Damn those electric basses," I hear Willie say. "Eddie!"
-​	From the back of the room I hear Eddie shouting, faintly, "In a minute!"
-​	Tim passes by me as he runs towards the stage. He squeezes my shoulder and smiles.
-​	"Say hi to Babatunde!" I shout after him.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"He sure looks like him," she shouts.
-
-But my ear, that has heard this voice so often, knows different. It was the same set of fingers on that keyboard, the same playful southern drawl.
-
-"It is him," I say.
-
-"What do you mean?"
-
-"I mean it's friggin Jerry Lee Lewis up there on stage\!" I shout, and then clasp my fingers around my mouth: I've never cussed in public before. My heart races… a deep fantasy, ancient and hidden, has just been fulfilled. I compare the Jerry Lee in those deep memories, compiled from his likeness on album covers, to the camouflaged man on stage.
-
-*"Kiss me, baby—ooooh\! Feels good\!"*
-
-I do feel good.
-
-What is *up* with this band?
-
-————————
-
-I stuff my panties back in my bag, feeling all grown up already before I turn to Tim and kiss the hell out of him.
-
-————————
-
-"There," shouts Cindy, "now we've all kissed Tim\! So we won't have to do that, ever again\!”
-
-"I'm not sure I like what I hear," says Tim.
-
-"Shut up," says Barry. He clasps him around the neck, a manly, friendly gesture. I'm struck by how different Barry looks now. I’m sure it’s not just the lack of coat and tie that makes him look so… so beautifully loose…
-
-I'm looking at Cindy and Eleanore hugging. Eleanore kisses Cindy's cheek. Tim and Barry are dancing very close now, locking sights.
-
-I choke. "I love you guys," I say.
-
-Cindy comes over and kisses me. The need to dance subsides. We hug, but we also still kind of swoosh and sway.
-
-"I've been to my first show," I say to her. She looks at me and pats my cheek.
-
-"You have, Alice of Wonderland," she says. "You have".
-
-"This was the most beautiful moment of my life," I say. "And now I fear it's gone". I start crying and she hugs me and doesn't say anything. I think she's thinking the same thing.
+She puts her microphone to my face, her face a mask of expectation. I see the microphone cable snaking behind her, a long black line reaching all the way back to the stage. I breathe in, fully prepared to say it's all my fault that I'm over here dancing alone, without my Cindy. Then I think of Cindy going limp in my arms, signaling she's still leaving. But then I think of Cindy's face in the car, imploring Barry to listen, to hear that she can't breathe at home.
+​	I find myself singing into the microphone, "It's nobody's fault..." and choke.
+​	​Ruth looks at me, expecting the last two words. But none come out. Then her face changes. She giggles. Then she laughs, a hearty laugh. Then the audience laughs. My face grows hot. Then the audience cheers. Someone from far back yells, "You tell 'em, sis!" and Ruth takes back the microphone and ad-libs, "Damn right! It's nobody's fault!" and the players on stage burst into a complicated, energetic riff... Ruth makes her way back to the stage and the crowd chants to the music,
+
+*(It's nobody's fault! Damn right!)*
+
+Strangers around me give me sympathetic looks. Someone is hugging me. I have found momentary stardom. I discover the woman hugging me to be Shirley. She whispers into my ear, "Not bad for a greenhorn!"
+​	"You smell good," I whisper back. 
+​	"What?"
+​	The song comes to a huge, concluding riff... then a burst of piano notes... then quiet. The crowd, Shirley and I included, hoots and shouts and claps. Around me I see people crying -- not just the girls. 
+​	"I have a secret," I say to Shirley as the music dies down.
+​	"Tell me," she says. We're still hugging, and kind of still dancing. Even as the players are preparing quietly for the next song, I find that dancing just won't die down. Everybody around us is dancing a little to the sound of silence in the room. 
+​	"I brought something to throw on stage," I say, "sort of like... you know... some proof that I've been here."
+​	"Just don't tell me it's a pair of panties," she says, shaking her head. 
+​	"Well..."
+​	"It's not that kind of show, Alice."​	
+​	"It isn't?"
+​	​Babatunde's drums slowly start filling the room. They're slow, strange, wildly appealing.
+​	"Why did you paint a bird on your car, Shirley?"
+​	On stage, Babatunde's palms come up and down on his drums and under the spotlight I see the dust dancing between his hands... the dust dances in patterns and shapes it's not supposed to assume...
+​	"Why did you paint those birds?"
+​	"You'll see!"
+​	Then the lights go out on stage. 
+
+We dance in total darkness. Every now and then I feel another body -- a hand touching mine, a torso pressing against mine. I don't know for how long I've been dancing and what the Steam Pillars are playing... I hear many voices, many instruments, many bodies moving across mine. I feel like I'm being carried by a stream of people, towards the center of the room, and also up, up... It really feels like I'm flying.
+​	Now my eyes adjust to the dim light... or am I just thinking that I see it? But I'm in the middle of the cleared circle in the middle of the room, dancing, no longer the Bunny Hop, but a dance that feels to me to be much more ancient. I see people dance around me. I see my friends. I look at Barry as he's dancing frantically, as he's taking off his jacket. Now his jacket becomes a pair of wings. Now Barry is a cardinal, small and multicolored. He flaps his wings and flies away... I am flying too. I wonder what bird am I, what bird do I look like to the man dancing next to me. Piano notes, strong and urgent, come at me from somewhere...
+​	Shirley's voice comes on in me ears now. But I can't see Shirley anywhere.
+​	"Did you see it?" she shouts. "What did you see?"
+​	"I see it now!" I shout back into the void. The piano notes in my ears become a procession of piano keys in my eyes... they march as if on parade... now the keys are transformed again...
+​	"What do you see?"
+​	"I see a caravan," I say. "A beautiful, long caravan."
+​	The music is quiet now, slow. I see Shirley dancing with me, in the middle of the circle.
+​	I look at her and see her face as if under a magnifying glass: every hair in her eyebrow and the hills and valleys in the yellow around her iris... her nose... her lips...
+​	"You do smell good," I mutter. 
+​	"You smell good too, Alice."
+​	"It's Alice of Wonderland. Please."
+​
+It's dead quiet and the stage is empty. The room is lit. Somehow, everybody is still dancing, with force and energy as if the music was still thumping. I can't stop dancing, either. Shirley is gone... or was she ever here? I am surrounded by Barry, Tim, Eleanore and my Cindy. 
+​	I'm struck by how different Barry looks now. I’m sure it’s not just the lack of coat and tie that makes him look so… so beautifully loose…
+​	I'm looking at Cindy and Eleanore hugging. Eleanore kisses Cindy's cheek. Tim and Barry are dancing very close now, locking sights.
+​	I choke. "I love you guys," I say.
+​	Cindy comes over and kisses me. The need to dance subsides. We hug, but we also still kind of swoosh and sway.
+​	"I've been to my first show," I say to her. She looks at me and pats my cheek.
+​	"You have, Alice of Wonderland," she says. "You have".
+​	"This was the most beautiful moment of my life," I say. "And now I fear it's gone". I start crying and she hugs me and doesn't say anything. I think she's thinking the same thing.
 
 After a while the dancing ebbs out, like the energy running out of a lightbulb… first in a steady decline and then in sputters of sudden idleness. The thirty or so people in the room are looking at each other as if they all woke up together from a weird dream. Shy looks at first, but then looks that say *yes, I've seen what you've seen myself and you're not crazy and it did, in fact, happen, and by the way, brother or sister, how cool was that?* followed by a quiet, almost mute display of hand-shaking and cheek-kissing and shoulder-clasping… someone at the back of the room shouts, "I love everybody here" and it doesn't sound strange. In fact, it sounds oddly and quietly true.
+​	The thirty of us leave as a group.
+​	"You don't have to go home," I say to Cindy as we wind our way through the tobacco maze. 
+​	"What do you mean?"
+​	"I figured it out. These guys have a *caravan*. They paint their cars to show they're part of the caravan."
+​​	​"They follow the band around?"
+​	"I mean... instead of running away with Eleanore..."
+​	"If Barry would only agree..."
+​	"They paint things they saw. Things they saw during the show."
+​	"What do you mean, things they saw?" asks Cindy, looking at me all askew.
 
-The redheaded girl runs over to me, her freckled face beaming.
-
-"I'm Kimberly," she says and hugs me. Her friends come over. Their names are Martha and Duke.
-
-We all hug.
-
-The thirty of us leave as a group.
-
-Cindy, Kimberly and I walk outside together. In the parking lot, the Conductors are waiting for us: Eddie and Rosetta and five or six others, all holding bunches of braids and looking holy and filled with purpose. Eddie beelines towards me. I run to him and hug him and kiss his stubbly cheek.
-
-"I've been to my first ever show, Eddie\!"
-
-He smiles broadly and hands me a braid. It's a simple, uncolored cotton braid but it has two coins slotted on it. They jingle against one another in my hand.
-
-"What's this for, Eds?"
-
-"For being, as I already predicted, young lady, chosen".
-
-Then his smile fades. He says, "we leave tonight for Fuckington".
-
-"You sound like you're saying goodbye," I say. He says nothing, just turns away. He turns to Kimberly's friend Martha and gives her a big wide smile and hands her a braid and says, "we leave tonight for Fuckington".
-
-All around me, Conductors are handing us all braids and saying that they're leaving tonight for Fuckington.
-
-I shout at Eddie, now far away, "hey\!"
-
-"What, Alice of Wonderland?"
-
-"How do you get chosen, Eddie?"
-
-He smiles and walks away. All the Conductors are leaving, having depleted their stock of braids.
-
-"You choose," he shouts back through the empty street. Rosetta throws her arm around his shoulder as they walk. "That's how you get chosen. You choose".
-
-Then, for the first time since the show started, it's *actually* quiet.
-
-Kimberly is putting on the braid Eddie handed to her. I see she already has one. The coins from her two braids all jingle together.
-
-"Will I see you in Fuckington?" she asks. I look at Barry with a sinking heart. Now that he's outside, breathing normal people air again, what would he do?
-
-"Will you paint on your car tonight, Alice?"
-
-We stand there, all looking at each other.
-
-Then this one guy walks over to his car. I think he's leaving but he bends over, reaches behind the wheel, pops his trunk open. He takes a big can of red paint and a brush and he's singing, singing to himself or to us,
+In the parking lot, a few people are waiting for us: Eddie and the cigarette girl and five or six others, all holding bunches of bracelet and looking holy and filled with purpose. Eddie beelines towards me. I run to him and hug him and kiss his stubbly cheek.
+​	"I've been to my first ever show, Eddie\!"
+​	​He smiles broadly and hands me a bracelet. It's a simple, uncolored thread but it has two coins slotted on it. They jingle against one another in my hand.
+​	"What's this for, Eddie?"
+​	"For being, as I already predicted, young lady, chosen".
+​	​Then his smile fades. He says, "we leave tonight for Fuckington".
+​	"You sound like you're saying goodbye," I say. He says nothing, just turns away. He turns to another lady and gives her a big wide smile and hands her a braid and says, "we leave tonight for Fuckington".
+​	All around me, Eddie's friends are handing us all braids and saying that they're leaving tonight for Fuckington.
+​	I shout at Eddie, now far away, "hey!"
+​	"What, Alice of Wonderland?"
+​	"How do you get chosen, Eddie?"
+​	He smiles and walks away. All his friends are leaving, having depleted their stock of braids.
+​	"You choose," he shouts back through the empty street. the cigarette girl throws her arm around his shoulder as they walk. "That's how you get chosen. You choose".
+​	Then, for the first time since the show started, it's *actually* quiet.
+​	Shirley is putting on the braid Eddie handed to her. I see she already has one. The coins from her two braids all jingle together.
+​	"Will I see you in Fuckington?" she asks. I look at Barry with a sinking heart. Now that he's outside, breathing normal people air again, what would he do?
+​	"Will you paint on your car tonight, Alice?"
+​	We stand there, all looking at each other.
+​	Then this one guy walks over to his car. I think he's leaving but he bends over, reaches behind the wheel, pops his trunk open. He takes a big can of red paint and a brush and he's singing, singing to himself or to us,
 
 *"I'm-a gonna paint me*  
 *grRRREAT balls of fi-re*  
 *I'm-a …bout to paint me…"*
 
-"Another bird joins the flock," says Kimberly.
+"Another bird joins the flock," says Shirley.
 
 When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little lot. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember from the show they'd just watched. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little car-lit parking lot has become. At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
-
-I whisper to Cindy, "talk to him. Tell him. Tell him you'll be leaving either way".
-
-But Cindy knows her brother better. She walks over to him and takes his hand. Suddenly they seem to me like they were when I first met them, these two kids from the country, holding each other’s hand in the recess ground of a big-city school.
-
-Barry is looking at the people in the clearing and nodding, as if to an unheard beat.
-
-"Yes, yes," he says, maybe to his sister and maybe to himself. "Any why the hell not?"
-
-He walks towards the middle of the parking lot, where paint and brushes are waiting.
+​	I whisper to Cindy, "talk to him. Tell him. Tell him you'll be leaving either way".
+​	But Cindy knows her brother better. She walks over to him and takes his hand. Suddenly they seem to me like they were when I first met them, these two kids from the country, holding each other’s hand in the recess ground of a big-city school.
+​	Barry is looking at the people in the clearing and nodding, as if to an unheard beat.
+​	"Yes, yes," he says, maybe to his sister and maybe to himself. "Any why the hell not?"
+​	He walks towards the middle of the parking lot, where paint and brushes are waiting.
 
 ————————
 
