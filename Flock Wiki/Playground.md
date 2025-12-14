@@ -47,7 +47,7 @@
 09-11 15:08 -
 
 ![[cam_2025-11-09_15-08-03.jpg]]
-
+  
 
 11-10 Calypso Records (nymph Calipso is daughter of Atlas). The name _Calypso_ derives from the [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek") καλύπτω (_kalyptō_) meaning 'to cover', 'to conceal', or 'to hide'. In [Homer](https://en.wikipedia.org/wiki/Homer "Homer")'s _[Odyssey](https://en.wikipedia.org/wiki/Odyssey "Odyssey")_, Calypso tries to keep the fabled Greek hero [Odysseus](https://en.wikipedia.org/wiki/Odysseus "Odysseus") on her island to make him her immortal husband, while he also gets to enjoy her sensual pleasures forever. According to Homer, Calypso kept Odysseus prisoner by force at [Ogygia](https://en.wikipedia.org/wiki/Ogygia "Ogygia") for seven years. Calypso enchants Odysseus with her singing. 
 
@@ -95,13 +95,16 @@ The record company as our sendup of a startup: young and vicious.
 יצירת אזורים נקיים (באמצעות נורים) כך שאנשים מהקהל יכולים להכנס אליהם ולהדגים ריקוד. הפוקוס הוא על יצירת תנועה בקהל, דבר שמוביל למות האגו
 בשלב מסוים הפלוק מגלה איך עושים מוזיקה שמשפיעה עליו מתוך עצמו.
 
+
 תיקונים אחורה:
 בפרק 1 כשאלינור מדברת על הופעות חיות טים אומר שהיה בהופעות במחסני טבק
+
 טים מזהה את הנגנים של הפילרז
 סינדי מנשקת את טים אחרי שהרוויחה לו את הדוב, מה שמייצר את הכעס הגדול בינה לבין אלינור.
 השיחה על זריקת תחתונים יוצאת מהתודעה של אליס לשיחה עם סינדי
 לנערת סיגריות צריך להחליף את השם
 Radio Inserts
+לעבות את הקשר של טים להופעות המחתרתיות (כל ארבעת הפרקים)
 
 
 playlist:
@@ -121,10 +124,10 @@ playlist:
  רוזטה מרימה לטים, אולי מזכירה פלוק
 2. Nobody's fault
 פנו מקום לרות  ברחבה, . רות יורדת עם המיקרופון, מתחברת לכאב,פונה לקהל, כשמגיעה לאליס אליס מתבלבלת, רגע של פאוזה,הקהל צוחק, רות לוקחת וגם הלהקה מצטרפת. השיר ממשיך, אליס וסינדי מתפייסות, רואים את בארי רוקד ומשתחרר עם מוכרת הסיגריות  - מורידה לו את העניבה.  
-אליס רואה את שירלי ורצה אחריה, שיחה בניהן: שירלי מספרת לאליס על הקרוואן, על הציורים על המכוניות, על היעד הבא - ע
+אליס רואה את שירלי ורצה אחריה, שיחה בניהן: שירלי מספרת לאליס על הקרוואן, על הציורים על המכוניות, על היעד הבא 
 3. Tom Sawyer / Rush
 אליס מתחילה להזות - מתחיל כשפנס נדלק מעל הידים של בבטונדה, רוקדים באפילה אליס מדמיינת אבק שרוקד על התופים של בבטונדה,
-שבירת מציאות על ידי אפקט של אדי -המעברים מתמלאים בעשן כבד מואר בכחול כמו מים שעולים - הפעלה נוספת של הסטימפילר שלו . אחר כך נפרשים מעל 
+שבירת מציאות על ידי אפקט של אדי -המעברים מתמלאים בעשן כבד מואר בכחול כמו מים שעולים. אחר כך נפרשים מעל 
 סרטי אלומיניום - מעבר מתוך המים אל השמיים
 אליס רואה את בארי כציפור (איזו?) 
 4. Free Bird / Lynyrd Skynyrd
