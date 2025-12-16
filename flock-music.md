@@ -28,7 +28,7 @@ I peer through the window overlooking the street and Cindy's brother's Chevy, re
 and stuff some necessities into my handbag: a little powder kit, my babysitting fortune of $17.62, and, after giving it some thought, a change of cream-colored panties.  
 ​	"We'll all be late, Peaches\!" yells Cindy from the car. I shoo at her and climb down the old Elm tree planted beneath my bedroom window.  
 ​	I run across my parents' front lawn, stealthy and undetected. I slip into the back seat.   
-Inside it's full of people and already steaming hot. Ricky Nelson is singing on the radio about having been a little fool. Cindy is stunning in a coral dress in the back seat, blonde and blue-eyed and radiating sunshine. I hug her and she says quietly, "I've got something to–"  
+​	Inside it's full of people and already steaming hot. Ricky Nelson is singing on the radio about having been a little fool. Cindy is stunning in a coral dress in the back seat, blonde and blue-eyed and radiating sunshine. I hug her and she says quietly, "I've got something to–"  
 ​	"Peaches\!"  
 "Don't call me that," I say to Barry, who’s sweating at the wheel in a brown suit that looks too big for him.   
  ​	"Who's she?" says the girl sitting next to Cindy without looking in my direction. She’s got black cigarette pants and a black turtleneck and black sunglasses and black flat shoes. She’s reading through *Seventeen* (“The Big FASHION Issue\!”.)   
@@ -286,18 +286,19 @@ There’s quite a crowd around us: the drunk, half awake now; Larry, a short man
 ​	Tim thinks. “I mean, it sounds like *Bye Bye Love…”*  
 ​	“Time’s up,” says Eddie.   
 ​	“But it’s really *Rebel Rouser.”*   
- 	“Alright,” I shout. “It’s ‘Rising Rebel\!’ I mean ‘Rebel Rouser.’ I mean Rebel Rouser and that’s final\!”  
-Eddie looks at Tim with the angriest look I’ve ever seen. Behind him, the jukebox wakes back to life, filling the room with a reverberating, bending guitar sound. Eleanore and Tim smile.   
+​	“Alright,” I shout. “It’s ‘Rising Rebel\!’ I mean ‘Rebel Rouser.’ I mean Rebel Rouser and that’s final\!”  
+​	Eddie looks at Tim with the angriest look I’ve ever seen. Behind him, the jukebox wakes back to life, filling the room with a reverberating, bending guitar sound. Eleanore and Tim smile.   
 ​	The crowd is unhappy: the entertainment part of the morning is over. 
 
 “I say,” says a defeated Eddie, “it’s such a nice, sunny day here in Durham. Why don’t we all just stay next to the jukebox and drink”.   
-​	“You really don’t feel like working, ha,” belches Barry. ​	“Where are you thinking of going?” asks Eddie, trying to buy time.  
+​	“You really don’t feel like working, ha,” belches Barry. ​	
+​	“Where are you thinking of going?” asks Eddie, trying to buy time.  
 ​	“Come on, we won\!” I say. “We’re going to the county fair in Richmond. You said you’ll fix it.”  
 ​	“What’s in Richmond anyway?” Says Eddie. “Corn on the cob? Some mouldy big band music?”  
 ​	“If you gotta know,” says Tim. “Not that it matters because the car’s good to go, but if you really gotta know we’re all going to see the *Seven Tops*, my friend. They play Rock and Roll. They’re from *Nashville*”. Eddie looks at him with dead eyes.   
 ​	I think of a big railroad engine, spewing a cloud of smoke, and a bunch of Israelites following. “And if you fix it fast,” I add, “we might also be going to see someone called *The Steam Pillars*. I’m not sure where they’re from, but…”  
 ​	I stop to look at Eddie. He suddenly gets very still. He’s looking at me again with that intense stare…  
-“What did you say, little girl?”  
+​	“What did you say, little girl?”  
 ​	“You know,” I say. I do feel like a little girl all of a sudden. “If you fix it early…”  
 ​	“You did say, *The Steam Pillars*, right?”  
 ​	“R… right”.   
@@ -333,8 +334,8 @@ The noon sun hurts my eyes. I think about asking Tim to lend me his shades, but 
 ​	“Are we going or what?” says Eleanore.    
 ​	But Cindy is quiet, pale: she looks at Eleanore, then at Tim. In the sunlight you can plainly see a couple of dark lipstick marks on his neck. 
 
-It’s beginning to get pretty crowded in the car: on the bench seat in front, Tim is squeezed between Eddie and Barry. Cindy and Eleanore won’t sit next to each other anymore, so I’m the cheese in that particular hate sandwich.   
-“Are you okay to drive, Bear?” Asks Tim. “Want me to take over?”  
+It’s beginning to get pretty crowded in the car: on the bench seat in front, Tim is squeezed between Eddie and Barry. Cindy and Eleanore won’t sit next to each other anymore, so I’m the cheese in that particular hate sandwich. ​	
+​	“Are you okay to drive, Bear?” Asks Tim. “Want me to take over?”  
 ​	“My father says, if you can’t drive after a few glasses, you couldn’t drive very well to begin with.”  
 ​	“That’s the spirit\!” Says Eddie. “So they say your name is Eleanore?” He flashes a smile at Eleanore and Tim stares at him. He turns on the radio…
 
@@ -370,7 +371,7 @@ I blush. “I listened to *Whole Lotta Shakin’* so much I got the record scrat
 ​	“No,” says Eddie. “*Start* listening to this grease monkey. Step on the gas. Start living.”   
 ​	“Fine,” says Barry. He steps on the gas and turns the wheel. I feel the pressure of the seat against my back…  
 ​	“There you go,” says Eddie. “Now take it down a notch. Don’t live too much, you’re not used to it.”  
-But Barry doesn’t brake. He belches loudly, then hoots, then gives it even more gas. Tim looks worried; Eddie, too. The van disappears in the background… then the car swings and sways… Then we all rock in our seats. Cindy falls on my lap. I grab her hand. For what seems to be an hour, we spin out of control. There’s an awful noise as the wheels dig into the asphalt.   
+​	But Barry doesn’t brake. He belches loudly, then hoots, then gives it even more gas. Tim looks worried; Eddie, too. The van disappears in the background… then the car swings and sways… Then we all rock in our seats. Cindy falls on my lap. I grab her hand. For what seems to be an hour, we spin out of control. There’s an awful noise as the wheels dig into the asphalt.   
 ​	Tim puts his hand on the wheel.   
 ​	“Nice and slow,” he shouts. “Pump the brakes\!”  
 ​	The car rights itself. We drive away slowly.
@@ -460,7 +461,7 @@ I say, “it’s all so alive!”
 ​	We walk through the midway, moving between pockets of PA sound. We stare at the stalls selling Friend Chicken and funnel cakes and pulled pork sandwiches and at the kids enjoying themselves on the Tilt-a-Wheel and the merry-go-round. I watch the midway, bustling with a huge throng of people, young parents with babies and old people and gangs of teenagers like us, all black. When we pass by them we get curious, reserved looks; people keep their distance. We are in a bubble in the crowd. 
 ==pete plan a==
 ​	“Bet you want a ride on the merry-go-round, Peaches,” says Barry. 
-​	“We said we don’t call me that, Bartholimio Joseph,” I say, “and as a matter of fact, I would very much like to go on the merry-go-round.” I give Tim a look I hope will convey forlonging, a word I learned from a book. 
+​	“We said we don’t call me that, *Bartholimio Joseph*,” I say, “and as a matter of fact, I would *very much* like to go on the merry-go-round.” I give Tim a look I hope will convey forlonging, a word I learned from a book. 
 ​	“Well, tough luck, *Alice*, we’re here to do a job and go home.”
 ​	“Do a job,” says Cindy, “then watch the show, and *then*... you know." 
 ​	“Right,” says Tim. 
@@ -474,7 +475,7 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 ​	“All polite, fine,” mimics Eleanore, “giving four quarts of milk a day…”  
 ​	“Shut up, city girl,” says Barry, “my father says this initiative just might make me the youngest junior executive ever in Buzz history.”  
 ​	The PA says, “Will the child Bernard Green please report to the manager’s office next to the entrance, Bernard Green, Bernie, your mom is worried.”
-​	Eddie takes out a soft pack of Buzz cigarettes from his overalls pocket. “Junior executive,” he says and lights it up, “now, there’s something to aspire to.”  
+​	Eddie takes out a soft pack of Buzz cigarettes from his overalls pocket. “Junior executive,” he says and lights one up, “now, there’s something to aspire to.”  
 ​	Barry snatches the cigarette away right from Eddie’s mouth. “Why,” he says and puts it in his own mouth, “what do you aspire to?” he coughs.   
 ​	Eddie reaches out and takes the cigarette back. “Me? I want the normal things. Success, fame…” he puffs on the cigarette, then offers it to Eleanore. “…equality between races…”  
 ​	Eleanore puffs on the cigarette with an elegant city-girl experience. She plays along: “equality between races… independence… working for the United Nations…” she hands the cigarette to Tim. Tim takes it between his thumb and forefinger, gives it a very cool drag:  
@@ -512,7 +513,7 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 ​	“I’m going to die of boredom,” whispers Eleanore. “That’s what it’s all about.”
 ​	Mr C. Evans says, “but is this…” he gestures at the crowd — “even a *lucrative*, I mean *profitable*, market for you guys at Buzz?”
 ​	“Any Buzz smoker is a welcome member of the Buzz family,” says Mr. Farley. 
-​	“Why,” says Barry, eager to make his point, “our representative here — he shoves the unwilling cigarette girl into the spotlight — “has already given out *forty-two* samples and had to restock *three times*. And it’s only an hour and a half past noon. And she is only one of our fine, fine…”  ==this is too long==
+​	“Why,” says Barry, eager to make his point, “our representative here — he shoves the unwilling cigarette girl into the spotlight — “has already given out *forty-two* samples and had to restock *three times*. And it’s only an hour and a half past noon. And she is only one of our fine, fine…” 
 ​	”Edwardo!”  
 ​	The voice is fierce, low, piercing through the racket. It is soon thereafter joined by the biggest body I’ve ever seen — a tall, fat black guy in overalls — moving swiftly towards us. I notice with interest that the only ones who stops to flinch is Eleanore and Mr. C. Evans.   
 ​	Eddie raises his head towards the big guy —  
@@ -531,9 +532,9 @@ A few people are sitting on folding chairs next to a big tent. Eddie and the hug
 ​	“You son of a bitch!”
 ​	“Is that Edwardo or am I trippin’?”
 ​	“Boy, you have some nerve!”
-​	“Alright everybody alright, relax won’t ya? I missed you guys too.” He hugs the pretty lady who’s standing there, saying nothing. She hugs him back but continues not to talk. Then Besame Mucho hugs him again. Then they all hug and pat him on the shoulder. 
+​	“Alright, everybody alright, relax won’t ya? I missed you guys too.” He hugs the pretty lady who’s standing there, saying nothing. She hugs him back but continues not to talk. Then Besame Mucho hugs him again. Then they all hug and pat him on the shoulder. 
 ​	“Ah,” says Eddie, “these are Alice and her friends. These unwitting sages, Alice most of all, informed me you sons of bitches have finally broke loose.”
-​	“Then you have done us a great service,” says a man in a deep foreign accent. He has his hand around Eddie’s shoulder. I’ve never seen a man dress like that, a ceremonial garb of another people, perhaps — a white cotton dress, full of red and purple embroideries. His cap is made from the same cloth. 
+​	“Then you have done us a great service,” says another man in a deep foreign accent. He has his hand around Eddie’s shoulder. I’ve never seen a man dress like that, a ceremonial garb of another people, perhaps — a white cotton dress, full of red and purple embroideries. His cap is made from the same cloth. 
 ​	“And these,” says Eddie, “are some of my old friends. I don’t want to scare you, Alice, but some of these people are actual, factual members of the Steam Pillars”.	
 ​	I look at them: Eddie, Besame Mucho, the foreign man, the pretty woman — small, voluptuous, with short curly hair and big earrings, looking like a down-to-Earth Dorothy Dandridge; and an older-looking man in a brown shirt, with a wide smile and thick, thick hair. 
 ​	“What do musicians look like?” I ask. They laugh. 
@@ -562,7 +563,7 @@ Barry comes over, looking very smug.
 ​	“Just a cog in the machine,” laughs Barry. 
 ​	“You didn’t seem to me like a cog when you were ordering that cigarette girl around.”
 ​	“Well,” says Barry, suddenly sounding a lot like his father, “sometimes you need to be firm.”
-​	“You enjoy telling others what to do,” sighs Babatunde.   ​​	
+​	“You enjoy telling others what to do,” sighs Babatunde.  
 ​	“Well — I mean — hello, I’m Barry,” says Barry.  
 ​	“I used to like telling people what to do, too,” says Babatunde. “It’s human nature. Don’t feel too bad about that.”  
 ​	“Right. Right,” says Barry.   
@@ -622,7 +623,7 @@ At the next stall, under the string of bare lightbulbs, the hand-painted sign at
 ​	Cindy turns around and picks up the old Winchester like a trained soldier. She sends her left leg back, like a ballet dancer, like an expert shot. She puts the rifle to her temple and I can tell that there’s a longstanding familiarity about it. I look back: Eleanore is behind me, watching too.
 ​	“Turn around, girl,” she says, “you’ll miss the show… it goes by awful quick.”  
 ​	I turn around just in time to watch Cindy squeezing the trigger, once, twice, ten times, barely breathing, and five ripped-metal ducks and five tattered quails going *ping!* -ing and spinning away. The red-faced man backs away. So do some of the patrons and competitors at the shooting booth. In this moment, even I can feel there’s something very much intimidating in soft, sweet, blue-eyed Cindy.    
-​	Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   
+​	Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   ==kiss==
 ​	Tim takes the teddy, all red. Some people laugh — not many, though.   
 ​	“Hey, hey,” he says to the faces around us. “I deserve it, right?”  
 ​	He smiles at Cindy and walks away. 
@@ -705,7 +706,7 @@ Mucho climbs on stage again, holding a huge, upright bass in one hand, like he�
 ​	“Better not let that cop see you dance like that, Alice of Wonderland,” she says. 
 ​	Now Babatunde climbs on stage, smiling and waving at the crowd. As he comes on, he says, “how are you guys feeling today?”
 ​	“We’re feeling great, Babatunde!” calls Cindy. 
-​	Babatunde sits behind a huge caulderon covered in animal hide. If it’s a drum, I think, it’s the biggest drum I’ve ever seen. He raps his fingers on it. Suddenly Mucho’s little bass rythm has a drum rythm friend to dance with. 
+​	Babatunde sits behind a huge caulderon covered in animal hide. If it’s a drum, I think, it’s the biggest drum I’ve ever seen. He raps his fingers on it. Suddenly Mucho’s little bass rhythm has a drum rhythm friend to dance with. 
 ​	Johnny Terry climbs on stage. Someone yells, “Hi there, Johnny!” And some people clap. He finds his place behind Mucho and starts singing into the microphone in a low, low voice:
 ​	“*Go, go, go*…”
 ​	Johnny’s voice and Mucho’s bass and Babatunde’s drum all vibrate through me. I can feel them in my chest, in my feet, even in my butt. A tall, broad-shouldered woman comes on, taking her place in front, wearing a black dress and an afro and holding a shiny, golden electric guitar, slim and small in her large hands.   
@@ -720,8 +721,8 @@ Mucho climbs on stage again, holding a huge, upright bass in one hand, like he�
 ​	The white man has black curly hair and even though it’s pretty dark in the tent, he’s wearing dark sunglasses. He climbs on stage, doesn’t look at the audience, and sits behind the piano.
 ​	“Boo!”
 ​	“You idiots will get us all into trouble!”
-​	The clapping ebbs out. But Johnny Terry keeps clapping, and Babatunde and Mucho still play their matching rythms. Some people clap harder. Then Vilma comes on in a blue evening dress and the shouting stops. 
-​	The pianist lays his left hand on the piano and adds another rythm:
+​	The clapping ebbs out. But Johnny Terry keeps clapping, and Babatunde and Mucho still play their matching rhythms. Some people clap harder. Then Vilma comes on in a blue evening dress and the shouting stops. 
+​	The pianist lays his left hand on the piano and adds another rhythm:
 
 (Ta-ta-tana! Ta-ta-ta-na!)
 
@@ -1638,7 +1639,8 @@ In the parking lot, a few people are waiting for us: Eddie and the cigarette gir
 
 "Another bird joins the flock," says Shirley.
 
-When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little lot. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember from the show they'd just watched. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little car-lit parking lot has become. At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
+When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little lot. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember from the show they'd just watched. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little car-lit parking lot has become. 
+​	At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
 ​	I whisper to Cindy, "talk to him. Tell him. Tell him you'll be leaving either way".
 ​	But Cindy knows her brother better. She walks over to him and takes his hand. Suddenly they seem to me like they were when I first met them, these two kids from the country, holding each other’s hand in the recess ground of a big-city school.
 ​	Barry is looking at the people in the clearing and nodding, as if to an unheard beat.
