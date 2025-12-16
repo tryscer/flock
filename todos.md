@@ -1,6 +1,9 @@
 - [ ] cindy should kiss tim after winning the bear, causing the friction between them. (chapter 2)
+- [ ] shorten Evens and Farley 
+- [ ] What happens with the bear-gineer? 
 - [ ] Go over radio inserts all 4  chapters
 - [ ] Tim's connection to underground shows and pete should deepen across all 4 chapters
 - [ ] final Steam Pillars personnel (chapters 2, 3, 4) 
 - [ ] make sure the caravan and barry's decision are clearer (chapter 4) 
+- [ ] Change "great balls of fire"
 
