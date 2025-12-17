@@ -1,4 +1,3 @@
-i love eft
 
 ## Epitaph
 
@@ -18,7 +17,7 @@ i love eft
 *Ba-Boom Boom-Boom*…  
 ​	It's an early-summer morning and the windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
 
-*(Gee, my lollipop is—HHHWWWONK\!)*
+*(Gee, my lollipop is—HOOOOONK\!)*
 
 I peer through the window overlooking the street and Cindy's brother's Chevy, red with white top and sides, is parked beside our lawn.  
 ​	"Be quiet\!" I say, laughing, waving my hands at them to pipe down. I lift the needle from the little record,
@@ -26,8 +25,7 @@ I peer through the window overlooking the street and Cindy's brother's Chevy, re
 *(Lolli-SCRATCH\!)*
 
 and stuff some necessities into my handbag: a little powder kit, my babysitting fortune of $17.62, and, after giving it some thought, a change of cream-colored panties.  
-​	"We'll all be late, Peaches\!" yells Cindy from the car. I shoo at her and climb down the old Elm tree planted beneath my bedroom window.  
-​	I run across my parents' front lawn, stealthy and undetected. I slip into the back seat.   
+​	"We'll all be late, Peaches\!" yells Cindy from the car. I shoo at her and climb down the old Elm tree planted beneath my bedroom window and run across my parents' front lawn, stealthy and undetected. I slip into the back seat.   
 ​	Inside it's full of people and already steaming hot. Ricky Nelson is singing on the radio about having been a little fool. Cindy is stunning in a coral dress in the back seat, blonde and blue-eyed and radiating sunshine. I hug her and she says quietly, "I've got something to–"  
 ​	"Peaches\!"  
 "Don't call me that," I say to Barry, who’s sweating at the wheel in a brown suit that looks too big for him.   
@@ -38,7 +36,7 @@ and stuff some necessities into my handbag: a little powder kit, my babysitting 
 ​	"Have we?" she says, disinterested. She pushes Cindy's hand away without looking up.  
 ​	"Alright boys and girls, here we go," says Barry. We jerk in our seats as the old jalopy springs into action. 
 
-Sitting shotgun is a mystery boy, tall, very handsome, ginger-haired. He’s wearing a tight, white tee-shirt and has his hand resting limply around Barry’s back. I give Cindy an important look and signal at him.   
+Sitting shotgun is a mystery boy, tall, very handsome, ginger-haired. He’s wearing a tight, white tee-shirt and has his hand resting limply behind Barry’s back. I give Cindy an important look and signal at him.   
 ​	"Oh," says Cindy, her voice resuming that Party Hostess quality, "this of course is Barry's friend Tim". She whispers in my ear, "he has *all* the records". To Tim she says, "please meet Peaches. She’s a music fan, too".  
 ​	"Don't call me that," I whisper to her.  
 ​	“Sorry,” she whispers back.   
@@ -623,18 +621,18 @@ At the next stall, under the string of bare lightbulbs, the hand-painted sign at
 ​	Cindy turns around and picks up the old Winchester like a trained soldier. She sends her left leg back, like a ballet dancer, like an expert shot. She puts the rifle to her temple and I can tell that there’s a longstanding familiarity about it. I look back: Eleanore is behind me, watching too.
 ​	“Turn around, girl,” she says, “you’ll miss the show… it goes by awful quick.”  
 ​	I turn around just in time to watch Cindy squeezing the trigger, once, twice, ten times, barely breathing, and five ripped-metal ducks and five tattered quails going *ping!* -ing and spinning away. The red-faced man backs away. So do some of the patrons and competitors at the shooting booth. In this moment, even I can feel there’s something very much intimidating in soft, sweet, blue-eyed Cindy.    
-​	Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   ==kiss==
+​	Cindy puts her gun on the stand. The red-faced man reaches above him without taking his eyes off of her and gives her the one-eyed Bear-gineer. She smiles softly and gives it to Tim.   
 ​	Tim takes the teddy, all red. Some people laugh — not many, though.   
 ​	“Hey, hey,” he says to the faces around us. “I deserve it, right?”  
-​	He smiles at Cindy and walks away. 
+​	He smiles at Cindy and she grabs him and kisses him right on the mouth, right in front of everybody. I look back and catch Eleanore scowling. 
 
-We stand alone by the shooting booth. Life has resumed its course, ducks-a-pinging and the red-faced man a-jumping, but some people still avoid Cindy and me when they walk by, giving us a wide berth.   
+Cindy and I stand alone by the shooting booth. Life has resumed its course, ducks-a-pinging and the red-faced man a-jumping, but some people still avoid Cindy and me when they walk by, giving us a wide berth.   
 ​	“That was a stupid thing I did,” says Cindy. 
 ​	“What did you do, boo?”
 ​	“I angered Eleanore.”
 ​	“Thought that was your plan all along.”
 ​	“Yeah, but I think I overdid it. And she *is* my ticket out of here.”  
-​	My eyes suddenly fill with so many tears that I can’t see anything and to hide that I’m looking down. 
+​	My eyes suddenly fill with tears and I can’t see anything and to hide that I’m looking down. 
 ​	“What do you mean, your ticket out of here?” I ask her shoes.   
 ​	“Listen, Peach — I mean listen…”   
 ​	I shuffle my feet. “You still owe me an explanation,” I say.   
@@ -1379,7 +1377,7 @@ We cross the street in solemn silence.
 ​	In the small parking lot beneath the Buzz warehouse, a few cars are parked, most of them old and dusty. As we walk between them I pass my finger through the dust on a Ford's back window. 
 ​	"Hello," I say, "What's this?"
 ​	Someone painted a giant bird, a cardinal or a jay, on the driver's door. We stop to admire the painting. 
-​	"Why would someone devalue their car like this​?" Barry wonders. 
+​	"Why would someone devalue their own car like that?" Barry wonders. 
 ​​	​Eleanore snorts.
 ​	"It's beautiful," I say.
 ​	Another car, a bluebird painted on its trunk lid and its headlights burning through the darkened lot, turns and parks. In the headlights I can see paintings on some other cars -- birds and butterflies, clouds and railroad tracks. The lights turn off. A woman, black in a long, white coat, bounds out. She checks her wristwatch as she's shutting the door. She looks up, straight at me, and smiles. Then she disappears into the shadow of the warehouse. 
@@ -1387,7 +1385,7 @@ We cross the street in solemn silence.
 ​	"Let's follow her," I say. 
 ​	We do.
 
-At the foot of the giant building the huge front entrance is locked. A night-guard sits snoring next to the door. We see the hem of a white coat disappearing in the alley.
+At the foot of the giant building, the huge front entrance is locked. A night-guard sits snoring next to the door. We see the hem of a white coat disappearing in the alley.
 ​	"There she is," I whisper. 
 ​	"Why are you whispering?" whispers Cindy. 
 ​	We follow the white coat. 
@@ -1426,11 +1424,11 @@ Up ahead we hear voices chatting excitedly, smell burning tobacco against the ba
 ​	"We're in the show now," I tell her. "This is it." She squeezes my hand. Someone whistles. The lights go out.
 
 A single spotlight falls on a little stage on the other side of the clearing, illuminating The Steam Pillars. At the back of the stage Babatunde starts drumming on an array of little drums, an ancient, alien beat... and then bam! The rest of the band joins in, a wall of happy music, electric guitar and electrifying piano. The crowd erupts in applause. I find myself immediately and without thinking of it engaged in dancing, moving with the crowd. 
-​	"I see a lot of new faces here today!" Ruth says into the microphone. Even from across the room she's stunning in a grey-green evening dress. 
+​	"I see a lot of new faces here today!" Vilma says into the microphone. Even from across the room she's stunning in a grey-green evening dress. 
 ​	"We're new faces!" I scream. Eleanore and Cindy hoot.
-​	Ruth says, "And so many familiar faces, too!"
+​	Vilma says, "And so many familiar faces, too!"
 ​	I look around, to see who in the crowd is a seasoned fan and who's a greenhorn. At the back of the room, I see Eddie still fussing and cussing over his mess of electricity.
-​	"How many of you, how many," says Ruth, "Have boarded the Steam Pillars train all the way back at the Coal Woodshed?" 
+​	"How many of you, how many," says Vilma, "Have boarded the Steam Pillars train all the way back at the Coal Woodshed?" 
 ​	A couple of voices call and shout and the rest of the crowd laughs.
 ​	"Who here came on board in Charleston? Who in Raleigh?" asks Ruth, and more people sound off. "How many in Wilmington? How many came here from the Henrico county fair this morning?"
 ​	Cindy and I hoot. Eddie walks by, pushing his way through the crowd. He stops next to Barry, motioning for him to move.
@@ -1440,7 +1438,7 @@ A single spotlight falls on a little stage on the other side of the clearing, il
 ​	"What are you doing?" Barry shouts, politely.
 ​	"She says she doesn't want a steam pillar!" Eddie shouts back. "So I'm disassembling the steam pillar. First she says go ahead--"
 ​	"That's it!" Barry laughs. "Do what you're told. Conform!"
-​	On stage, Ruth says, "And who here is ready, who here is willing! I say who here is ready and willing to ride this train?"
+​	On stage, Vilma says, "And who here is ready, who here is willing! I say who here is ready and willing to ride this train?"
 ​	The little crowd roars in applause. The drums are alone now, their rhythm a slow churning of train wheels. 
 
 *(CHACHA-chacha-CHACHA-chacha!)*
@@ -1455,7 +1453,7 @@ Now the guitarist ducks towards the amplifier and strums. The guitar vibrates in
 Cindy and I shuffle our feet to the tempo of the wheels and it increases with every beat. The eruption of steam has cleared a little round clearing and people dance around it.  
 ​​	The railroad rhythm is strong now. The piano issues a familiar tune under the scorching whistle of the guitar. And suddenly it's like everybody around the little clearing is moving forwards; like this whole mass of people is pushed  on invisible wheels. Eleanore puts two fingers in her mouth and whistles and shouts, "All aboard!"
 
-Ruth is singing, 
+Vilma is singing, 
 
 *(Thi-is train... is a clean train--)*
 ​	
@@ -1497,15 +1495,15 @@ Cindy and I are dancing. Cindy hugs me, all soft in my arms, happy. I say, "You 
 
 *(this traaaaaaaaaaain--)*
 
-I look at Babatunde. His hands are raised to signal something. On stage, Ruth is bellowing into the mic and the guitarist goes to town on the strings. Then: bam! They all strum one last note and the crowd screams and shouts and claps.
-​	"You all," Ruth intimates into the mic, "are welcome aboard this train."
+I look at Babatunde. His hands are raised to signal something. On stage, Vilma is bellowing into the mic and the guitarist goes to town on the strings. Then: bam! They all strum one last note and the crowd screams and shouts and claps.
+​	"You all," Vilma intimates into the mic, "are welcome aboard this train."
 ​	Then, all of a sudden, Eddie's steam pillars erupts again in the middle of the clearing. We stare and laugh and someone yells, "manna from heaven!" and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
-​	"All of you except," Ruth says on stage, "for Eddie, who might be killed by Mama before the day is out."
+​	"All of you except," Vilma says on stage, "for Eddie, who might be killed by Mama before the day is out."
 
 I find myself drawing away from Cindy and into the embrace of the crowd. As the bodies move and wash over me I find myself swept with them and they carry me along, towards the stage, where magical things are told to happen. I look back and see the cigarette girl undoing Barry's tie. Barry looks flushed and unusually happy.
 ​	"I think she's gonna do the nobody's fault number now," says a man next to me. I push forward.
-​	Sister Rosetta walks to the front of the stage now. She holds up her white guitar and plays a little tune -- a bumbling, limping one, soft and small. Around me I hear scattered applause. This, I decide, is the sound of the veteran fans. One veteran on the other side of the empty clearing yells, "It's nobody's fault but mine, Sister!" I push between groups of fans. I see the white-coat lady, almost within my reach...
-​	The guitar sounds again, playing the same little ditty. But now it's louder, angrier: I see the sound as it washes over the faces of t he people around me, see heads bob up and down in ascent.  
+​	The guitarist walks to the front of the stage now. She holds up her white guitar and plays a little tune -- a bumbling, limping one, soft and small. Around me I hear scattered applause. This, I decide, is the sound of the veteran fans. One veteran on the other side of the empty clearing yells, "It's nobody's fault but mine, Sister!" I push between groups of fans. I see the white-coat lady, almost within my reach...
+​	The guitar sounds again, playing the same little ditty. But now it's louder, angrier: I see the sound as it washes over the faces of the people around me, see heads bob up and down in agreement.  
 
 At the foot of the stage, the site of magic, the crowd is thick and already moving together to the beat, like synchronized swimmers in colorful dresses and made-up hair. A kid with railway patches on his vest shouts something at the stage and Willie shouts back. 
 ​	"Are you new here?"
@@ -1515,50 +1513,50 @@ At the foot of the stage, the site of magic, the crowd is thick and already movi
 ​	"A greenhorn," says the woman and suddenly grins. She throws her arms around me and says, "Would you care to dance?"
 ​	My heart thumps. "I sure would love to!" I shout, happy, when I realize we're *already* dancing.
 ​	Now the little tune coming from the stage is a hulking monster, a disjointed, angry cry, and the drums and bass start to thunder down on it. The crowd jumps and dances to the strange rhythm...
-​	"My name is Shirley," she shouts. Her body sways along with the rhythm of the crowd. I try to match my movement with hers and fail. At last I settle on the Bunny Hop and Shirley nods in approval as she dances her weird dance. 
+​	"My name is Shirley," she shouts. Her body sways along with the rhythm of the crowd. I try to match my movement with hers and fail. At last I settle on the Bunny-hop and Shirley nods in approval as she dances her weird dance. 
 ​	"Why did you paint on your car?" I shout.
 ​	"Pardon?"
 ​	"Why is there a painting on the hood of your car? The bird painting!"
-​	Shirley smiles but doesn't answer. Then Ruth's voice fills the little space, bouncing and reverberating off the tall ceiling:
+​	Shirley smiles but doesn't answer. Then Vilma's voice fills the little space, bouncing and reverberating off the tall ceiling:
 
 *(If I die and my soul gets lost...)*
 
 "She's coming down!" says someone next to us. 
 ​	"Coming down?" I ask Shirley. 
-​	"Ruth is going to come to us," she shouts in my ear, "and this is the crucial part, greenhorn. In this show you're not a spectator. You need to join in."
+​	"Vilma is going to come to us," she shouts in my ear, "and this is the crucial part, greenhorn. In this show you're not a spectator. You need to join in."
 ​	"I'm not a what?"
-​	"You need to join in," she says. "It's nobody's fault but mine!" she sings. The foot-of-the-stage crowd around us dances and sings with her. Once again I feel the music's strange effect on my body: my arms in the air, my feet dancing as if on their own volition... The Bunny Hop becoming something else entirely. 
+​	"You need to join in," she says. "It's nobody's fault but mine!" she sings. The foot-of-the-stage crowd around us dances and sings with her. Once again I feel the music's strange effect on my body: my arms in the air, my feet dancing as if on their own volition... The Bunny-hop becoming something else entirely. 
 ​	"Shirley!" says a man with patches on his vest. "Come dance with us!" 
 ​	"Maybe we'll dance later," says Shirley. 
 ​	"I hope we will!"
 ​	She dances away. 
 
-The pianist starts hammering at the piano. His sound -- dulcet, sweet, but rhythmically forceful -- competes with the scorching disarray of notes emanating from the guitar. It is incredibly loud up here, and each sound seems to bounce off the thick throngs of people, reverberate and multiply. I can feel Babatunde and Willie in my chest. 
-​	Now Ruth nods to Babatunde, whose rhythm changes -- a sound of tension and expectation. Ruth removes her microphone from its stand and climbs down from the little stage. Surrounded by the crowd she seems slight, almost tiny, but with every step she takes the crowd parts in front of her. She makes her way, microphone in hand and long cable dragging behind her, deep into the crowd. Now the drums issue a warning -- *TA-TA-ta-TAM!* -- and Ruth starts singing:
+The pianist starts hammering at the piano. His sound -- dulcet, sweet, but rhythmically forceful -- competes with the scorching disarray of notes emanating from the guitar. It is incredibly loud up here, and each sound seems to bounce off the thick throngs of people, reverberate and multiply. I can feel Babatunde and Mucho in my chest. 
+​	Now Vilma nods to Babatunde, and he changes his rhythm to one of tension and expectation. Vilma removes her microphone from its stand and climbs down from the little stage. Surrounded by the crowd she seems slight, almost tiny, but with every step she takes the crowd parts in front of her. She makes her way, microphone in hand and long cable dragging behind her, deep into the crowd. Now the drums issue a warning -- *TA-TA-ta-TAM!* -- and Ruth starts singing:
 
 *(Nobody's fault but mine,
 Nobody's fault but mine.
 If I don't go back to my love tonight--)*
 
-Ruth thrusts up the microphone in the face of a tall, good looking woman standing alone. The crowd waits in anticipation. The woman's face lights up. With all the air in her lungs she shouts into the microphone, "It's nobody's fault but mine!"
+Vilma thrusts up the microphone in the face of a tall, good looking woman standing alone. The crowd waits in anticipation. The woman's face lights up. With all the air in her lungs she shouts into the microphone, "It's nobody's fault but mine!"
 
-The crowd roars in applause. Someone puts her hand on the  woman's shoulder. Ruth moves on to sound of the the sweet and scorching music, dancing and swaying her hips as she does. She stands next to a worried looking man and singing, 
+The crowd roars in applause. Someone puts her hand on the  woman's shoulder. Vilma moves on to sound of the the sweet and scorching music, dancing and swaying her hips as she does. She stands next to a worried looking man and singing, 
 
 *(If I don't bring the dough back home--)*
 
-The man issues a grimy, gravelly, off-tune, "It's nobody's fault but mine!" into the microphone, almost knocking back Ruth with its force. The crowd erupts. In the dim light coming from the stage I can see his eyes are misty. Ruth walks on, every now and then thrusting the microphone into somebody's face; in the distance I see her as she sings, 
+The man issues a grimy, gravelly, off-tune, "It's nobody's fault but mine!" into the microphone, almost knocking back Vilma with its force. The crowd erupts. In the dim light coming from the stage I can see his eyes are misty. Vilma walks on, every now and then thrusting the microphone into somebody's face; in the distance I see her as she sings, 
 
 *(If I choose which path I'll walk...)* 
 
-And a young man's voice shouting into the microphone, enthusiastic and off-key and familiar, "Nobody's faaaaaault but minnnne!" I look and see Barry holding on to Ruth's microphone, red-faced. Tim is hugging him as the crowd cheers.
-​	Ruth is walking back now, towards the stage. 
-​	I wonder what my own voice would sound like, bouncing off the many eardrums in the room. As Ruth nears me I stand  in the middle of the empty path she left behind her. Ruth looks me in the eye and nods. She's standing right in front of me. Her eyes seem to scan me from top to bottom. My heart beats and for a moment it seems the music coming from the stage dies down. It's only Ruth and me in the dim light, and she sings, very close to me,
+And a young man's voice shouting into the microphone, enthusiastic and off-key and familiar, "Nobody's faaaaaault but minnnne!" I look and see Barry holding on to Vilma's microphone, red-faced. Tim is hugging him as the crowd cheers.
+​	Vilma is walking back now, towards the stage. 
+​	I wonder what my own voice would sound like, bouncing off the many eardrums in the room. As Vilma nears me I stand  in the middle of the empty path she left behind her. Vilma looks me in the eye and nods. She's standing right in front of me. Her eyes seem to scan me from top to bottom. My heart beats and for a moment it seems the music coming from the stage dies down. It's only Vilma and me in the dim light, and she sings, very close to me,
 
 *(If I dance all by myself...)*
 
 She puts her microphone to my face, her face a mask of expectation. I see the microphone cable snaking behind her, a long black line reaching all the way back to the stage. I breathe in, fully prepared to say it's all my fault that I'm over here dancing alone, without my Cindy. Then I think of Cindy going limp in my arms, signaling she's still leaving. But then I think of Cindy's face in the car, imploring Barry to listen, to hear that she can't breathe at home.
 ​	I find myself singing into the microphone, "It's nobody's fault..." and choke.
-​	​Ruth looks at me, expecting the last two words. But none come out. Then her face changes. She giggles. Then she laughs, a hearty laugh. Then the audience laughs. My face grows hot. Then the audience cheers. Someone from far back yells, "You tell 'em, sis!" and Ruth takes back the microphone and ad-libs, "Damn right! It's nobody's fault!" and the players on stage burst into a complicated, energetic riff... Ruth makes her way back to the stage and the crowd chants to the music,
+​	​Vilma looks at me, expecting the last two words. But none come out. Then her face changes. She giggles. Then the audience laughs. My face grows hot. Then the audience cheers. Someone from far back yells, "You tell 'em, sis!" and Vilma takes back the microphone and ad-libs, "Damn right! It's nobody's fault!" and the players on stage burst into a complicated, energetic riff... She makes her way back to the stage and the crowd chants to the music,
 
 *(It's nobody's fault! Damn right!)*
 
@@ -1580,7 +1578,7 @@ Strangers around me give me sympathetic looks. Someone is hugging me. I have fou
 ​	"You'll see!"
 ​	Then the lights go out on stage. 
 
-We dance in total darkness. Every now and then I feel another body -- a hand touching mine, a torso pressing against mine. I don't know for how long I've been dancing and what the Steam Pillars are playing... I hear many voices, many instruments, many bodies moving across mine. I feel like I'm being carried by a stream of people, towards the center of the room, and also up, up... It really feels like I'm flying.
+We dance in total darkness. Every now and then I feel another body -- a hand touching mine, a torso pressing against mine. I don't know for how long I've been dancing and what The Steam Pillars are playing... I hear many voices, many instruments, many bodies moving across mine. I feel like I'm being carried by a stream of people, towards the center of the room, and also up, up... It really feels like I'm flying.
 ​	Now my eyes adjust to the dim light... or am I just thinking that I see it? But I'm in the middle of the cleared circle in the middle of the room, dancing, no longer the Bunny Hop, but a dance that feels to me to be much more ancient. I see people dance around me. I see my friends. I look at Barry as he's dancing frantically, as he's taking off his jacket. Now his jacket becomes a pair of wings. Now Barry is a cardinal, small and multicolored. He flaps his wings and flies away... I am flying too. I wonder what bird am I, what bird do I look like to the man dancing next to me. Piano notes, strong and urgent, come at me from somewhere...
 ​	Shirley's voice comes on in me ears now. But I can't see Shirley anywhere.
 ​	"Did you see it?" she shouts. "What did you see?"
@@ -1673,9 +1671,3 @@ At first he was
 	“Fine,” I say. “Mock me, whatever. But this is how I know.”
 	“You sure you ain’t sick? You wanna have a lie down?” 
 
-
-
-—————————
-
-“You got it all wrong, *Winford,* says Vilma. 
-	“Don’t call me that,” says Johnny. 

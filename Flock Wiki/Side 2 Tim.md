@@ -63,7 +63,7 @@ cindy is action.
 Ideas that will appear in the side
 communications though public washroom graffiti . Haikus by Kimberly. Flock name written on the wall.
 
-the bear-geneer is a prominante item. at a point we will have to go back and rescue it from somewhere
+the bear-geneer is a prominent item. at a point we will have to go back and rescue it from somewhere
 
 Building a barn, call the guys over. some people go to bath in the stream mid day. some join, some leave.
 
