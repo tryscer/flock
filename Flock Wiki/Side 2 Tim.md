@@ -59,11 +59,13 @@ tim’s voice
 - hsp
 - reflective 
 
-alice in side b is quickly becoming a holy person, esp. through love-struck tim’s pov. 
+Alice in side b is quickly becoming a holy person, esp. through love-struck Tim’s pov. 
 
-barry is a leader of men: like moses 
+Barry is a leader of men: like moses 
+Barry (and possibly Cindy) join the conductors
+Barry is against hierarchy, he wants to see everyone in face level. However, we as readers are more interested in Barry
 
-eleanore is a studious disciple, finding theory in the flock’s behavior
+Eleanore is a studious disciple, finding theory in the flock’s behavior
 
 cindy is action. 
 
@@ -96,6 +98,21 @@ we hint he was successful, at least for a while, after the book ends.
 
 ## things we want to see in side 2
 ### flock formation 
+timeline:
+1. group in a car (side A)
+2. car in a caravan (side A - side B)
+3. caravan has a  goal, and is made of subgroups (cars)
+4. people can switch between cars
+
+How cars in the caravan communicate
+Appearance of fan clubs
+fan-clubs extending their definition, starting to embrace more action
+Starting to use the term flock
+FLockers create means of communicating and identify each other
+
+The Steam Pillars' decision to go to commercial venues, becoming exposed, leaving the under ground 
+At this point the audience became too large: the first public appearance of the steam pillars
+
 
 ### flock examples
 gathering to do a job
