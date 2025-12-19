@@ -32,7 +32,14 @@ flocking is:
 
 flock behaviors
 - everybody is considered to be 0 days old — there no “greenhorns” and no gatekeeping
-- a non-attachment approach (esp. with relationships, and to some extent with everything)
+- A non-attachment approach (esp. with relationships, and to some extent with everything). This does not mean that you don't care about a person you have a relationship with, just that the expectations of this relationship to be bonding are relieved.  
+- However, relations are more important than they would be in a non flock (e.g. a team)  Individuals are seen as a node in a network of relations. In that sense, there is almost no such thing as an individual, because each person perceives this node through their specific relationship. Thus, respect is earned and expected based on the quality of the relationship, and it is something to nourish. 
+  - Each action a person wishes to take is also considered through this lens - how will it effect others  around me? people in the same flock, the same caravan?
+- A flock is a loose group of people (maybe later not just people) engaged in an activity together. Often, that activity has a mean, which can be long or short term. Example includes performing music, creating art, working on a project. Unlike a team, a band or a group, the flock is loose in a few aspects:
+   - Members of the flock can join or leave at well. There is an underline belief that the activity will be completed regardless. This is manifested by the saying "Maybe we'll dance together later"
+  - There is less emphasis on completing a task within a given time, it is completed when the time for it comes, which will be manifested by flock members putting more attention to it. This is manifested by a sense of urgency instilled in people when they join.
+  - There are less rigid roles: we follow whoever is best fitted in a given moment to the task at hand, and we play a role based on what we can contribute best. It may well be that the person who initially formed the flock will move to a back seat or leave completely, letting someone else lead.
+  - The relationships in the flock are at least as important as achieving the activity goal. 
 
 the music has a psychaedelic effect:
 - during causes mdma like love and closeness with others
