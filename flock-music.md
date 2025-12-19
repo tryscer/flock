@@ -24,32 +24,32 @@ I peer through the window overlooking the street and Cindy's brother's Chevy, re
 
 *(Lolli-SCRATCH\!)*
 
-and stuff some necessities into my handbag: a little powder kit, my babysitting fortune of $17.62, and, after giving it some thought, a change of cream-colored panties.  
-​	"We'll all be late, Peaches\!" yells Cindy from the car. I shoo at her and climb down the old Elm tree planted beneath my bedroom window and run across my parents' front lawn, stealthy and undetected. I slip into the back seat.   
+and stuff some necessities into my handbag: a little powder kit, my babysitting fortune of $17.62, and, after giving it some thought, a change of panties.  
+​	"We'll all be late, Peaches!" yells Cindy from the car. I shoo at her and climb down the old Elm tree planted beneath my bedroom window and run across my parents' front lawn, stealthy and undetected. I slip into the back seat.   
 ​	Inside it's full of people and already steaming hot. Ricky Nelson is singing on the radio about having been a little fool. Cindy is stunning in a coral dress in the back seat, blonde and blue-eyed and radiating sunshine. I hug her and she says quietly, "I've got something to–"  
 ​	"Peaches\!"  
-"Don't call me that," I say to Barry, who’s sweating at the wheel in a brown suit that looks too big for him.   
+​	"Don't call me that," I say to Barry, who’s sweating at the wheel in a brown suit that looks too big for him.   
  ​	"Who's she?" says the girl sitting next to Cindy without looking in my direction. She’s got black cigarette pants and a black turtleneck and black sunglasses and black flat shoes. She’s reading through *Seventeen* (“The Big FASHION Issue\!”.)   
 ​	"Oh," says Cindy, storing her secret. "I want you to meet my favorite cousin.” Her voice, warm and loud and Southern, takes on its Party-Hostess quality.   
-​	"Eleanore," says the cousin over the magazine. Cindy lays a hand on her knee and says, "After we’re done, we're taking Eleanore back to the train station going home. She lives in *New-York-City*, you know". Eleanore winces.  
+​	"Eleanore," says the cousin over the magazine. Cindy lays a hand on Eleanore's knee and says, "After we’re done, we're taking Eleanore back to the train station going home. She lives in *New-York-City*, you know". Eleanore winces.  
 ​	"We've met before," I tell Eleanore.  
-​	"Have we?" she says, disinterested. She pushes Cindy's hand away without looking up.  
-​	"Alright boys and girls, here we go," says Barry. We jerk in our seats as the old jalopy springs into action. 
+​	"Have we?" she says, disinterested. She pushes Cindy's hand away without looking up from her magazine.  
+​	"Alright, boys and girls, here we go," says Barry. We jerk in our seats as the old jalopy springs into action. 
 
-Sitting shotgun is a mystery boy, tall, very handsome, ginger-haired. He’s wearing a tight, white tee-shirt and has his hand resting limply behind Barry’s back. I give Cindy an important look and signal at him.   
+Sitting shotgun is a mystery boy, tall, very handsome, ginger-haired. He’s wearing a tight, white tee-shirt and has his hand resting limply behind Barry’s back. I give Cindy an important look...   
 ​	"Oh," says Cindy, her voice resuming that Party Hostess quality, "this of course is Barry's friend Tim". She whispers in my ear, "he has *all* the records". To Tim she says, "please meet Peaches. She’s a music fan, too".  
 ​	"Don't call me that," I whisper to her.  
 ​	“Sorry,” she whispers back.   
 ​	"It's, eh, it's nice to meet you," I say to Tim.  
-"So what's your real name, then?" he says. From his seat, right in front of me, he can only look at me through the rearview mirror. In the little frame I see his shades sitting atop his beautiful nose. He has a deep voice, deeper than Barry's, and he's wearing a very tight tee-shirt.  
-"It's, ah," I say, gracefully, "it's Peggy Sue".  
-Cindy and Barry snort with laughter. "Tell him your real name, Peaches," says Cindy.  
+​	"So what's your real name, then?" he says. From his seat, right in front of me, he can only look at me through the rearview mirror. In the little frame I see his shades sitting atop his beautiful nose. He has a deep voice, deeper than Barry's, and he's wearing a very tight tee-shirt.  
+​	"It's, ah," I say, gracefully, "it's Peggy Sue".  
+​	Cindy and Barry snort with laughter. "Tell him your real name, Peaches," says Cindy.  
 ​	"It's Allison," I whisper.  
 ​	"What? Alice?" says Tim, already looking away. It seems Cindy's betrayal has cost me what little attention he had for me.  
 ​	"Yeah, I guess," I mumble. "Alice would do".  
 ​	"My little Wonderland girl," Cindy laughs, holding my hand. I instantly forgive her. "Here's to Alice\!"  
-Barry and Tim and Eleanore join in a choir: "Alice\!"  
-We all laugh. Somebody turns up the volume…
+​	Barry and Tim and Eleanore join in a choir: "Alice\!"  
+​	We all laugh. Somebody turns up the volume…
 
 *(Splish splash\! I was having a bath\!)*
 
@@ -62,42 +62,44 @@ Scenic Greensboro rolls across the windows: the trimmed green lawns and rustic r
 ​	"Aha," I say, "my very first show".  
 ​	"A greenhorn,” says Eleanore dryly. "Well, you know, I myself have been to *dozens* of shows. And Cindy, you've been to a handful yourself, right?"  
 ​	I wonder at the reason for the obvious slight and quickly find him in the front seat, peering at the map from atop his shades. The sweat on his neck glistens in the late morning sun.  
-​	Cindy presses against me. I look to my left: Eleanore and Cindy are sitting a foot apart. Both are locking sights on Tim. It suddenly feels even hotter in the car. "Tim, didn’t you say," says Cindy, “it's not the number of shows, it's how *gas* the numbers are. Isn't that right, Tim?”  
-"That's right, kidd-o”, says Tim, without looking up from his map.   
+​	Cindy presses against me. I look to my left: Eleanore and Cindy are sitting a foot apart. Both are locking sights on Tim. It suddenly feels even hotter in the car. 
+​	"Tim, didn’t you say," says Cindy, “it's not the number of shows, it's how *gas* the numbers are. Isn't that right, Tim?”  
+​	"That's right, kidd-o”, says Tim, without looking up from his map.   
 ​	Cindy ventures, "Is the show we're going to… in your opinion, of course…"  
-​	"Well," says Tim, and looks back at Cindy. This favor does not go unnoticed with Eleanore. "well, kidd-o… this will be the show of your young life. Years from now, when you're… like… forty or something… you'll tell your grandkids all about that show you saw today". The sun going through the strands of his orange hair seems to fill me with pleasant tingles.  
-​	"What's their name, pretty?" I say. I realize what it is I said when everybody, Barry included, turns to look at me. "What's their pretty name I mean. I mean I bet their name is real pretty". I sink into my seat and add: "Um".  
-Barry and Tim exchange disgusted, amused looks. To my horror, Cindy and Eleanore do the same. It seems my catastrophe has reunited them… if only for a moment. The next one, Eleanore is saying, “So, Tim, have you been to any of their shows?”  
+​	"Well," says Tim, and looks back at Cindy. This favor does not go unnoticed with Eleanore. "Well, kidd-o… this will be the show of your young life. Years from now, when you're… like… forty or something… you'll tell your grandkids all about that show you saw today". The sun going through the strands of his orange hair seems to fill me with pleasant tingles.  
+​	"What's their name, pretty?" I say. I realize what it is I said when everybody, Barry included, turns to look at me. ​	
+​	"What's their pretty name I mean. I mean I bet their name is real pretty". I sink into my seat and add: "Um".  
+​	Barry and Tim exchange disgusted, amused looks. To my horror, Cindy and Eleanore do the same. It seems my catastrophe has reunited them… if only for a moment. The next one, Eleanore is saying, “So, Tim, have you been to any of their shows?”  
 ​	“Who?” I venture. “Who are they?”  
 ​	“I have both of their singles,” Tim says.   
 ​	“So you’ve never seen them live. Tsk, tsk.”   
 ​	Tim seems confused by Eleanore’s probing. “I did listen to them very seriously,” he says.   
 ​	“To whom?” I say.  
-​	Eleanore says, “you know, it’s really not the same thing… Listening to them on your little record player, and feeling the music in your *bare bones*.”  
-​	“Music is music, *Eleanore*,” says Tim, hurt.  
-​	“Who’s music? Who?” I repeat. Eleanore sighs and shoves a torn piece of newspaper in my face: "The Seven-Tops.”  
+​	Eleanore says, “You know, it’s really not the same thing… listening to them on your little record player, and feeling the music in your *bare bones*.”  
+​	“I know that,” says Tim, hurt. "I've been to shows you wouldn't even believe existed."  
+​	“Who’s music? Who?” I repeat. Eleanore sighs and shoves a torn piece of newspaper in my face: "The Seven-Tops,” she says.  
 ​	“They're from *Nashville*,” adds Tim, sounding professional.  
-​	The newspaper lists the many ACTS and SHOWS and POINTS OF INTEREST in this year's HENRICO COUNTY FAIR at VIRGINIA’S STRAWBERRY HILL FAIRGROUNDS \- ACHIEVEMENT DAY\! — among them, and circled in red, are the SEVEN-TOPS, to be playing at 2:30 p.m., right after THE PILLARS OF STEAM. I imagine a train engine, a huge cloud emanating from its chimney, and a bunch of Israelites following, standing on the roofs of the cars, and I giggle.  
+​	The newspaper lists the many ACTS and SHOWS and POINTS OF INTEREST in this year's HENRICO COUNTY FAIR at VIRGINIA’S STRAWBERRY HILL FAIRGROUNDS \- ACHIEVEMENT DAY\! — among them, and circled in red, are the SEVEN-TOPS, to be playing at 2:30 p.m., right after THE STEAM PILLARS. The latter name makes me giggle somehow: I think of a train engine, a huge cloud emanating from its chimney, and a bunch of Israelites following, standing on the roofs of the train cars.
 ​	"What's Achievement Day?" I ask.  
-​	"Now, this is the day set apart for Black businessmen, performers and fairgoers," says Barry from behind the wheel. ​	"It is, also, the reason we're driving there today.”  
+​	"Now, this is the day set apart for Black businessmen, performers and fairgoers," says Barry from behind the wheel. ​"It is, also, the reason we're driving there today.” 
 ​	“Officially,” Cindy says and winks at me.   
 ​	"Black performers?" I whisper. I feel so rebellious and free that I have half a mind to pull Tim's face to mine and see if he kisses me.  
 ​	"That's right, Barry's got a real important job to do," says Cindy. "Father sent him on a top-secret mission\!"  
 ​	"Quiet, sister", says Barry, not looking too hurt. “It’s actually *my* mission.”  
 ​	"What's your secret mission, Barry?" asks Tim.  
 ​	"He needs to personally inspect every cigarette in the fair\!"  
-​	“You talk to me like that," says Barry, "when you have a job. And I'm inspecting the cigarette *girls*. For Father's company. It's my own initiative–"  
+​	“You talk to me like that," says Barry, "when you have a *job*. And I'm inspecting the cigarette *girls*. For Father's company. It's my own initiative–"  
 ​	"Really, Barry?" says Eleanore. "You're to personally inspect each cigarette girl?"  
-​	"Not you, too\!"  
+​	"Not you, too!"  
 ​	The car is loud with howling and laughter.
 
 *(get your kicks… on route… sixty–)*
 
 "So, um, Tim," I say. "Cindy says you have all the records". ​	
-​	“Huh?” Tim says. “Yeah, I guess I do, kidd-o. Bear, what’s that noise?”  
+​	“Huh?” Tim says. “Yeah, I guess I do, kidd-o. Hey, Bear, what’s that noise?”  
 ​	“It always sounds like that,” says Barry.   
-“Because, you know, I’m quite an avid music fan myself—“  
-“What you do,” says Tim, obviously not to me, “is every month, you take apart the carburetor, right? And then you take out all the spark plugs and you arrange them on, like, a blanket. And take some wire brush and some Gunk fluid, right? And you scrub them until they all shine and you are all dirty. Then your engine stops sounding like grandma when she’s got a cold. Because if your engine runs so rough you’re gonna stall, you hear.”   
+​	“Because, you know, I’m quite an avid music fan myself—“ 
+​	“What you do,” says Tim, obviously not to me, “is every month, you take apart the carburetor, right? And then you take out all the spark plugs and you arrange them on, like, a blanket. And take some wire brush and some Gunk fluid, right? And you scrub them until they all shine and you are all dirty. Then your engine stops sounding like grandma when she’s got a cold. Because if your engine runs so rough you’re gonna stall, you hear.”   
 ​	“How dirty do I need to get for this to work?” asks Barry. I give up on my courting attempts.   
 ​	Cindy sees an opening…  
 ​	“Tim looks to me like he can fix any engine,” she says and gives him a smile. Tim smiles back — Eleanore is perturbed — but Barry runs a blocking pass:  
@@ -142,11 +144,10 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​
 “See? What did I tell you?” Says Tim.   
 ​	Cindy leans closer to me, grabbing my hand.  
+​	"Yeah," says Barry. "We'll all be better off finding a place to–"  
+​	Cindy whispers in my ear, "I'm running away from home".
 
 *(BROOM BROOM BROOM\! BROOM BROOM BROOM\!)*  
-
-"Yeah," says Barry. "We'll all be better off finding a place to–"  
-​	Cindy whispers in my ear, "I'm running away from home".
 
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
 ​	"You'll push us into the ditch\!" Eleanore yells. "Tim, put your back into it\! Barry is pushing twice as hard as you\!"  
@@ -162,11 +163,11 @@ Cindy and I are sitting in the back seat, holding hands.
 ​	"Shut up, little girl\!"  
 ​	"I have to… you know, I need to–"  
 ​	"Thank God almighty, there's a service station up ahead\!"  
-And so on.
+​	And so on.
 
-When we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACENT\!) it's so hot even the tarmac is sweating. We can see a couple of peeling pumps, previously red; the workshop behind the office, where a carcass of a car lays hopelessly dead.  
+By the time we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACENT\!) it's so hot out that even the tarmac is sweating a little. We can see a couple of peeling pumps, previously red, the workshop behind the office, where a carcass of a car lays hopelessly dead.  
 ​	Both Barry and Tim are drenched with sweat. Barry took off his coat and tie and he’s leaning on Tim, breathing hard; to our communal delight, Tim has taken off his shirt and is using it to dry his face. We girls leave the car – to get fresh air, of course.  
-​	"Fill 'er up?" says the stocky man in overalls who appeared as if out of nowhere. His name patch says his name is Max.  
+​	"Fill 'er up?" says a stocky man in overalls, who appeared as if out of nowhere. His name patch says his name is Max.  
 ​	“Nothing much to fill up,” Barry says, “unless you got a mechanic.”  
 ​	"I can fix her," says Tim.  
 ​	"Hell you can," says Barry.  
@@ -177,10 +178,10 @@ When we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACENT\!) i
 ​	"Do you need supervision fixing the car?" Eleanore says to Tim. She is watching him putting on his shirt.  
 ​	"Come, sister,” says Barry. “Let’s find us a mechanic”. ​	Cindy takes my hand, so I come, too. 
 
-Larry's Juke Joint is a shack not far from, but certainly not adjacent to, the gas station. We walk through a swinging door and inside it’s one small room, cool and dark, smelling of stale beer and tobacco smoke. The sawdust on the floor is trampled and black, a sign that at other times the place is packed with dancers and drinkers. Now, in the morning, it’s empty save for a few dirty tables and an old jukebox. The jukebox is loudly playing a record I know — "Wake Up, Little Susie", by the Everly Brothers. Next to the jukebox, at the only full table, two men sit next to two glasses and a half-empty bottle.  
-​	"Please, no more," says the older one. He looks at his glass, nauseated.  
+Larry's Juke Joint is a shack not far from, but certainly not adjacent to, the gas station. We walk through a swinging door and inside it’s one small room, cool and dark, smelling of stale beer and tobacco smoke. The sawdust on the floor is trampled and black, indicating that at other times the place is packed with dancers and drinkers. Now, in the morning, it’s empty save for a few dirty tables and an old jukebox. The jukebox is loudly playing a record I know — "Wake Up, Little Susie", by the Everly Brothers. Next to the jukebox, at the only full table, two men sit next to two glasses and a half-empty bottle.  
+​	"Please, no more," says the older one. He looks at his glass, nauseated.   
 ​	"What’s the matter with you?" says the younger man. "I thought you said you could drink". He's got a foreign accent and he's wearing a mechanic's overalls. The embroidered patch on his chest says his name is Eddie.  
-We come closer.  
+​	We come closer.  
 ​	"Excuse me," says Barry, official-like. The man whose name is probably Eddie looks up. He's got black eyes and black hair, combed up like a wall above his head, and a clean shaven face. He's striking: not handsome, rather sharp-featured, keen.  
 ​	"If you're looking for Larry, you gotta holler through the kitchen door," he says. "He's in there making his terrible barbecue".  
 ​	"Actually," says Barry, "we need a mechanic".  
@@ -203,11 +204,11 @@ Eddie's dark eyes turn to me. His attention is intense, not entirely unpleasant.
 Barry looks at me like he would look at an infantile, but the mechanic is mollified.  
 ​	"Oh," he says softly. "I didn't know you guys were music fans.”  
 ​	"So will you fix our car?"  
-"Well…" says Eddie. "I'll fix your car. If, and only if, you play our little game here. As you can see, my play partner" – he slaps the back of the poor fellow lying on the table – "is temporarily indisposed".  
+"Well…" says Eddie. "I'll fix your car. If, and only if, you play our little game here. As you can see, my play partner –" he slaps the back of the poor fellow lying on the table – "is temporarily indisposed".  
 ​	"We have no interest in playing your games," says Barry.  ​	"I'll play your game," I say. Barry nudges me.  
 ​	"Good," says the mechanic. "Good". He gets up nimbly and goes towards that jukebox.
 
-*(...our friends when they-say… oooooooh la la\!)*
+*(...our friends when they-say… oooooh la la\!)*
 
 "Now this here jukebox," says the mechanic and slaps the old thing, "has a unique, one-of-a-kind behavior. It seems that when you kick it…" he kicks the jukebox like it was a bad dog. Life drains out of it. Its lights dim, the music slows then stops…
 
@@ -231,7 +232,7 @@ Barry looks at me like he would look at an infantile, but the mechanic is mollif
 ​	"Well," says the mechanic. "Pull out a chair.”  
 We do.  
 ​	"Of course," says the mechanic, "I would require some coinage, as my play partner ran through his when he failed to recognize Les Paul and Mary Ford's *How High The Moon*."  
-"Give him some coins", I say to Barry. "I could have guessed that in a heartbeat\!"  
+​	"Give him some coins", I say to Barry. "I could have guessed that in a heartbeat\!"  
 ​	“That’s a bad idea," says Barry.  
 ​	"Come on\!" says Cindy. She’s excited, too.   
 ​	Barry sighs and drops some dimes on the table. The mechanic hunches down and scoops them up with a gambler's trained hand.  
@@ -245,39 +246,39 @@ We do.
 ​	
 "I told you," says Barry. The drunkard goes back to sleep next to his glass. The mechanic pushes the glass towards Barry and gleefully tilts the bottle over it. Barry looks at his glass, then at the passed-out man next to him. He downs it and winces.  
 ​	“Don’t worry, you’ll get the next one,” says Cindy. She holds my hand. I look at Barry, feeling guilty.    
-​	“Next song,” says the mechanic and turns around. Intertwining, clean notes, like a Spanish guitar being played on an electric, fill the air.   
-​	“That’s harder,” I say. The mechanic kicks the jukebox. ​	Cindy squeezes my hand. Barry looks up at me.   
+​==“Next song,” says the mechanic and turns around. Intertwining, clean notes, like a Spanish guitar being played on an electric, fill the air.   
+​	“That’s harder,” I say. The mechanic kicks the jukebox. ​Cindy squeezes my hand. Barry looks up at me.   
 ​	“Tick tock,” says the mechanic. I notice that his cup is full — I guess he never drank from it.   
 ​	“Eh… I mean…”  
 ​	“Peaches\!” Barry yells. This is getting exciting.   
-​	“Oh… Oh shoot…” I say and stomp my foot under the table. ​	“Okay\! Okay\! The name of the artist is Buddy Holly and the name of the song is That’ll Be the Day\! Ha\!”  
+​	“Oh… Oh shoot…” I say and stomp my foot under the table. ​“Okay\! Okay\! The name of the artist is Buddy Holly and the name of the song is That’ll Be the Day\! Ha\!”  
 The mechanic stares at me, motionless.   
 ​	“Ooh,” he says as the jukebox winds back to life, sputtering a slew of drumbeats. “So close”. Barry and Cindy shout a collective “no\!”
 
-*(Maybe baybeh, I’ll have you-hoo-hoo)*
+==*(Maybe baybeh, I’ll have you-hoo-hoo)*==
 
-“These of course,” says the mechanic, “are Buddy Holly *and the Crickets*. Singing *Maybe Baby*”.  
+==“These of course,” says the mechanic, “are Buddy Holly *and the Crickets*. Singing *Maybe Baby*”.  
 ​	“You’re cheating\!” I shout.   
 ​	“We’re all cheating, little girl”.   
-​	And so on.
+​	And so on.==
 
-"And I'll tell you one other thing\!" says Barry. He's drunk. “There is no such thing as the Day of Appreciation For the Italian-American anything\! My papa fought in the war and Italy was part of the axis\! So there\!”  
+"And I'll tell you one other thing\!" says Barry. He's drunk. “There is no such thing as the Day of Appreciation For the Italian-American anything\! My papa fought in the war and Italy was part of the *Axis*\! So there\!”  
 ​	Eddie looks miffed at that comment.   
-"I'm sure I'll get the *next* one, Barry. I'm sorry", I say.  
-There’s quite a crowd around us: the drunk, half awake now; Larry, a short man in a dirty apron; the gas station attendant, Max; a couple of early barflies; and Eleanore and Tim, who slinked in looking all guilty.   
+​	"I'm sure I'll get the *next* one, Barry. I'm sorry", I say.  
+​	There’s quite a crowd around us: the drunk, half awake now; Larry, a short man in a dirty apron; the gas station attendant, Max; a couple of early barflies; and Eleanore and Tim, who slinked in looking all guilty.   
 ​	“And I’ll tell you another\!” slurs Barry. “You’re — you — I know your name is Eddie\! We all do\!” He turns to the crowd for support and finds none.   
 ​	“Alright,” says the mechanic whose name is Eddie, “I’ll give you *that*.”  
 ​	“You know, Bear, there's really no need for him,” says Tim. “I told you I got it.”  
 ​	“Did you really fix it?” Asks Cindy, cozying up to him.  
 ​	“Sure did, kid,” He flashes a proud smile at her.   
-“You — you don’t — you’re not getting it,” says Barry. “Now it’s the principle of the matter\! Beat him already, Alice in Woner — in Wondrous — just beat this clown\!”  
+​	“You — you don’t — you’re not getting it,” says Barry. “Now it’s the principle of the matter\! Beat him already, Alice in Woner — in Wondrous — just beat this clown\!”  
 ​	I take a deep breath. “I’m ready,” I tell the set of black eyes.   
 ​	“Alright, Alice in Wonderousland,” says Eddie. “Ready?”  
-“Ready”.   
+​	“Ready”.   
 ​	The jukebox plays a guitar sound that bends and winds like… well, like a broken-down jukebox. Eddie kicks it after four notes.   
 ​	“I don’t — you’re cheating again\! This wasn’t two bars\! I mean I know it’s—”   
 ​	“Hey, girl,” says Eleanore, looking at Eddie. “You can see he’s *conning* you, right?”  
-​	“What do you mean?” I whisper. Eddie looks at her with interest.   
+​	“What do you mean?” I whisper. Eddie looks at her with quiet interest.   
 ​	“He’s obviously playing songs that sounds like *other* songs, songs he thinks you’ll know.”  
 ​	Eddie raises an eyebrow.  
 ​	“Tim,” asks Puppy. “What song is it, really?”  
@@ -314,8 +315,8 @@ The noon sun hurts my eyes. I think about asking Tim to lend me his shades, but 
 ​	“If you fix it for free, you’re fired, that’s it,” says Max.   
 ​	“Alright,” says Eddie, and heads out.   
 ​	“Come on\!” I say. “Don’t go. We’ll give you a ride, right, Barry?”  
-​	“Whatever,” says Barry and sips. From his face you can tell the coffee is terrible.   
-​	“That’s it, you’re fired,” says Max and takes the coffee away from Barry. Nobody pays attention to him. Barry takes another cup.   
+​	“I don't care,” says Barry and sips. From his face you can tell the coffee is terrible.   
+​	“That’s it, you’re fired,” says Max and takes the coffee away from Barry. Nobody pays attention to him. Barry takes another Styrofoam cup.   
 ​	“Alright,” says Eddie and lifts the hood.   
 ​	“She’s fine,” says Tim. He’s standing next to Eddie. “It was just the carburetor. I adjusted the idle mixture. It runs like a *dream*.”  
 ​	Eddie looks at Tim. “Alright,” he says and shuts the hood. “Let’s go”.   
@@ -328,7 +329,7 @@ The noon sun hurts my eyes. I think about asking Tim to lend me his shades, but 
 ​	“Hell I will. I don’t want to see you here ever again,” says Max.  
 ​	“It’s settled then,” says Eddie.   
 ​	“Good,” says Barry.   
-​	“Whatever,” says Tim.  
+​	“Damn it,” says Tim.  
 ​	“Are we going or what?” says Eleanore.    
 ​	But Cindy is quiet, pale: she looks at Eleanore, then at Tim. In the sunlight you can plainly see a couple of dark lipstick marks on his neck. 
 
@@ -443,7 +444,7 @@ Somebody turns on the radio…
 *Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what music shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love...*
 
 *Step right up!*
-​	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!* s of the carousel, the sizzle of the meat on grills, the crunch of peanut shells under foot, the din of the crowd. 
+​	We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!* s of the carousel, the sizzle of meats on grills, the crunch of peanut shells under foot, the din of the crowd. 
 ​	“Daddy, I want you to get me a Fairy Floss!” 
 ​	“Darnel sure looks fancy in that green coat.”
 ​	“What are these white kids doing here?”
@@ -457,7 +458,6 @@ I say, “it’s all so alive!”
 ​	Tim says, “Alright, Peggy Sue, don’t embarrass us in front of the cool cats”. 
 ​	Eddie says, “Since when do you know any cool cats?”
 ​	We walk through the midway, moving between pockets of PA sound. We stare at the stalls selling Friend Chicken and funnel cakes and pulled pork sandwiches and at the kids enjoying themselves on the Tilt-a-Wheel and the merry-go-round. I watch the midway, bustling with a huge throng of people, young parents with babies and old people and gangs of teenagers like us, all black. When we pass by them we get curious, reserved looks; people keep their distance. We are in a bubble in the crowd. 
-==pete plan a==
 ​	“Bet you want a ride on the merry-go-round, Peaches,” says Barry. 
 ​	“We said we don’t call me that, *Bartholimio Joseph*,” I say, “and as a matter of fact, I would *very much* like to go on the merry-go-round.” I give Tim a look I hope will convey forlonging, a word I learned from a book. 
 ​	“Well, tough luck, *Alice*, we’re here to do a job and go home.”

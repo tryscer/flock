@@ -94,17 +94,22 @@ after that, he’s lured away from the pillars to a solo career by calypso.
 we hint he was successful, at least for a while, after the book ends. 
 
 
+## things we want to see in side 2
+### flock formation 
 
-## Track 5
-opening song
-https://music.apple.com/il/album/honeycomb-single-version/303251190?i=303251309
+### flock examples
+gathering to do a job
+someone doesn't want to work
+moving between groups
+### cool scenes
+bathing in the stream
+someone who plants seeds everywhere the pillars had a show
+communicating via bathroom graffiti 
+show around a fire
+### arcs
+**tim in love with alice**
+**tim and calipso**
+**barry becoming moses**
+**alice becoming holy**
 
-https://music.apple.com/il/album/why-do-fools-fall-in-love/1544753342?i=1544753343
 
-
-
-## Track 6 Bear-geneer to be rescued
-
-## Track 7
-
-## Track 8
