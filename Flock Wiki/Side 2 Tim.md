@@ -34,9 +34,9 @@ flock behaviors
 - everybody is considered to be 0 days old — there no “greenhorns” and no gatekeeping
 - A non-attachment approach (esp. with relationships, and to some extent with everything). This does not mean that you don't care about a person you have a relationship with, just that the expectations of this relationship to be bonding are relieved.  
 - However, relations are more important than they would be in a non flock (e.g. a team)  Individuals are seen as a node in a network of relations. In that sense, there is almost no such thing as an individual, because each person perceives this node through their specific relationship. Thus, respect is earned and expected based on the quality of the relationship, and it is something to nourish. 
-  - Each action a person wishes to take is also considered through this lens - how will it effect others  around me? people in the same flock, the same caravan?
+  - Each action a person wishes to take is also considered through this lens - how will it effect others around me? people in the same flock, the same caravan?
 - A flock is a loose group of people (maybe later not just people) engaged in an activity together. Often, that activity has a mean, which can be long or short term. Example includes performing music, creating art, working on a project. Unlike a team, a band or a group, the flock is loose in a few aspects:
-   - Members of the flock can join or leave at well. There is an underline belief that the activity will be completed regardless. This is manifested by the saying "Maybe we'll dance together later"
+   - Members of the flock can join or leave at well. There is an underline belief that the activity will be completed regardless. This is manifested by the saying "**Maybe we'll dance together later**"
   - There is less emphasis on completing a task within a given time, it is completed when the time for it comes, which will be manifested by flock members putting more attention to it. This is manifested by a sense of urgency instilled in people when they join.
   - There are less rigid roles: we follow whoever is best fitted in a given moment to the task at hand, and we play a role based on what we can contribute best. It may well be that the person who initially formed the flock will move to a back seat or leave completely, letting someone else lead.
   - The relationships in the flock are at least as important as achieving the activity goal. 
@@ -79,7 +79,7 @@ the flocks learn how to recreate the music performance experience using singing,
 
 
 
-The record company is named Calypso and its brand logo is a lyre. they’re a slick startup, and all the people it sends are well spoken, friendly, and make you want to shower after you’ve met them. Connection with buzz — uncertain. 
+The record company is named Calypso and its brand logo is a lyre. they’re a slick startup, and all the people it sends are well spoken, friendly, and make you want to shower after you’ve met them. Connection with buzz — ==uncertain.== 
 
 Calypso joins when the phenomenon of steam pillars starts to be well known… as we learn from the breaks (radio?)
 they try to take control of the steam pillars but fail. Luckily they groomed Tim just for that. They turn their jaws on him, make him a star and drive him away from Alice. 
@@ -113,3 +113,16 @@ show around a fire
 **alice becoming holy**
 
 
+
+|                               | **5**                                  | **6**                                  | **7**                                                       | **8**                          | **epilouge**                         |
+| ----------------------------- | -------------------------------------- | -------------------------------------- | ----------------------------------------------------------- | ------------------------------ | ------------------------------------ |
+| **begins**                    | richmond: wonderland joins the caravan |                                        |                                                             |                                | wsl: cindy's flock funeral           |
+| **ends**                      | fuckington: elvis dead                 | cuddlington: the flockening            |                                                             |                                | wsl: tim leaving the flock           |
+| caravan & flock formation     | learning to communicate across cars    | reaching critical mass; the flockening |                                                             |                                | starting to transform west st. louis |
+| tim & alice                   | falls in love with alice               |                                        |                                                             |                                |                                      |
+| tim & steam pillars           | changing string, becoming a roadie     |                                        | gets a chance to perform with the pillars; does not go well |                                |                                      |
+| barry becoming moses          |                                        |                                        |                                                             | sit-in                         |                                      |
+| barry sr. & his kids          |                                        |                                        |                                                             |                                | joining the flock                    |
+| buzz & calipso                |                                        | courting the steam pillars, denied     | courting tim, winning him over                              | tightening their grip over tim | tim leaves to pursue solo career     |
+| sheriff emerson & authorities |                                        |                                        |                                                             |                                |                                      |
+|                               |                                        |                                        |                                                             |                                |                                      |
