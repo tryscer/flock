@@ -15,7 +15,7 @@
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
 *Ba-Boom Boom-Boom*…  
-​	It's an early-summer morning and the windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
+​	==It's June 13th, 1958, a Saturday, one month before my 18th birthday, one day before Elvis died.== It's an early-summer morning. The windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
 
 *(Gee, my lollipop is—HOOOOONK\!)*
 
@@ -476,8 +476,8 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 ​	Eddie takes out a soft pack of Buzz cigarettes from his overalls pocket. “Junior executive,” he says and lights one up, “now, there’s something to aspire to.”  
 ​	Barry snatches the cigarette away right from Eddie’s mouth. “Why,” he says and puts it in his own mouth, “what do you aspire to?” he coughs.   
 ​	Eddie reaches out and takes the cigarette back. “Me? I want the normal things. Success, fame…” he puffs on the cigarette, then offers it to Eleanore. “…equality between races…”  
-​	Eleanore puffs on the cigarette with an elegant city-girl experience. She plays along: “equality between races… independence… working for the United Nations…” she hands the cigarette to Tim. Tim takes it between his thumb and forefinger, gives it a very cool drag:  
-​	“Independence,” he says and puffs. “Driving my bike very fast… napping in the sun… beer…”  
+​	Eleanore puffs on the cigarette with an elegant city-girl air. “Equality between races," she says, "independence… working for the United Nations…” she hands the cigarette to Tim. 
+​	Tim takes it between his thumb and forefinger, gives it a very cool drag. “Independence,” he says and puffs. “Driving my bike very fast… napping in the sun… beer…”  
 ​	Eddie looks at him. “I may grow to appreciate you, boy,” he says. Tim puffs in his face and gives the cigarette back to Barry.   
 ​	“I’m going for independence *and* watching my very first live show,” I say. “Can I have the cigarette?”   
 ​	Everybody except Eddie gives out a collective “no\!”  
@@ -1650,6 +1650,7 @@ When he's finished, some other guy comes and takes the brush, turning towards hi
 # Side 2: Tim
 
 ## Track 5: Morning, Gorgeous
+*The first thing you need to know about the Flock is...*
 
 I first fell in love with Alice at the sunrise after we decided to follow The Midnight Engine. Sometimes an early sun would catch my eye just right and I would instantly see it again, how she was asleep in the back seat of Barry’s old car, how her head was slumped on the window with her big patches of freckles on that very white skin — how her fingers and hair were dipped in radiant pink paint. Barry has been driving right behind the band’s van, and every now and then Eddie would pop his head out of the window and shout something back, something like, *we stop for gas in a mile or two*. We’ve been driving all night, at first so excited we talked in hushed, urgent voices, like we were sharing a secret. Everybody was congratulating or joshing Barry about his newfound freedom. It took a long time for the girls to fall asleep. Now it was just me and Barry, my hand hanging on the seat him, taking in the view. Then I looked back and I saw Alice in the back seat, all freckles and paint, and a pain I never felt before went coursing through my veins. I thought, *I’ve never seen anything so pretty*. I thought, *I’ve never been happier*. I thought, *I’ve never been quite so miserable*. 
 

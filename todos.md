@@ -9,4 +9,5 @@
 - [ ] Change "great balls of fire"
 - [ ] last show -- add more of the effect on alice, her reactions
 - [ ] change fuckington 
+- [ ] keep alive the subtle tension between tim and barry
 

@@ -1,3 +1,10 @@
+---
+aliases:
+  - sp
+  - steam pillars
+  - סטים פילרז
+  - פילרז
+---
 
 #unfinished #places 
 ![[Pasted image 20250922160747.png]]
