@@ -129,7 +129,7 @@ show around a fire
 **barry becoming moses**
 **alice becoming holy**
 
-
+from holiday freedom fun to a revolution: when the freedom encounters its limits it does not succumb, it fights to change the world.
 
 |                               | **5**                                  | **6**                                  | **7**                                                       | **8**                          | **epilouge**                         |
 | ----------------------------- | -------------------------------------- | -------------------------------------- | ----------------------------------------------------------- | ------------------------------ | ------------------------------------ |
