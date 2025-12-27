@@ -1,5 +1,5 @@
 # The Green Book #
-The **Negro Motorist Green Book** (often simply called "The Green Book") was much more than just a travel guide; for Black Americans in the 1950s, it was a tool for survival.1 Created by Victor Hugo Green, a Harlem postal worker, and published annually from 1936 to 1966, its purpose was to provide "the Negro traveler information that will keep him from running into difficulties, embarrassments and to make his trip more enjoyable."2
+The **Negro Motorist Green Book** (often simply called "The Green Book") was much more than just a travel guide; for Black Americans in the 1950s, it was a tool for survival. Created by Victor Hugo Green, a Harlem postal worker, and published annually from 1936 to 1966, its purpose was to provide "the Negro traveler information that will keep him from running into difficulties, embarrassments and to make his trip more enjoyable."
 
 Here is how the Green Book would have governed your 1958 band tour and its following caravan:
 
@@ -78,12 +78,12 @@ This revised itinerary adopts the "Night Flight" strategy for the first leg, whi
 
 | **Date**    | **Time**     | **Location**                                                              | **Event / Activity**                                                                 | **Duration**       | **End Time** |
 | ----------- | ------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------ | ------------ |
-| **June 13** | 8:00 PM      | Richmond                                                                  | **Show @ Hippodrome Theater Click to open side panel for more information**          | 4h (Set + Load)    | 12:00 AM     |
+| **June 13** | 8:00 PM      | Richmond                                                                  | **Show @ Buzz warehouse**                                                            | 4h (Set + Load)    | 12:00 AM     |
 | **June 14** | **12:00 AM** | **Roadside**                                                              | **NIGHT DRIVE: Richmond → Dan River**                                                | 5.5h (Convoy pace) | 5:30 AM      |
 | **June 14** | **5:30 AM**  | Dan River Click to open side panel for more information                   | **SUNRISE ARRIVAL: The River Wash**                                                  | 3.5h (Dip + Eat)   | 9:00 AM      |
 | **June 14** | 9:00 AM      | Dan River                                                                 | **DAY SLEEP** (Shaded field camping)                                                 | 8h                 | 5:00 PM      |
 | **June 15** | 12:00 PM     | Roadside                                                                  | **Travel:** Dan River → Greensboro                                                   | 1.5h               | 1:30 PM      |
-| **June 15** | 7:00 PM      | Greensboro                                                                | **Show @ The Historic Magnolia House Click to open side panel for more information** | 4h                 | 11:00 PM     |
+| **June 15** | 7:00 PM      | Greensboro                                                                | **Show @ The Historic Magnolia House**                                               | 4h                 | 11:00 PM     |
 | **June 16** | 12:00 AM     | Greensboro                                                                | **NIGHT SLEEP** (Magnolia House Lots)                                                | 10h                | 10:00 AM     |
 | **June 17** | --           | Charlotte                                                                 | **TRAVEL & SCOUTING**                                                                | Full Day           | --           |
 | **June 18** | **5:30 AM**  | Bojangles Coliseum / Charlotte outskirts                                  | **THE VIGIL (Sunrise Service)**                                                      | 2h                 | 7:30 AM      |
