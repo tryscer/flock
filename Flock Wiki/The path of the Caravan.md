@@ -1,4 +1,6 @@
-# The Green Book #
+# [The Green Book](https://www.smithsonianmag.com/smithsonian-institution/history-green-book-african-american-travelers-180958506/) #
+
+[The Smithsonian Green Book Project](https://web.archive.org/web/20250919233354/https://negromotoristgreenbook.si.edu/virtual-exhibit/the-green-book/)
 The **Negro Motorist Green Book** (often simply called "The Green Book") was much more than just a travel guide; for Black Americans in the 1950s, it was a tool for survival. Created by Victor Hugo Green, a Harlem postal worker, and published annually from 1936 to 1966, its purpose was to provide "the Negro traveler information that will keep him from running into difficulties, embarrassments and to make his trip more enjoyable."
 
 Here is how the Green Book would have governed your 1958 band tour and its following caravan:
