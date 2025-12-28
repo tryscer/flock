@@ -4,18 +4,18 @@ This timeline prioritizes movement through non-incorporated land—jurisdictiona
 
 ### **The "Ghost Circuit" 1958: Atlanta to St. Louis**
 
-|**Date**|**Location Type**|**Venue / Site**|**Strategy**|
-|---|---|---|---|
-|**July 1**|**Industrial Hideout**|**Railway Warehouse** (Birmingham, AL)|Using the echoing acoustics of a steel-yard warehouse; exit via rail spur if raided.|
-|**July 7**|**Sovereign Land**|**Poarch Creek Grounds** (Near Atmore, AL)|State police lacked jurisdiction on tribal lands. Large communal bonfire performance.|
-|**July 13**|**Natural Basin**|**The Piney Woods Hollow** (South MS)|A natural amphitheater in a deep pine clearing; sound muffled by the dense forest.|
-|**July 19**|**Cajun Protection**|**The Atchafalaya Basin** (Near Lafayette, LA)|Accessible only by boat or narrow levee roads. Local "Cajun-Creole" solidarity.|
-|**July 26**|**Sympathetic Farm**|**The Delta Cotton Clearing** (Indianola, MS)|Performance on the back of flatbed trailers; 3,000+ workers gathered by word-of-mouth.|
-|**Aug 2**|**Island Sanctuary**|**Mississippi River Sandbar** (Near Helena, AR)|Performance on a shifting sandbar; technically in "no-man's land" between state lines.|
-|**Aug 8**|**Urban Stronghold**|**The Steel Mill Commons** (Memphis, TN)|Using the night shift workers as a human shield; loud, brass-heavy "Industrial Soul."|
-|**Aug 15**|**Quarry Basin**|**Limestone Pit** (Southern Illinois)|Deep in a defunct quarry; the stone walls acted as natural amplifiers for the crowd.|
-|**Aug 22**|**Railroad Terminus**|**The Freight Yards** (East St. Louis, IL)|Staging across the river from the city; preparing for the grand bridge crossing.|
-|**Aug 30**|**The Finale**|**The Cosmopolitan Recreation Center** (West St. Louis, MO)|The safe return to a massive urban Black-owned venue for the 5,000-person finale.|
+| **Date**    | **Location Type**      | **Venue / Site**                                            | **Strategy**                                                                           |
+| ----------- | ---------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **July 1**  | **Industrial Hideout** | **Railway Warehouse** (Birmingham, AL)                      | Using the echoing acoustics of a steel-yard warehouse; exit via rail spur if raided.   |
+| **July 7**  | **Sovereign Land**     | **Poarch Creek Grounds** (Near Atmore, AL)                  | State police lacked jurisdiction on tribal lands. Large communal bonfire performance.  |
+| **July 13** | **Natural Basin**      | **The Piney Woods Hollow** (South MS)                       | A natural amphitheater in a deep pine clearing; sound muffled by the dense forest.     |
+| **July 19** | **Cajun Protection**   | **The Atchafalaya Basin** (Near Lafayette, LA)              | Accessible only by boat or narrow levee roads. Local "Cajun-Creole" solidarity.        |
+| **July 26** | **Sympathetic Farm**   | **The Delta Cotton Clearing** (Indianola, MS)               | Performance on the back of flatbed trailers; 3,000+ workers gathered by word-of-mouth. |
+| **Aug 2**   | **Island Sanctuary**   | **Mississippi River Sandbar** (Near Helena, AR)             | Performance on a shifting sandbar; technically in "no-man's land" between state lines. |
+| **Aug 8**   | **Urban Stronghold**   | **The Steel Mill Commons** (Memphis, TN)                    | Using the night shift workers as a human shield; loud, brass-heavy "Industrial Soul."  |
+| **Aug 15**  | **Quarry Basin**       | **Limestone Pit** (Southern Illinois)                       | Deep in a defunct quarry; the stone walls acted as natural amplifiers for the crowd.   |
+| **Aug 22**  | **Railroad Terminus**  | **The Freight Yards** (East St. Louis, IL)                  | Staging across the river from the city; preparing for the grand bridge crossing.       |
+| **Aug 30**  | **The Finale**         | **The Cosmopolitan Recreation Center** (West St. Louis, MO) | The safe return to a massive urban Black-owned venue for the 5,000-person finale.      |
 
 ---
 
