@@ -16,7 +16,7 @@ The effect **only happens at a live show**. Any recording is **dead**.
 ### 2.2 Participation is required (and chosen)
 To feel Love, you must be a **participator**:
 - you must be **in the crowd, dancing**
-- touch is **implied** as part of dancing in that crowd (hands, shoulders, bodies in proximity), but **hands-only** becomes formalized later by Babatunde’s protocol
+- touch is **implied** as part of dancing in that crowd (hands, shoulders, bodies in proximity), but **hands-only** becomes formalized later by Babatunde’s teachings
 - it is **always a choice**: anyone can sit it out, watch, or leave
 
 > **Writer rule:** spectators can observe the crowd; they don’t feel Love. Participators do.
@@ -167,6 +167,7 @@ Babatunde teaches *one aspect* of Love—**enough** to keep flocking going even 
 
 ### 5.4 What it does *not* promise
 - it is not “the Steam Pillars show, anywhere, anytime”
+- no visions
 - it’s “enough” — a sustaining ritual, not the original miracle
 
 > **Writer rule:** Babatunde frames it as *practice*, not magic. The flock can keep Love alive by doing Love.
