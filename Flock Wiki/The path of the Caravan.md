@@ -133,3 +133,4 @@ Sesquicentennial State Park remains the primary "heavy rest" stop before the fin
 
 
 ![[Pasted image 20251226215951.png]]
+![[Pasted image 20251229095134.png]]
