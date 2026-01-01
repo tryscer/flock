@@ -1,6 +1,3 @@
-# Ideas For Mini Ceremony
-
-**Confidence: Medium**
 
 ## Palms touching as a flocker mini-ceremony
 
