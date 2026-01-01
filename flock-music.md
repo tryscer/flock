@@ -147,7 +147,7 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​	"Yeah," says Barry. "We'll all be better off finding a place to–"  
 ​	Cindy whispers in my ear, "I'm running away from home".
 
-*(BROOM BROOM BROOM\! BROOM BROOM BROOM\!)*  
+==replace this with radio insert *(BROOM BROOM BROOM\! BROOM BROOM BROOM\!)*  ==
 
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
 ​	"You'll push us into the ditch\!" Eleanore yells. "Tim, put your back into it\! Barry is pushing twice as hard as you\!"  
@@ -601,7 +601,7 @@ We walk around the fairgrounds, waiting for the show to start. We pass an ice cr
 At the next stall, under the string of bare lightbulbs, the hand-painted sign at the nearby booth says “10 shots \- 25¢,” and the red-faced man in the open-collared shirt under it is busy counting shots of .22 into the hand of a young black patron, who’s chatting excitedly with his girlfriend. A bunch of old Winchester rifles lie at the counter. The man is picking up one of them and shooting into the depths of the booth, where metal cutouts, shot to tatters, are supposed to imitate ducks and quails. 
 ​	Every time a rifle fires, the red-faced man jumps.  
 ​	“Excuse me,” says Cindy ==in her charming voice,== “this young man would like to win me the largest teddy bear you have.”  
-​	”That would be the Bear-gineer,” says the red-faced man ==and wipes== a handkerchief across his sweaty forehead. He gestures towards the top shelf above his head, where a large bear, wearing a train engineer’s hat and overalls, is sitting. 
+​	”That would be the Bear-gineer,” says the red-faced man, wiping a handkerchief across his sweaty forehead. He gestures towards the top shelf above his head, where a large bear, wearing a train engineer’s hat and overalls, is sitting. 
 ​	“Gotta warn you, young man, 12 days so far and no one won him yet.” The man next to us fires a round into the line of automated duck-like things and it spins around its axis with a *ping\!*  
 ​	The red-faced man shudders.   
 ​	“What do I need to do to win?” says Tim and puts a quarter on the counter. The man at the counter counts ten shots into his hand.   
@@ -1497,7 +1497,7 @@ Cindy and I are dancing. Cindy hugs me, all soft in my arms, happy. I say, "You 
 
 I look at Babatunde. His hands are raised to signal something. On stage, Vilma is bellowing into the mic and the guitarist goes to town on the strings. Then: bam! They all strum one last note and the crowd screams and shouts and claps.
 ​	"You all," Vilma intimates into the mic, "are welcome aboard this train."
-​	Then, all of a sudden, Eddie's steam pillars erupts again in the middle of the clearing. We stare and laugh and someone yells, "manna from heaven!" and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
+​	Then, all of a sudden, Eddie's steam pillar erupts again in the middle of the clearing. We stare and laugh and someone yells, "manna from heaven!" and from the back of the room we hear Eddie shout, "Sorry sorry sorry!"
 ​	"All of you except," Vilma says on stage, "for Eddie, who might be killed by Mama before the day is out."
 
 I find myself drawing away from Cindy and into the embrace of the crowd. As the bodies move and wash over me I find myself swept with them and they carry me along, towards the stage, where magical things are told to happen. I look back and see the cigarette girl undoing Barry's tie. Barry looks flushed and unusually happy.
@@ -1505,7 +1505,7 @@ I find myself drawing away from Cindy and into the embrace of the crowd. As the 
 ​	The guitarist walks to the front of the stage now. She holds up her white guitar and plays a little tune -- a bumbling, limping one, soft and small. Around me I hear scattered applause. This, I decide, is the sound of the veteran fans. One veteran on the other side of the empty clearing yells, "It's nobody's fault but mine, Sister!" I push between groups of fans. I see the white-coat lady, almost within my reach...
 ​	The guitar sounds again, playing the same little ditty. But now it's louder, angrier: I see the sound as it washes over the faces of the people around me, see heads bob up and down in agreement.  
 
-At the foot of the stage, the site of magic, the crowd is thick and already moving together to the beat, like synchronized swimmers in colorful dresses and made-up hair. A kid with railway patches on his vest shouts something at the stage and Willie shouts back. 
+At the foot of the stage, the site of magic, the crowd is thick and already moving together to the beat, like synchronized swimmers in colorful dresses and made-up hair. A kid with railway patches on his vest shouts something at the stage and Mucho shouts back. 
 ​	"Are you new here?"
 ​​	I turn my head. There, the lady in the white coat is dancing next to me. Up close, she's pretty; freckles cover her cheeks, around her nose, under a pair of shades. I've never seen anyone wear sunglasses indoor before. Under her coat she's wearing a tight-fitting evening gown, silver and sequined.
 ​	"Are you new here?"

@@ -119,7 +119,7 @@ Include **one small consequence beat per show-night**:
 ---
 
 ### Phase C: Day after — “soft world, clean energy”
-**Core output:** energized softness, cooperative readiness (flocking becomes plausible).
+**Core output:** energized softness, cooperative readiness (flocking becomes plausible). 
 
 Shows up as:
 - early, clean energy (not frantic)
