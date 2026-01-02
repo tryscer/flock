@@ -34,3 +34,42 @@ There are a few specific scenarios where you might have seen this:
     
 - **East Market Street vs. Elm Street:** If the musician moved just a few blocks east to **Market Street** (the heart of the Black business district near NC A&T), they wouldn't just be plausible—they would be a staple of the community.
 ![[Pasted image 20260102002035.png]]
+
+
+## The Underground show ##
+In 1958 Greensboro, a truly "underground" show (clandestine, potentially integrated, or playing "forbidden" music) would need to be held in places where the noise would be masked by machinery or where the police were unlikely to patrol.
+
+Here are three industrial, gritty options for 1958:
+
+### 1. The Pomona Terra Cotta Pipe Works (West Market St Area)
+
+Located on the western edge of the city, this was a massive industrial complex that manufactured clay pipes.
+
+- **The Setting:** By 1958, parts of the older "beehive" kilns were often cool and empty between firings. These circular brick structures looked like ancient ruins and provided incredible, cathedral-like acoustics.
+    
+- **Why it's "Underground":** It sat right next to the Southern Railway tracks. The sound of a loud blues band or a jazz quartet would be easily masked by the heavy clanking of passing freight trains. It was a rugged, dust-covered environment—the ultimate "industrial" stage.
+    
+![[Pasted image 20260102095126.png]]
+### 2. The Mock, Judson, Voehringer Hosiery Mill (The "Mojud" Mill)
+
+Located on Howard Street (now known as the **Westerwood** area), this was a massive brick complex.
+
+- **The Setting:** While the main floors were packed with knitting machines, the **boiler rooms** or the **shipping docks** at night were cavernous and isolated. These spaces featured high ceilings, exposed pipes, and thick concrete floors—perfect for a rowdy crowd of 200 people.
+    
+- **The Vibe:** The smell of machine oil and steam hung in the air. Because it was a "hosiery" mill, it felt slightly more urban and "modern" than the cotton mills. An after-hours show here would feel like a secret meeting of the city’s working-class rebels.
+
+![[Pasted image 20260102095308.png]]
+
+### 3. The Blue Bell Overall Company (South Elm Street)
+
+
+Blue Bell (the precursor to **Wrangler**) had a major presence right downtown, near the railroad tracks.
+
+- **The Setting:** Their **cutting rooms**—where giant tables were used to slice through layers of denim—offered wide-open floor plans.
+    
+- **The Access:** Because it was located so close to the railyards and the "wrong side of the tracks" south of the downtown business district, it was easy for a diverse crowd to slip in and out through the loading bays without being seen by the "respectable" crowds at the Center Theatre or the Jefferson Standard building.
+    
+- **The Connection:** Since it was a denim factory, the space would be filled with the very fabric of the era’s rebellion.
+    
+![[Pasted image 20260102094945.png]]
+---
