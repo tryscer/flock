@@ -40,7 +40,8 @@ There are a few specific scenarios where you might have seen this:
 In 1958 Greensboro, a truly "underground" show (clandestine, potentially integrated, or playing "forbidden" music) would need to be held in places where the noise would be masked by machinery or where the police were unlikely to patrol.
 
 Here are three industrial, gritty options for 1958:
-
+![[Pasted image 20260102110401.png]]
+[Map](https://www.google.com/maps/d/edit?mid=1nohLtkKHN01d53Q-KUTdt7rVqmMATN8&usp=sharing)
 ### 1. The Pomona Terra Cotta Pipe Works (West Market St Area)
 
 Located on the western edge of the city, this was a massive industrial complex that manufactured clay pipes.
