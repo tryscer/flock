@@ -1,3 +1,13 @@
+What is the story about: 
+Realizing I'm in love while we join an amazing experience which is also in friction with the world.
+
+Engines of motion:
+1. Tim courting Alice
+2. Are we in or not?
+3. Learning how to be in the Caravan - communicating
+4. Greenbook - friction with outside world
+5. Getting to know the band
+6. chase by Emerson
 ### Day 1 - June 14th ###
 Tim falls in love with  Alice in the car at dawn
 how cars communicate - directed to the Dan River. Agency- someone say "We are going to the Dan River", and moves on. Our car just decides to join.
