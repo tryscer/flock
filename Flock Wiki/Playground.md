@@ -1,5 +1,15 @@
 #ideas 
 
+
+"But don't you love me?"
+​	"I sure do love you, Tim."
+​	"But... but I mean, do you love me, Tim, as opposed to, I don't know, like every other Flocker here?"
+​	She looks geniunily confused. She says, "What difference does it make?"
+​	I take her hand. The sun plays in her eyes again. "I need to know you love *me*," I say. "Just like I love you. More than anyone else."
+​	"I think I love you more," she says. "But Tim, my heart is so overflown with love. So full to the brim." She looks away, into the waves. "So I can't tell for sure."
+
+-----
+
 Eddie hates Tim for no good reason -- maybe from the time Tim beat him in the jukebox game.
 
 -----

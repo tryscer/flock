@@ -10,4 +10,5 @@
 - [ ] last show -- add more of the effect on alice, her reactions
 - [ ] change fuckington 
 - [ ] keep alive the subtle tension between tim and barry
+- [ ] tim shouldn't give away the bear-gineer
 
