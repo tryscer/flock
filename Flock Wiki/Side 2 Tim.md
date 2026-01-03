@@ -9,6 +9,7 @@ if the first Side was about a one-car, one-day road trip, the second side is abo
 For the band, a different experience: professional life on the road, from obscurity to success. 
 
 For Tim, it’s his arc away from flocking and back into the corporate life that initially was waiting for Barry. 
+Tim wants to be appreciated. All of his life he was considered a pretty boy but a target to mockery and harassment. He wants to show he is talented, capable. He wants a girl to love him for who he is inside, not for his face.
 
 For Barry, it’s the opposite: from being a king’s son to being the moses / jesus / buddha of the movement.
 For Alice, it’s her maturation into a holy example-setter, the spirit of the flock. 
