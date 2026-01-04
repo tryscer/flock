@@ -1,6 +1,17 @@
 #ideas 
 
+I'm surprised to see Heath in the room. Mainly he's been keeping to his room or sit in the corner, feeling his rosary and mumbling to himself. I've certainly never seen him around us when the Pillars were Doing Lines. But it seems he only came in to preach.
+​	"Louisiana state law," he says, "designates at minimum penalty of five to six years, maximum security, for the possession of cocaine. Just thought you should know."
+​	He stands over us, waiting. There's a silence. Then Jo and Vilma burst up laughing. Even Babatunde flashes a smile.
+​	"Go back to your room, heathen," says Vilma. "Pray for me."
+​	"God knows you need it," says Joe.
+​	"Come sit with us for awhile, Heath," says Babatunde. "We won't bite."
+​	"Much," says Vilma. She winks at me.
+​	Heath turns around and leaves. 
+​	
 
+
+----
 "But don't you love me?"
 ​	"I sure do love you, Tim."
 ​	"But... but I mean, do you love me, Tim, as opposed to, I don't know, like every other Flocker here?"
