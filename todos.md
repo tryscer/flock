@@ -6,9 +6,10 @@
 - [x] final Steam Pillars personnel (chapters 2, 3, 4) 
 - [ ] johnny terry (chapters 2,3)
 - [ ] make sure the caravan and barry's decision are clearer (chapter 4) 
-- [ ] Change "great balls of fire"
+- [ ] Change "great balls of fire" to "This Train"
 - [ ] last show -- add more of the effect on alice, her reactions
-- [ ] change fuckington 
+- [x] change fuckington 
+- [ ] Barry's arc
 - [ ] keep alive the subtle tension between tim and barry
 - [ ] tim shouldn't give away the bear-gineer
 

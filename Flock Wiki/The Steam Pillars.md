@@ -8,6 +8,13 @@ aliases:
 
 #unfinished #places 
 ![[Pasted image 20250922160747.png]]
+## about the band in side 2
+The band is a fluid group, people can join in or leave, but the band remains. They are a diverse group that acts and reacts differently to new situations. 
+The band sees a huge success, and then a downfall
+starting to experience luxury, reacting differently to it. Initially it comes as being in the center - people who tend to your every need - the UR and the caravan. The UR here is playing the role of a record company, but we will later see how Calipso is much better at it. The different motives of UR and Calipso to "spoil" the band will be apparent.
+We want to see the SP from new angles: writing a song, practice/jam including friction, on the road, in the hotel room meeting their entourage, complaining about conditions,  how they see a performance. We want to see a show from the stage or back of the stage. 
+The band starts as part of the Caravan, intimate and same level, but slowly gets separated, elevated.
+
 ## Personnel
 ### Percussion: [[Babatunde]]
 **The music he brings:** african traditional music, jazz 
