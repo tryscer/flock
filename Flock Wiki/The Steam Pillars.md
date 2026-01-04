@@ -24,6 +24,8 @@ The band starts as part of the Caravan, intimate and same level, but slowly gets
 **The music she brings:** rock’n’roll
 **Her A-Team power:** her distorted guitar shocks and creates a “spicy” pleasure, causes extacy 
 **Instrument:** a 1955 Fender Broadcaster in goldtop finish; an overdriven 1957 Fender Bassman
+
+
 ### Lead singer: [[Vilma]]
 **The music she brings:** gospel
 **Her A-Team power:** her clear, beautiful voice is a stark contrast to Jo’s distorted guitar: it charms and causes delight. Her vocal range, expressionism and her huge voice boost the emotional effect of the lyrics. 
