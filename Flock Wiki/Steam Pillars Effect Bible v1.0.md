@@ -6,6 +6,12 @@
 
 > **Writer rule:** characters don’t say “high,” “drug,” “psychedelic,” “MDMA,” “trance,” etc. They say **Love**.
 
+
+## side effect
+A good mild physical side effect for Love is jaw warmth + a faint “chewing” urge.
+	•	During/after the show, people notice their jaw muscles feel pleasantly tired, like they’ve been smiling for hours.
+	•	Some unconsciously work their mouth (not sexy, not gross) — a little chew, tongue against teeth, like they’re savoring a taste that isn’t there.
+	•	It reads as tender and communal: you glance around and half the crowd has that same soft-jawed, slightly dazed smile.
 ---
 
 ## 2) Hard rules (never explained in-text, but must stay consistent)
