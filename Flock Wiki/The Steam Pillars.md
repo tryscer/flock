@@ -20,6 +20,7 @@ The band starts as part of the Caravan, intimate and same level, but slowly gets
 **The music he brings:** african traditional music, jazz 
 **His A-Team power:** knows how to use drumming to sync the crowd; excellent crowd-reading abilities 
 **Instrument:** an collection of big and small traditional drums. Every show, he picks up different drums. 
+*Who he is:* prankster and philosopher. He gave up the royal status of his birth to come to america and play music. He shuns fanciness, but enjoys the physical pleasures (he loves food, and he loves mind-expanding drugs.) His main drive is joy, but he also believes in the cause of the UR and his way to help is his pranks. He thought of the idea of disruptions as promotions to the shows. He's the musical leader of the steam pillars, and we suggest it's his percussion that causes 
 ### Lead Guitarist: [[Jo]]
 **The music she brings:** rock’n’roll
 **Her A-Team power:** her distorted guitar shocks and creates a “spicy” pleasure, causes extacy 
