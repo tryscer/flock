@@ -1,0 +1,7648 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": "1000",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 4000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "LAST_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        },
+        {
+          "index": 3,
+          "option": "CURRENT_FILE",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 4,
+          "option": "CURRENT_STREAK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-09-22",
+      "2025-10-11",
+      "2025-10-22",
+      "2025-11-17",
+      "2025-12-02"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Home.md",
+        "wordCountStart": 98,
+        "charCountStart": 768,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 6,
+            "c": 38
+          },
+          {
+            "timeKey": "15:25",
+            "w": 1,
+            "c": 9
+          },
+          {
+            "timeKey": "16:05",
+            "w": 5,
+            "c": 39
+          },
+          {
+            "timeKey": "16:10",
+            "w": 2,
+            "c": 15
+          },
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "16:20",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:05",
+            "w": 4,
+            "c": 27
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "23:45",
+            "w": 6,
+            "c": 47
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "flock-music.md",
+        "wordCountStart": 15616,
+        "charCountStart": 87107,
+        "changes": [
+          {
+            "timeKey": "01:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:10",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "15:05",
+            "w": -2,
+            "c": -15
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Musical Inspiration.md",
+        "wordCountStart": 1338,
+        "charCountStart": 11427,
+        "changes": [
+          {
+            "timeKey": "11:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:05",
+            "w": 55,
+            "c": 501
+          }
+        ],
+        "id": 3
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Jerry Lee Lewis’s Musical Style.md",
+        "wordCountStart": 2001,
+        "charCountStart": 14499,
+        "changes": [],
+        "id": 4
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 65,
+        "charCountStart": 4814,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "15:35",
+            "w": 4,
+            "c": 35
+          },
+          {
+            "timeKey": "16:00",
+            "w": -6,
+            "c": -776
+          },
+          {
+            "timeKey": "17:20",
+            "w": 35,
+            "c": 1110
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 5
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Places.md",
+        "wordCountStart": 13,
+        "charCountStart": 115,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 2,
+            "c": 19
+          },
+          {
+            "timeKey": "13:00",
+            "w": 13,
+            "c": 69
+          }
+        ],
+        "id": 6
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Characters.md",
+        "wordCountStart": 16,
+        "charCountStart": 144,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 4,
+            "c": 47
+          },
+          {
+            "timeKey": "15:30",
+            "w": 15,
+            "c": 128
+          },
+          {
+            "timeKey": "15:50",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "16:05",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "16:10",
+            "w": 9,
+            "c": 65
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Eddie.md",
+        "wordCountStart": 2,
+        "charCountStart": 24,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 5,
+            "c": 31
+          },
+          {
+            "timeKey": "15:20",
+            "w": 17,
+            "c": 98
+          },
+          {
+            "timeKey": "16:05",
+            "w": 5,
+            "c": 31
+          }
+        ],
+        "id": 8
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Barry.md",
+        "wordCountStart": 7,
+        "charCountStart": 63,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 3,
+            "c": 21
+          },
+          {
+            "timeKey": "15:25",
+            "w": 12,
+            "c": 88
+          },
+          {
+            "timeKey": "15:30",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "16:55",
+            "w": 4,
+            "c": 37
+          }
+        ],
+        "id": 9
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Cindy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 15,
+            "c": 112
+          },
+          {
+            "timeKey": "15:25",
+            "w": 6,
+            "c": 56
+          }
+        ],
+        "id": 10
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1021,
+        "charCountStart": 6456,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": -3,
+            "c": -18
+          },
+          {
+            "timeKey": "16:05",
+            "w": 4,
+            "c": 36
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Vilma.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "15:30",
+            "w": 9,
+            "c": 86
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Rosetta.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 10,
+            "c": 89
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/side 1 archive.md",
+        "wordCountStart": 471,
+        "charCountStart": 12127,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 4,
+            "c": 757
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 2,
+        "charCountStart": 27,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 18,
+            "c": 129
+          },
+          {
+            "timeKey": "16:15",
+            "w": 6,
+            "c": 36
+          },
+          {
+            "timeKey": "16:20",
+            "w": 115350,
+            "c": 2340831
+          },
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:40",
+            "w": -115350,
+            "c": -2340831
+          }
+        ],
+        "id": 15
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Tim.md",
+        "wordCountStart": 2,
+        "charCountStart": 170,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 13,
+            "c": 102
+          },
+          {
+            "timeKey": "16:55",
+            "w": 4,
+            "c": 37
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Flocks.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 6,
+            "c": 51
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Wonderland Express.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 14,
+            "c": 115
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Songwriting Co..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 15,
+            "c": 106
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Music circles in the fifties.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 1059,
+            "c": 7491
+          },
+          {
+            "timeKey": "16:40",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 20
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 25,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Juke joints.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 838,
+            "c": 4861
+          }
+        ],
+        "id": 22
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Shirley.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 23
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "How drumbeats create a shared experience.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 192,
+            "c": 1366
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Jerry Lee Lewis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Flock Wiki/Babatunde.md",
+        "wordCountStart": 5,
+        "charCountStart": 59,
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 166,
+            "c": 1010
+          }
+        ],
+        "id": 26
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "flock-music.md",
+        "wordCountStart": 15614,
+        "charCountStart": 87095,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1022,
+        "charCountStart": 6474,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Jerry Lee Lewis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 9,
+            "c": 68
+          },
+          {
+            "timeKey": "00:25",
+            "w": 22,
+            "c": 148
+          },
+          {
+            "timeKey": "11:55",
+            "w": 3,
+            "c": 22
+          }
+        ],
+        "id": 29
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Home.md",
+        "wordCountStart": 127,
+        "charCountStart": 977,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 22
+          },
+          {
+            "timeKey": "17:25",
+            "w": 6,
+            "c": 53
+          },
+          {
+            "timeKey": "19:05",
+            "w": 9,
+            "c": 54
+          },
+          {
+            "timeKey": "19:10",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "23:15",
+            "w": -18,
+            "c": -137
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Characters.md",
+        "wordCountStart": 49,
+        "charCountStart": 420,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Babatunde.md",
+        "wordCountStart": 171,
+        "charCountStart": 1069,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Musical Inspiration.md",
+        "wordCountStart": 1393,
+        "charCountStart": 11928,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Manager's office.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 64,
+            "c": 395
+          },
+          {
+            "timeKey": "17:30",
+            "w": -24,
+            "c": -123
+          },
+          {
+            "timeKey": "17:35",
+            "w": -16,
+            "c": -149
+          },
+          {
+            "timeKey": "17:50",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "17:55",
+            "w": 35,
+            "c": 291
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:40",
+            "w": -38,
+            "c": -318
+          },
+          {
+            "timeKey": "18:45",
+            "w": 363,
+            "c": 2099
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+        "wordCountStart": 33,
+        "charCountStart": 369,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": -33,
+            "c": -369
+          }
+        ],
+        "id": 35
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+        "wordCountStart": 35,
+        "charCountStart": 350,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": -35,
+            "c": -350
+          }
+        ],
+        "id": 36
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 98,
+        "charCountStart": 5190,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 15,
+            "c": 97
+          },
+          {
+            "timeKey": "20:00",
+            "w": 15,
+            "c": 76
+          },
+          {
+            "timeKey": "20:10",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "21:05",
+            "w": -1,
+            "c": -4
+          },
+          {
+            "timeKey": "21:15",
+            "w": -34,
+            "c": -202
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 30,
+        "charCountStart": 173,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "21:05",
+            "w": -1,
+            "c": -4
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Home.md",
+        "wordCountStart": 127,
+        "charCountStart": 977,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 4,
+            "c": 40
+          },
+          {
+            "timeKey": "02:55",
+            "w": 6,
+            "c": 36
+          },
+          {
+            "timeKey": "03:00",
+            "w": -2,
+            "c": -11
+          },
+          {
+            "timeKey": "03:10",
+            "w": -4,
+            "c": -24
+          },
+          {
+            "timeKey": "03:15",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 14,
+        "charCountStart": 74,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "00:50",
+            "w": 23,
+            "c": 100
+          },
+          {
+            "timeKey": "00:55",
+            "w": 8,
+            "c": 35
+          },
+          {
+            "timeKey": "02:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 41
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "flock-music.md",
+        "wordCountStart": 15614,
+        "charCountStart": 87125,
+        "changes": [
+          {
+            "timeKey": "01:25",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "01:30",
+            "w": -1,
+            "c": 14
+          },
+          {
+            "timeKey": "02:15",
+            "w": 0,
+            "c": 9
+          }
+        ],
+        "id": 42
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Breakfast - Outline.md",
+        "wordCountStart": 5385,
+        "charCountStart": 29612,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+        "wordCountStart": 58,
+        "charCountStart": 500,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": -58,
+            "c": -500
+          }
+        ],
+        "id": 44
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+        "wordCountStart": 35,
+        "charCountStart": 350,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": -35,
+            "c": -350
+          }
+        ],
+        "id": 45
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Manager's office.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": 403,
+            "c": 2313
+          }
+        ],
+        "id": 46
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 98,
+        "charCountStart": 5190,
+        "changes": [],
+        "id": 47
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Flock Wiki/Musical Inspiration.md",
+        "wordCountStart": 1393,
+        "charCountStart": 11928,
+        "changes": [],
+        "id": 48
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 587,
+        "charCountStart": 3814,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "flock-music.md",
+        "wordCountStart": 16530,
+        "charCountStart": 92139,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 6,
+            "c": 48
+          },
+          {
+            "timeKey": "23:25",
+            "w": -5,
+            "c": -19
+          }
+        ],
+        "id": 96
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Simplify.md",
+        "wordCountStart": 37,
+        "charCountStart": 370,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -37,
+            "c": -370
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Explain like I am 5.md",
+        "wordCountStart": 37,
+        "charCountStart": 388,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -37,
+            "c": -388
+          }
+        ],
+        "id": 98
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Summarize.md",
+        "wordCountStart": 27,
+        "charCountStart": 307,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -27,
+            "c": -307
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+        "wordCountStart": 33,
+        "charCountStart": 369,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -33,
+            "c": -369
+          }
+        ],
+        "id": 100
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+        "wordCountStart": 58,
+        "charCountStart": 500,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -58,
+            "c": -500
+          }
+        ],
+        "id": 101
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+        "wordCountStart": 36,
+        "charCountStart": 376,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -36,
+            "c": -376
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Make longer.md",
+        "wordCountStart": 38,
+        "charCountStart": 379,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -38,
+            "c": -379
+          }
+        ],
+        "id": 103
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Make shorter.md",
+        "wordCountStart": 37,
+        "charCountStart": 373,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -37,
+            "c": -373
+          }
+        ],
+        "id": 104
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Remove URLs.md",
+        "wordCountStart": 35,
+        "charCountStart": 347,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -35,
+            "c": -347
+          }
+        ],
+        "id": 105
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+        "wordCountStart": 35,
+        "charCountStart": 350,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -35,
+            "c": -350
+          }
+        ],
+        "id": 106
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Generate glossary.md",
+        "wordCountStart": 32,
+        "charCountStart": 353,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -32,
+            "c": -353
+          }
+        ],
+        "id": 107
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Generate table of contents.md",
+        "wordCountStart": 35,
+        "charCountStart": 357,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -35,
+            "c": -357
+          }
+        ],
+        "id": 108
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "copilot/copilot-custom-prompts/Emojify.md",
+        "wordCountStart": 55,
+        "charCountStart": 470,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": -55,
+            "c": -470
+          }
+        ],
+        "id": 109
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 107,
+        "charCountStart": 570,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 28,
+            "c": 165
+          }
+        ],
+        "id": 110
+      },
+      {
+        "date": "2025-09-28",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 135,
+        "charCountStart": 735,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "flock-music.md",
+        "wordCountStart": 16531,
+        "charCountStart": 92168,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 112
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 135,
+        "charCountStart": 735,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -28,
+            "c": 207
+          }
+        ],
+        "id": 113
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 135,
+        "charCountStart": 1105,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 114
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1678,
+        "charCountStart": 10922,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 115
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "flock-music.md",
+        "wordCountStart": 16531,
+        "charCountStart": 92168,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 93,
+        "charCountStart": 4834,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 23,
+            "c": 557
+          },
+          {
+            "timeKey": "19:30",
+            "w": 0,
+            "c": 90
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 169
+          },
+          {
+            "timeKey": "19:45",
+            "w": 1,
+            "c": 1
+          }
+        ],
+        "id": 117
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 135,
+        "charCountStart": 1105,
+        "changes": [],
+        "id": 118
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 93,
+        "charCountStart": 4338,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 24,
+            "c": 1313
+          }
+        ],
+        "id": 119
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 117,
+        "charCountStart": 5651,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 1,
+            "c": 708
+          }
+        ],
+        "id": 120
+      },
+      {
+        "date": "2025-10-07",
+        "filePath": "flock-music.md",
+        "wordCountStart": 16531,
+        "charCountStart": 92168,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 2,
+            "c": 15
+          },
+          {
+            "timeKey": "18:35",
+            "w": 6,
+            "c": 43
+          },
+          {
+            "timeKey": "18:40",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "18:45",
+            "w": 9,
+            "c": 62
+          },
+          {
+            "timeKey": "18:50",
+            "w": 24,
+            "c": 130
+          },
+          {
+            "timeKey": "18:55",
+            "w": 59,
+            "c": 311
+          },
+          {
+            "timeKey": "19:00",
+            "w": 14,
+            "c": 57
+          },
+          {
+            "timeKey": "19:05",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "19:15",
+            "w": -1,
+            "c": -6
+          },
+          {
+            "timeKey": "20:15",
+            "w": 2,
+            "c": 7
+          }
+        ],
+        "id": 121
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "Record Companies.md",
+        "wordCountStart": 803,
+        "charCountStart": 5537,
+        "changes": [],
+        "id": 122
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "Ahmet Ertegun.md",
+        "wordCountStart": 1504,
+        "charCountStart": 9878,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 2,
+            "c": 31
+          }
+        ],
+        "id": 123
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "flock-music.md",
+        "wordCountStart": 16652,
+        "charCountStart": 92825,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 15,
+            "c": 80
+          },
+          {
+            "timeKey": "12:00",
+            "w": 7,
+            "c": 35
+          },
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "16:45",
+            "w": 35,
+            "c": 143
+          },
+          {
+            "timeKey": "16:50",
+            "w": 14,
+            "c": 85
+          },
+          {
+            "timeKey": "16:55",
+            "w": 31,
+            "c": 187
+          },
+          {
+            "timeKey": "17:00",
+            "w": 31,
+            "c": 186
+          },
+          {
+            "timeKey": "17:05",
+            "w": 66,
+            "c": 347
+          },
+          {
+            "timeKey": "17:10",
+            "w": 24,
+            "c": 171
+          },
+          {
+            "timeKey": "17:15",
+            "w": 72,
+            "c": 432
+          },
+          {
+            "timeKey": "17:20",
+            "w": 36,
+            "c": 192
+          },
+          {
+            "timeKey": "17:25",
+            "w": 5,
+            "c": 28
+          },
+          {
+            "timeKey": "17:40",
+            "w": 3,
+            "c": 19
+          },
+          {
+            "timeKey": "17:50",
+            "w": 18,
+            "c": 88
+          },
+          {
+            "timeKey": "17:55",
+            "w": 69,
+            "c": 359
+          },
+          {
+            "timeKey": "18:00",
+            "w": 66,
+            "c": 354
+          },
+          {
+            "timeKey": "18:05",
+            "w": 56,
+            "c": 347
+          },
+          {
+            "timeKey": "20:45",
+            "w": 5,
+            "c": 27
+          },
+          {
+            "timeKey": "21:20",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "21:25",
+            "w": 14,
+            "c": 91
+          },
+          {
+            "timeKey": "21:30",
+            "w": 11,
+            "c": 64
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "Regional Dialect Tells.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 125
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "Flock Wiki/Eleanore.md",
+        "wordCountStart": 343,
+        "charCountStart": 2186,
+        "changes": [],
+        "id": 126
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "Flock Wiki/Barry.md",
+        "wordCountStart": 26,
+        "charCountStart": 211,
+        "changes": [],
+        "id": 127
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "flock-music.md",
+        "wordCountStart": 17231,
+        "charCountStart": 96064,
+        "changes": [
+          {
+            "timeKey": "23:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 128
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "Flock Wiki/Barry.md",
+        "wordCountStart": 26,
+        "charCountStart": 211,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 7,
+            "c": 58
+          }
+        ],
+        "id": 129
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 29,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 131
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "New changes in the book.md",
+        "wordCountStart": 10,
+        "charCountStart": 77,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 132
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Flock Wiki/Barry.md",
+        "wordCountStart": 33,
+        "charCountStart": 269,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Flock Wiki/Home.md",
+        "wordCountStart": 77,
+        "charCountStart": 566,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "flock-music.md",
+        "wordCountStart": 17231,
+        "charCountStart": 96064,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 10,
+            "c": 56
+          },
+          {
+            "timeKey": "00:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "00:10",
+            "w": 15,
+            "c": 87
+          },
+          {
+            "timeKey": "00:15",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "23:20",
+            "w": 6,
+            "c": 38
+          },
+          {
+            "timeKey": "23:25",
+            "w": 24,
+            "c": 118
+          },
+          {
+            "timeKey": "23:30",
+            "w": 15,
+            "c": 98
+          },
+          {
+            "timeKey": "23:35",
+            "w": 10,
+            "c": 59
+          },
+          {
+            "timeKey": "23:40",
+            "w": 12,
+            "c": 69
+          },
+          {
+            "timeKey": "23:45",
+            "w": 4,
+            "c": 33
+          },
+          {
+            "timeKey": "23:50",
+            "w": 5,
+            "c": 35
+          },
+          {
+            "timeKey": "23:55",
+            "w": -10,
+            "c": -28
+          }
+        ],
+        "id": 137
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Flock Wiki/Eleanore.md",
+        "wordCountStart": 347,
+        "charCountStart": 2220,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1688,
+        "charCountStart": 10980,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": -1,
+            "c": -2
+          }
+        ],
+        "id": 139
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "New changes in the book.md",
+        "wordCountStart": 10,
+        "charCountStart": 77,
+        "changes": [],
+        "id": 141
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "flock-music.md",
+        "wordCountStart": 17323,
+        "charCountStart": 96634,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 26,
+            "c": 145
+          },
+          {
+            "timeKey": "00:20",
+            "w": -1,
+            "c": -7
+          },
+          {
+            "timeKey": "00:25",
+            "w": -11,
+            "c": -62
+          },
+          {
+            "timeKey": "00:35",
+            "w": -1,
+            "c": -2
+          },
+          {
+            "timeKey": "00:50",
+            "w": 5,
+            "c": 30
+          },
+          {
+            "timeKey": "00:55",
+            "w": 41,
+            "c": 218
+          },
+          {
+            "timeKey": "01:00",
+            "w": 65,
+            "c": 366
+          },
+          {
+            "timeKey": "01:05",
+            "w": 8,
+            "c": 41
+          },
+          {
+            "timeKey": "01:10",
+            "w": 25,
+            "c": 126
+          },
+          {
+            "timeKey": "01:15",
+            "w": 31,
+            "c": 177
+          },
+          {
+            "timeKey": "01:20",
+            "w": 6,
+            "c": 33
+          },
+          {
+            "timeKey": "01:25",
+            "w": 30,
+            "c": 191
+          },
+          {
+            "timeKey": "01:30",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "01:35",
+            "w": 65,
+            "c": 348
+          },
+          {
+            "timeKey": "01:40",
+            "w": 40,
+            "c": 220
+          },
+          {
+            "timeKey": "01:45",
+            "w": 62,
+            "c": 353
+          },
+          {
+            "timeKey": "01:50",
+            "w": 48,
+            "c": 250
+          },
+          {
+            "timeKey": "01:55",
+            "w": 62,
+            "c": 326
+          },
+          {
+            "timeKey": "02:00",
+            "w": 27,
+            "c": 146
+          },
+          {
+            "timeKey": "02:05",
+            "w": 53,
+            "c": 286
+          },
+          {
+            "timeKey": "02:10",
+            "w": 64,
+            "c": 366
+          },
+          {
+            "timeKey": "02:15",
+            "w": 45,
+            "c": 226
+          },
+          {
+            "timeKey": "02:20",
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "02:25",
+            "w": 5,
+            "c": 16
+          },
+          {
+            "timeKey": "09:35",
+            "w": -6,
+            "c": -22
+          },
+          {
+            "timeKey": "09:40",
+            "w": -6,
+            "c": -29
+          },
+          {
+            "timeKey": "09:45",
+            "w": -18,
+            "c": -105
+          },
+          {
+            "timeKey": "09:50",
+            "w": 62,
+            "c": 337
+          },
+          {
+            "timeKey": "09:55",
+            "w": 17,
+            "c": 87
+          },
+          {
+            "timeKey": "11:10",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "11:15",
+            "w": 18,
+            "c": 119
+          },
+          {
+            "timeKey": "11:20",
+            "w": 27,
+            "c": 138
+          },
+          {
+            "timeKey": "11:25",
+            "w": 2,
+            "c": 10
+          },
+          {
+            "timeKey": "17:50",
+            "w": 36,
+            "c": 165
+          },
+          {
+            "timeKey": "17:55",
+            "w": 39,
+            "c": 230
+          },
+          {
+            "timeKey": "18:00",
+            "w": 15,
+            "c": 84
+          },
+          {
+            "timeKey": "19:05",
+            "w": 21,
+            "c": 89
+          },
+          {
+            "timeKey": "19:10",
+            "w": 60,
+            "c": 330
+          },
+          {
+            "timeKey": "19:15",
+            "w": 120,
+            "c": 621
+          },
+          {
+            "timeKey": "19:20",
+            "w": 49,
+            "c": 300
+          },
+          {
+            "timeKey": "19:25",
+            "w": 15,
+            "c": 81
+          },
+          {
+            "timeKey": "21:30",
+            "w": 15,
+            "c": 72
+          },
+          {
+            "timeKey": "21:35",
+            "w": 42,
+            "c": 222
+          },
+          {
+            "timeKey": "21:40",
+            "w": 39,
+            "c": 220
+          },
+          {
+            "timeKey": "21:45",
+            "w": 28,
+            "c": 142
+          },
+          {
+            "timeKey": "22:05",
+            "w": 34,
+            "c": 203
+          },
+          {
+            "timeKey": "22:10",
+            "w": 25,
+            "c": 115
+          },
+          {
+            "timeKey": "22:25",
+            "w": 34,
+            "c": 179
+          },
+          {
+            "timeKey": "22:30",
+            "w": 39,
+            "c": 200
+          },
+          {
+            "timeKey": "22:35",
+            "w": 31,
+            "c": 157
+          },
+          {
+            "timeKey": "22:50",
+            "w": 8,
+            "c": 49
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Eleanore.md",
+        "wordCountStart": 345,
+        "charCountStart": 2224,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "14:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:15",
+            "w": -1,
+            "c": -1
+          }
+        ],
+        "id": 143
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Vilma.md",
+        "wordCountStart": 12,
+        "charCountStart": 101,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Babatunde.md",
+        "wordCountStart": 175,
+        "charCountStart": 1120,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 39,
+            "c": 258
+          },
+          {
+            "timeKey": "09:55",
+            "w": 5,
+            "c": 42
+          }
+        ],
+        "id": 145
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [],
+        "id": 146
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Characters.md",
+        "wordCountStart": 53,
+        "charCountStart": 454,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1687,
+        "charCountStart": 10978,
+        "changes": [],
+        "id": 148
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Mr. C. Evans.md",
+        "wordCountStart": 10,
+        "charCountStart": 72,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 7,
+            "c": 74
+          },
+          {
+            "timeKey": "10:00",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 149
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/DJ Jonah.md",
+        "wordCountStart": 25,
+        "charCountStart": 173,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Besame Mucho.md",
+        "wordCountStart": 180,
+        "charCountStart": 1112,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "10:00",
+            "w": 5,
+            "c": 34
+          }
+        ],
+        "id": 151
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Cindy.md",
+        "wordCountStart": 22,
+        "charCountStart": 194,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "10:00",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Tim.md",
+        "wordCountStart": 18,
+        "charCountStart": 300,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 153
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 29,
+        "charCountStart": 242,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 7,
+            "c": 62
+          },
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 154
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Eddie.md",
+        "wordCountStart": 29,
+        "charCountStart": 184,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": -7,
+            "c": 1
+          }
+        ],
+        "id": 155
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Dr. Player.md",
+        "wordCountStart": 1,
+        "charCountStart": 13,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 1,
+            "c": 12
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Betye W. Davis.md",
+        "wordCountStart": 1,
+        "charCountStart": 14,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 1,
+            "c": 13
+          }
+        ],
+        "id": 157
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Buzz Cigarettes.md",
+        "wordCountStart": 18,
+        "charCountStart": 281,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Emotional State beat map.md",
+        "wordCountStart": 85,
+        "charCountStart": 1016,
+        "changes": [],
+        "id": 159
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Jim Crow Interactions The Underground Battle Against Integrated Public Spaces.md",
+        "wordCountStart": 362,
+        "charCountStart": 2415,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Rosetta.md",
+        "wordCountStart": 10,
+        "charCountStart": 89,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 1,
+            "c": 18
+          },
+          {
+            "timeKey": "10:10",
+            "w": 0,
+            "c": 7
+          }
+        ],
+        "id": 161
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/A young artist path to success through record companies.md",
+        "wordCountStart": 849,
+        "charCountStart": 5602,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 162
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Musical Inspiration.md",
+        "wordCountStart": 1393,
+        "charCountStart": 11928,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Jo Dalton.md",
+        "wordCountStart": 18,
+        "charCountStart": 1067,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 164
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Home.md",
+        "wordCountStart": 77,
+        "charCountStart": 565,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 184,
+        "charCountStart": 1416,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": -31
+          },
+          {
+            "timeKey": "12:25",
+            "w": -22,
+            "c": -129
+          },
+          {
+            "timeKey": "12:30",
+            "w": 25,
+            "c": 182
+          },
+          {
+            "timeKey": "12:35",
+            "w": 104,
+            "c": 651
+          },
+          {
+            "timeKey": "14:05",
+            "w": -23,
+            "c": -137
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Flock Wiki/Ahmet Ertegun.md",
+        "wordCountStart": 1510,
+        "charCountStart": 9952,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 12,
+            "c": 113
+          }
+        ],
+        "id": 167
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 168
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "flock-music.md",
+        "wordCountStart": 18767,
+        "charCountStart": 104439,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 20,
+            "c": 101
+          },
+          {
+            "timeKey": "10:00",
+            "w": 12,
+            "c": 62
+          },
+          {
+            "timeKey": "10:05",
+            "w": 3,
+            "c": 19
+          },
+          {
+            "timeKey": "11:20",
+            "w": 6,
+            "c": 33
+          },
+          {
+            "timeKey": "11:25",
+            "w": 29,
+            "c": 161
+          },
+          {
+            "timeKey": "11:35",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "15:10",
+            "w": 7,
+            "c": 33
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 36,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 170
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1687,
+        "charCountStart": 10978,
+        "changes": [],
+        "id": 171
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [],
+        "id": 172
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "flock-music.md",
+        "wordCountStart": 18844,
+        "charCountStart": 104851,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": -1,
+            "c": -2
+          },
+          {
+            "timeKey": "12:15",
+            "w": 51,
+            "c": 303
+          },
+          {
+            "timeKey": "12:20",
+            "w": 50,
+            "c": 316
+          },
+          {
+            "timeKey": "12:25",
+            "w": 60,
+            "c": 322
+          },
+          {
+            "timeKey": "12:30",
+            "w": 62,
+            "c": 308
+          },
+          {
+            "timeKey": "12:35",
+            "w": 55,
+            "c": 317
+          },
+          {
+            "timeKey": "12:40",
+            "w": 50,
+            "c": 268
+          },
+          {
+            "timeKey": "12:45",
+            "w": 55,
+            "c": 316
+          },
+          {
+            "timeKey": "12:50",
+            "w": 16,
+            "c": 87
+          },
+          {
+            "timeKey": "12:55",
+            "w": 67,
+            "c": 336
+          },
+          {
+            "timeKey": "13:00",
+            "w": 39,
+            "c": 176
+          },
+          {
+            "timeKey": "13:05",
+            "w": 21,
+            "c": 121
+          },
+          {
+            "timeKey": "13:20",
+            "w": -8,
+            "c": -34
+          },
+          {
+            "timeKey": "13:25",
+            "w": 1,
+            "c": 13
+          },
+          {
+            "timeKey": "14:30",
+            "w": 11,
+            "c": 54
+          },
+          {
+            "timeKey": "16:40",
+            "w": -148,
+            "c": -799
+          },
+          {
+            "timeKey": "16:45",
+            "w": 37,
+            "c": 204
+          },
+          {
+            "timeKey": "16:50",
+            "w": -26,
+            "c": -139
+          },
+          {
+            "timeKey": "16:55",
+            "w": 11,
+            "c": 65
+          },
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 173
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "flock-music.md",
+        "wordCountStart": 18844,
+        "charCountStart": 104851,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 20,
+            "c": 83
+          },
+          {
+            "timeKey": "12:00",
+            "w": 36,
+            "c": 231
+          },
+          {
+            "timeKey": "12:10",
+            "w": -1,
+            "c": -2
+          },
+          {
+            "timeKey": "12:15",
+            "w": 49,
+            "c": 288
+          },
+          {
+            "timeKey": "12:20",
+            "w": 58,
+            "c": 359
+          },
+          {
+            "timeKey": "12:25",
+            "w": 64,
+            "c": 338
+          },
+          {
+            "timeKey": "12:30",
+            "w": 56,
+            "c": 293
+          },
+          {
+            "timeKey": "12:35",
+            "w": 51,
+            "c": 288
+          },
+          {
+            "timeKey": "12:40",
+            "w": 52,
+            "c": 281
+          },
+          {
+            "timeKey": "12:45",
+            "w": 53,
+            "c": 303
+          },
+          {
+            "timeKey": "12:50",
+            "w": 21,
+            "c": 116
+          },
+          {
+            "timeKey": "12:55",
+            "w": 64,
+            "c": 319
+          },
+          {
+            "timeKey": "13:00",
+            "w": 39,
+            "c": 176
+          },
+          {
+            "timeKey": "13:05",
+            "w": 19,
+            "c": 109
+          },
+          {
+            "timeKey": "13:20",
+            "w": -14,
+            "c": -70
+          },
+          {
+            "timeKey": "17:20",
+            "w": -99,
+            "c": -488
+          },
+          {
+            "timeKey": "17:25",
+            "w": 7,
+            "c": 33
+          },
+          {
+            "timeKey": "17:30",
+            "w": -4,
+            "c": -21
+          },
+          {
+            "timeKey": "17:35",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "17:40",
+            "w": 20,
+            "c": 95
+          },
+          {
+            "timeKey": "17:45",
+            "w": 28,
+            "c": 154
+          },
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 6
+          },
+          {
+            "timeKey": "17:55",
+            "w": 38,
+            "c": 229
+          },
+          {
+            "timeKey": "18:00",
+            "w": -1,
+            "c": -16
+          },
+          {
+            "timeKey": "18:10",
+            "w": 45,
+            "c": 252
+          },
+          {
+            "timeKey": "18:15",
+            "w": 26,
+            "c": 134
+          },
+          {
+            "timeKey": "18:20",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "20:40",
+            "w": 5,
+            "c": 48
+          },
+          {
+            "timeKey": "20:45",
+            "w": 26,
+            "c": 149
+          }
+        ],
+        "id": 174
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1687,
+        "charCountStart": 10978,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "flock-music.md",
+        "wordCountStart": 19505,
+        "charCountStart": 108551,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": -2,
+            "c": -19
+          },
+          {
+            "timeKey": "12:35",
+            "w": 10,
+            "c": 69
+          },
+          {
+            "timeKey": "12:40",
+            "w": 19,
+            "c": 85
+          },
+          {
+            "timeKey": "13:50",
+            "w": 45,
+            "c": 270
+          },
+          {
+            "timeKey": "13:55",
+            "w": 64,
+            "c": 379
+          },
+          {
+            "timeKey": "14:00",
+            "w": 87,
+            "c": 484
+          },
+          {
+            "timeKey": "14:05",
+            "w": 93,
+            "c": 521
+          },
+          {
+            "timeKey": "14:10",
+            "w": 57,
+            "c": 322
+          },
+          {
+            "timeKey": "14:15",
+            "w": 41,
+            "c": 207
+          },
+          {
+            "timeKey": "14:20",
+            "w": 75,
+            "c": 392
+          },
+          {
+            "timeKey": "14:25",
+            "w": 102,
+            "c": 513
+          },
+          {
+            "timeKey": "14:30",
+            "w": 56,
+            "c": 287
+          },
+          {
+            "timeKey": "14:35",
+            "w": 7,
+            "c": 59
+          },
+          {
+            "timeKey": "20:55",
+            "w": -2,
+            "c": -7
+          },
+          {
+            "timeKey": "21:00",
+            "w": 42,
+            "c": 238
+          },
+          {
+            "timeKey": "21:05",
+            "w": 111,
+            "c": 602
+          },
+          {
+            "timeKey": "21:10",
+            "w": 31,
+            "c": 171
+          },
+          {
+            "timeKey": "21:15",
+            "w": -31,
+            "c": -151
+          }
+        ],
+        "id": 177
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1687,
+        "charCountStart": 10978,
+        "changes": [],
+        "id": 178
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "New changes in the book.md",
+        "wordCountStart": 9,
+        "charCountStart": 76,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 179
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "flock-music.md",
+        "wordCountStart": 20310,
+        "charCountStart": 112973,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 22,
+            "c": 132
+          },
+          {
+            "timeKey": "10:45",
+            "w": 81,
+            "c": 454
+          },
+          {
+            "timeKey": "10:50",
+            "w": 77,
+            "c": 388
+          },
+          {
+            "timeKey": "10:55",
+            "w": 20,
+            "c": 114
+          },
+          {
+            "timeKey": "12:10",
+            "w": 3,
+            "c": 12
+          },
+          {
+            "timeKey": "12:15",
+            "w": 11,
+            "c": 58
+          },
+          {
+            "timeKey": "12:35",
+            "w": 1,
+            "c": 3
+          },
+          {
+            "timeKey": "14:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:45",
+            "w": 15,
+            "c": 81
+          },
+          {
+            "timeKey": "14:50",
+            "w": 5,
+            "c": 18
+          },
+          {
+            "timeKey": "14:55",
+            "w": 15,
+            "c": 85
+          },
+          {
+            "timeKey": "17:40",
+            "w": 26,
+            "c": 126
+          },
+          {
+            "timeKey": "17:45",
+            "w": 11,
+            "c": 65
+          },
+          {
+            "timeKey": "17:50",
+            "w": -1,
+            "c": -22
+          },
+          {
+            "timeKey": "17:55",
+            "w": 33,
+            "c": 175
+          },
+          {
+            "timeKey": "18:00",
+            "w": 11,
+            "c": 61
+          },
+          {
+            "timeKey": "18:05",
+            "w": 66,
+            "c": 420
+          },
+          {
+            "timeKey": "18:10",
+            "w": 12,
+            "c": 82
+          }
+        ],
+        "id": 180
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1687,
+        "charCountStart": 10978,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 181
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1687,
+        "charCountStart": 10982,
+        "changes": [],
+        "id": 182
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "flock-music.md",
+        "wordCountStart": 20718,
+        "charCountStart": 115225,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 5,
+            "c": 27
+          },
+          {
+            "timeKey": "11:05",
+            "w": 7,
+            "c": 53
+          },
+          {
+            "timeKey": "15:00",
+            "w": 13,
+            "c": 71
+          },
+          {
+            "timeKey": "15:05",
+            "w": 27,
+            "c": 145
+          },
+          {
+            "timeKey": "15:10",
+            "w": 51,
+            "c": 318
+          },
+          {
+            "timeKey": "15:15",
+            "w": 53,
+            "c": 287
+          },
+          {
+            "timeKey": "15:20",
+            "w": 24,
+            "c": 160
+          },
+          {
+            "timeKey": "15:25",
+            "w": 60,
+            "c": 323
+          },
+          {
+            "timeKey": "15:30",
+            "w": 3,
+            "c": 28
+          },
+          {
+            "timeKey": "15:35",
+            "w": 2,
+            "c": 19
+          },
+          {
+            "timeKey": "18:30",
+            "w": 42,
+            "c": 253
+          },
+          {
+            "timeKey": "18:35",
+            "w": 96,
+            "c": 535
+          },
+          {
+            "timeKey": "18:40",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "21:40",
+            "w": 8,
+            "c": 55
+          },
+          {
+            "timeKey": "21:45",
+            "w": 48,
+            "c": 285
+          }
+        ],
+        "id": 183
+      },
+      {
+        "date": "2025-10-20",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2025-10-20",
+        "filePath": "flock-music.md",
+        "wordCountStart": 21158,
+        "charCountStart": 117796,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 17,
+            "c": 118
+          },
+          {
+            "timeKey": "11:10",
+            "w": 20,
+            "c": 116
+          },
+          {
+            "timeKey": "11:15",
+            "w": 41,
+            "c": 208
+          },
+          {
+            "timeKey": "11:20",
+            "w": 6,
+            "c": 38
+          },
+          {
+            "timeKey": "16:35",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "16:40",
+            "w": 4,
+            "c": 20
+          },
+          {
+            "timeKey": "16:45",
+            "w": -3,
+            "c": -23
+          },
+          {
+            "timeKey": "16:50",
+            "w": 8,
+            "c": 42
+          },
+          {
+            "timeKey": "16:55",
+            "w": 20,
+            "c": 131
+          },
+          {
+            "timeKey": "17:00",
+            "w": 10,
+            "c": 58
+          },
+          {
+            "timeKey": "17:05",
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "17:10",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "17:15",
+            "w": 5,
+            "c": 41
+          },
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "17:25",
+            "w": 56,
+            "c": 326
+          },
+          {
+            "timeKey": "17:30",
+            "w": 4,
+            "c": 29
+          },
+          {
+            "timeKey": "17:35",
+            "w": 24,
+            "c": 132
+          },
+          {
+            "timeKey": "17:55",
+            "w": 18,
+            "c": 104
+          },
+          {
+            "timeKey": "18:00",
+            "w": 70,
+            "c": 397
+          },
+          {
+            "timeKey": "18:05",
+            "w": 49,
+            "c": 291
+          },
+          {
+            "timeKey": "18:10",
+            "w": 81,
+            "c": 410
+          },
+          {
+            "timeKey": "18:15",
+            "w": 11,
+            "c": 61
+          },
+          {
+            "timeKey": "18:20",
+            "w": 51,
+            "c": 274
+          },
+          {
+            "timeKey": "18:25",
+            "w": 89,
+            "c": 463
+          },
+          {
+            "timeKey": "18:30",
+            "w": -18,
+            "c": -63
+          },
+          {
+            "timeKey": "18:35",
+            "w": 82,
+            "c": 453
+          },
+          {
+            "timeKey": "18:40",
+            "w": 21,
+            "c": 120
+          },
+          {
+            "timeKey": "18:45",
+            "w": 26,
+            "c": 144
+          },
+          {
+            "timeKey": "18:50",
+            "w": 11,
+            "c": 59
+          }
+        ],
+        "id": 185
+      },
+      {
+        "date": "2025-10-20",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1687,
+        "charCountStart": 10982,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 19,
+            "c": 154
+          }
+        ],
+        "id": 186
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1747,
+        "charCountStart": 11431,
+        "changes": [],
+        "id": 187
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "flock-music.md",
+        "wordCountStart": 21386,
+        "charCountStart": 119036,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "10:00",
+            "w": -2,
+            "c": -11
+          },
+          {
+            "timeKey": "13:40",
+            "w": 5,
+            "c": 19
+          },
+          {
+            "timeKey": "13:45",
+            "w": 27,
+            "c": 138
+          },
+          {
+            "timeKey": "13:50",
+            "w": 58,
+            "c": 330
+          },
+          {
+            "timeKey": "13:55",
+            "w": 83,
+            "c": 454
+          },
+          {
+            "timeKey": "14:00",
+            "w": 49,
+            "c": 275
+          },
+          {
+            "timeKey": "14:05",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "17:10",
+            "w": 18,
+            "c": 94
+          },
+          {
+            "timeKey": "17:15",
+            "w": 52,
+            "c": 283
+          },
+          {
+            "timeKey": "17:20",
+            "w": 5,
+            "c": 34
+          },
+          {
+            "timeKey": "17:25",
+            "w": 48,
+            "c": 265
+          },
+          {
+            "timeKey": "17:30",
+            "w": 46,
+            "c": 292
+          },
+          {
+            "timeKey": "17:35",
+            "w": 102,
+            "c": 574
+          },
+          {
+            "timeKey": "17:40",
+            "w": 43,
+            "c": 225
+          },
+          {
+            "timeKey": "17:45",
+            "w": 73,
+            "c": 448
+          },
+          {
+            "timeKey": "17:50",
+            "w": 85,
+            "c": 488
+          },
+          {
+            "timeKey": "17:55",
+            "w": 41,
+            "c": 231
+          },
+          {
+            "timeKey": "18:00",
+            "w": 9,
+            "c": 80
+          },
+          {
+            "timeKey": "18:05",
+            "w": 80,
+            "c": 417
+          },
+          {
+            "timeKey": "18:10",
+            "w": 21,
+            "c": 129
+          },
+          {
+            "timeKey": "18:15",
+            "w": 11,
+            "c": 46
+          },
+          {
+            "timeKey": "18:20",
+            "w": 17,
+            "c": 101
+          },
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:40",
+            "w": 33,
+            "c": 202
+          },
+          {
+            "timeKey": "18:45",
+            "w": 83,
+            "c": 425
+          },
+          {
+            "timeKey": "18:50",
+            "w": 157,
+            "c": 908
+          },
+          {
+            "timeKey": "18:55",
+            "w": 113,
+            "c": 645
+          },
+          {
+            "timeKey": "19:00",
+            "w": 80,
+            "c": 467
+          },
+          {
+            "timeKey": "19:05",
+            "w": 79,
+            "c": 444
+          },
+          {
+            "timeKey": "19:10",
+            "w": 73,
+            "c": 409
+          },
+          {
+            "timeKey": "19:15",
+            "w": 24,
+            "c": 134
+          },
+          {
+            "timeKey": "19:20",
+            "w": -6,
+            "c": -42
+          },
+          {
+            "timeKey": "19:30",
+            "w": -1,
+            "c": -24
+          },
+          {
+            "timeKey": "21:55",
+            "w": 0,
+            "c": -3
+          },
+          {
+            "timeKey": "22:00",
+            "w": 12,
+            "c": 73
+          },
+          {
+            "timeKey": "22:05",
+            "w": 11,
+            "c": 47
+          },
+          {
+            "timeKey": "22:10",
+            "w": 57,
+            "c": 301
+          },
+          {
+            "timeKey": "22:15",
+            "w": 59,
+            "c": 330
+          },
+          {
+            "timeKey": "22:20",
+            "w": 37,
+            "c": 206
+          },
+          {
+            "timeKey": "22:25",
+            "w": 35,
+            "c": 196
+          },
+          {
+            "timeKey": "22:30",
+            "w": 43,
+            "c": 218
+          },
+          {
+            "timeKey": "22:40",
+            "w": 63,
+            "c": 355
+          },
+          {
+            "timeKey": "22:45",
+            "w": 66,
+            "c": 368
+          },
+          {
+            "timeKey": "22:50",
+            "w": 10,
+            "c": 50
+          },
+          {
+            "timeKey": "22:55",
+            "w": 13,
+            "c": 77
+          },
+          {
+            "timeKey": "23:00",
+            "w": -2,
+            "c": -5
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 12
+          },
+          {
+            "timeKey": "23:55",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 188
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "flock-music.md",
+        "wordCountStart": 21912,
+        "charCountStart": 121927,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "10:00",
+            "w": -2,
+            "c": -11
+          }
+        ],
+        "id": 189
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "flock-music.md",
+        "wordCountStart": 22133,
+        "charCountStart": 123142,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 27,
+            "c": 136
+          },
+          {
+            "timeKey": "17:15",
+            "w": 12,
+            "c": 80
+          }
+        ],
+        "id": 190
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "New changes in the book.md",
+        "wordCountStart": 15,
+        "charCountStart": 106,
+        "changes": [],
+        "id": 191
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1747,
+        "charCountStart": 11431,
+        "changes": [],
+        "id": 192
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "flock-music.md",
+        "wordCountStart": 23297,
+        "charCountStart": 129756,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "00:20",
+            "w": 1,
+            "c": 29
+          },
+          {
+            "timeKey": "00:25",
+            "w": 11,
+            "c": 59
+          },
+          {
+            "timeKey": "00:35",
+            "w": 6,
+            "c": 32
+          },
+          {
+            "timeKey": "02:10",
+            "w": 0,
+            "c": 6
+          },
+          {
+            "timeKey": "02:20",
+            "w": -9,
+            "c": -56
+          },
+          {
+            "timeKey": "02:25",
+            "w": 5,
+            "c": 22
+          },
+          {
+            "timeKey": "02:40",
+            "w": -46,
+            "c": -277
+          },
+          {
+            "timeKey": "02:45",
+            "w": 39,
+            "c": 244
+          },
+          {
+            "timeKey": "02:50",
+            "w": 83,
+            "c": 471
+          },
+          {
+            "timeKey": "03:45",
+            "w": 92,
+            "c": 506
+          },
+          {
+            "timeKey": "03:50",
+            "w": 91,
+            "c": 505
+          },
+          {
+            "timeKey": "10:20",
+            "w": 3,
+            "c": 6
+          },
+          {
+            "timeKey": "10:30",
+            "w": -3,
+            "c": -6
+          },
+          {
+            "timeKey": "10:35",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "10:40",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "10:50",
+            "w": -2,
+            "c": -4
+          },
+          {
+            "timeKey": "10:55",
+            "w": -4,
+            "c": -15
+          },
+          {
+            "timeKey": "11:05",
+            "w": -2,
+            "c": -30
+          },
+          {
+            "timeKey": "11:10",
+            "w": -4,
+            "c": -21
+          },
+          {
+            "timeKey": "11:15",
+            "w": 6,
+            "c": 43
+          },
+          {
+            "timeKey": "11:20",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "17:25",
+            "w": -183,
+            "c": -1011
+          },
+          {
+            "timeKey": "17:30",
+            "w": 3,
+            "c": 17
+          },
+          {
+            "timeKey": "17:35",
+            "w": 3,
+            "c": 16
+          },
+          {
+            "timeKey": "17:40",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "17:50",
+            "w": 53,
+            "c": 278
+          },
+          {
+            "timeKey": "17:55",
+            "w": 59,
+            "c": 302
+          },
+          {
+            "timeKey": "18:00",
+            "w": 32,
+            "c": 185
+          },
+          {
+            "timeKey": "18:05",
+            "w": 23,
+            "c": 118
+          },
+          {
+            "timeKey": "18:10",
+            "w": 21,
+            "c": 132
+          },
+          {
+            "timeKey": "18:15",
+            "w": -2,
+            "c": -14
+          },
+          {
+            "timeKey": "18:40",
+            "w": 43,
+            "c": 245
+          },
+          {
+            "timeKey": "18:45",
+            "w": 50,
+            "c": 302
+          },
+          {
+            "timeKey": "18:50",
+            "w": 18,
+            "c": 115
+          },
+          {
+            "timeKey": "18:55",
+            "w": 101,
+            "c": 565
+          },
+          {
+            "timeKey": "19:00",
+            "w": 62,
+            "c": 365
+          },
+          {
+            "timeKey": "19:05",
+            "w": 19,
+            "c": 81
+          },
+          {
+            "timeKey": "19:10",
+            "w": 52,
+            "c": 255
+          },
+          {
+            "timeKey": "19:15",
+            "w": -2,
+            "c": 2
+          },
+          {
+            "timeKey": "19:20",
+            "w": 14,
+            "c": 119
+          },
+          {
+            "timeKey": "19:25",
+            "w": -3,
+            "c": -42
+          },
+          {
+            "timeKey": "19:30",
+            "w": 63,
+            "c": 350
+          },
+          {
+            "timeKey": "19:35",
+            "w": 15,
+            "c": 87
+          },
+          {
+            "timeKey": "19:40",
+            "w": -600,
+            "c": -3320
+          },
+          {
+            "timeKey": "21:40",
+            "w": 3,
+            "c": 14
+          },
+          {
+            "timeKey": "21:45",
+            "w": 95,
+            "c": 540
+          },
+          {
+            "timeKey": "21:50",
+            "w": 62,
+            "c": 344
+          },
+          {
+            "timeKey": "21:55",
+            "w": 38,
+            "c": 199
+          },
+          {
+            "timeKey": "22:00",
+            "w": -8,
+            "c": -26
+          },
+          {
+            "timeKey": "22:05",
+            "w": -39,
+            "c": -239
+          },
+          {
+            "timeKey": "22:10",
+            "w": 36,
+            "c": 172
+          },
+          {
+            "timeKey": "22:15",
+            "w": 75,
+            "c": 407
+          },
+          {
+            "timeKey": "22:20",
+            "w": 6,
+            "c": 26
+          },
+          {
+            "timeKey": "22:25",
+            "w": 83,
+            "c": 432
+          },
+          {
+            "timeKey": "22:30",
+            "w": 69,
+            "c": 402
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [],
+        "id": 194
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1747,
+        "charCountStart": 11431,
+        "changes": [],
+        "id": 195
+      },
+      {
+        "date": "2025-10-31",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 196
+      },
+      {
+        "date": "2025-10-31",
+        "filePath": "Flock Wiki/Rosetta.md",
+        "wordCountStart": 11,
+        "charCountStart": 114,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2025-10-31",
+        "filePath": "flock-music.md",
+        "wordCountStart": 23831,
+        "charCountStart": 132748,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 37,
+            "c": 228
+          },
+          {
+            "timeKey": "12:50",
+            "w": 65,
+            "c": 348
+          },
+          {
+            "timeKey": "12:55",
+            "w": 63,
+            "c": 355
+          },
+          {
+            "timeKey": "13:00",
+            "w": 29,
+            "c": 146
+          },
+          {
+            "timeKey": "13:05",
+            "w": 7,
+            "c": -9
+          },
+          {
+            "timeKey": "13:55",
+            "w": 1,
+            "c": 0
+          },
+          {
+            "timeKey": "14:00",
+            "w": -7,
+            "c": -26
+          },
+          {
+            "timeKey": "14:05",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 8
+          },
+          {
+            "timeKey": "14:15",
+            "w": -5,
+            "c": -35
+          },
+          {
+            "timeKey": "14:20",
+            "w": 6,
+            "c": 31
+          },
+          {
+            "timeKey": "14:25",
+            "w": 1,
+            "c": 9
+          },
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "14:35",
+            "w": -2,
+            "c": -24
+          },
+          {
+            "timeKey": "14:40",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "14:45",
+            "w": 15,
+            "c": 69
+          },
+          {
+            "timeKey": "14:50",
+            "w": 7,
+            "c": 41
+          }
+        ],
+        "id": 198
+      },
+      {
+        "date": "2025-10-31",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1747,
+        "charCountStart": 11431,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2025-10-31",
+        "filePath": "New changes in the book.md",
+        "wordCountStart": 15,
+        "charCountStart": 106,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2025-11-01",
+        "filePath": "flock-music.md",
+        "wordCountStart": 24053,
+        "charCountStart": 133917,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "12:25",
+            "w": 0,
+            "c": 46
+          },
+          {
+            "timeKey": "13:30",
+            "w": 27,
+            "c": 137
+          },
+          {
+            "timeKey": "13:35",
+            "w": 20,
+            "c": 131
+          },
+          {
+            "timeKey": "13:40",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 201
+      },
+      {
+        "date": "2025-11-03",
+        "filePath": "flock-music.md",
+        "wordCountStart": 24100,
+        "charCountStart": 134235,
+        "changes": [],
+        "id": 202
+      },
+      {
+        "date": "2025-11-03",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 49,
+        "charCountStart": 309,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 27,
+            "c": 146
+          },
+          {
+            "timeKey": "14:20",
+            "w": 68,
+            "c": 395
+          },
+          {
+            "timeKey": "14:50",
+            "w": 30,
+            "c": 188
+          }
+        ],
+        "id": 203
+      },
+      {
+        "date": "2025-11-03",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 36,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2025-11-03",
+        "filePath": "Danny the Deuce.md",
+        "wordCountStart": 31,
+        "charCountStart": 216,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2025-11-04",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 174,
+        "charCountStart": 1038,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 49,
+            "c": 334
+          },
+          {
+            "timeKey": "16:45",
+            "w": 83,
+            "c": 538
+          },
+          {
+            "timeKey": "16:50",
+            "w": 68,
+            "c": 460
+          },
+          {
+            "timeKey": "16:55",
+            "w": 38,
+            "c": 246
+          },
+          {
+            "timeKey": "17:45",
+            "w": 33,
+            "c": 190
+          },
+          {
+            "timeKey": "17:50",
+            "w": 34,
+            "c": 217
+          },
+          {
+            "timeKey": "18:05",
+            "w": 14,
+            "c": 72
+          },
+          {
+            "timeKey": "18:25",
+            "w": 84,
+            "c": 457
+          },
+          {
+            "timeKey": "18:30",
+            "w": 107,
+            "c": 527
+          }
+        ],
+        "id": 206
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 684,
+        "charCountStart": 4079,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 207
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1747,
+        "charCountStart": 11431,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "flock-music.md",
+        "wordCountStart": 24100,
+        "charCountStart": 134235,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2025-11-12",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 118,
+        "charCountStart": 6359,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 23,
+            "c": 145
+          },
+          {
+            "timeKey": "17:15",
+            "w": 30,
+            "c": 198
+          },
+          {
+            "timeKey": "17:20",
+            "w": 8,
+            "c": 47
+          },
+          {
+            "timeKey": "17:25",
+            "w": 6,
+            "c": 22
+          },
+          {
+            "timeKey": "17:30",
+            "w": 10,
+            "c": 57
+          },
+          {
+            "timeKey": "18:35",
+            "w": -32,
+            "c": -3729
+          },
+          {
+            "timeKey": "18:40",
+            "w": 103,
+            "c": 4607
+          }
+        ],
+        "id": 210
+      },
+      {
+        "date": "2025-11-12",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 268,
+        "charCountStart": 1952,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 37,
+            "c": 561
+          }
+        ],
+        "id": 211
+      },
+      {
+        "date": "2025-11-12",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 684,
+        "charCountStart": 4078,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2025-11-12",
+        "filePath": "Shirley.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 1,
+            "c": 17
+          },
+          {
+            "timeKey": "17:30",
+            "w": 7,
+            "c": 67
+          }
+        ],
+        "id": 213
+      },
+      {
+        "date": "2025-11-12",
+        "filePath": "Flock Wiki/side 1 archive.md",
+        "wordCountStart": 475,
+        "charCountStart": 12884,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 32,
+            "c": 3729
+          }
+        ],
+        "id": 214
+      },
+      {
+        "date": "2025-11-12",
+        "filePath": "flock-music.md",
+        "wordCountStart": 24100,
+        "charCountStart": 134235,
+        "changes": [],
+        "id": 215
+      },
+      {
+        "date": "2025-11-14",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 305,
+        "charCountStart": 2513,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 56,
+            "c": 345
+          },
+          {
+            "timeKey": "15:50",
+            "w": 10,
+            "c": 75
+          }
+        ],
+        "id": 216
+      },
+      {
+        "date": "2025-11-14",
+        "filePath": "flock-music.md",
+        "wordCountStart": 24100,
+        "charCountStart": 134235,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "01:20",
+            "w": 9,
+            "c": 46
+          },
+          {
+            "timeKey": "17:30",
+            "w": 10,
+            "c": 58
+          }
+        ],
+        "id": 217
+      },
+      {
+        "date": "2025-11-16",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 371,
+        "charCountStart": 2933,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 14,
+            "c": 101
+          }
+        ],
+        "id": 218
+      },
+      {
+        "date": "2025-11-16",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 266,
+        "charCountStart": 7683,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:25",
+            "w": -29,
+            "c": -2646
+          },
+          {
+            "timeKey": "21:30",
+            "w": 28,
+            "c": 205
+          },
+          {
+            "timeKey": "21:35",
+            "w": 51,
+            "c": 348
+          },
+          {
+            "timeKey": "21:40",
+            "w": 13,
+            "c": 74
+          },
+          {
+            "timeKey": "21:50",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "22:00",
+            "w": 18,
+            "c": 117
+          },
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "22:35",
+            "w": 32,
+            "c": 190
+          },
+          {
+            "timeKey": "22:40",
+            "w": 12,
+            "c": 68
+          },
+          {
+            "timeKey": "22:45",
+            "w": 7,
+            "c": 36
+          },
+          {
+            "timeKey": "22:50",
+            "w": 13,
+            "c": 74
+          },
+          {
+            "timeKey": "22:55",
+            "w": 35,
+            "c": 178
+          },
+          {
+            "timeKey": "23:00",
+            "w": 6,
+            "c": 51
+          }
+        ],
+        "id": 219
+      },
+      {
+        "date": "2025-11-16",
+        "filePath": "Flock Wiki/side 1 archive.md",
+        "wordCountStart": 475,
+        "charCountStart": 12884,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 29,
+            "c": 2669
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2025-11-16",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 684,
+        "charCountStart": 4077,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 12,
+            "c": 94
+          },
+          {
+            "timeKey": "21:55",
+            "w": 10,
+            "c": 85
+          }
+        ],
+        "id": 221
+      },
+      {
+        "date": "2025-11-16",
+        "filePath": "Shirley.md",
+        "wordCountStart": 8,
+        "charCountStart": 84,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 0,
+            "c": 10
+          },
+          {
+            "timeKey": "21:50",
+            "w": 10,
+            "c": 53
+          },
+          {
+            "timeKey": "21:55",
+            "w": 3,
+            "c": 37
+          }
+        ],
+        "id": 222
+      },
+      {
+        "date": "2025-11-16",
+        "filePath": "flock-music.md",
+        "wordCountStart": 24119,
+        "charCountStart": 134341,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2025-11-17",
+        "filePath": "flock-music.md",
+        "wordCountStart": 24119,
+        "charCountStart": 134341,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "18:05",
+            "w": 51,
+            "c": 250
+          },
+          {
+            "timeKey": "18:10",
+            "w": 68,
+            "c": 398
+          },
+          {
+            "timeKey": "18:15",
+            "w": 77,
+            "c": 433
+          },
+          {
+            "timeKey": "18:20",
+            "w": 69,
+            "c": 391
+          },
+          {
+            "timeKey": "18:25",
+            "w": 80,
+            "c": 460
+          },
+          {
+            "timeKey": "18:30",
+            "w": 15,
+            "c": 95
+          },
+          {
+            "timeKey": "18:35",
+            "w": 8,
+            "c": 38
+          },
+          {
+            "timeKey": "18:40",
+            "w": -1,
+            "c": -3
+          },
+          {
+            "timeKey": "18:45",
+            "w": 22,
+            "c": 99
+          },
+          {
+            "timeKey": "20:10",
+            "w": 43,
+            "c": 259
+          },
+          {
+            "timeKey": "20:15",
+            "w": 75,
+            "c": 438
+          },
+          {
+            "timeKey": "20:20",
+            "w": 95,
+            "c": 526
+          },
+          {
+            "timeKey": "20:25",
+            "w": 76,
+            "c": 410
+          },
+          {
+            "timeKey": "20:30",
+            "w": 87,
+            "c": 467
+          },
+          {
+            "timeKey": "20:35",
+            "w": 42,
+            "c": 259
+          },
+          {
+            "timeKey": "20:40",
+            "w": 84,
+            "c": 462
+          },
+          {
+            "timeKey": "20:45",
+            "w": 42,
+            "c": 242
+          },
+          {
+            "timeKey": "20:50",
+            "w": 59,
+            "c": 320
+          },
+          {
+            "timeKey": "20:55",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "22:50",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "22:55",
+            "w": 39,
+            "c": 214
+          },
+          {
+            "timeKey": "23:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "23:05",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "23:10",
+            "w": 37,
+            "c": 193
+          },
+          {
+            "timeKey": "23:15",
+            "w": 43,
+            "c": 250
+          },
+          {
+            "timeKey": "23:20",
+            "w": 55,
+            "c": 289
+          },
+          {
+            "timeKey": "23:25",
+            "w": 54,
+            "c": 294
+          },
+          {
+            "timeKey": "23:30",
+            "w": -1,
+            "c": -1
+          }
+        ],
+        "id": 224
+      },
+      {
+        "date": "2025-11-17",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 454,
+        "charCountStart": 6394,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2025-11-18",
+        "filePath": "Shirley.md",
+        "wordCountStart": 21,
+        "charCountStart": 184,
+        "changes": [],
+        "id": 226
+      },
+      {
+        "date": "2025-11-18",
+        "filePath": "Flock Wiki/Babatunde.md",
+        "wordCountStart": 219,
+        "charCountStart": 1420,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2025-11-18",
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1022,
+        "charCountStart": 6474,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2025-11-18",
+        "filePath": "flock-music.md",
+        "wordCountStart": 25344,
+        "charCountStart": 141166,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:10",
+            "w": 9,
+            "c": 68
+          },
+          {
+            "timeKey": "18:15",
+            "w": 76,
+            "c": 427
+          },
+          {
+            "timeKey": "18:20",
+            "w": 49,
+            "c": 262
+          },
+          {
+            "timeKey": "18:25",
+            "w": 43,
+            "c": 268
+          },
+          {
+            "timeKey": "18:30",
+            "w": 72,
+            "c": 421
+          },
+          {
+            "timeKey": "18:35",
+            "w": 58,
+            "c": 339
+          },
+          {
+            "timeKey": "18:40",
+            "w": 34,
+            "c": 214
+          },
+          {
+            "timeKey": "18:45",
+            "w": 72,
+            "c": 404
+          },
+          {
+            "timeKey": "18:50",
+            "w": 63,
+            "c": 335
+          },
+          {
+            "timeKey": "18:55",
+            "w": 23,
+            "c": 123
+          },
+          {
+            "timeKey": "19:00",
+            "w": 8,
+            "c": 60
+          },
+          {
+            "timeKey": "19:05",
+            "w": 39,
+            "c": 192
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2025-11-19",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 453,
+        "charCountStart": 6963,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2025-11-19",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 385,
+        "charCountStart": 3034,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": 196
+          },
+          {
+            "timeKey": "17:05",
+            "w": 2,
+            "c": 250
+          },
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": 113
+          },
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": 52
+          },
+          {
+            "timeKey": "17:40",
+            "w": 0,
+            "c": -7
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 39
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2025-11-19",
+        "filePath": "flock-music.md",
+        "wordCountStart": 25890,
+        "charCountStart": 144280,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2025-11-20",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 36,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 235
+      },
+      {
+        "date": "2025-11-20",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 387,
+        "charCountStart": 3675,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 8
+          }
+        ],
+        "id": 236
+      },
+      {
+        "date": "2025-11-20",
+        "filePath": "Excerpts from Steam Pillars - a Memoir, By Prof. Eleanore Pupinstone.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 56,
+            "c": 304
+          },
+          {
+            "timeKey": "19:15",
+            "w": 42,
+            "c": 262
+          },
+          {
+            "timeKey": "19:20",
+            "w": 39,
+            "c": 237
+          },
+          {
+            "timeKey": "19:25",
+            "w": 36,
+            "c": 186
+          },
+          {
+            "timeKey": "19:30",
+            "w": 27,
+            "c": 147
+          },
+          {
+            "timeKey": "19:35",
+            "w": 67,
+            "c": 389
+          },
+          {
+            "timeKey": "19:40",
+            "w": 100,
+            "c": 541
+          },
+          {
+            "timeKey": "19:45",
+            "w": 55,
+            "c": 316
+          },
+          {
+            "timeKey": "19:50",
+            "w": 39,
+            "c": 211
+          },
+          {
+            "timeKey": "19:55",
+            "w": 65,
+            "c": 385
+          },
+          {
+            "timeKey": "20:00",
+            "w": 22,
+            "c": 136
+          },
+          {
+            "timeKey": "20:05",
+            "w": 34,
+            "c": 195
+          },
+          {
+            "timeKey": "20:10",
+            "w": 20,
+            "c": 113
+          },
+          {
+            "timeKey": "20:15",
+            "w": 32,
+            "c": 191
+          },
+          {
+            "timeKey": "20:20",
+            "w": 10,
+            "c": 73
+          }
+        ],
+        "id": 237
+      },
+      {
+        "date": "2025-11-26",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 387,
+        "charCountStart": 3675,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 238
+      },
+      {
+        "date": "2025-11-26",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 36,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2025-11-26",
+        "filePath": "flock-music.md",
+        "wordCountStart": 25890,
+        "charCountStart": 144280,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 8,
+            "c": 54
+          },
+          {
+            "timeKey": "17:40",
+            "w": 18,
+            "c": 103
+          },
+          {
+            "timeKey": "17:45",
+            "w": 46,
+            "c": 243
+          },
+          {
+            "timeKey": "17:50",
+            "w": -1327,
+            "c": -7485
+          },
+          {
+            "timeKey": "17:55",
+            "w": 78,
+            "c": 441
+          },
+          {
+            "timeKey": "18:00",
+            "w": 46,
+            "c": 266
+          },
+          {
+            "timeKey": "18:05",
+            "w": 73,
+            "c": 401
+          },
+          {
+            "timeKey": "18:10",
+            "w": 75,
+            "c": 417
+          },
+          {
+            "timeKey": "18:15",
+            "w": 103,
+            "c": 590
+          },
+          {
+            "timeKey": "18:20",
+            "w": 39,
+            "c": 216
+          },
+          {
+            "timeKey": "18:25",
+            "w": 62,
+            "c": 353
+          },
+          {
+            "timeKey": "18:30",
+            "w": 32,
+            "c": 179
+          }
+        ],
+        "id": 240
+      },
+      {
+        "date": "2025-12-01",
+        "filePath": "flock-music.md",
+        "wordCountStart": 25143,
+        "charCountStart": 140058,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 1,
+            "c": 2
+          },
+          {
+            "timeKey": "16:15",
+            "w": 19,
+            "c": 98
+          },
+          {
+            "timeKey": "16:20",
+            "w": 30,
+            "c": 177
+          },
+          {
+            "timeKey": "16:25",
+            "w": 16,
+            "c": 83
+          },
+          {
+            "timeKey": "16:30",
+            "w": 43,
+            "c": 241
+          },
+          {
+            "timeKey": "16:35",
+            "w": 15,
+            "c": 78
+          },
+          {
+            "timeKey": "16:40",
+            "w": 4,
+            "c": 38
+          },
+          {
+            "timeKey": "16:50",
+            "w": 31,
+            "c": 170
+          },
+          {
+            "timeKey": "16:55",
+            "w": 39,
+            "c": 233
+          },
+          {
+            "timeKey": "17:00",
+            "w": 5,
+            "c": 25
+          },
+          {
+            "timeKey": "17:05",
+            "w": 3,
+            "c": 12
+          },
+          {
+            "timeKey": "17:10",
+            "w": -5,
+            "c": -29
+          },
+          {
+            "timeKey": "17:15",
+            "w": 85,
+            "c": 460
+          },
+          {
+            "timeKey": "17:20",
+            "w": 6,
+            "c": 38
+          },
+          {
+            "timeKey": "17:25",
+            "w": 36,
+            "c": 206
+          },
+          {
+            "timeKey": "17:30",
+            "w": 3,
+            "c": 12
+          },
+          {
+            "timeKey": "18:15",
+            "w": -2,
+            "c": -8
+          },
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:25",
+            "w": -4,
+            "c": -18
+          },
+          {
+            "timeKey": "18:30",
+            "w": 6,
+            "c": 44
+          },
+          {
+            "timeKey": "18:35",
+            "w": 10,
+            "c": 49
+          },
+          {
+            "timeKey": "18:40",
+            "w": 30,
+            "c": 171
+          },
+          {
+            "timeKey": "18:45",
+            "w": 21,
+            "c": 109
+          },
+          {
+            "timeKey": "18:50",
+            "w": 30,
+            "c": 163
+          },
+          {
+            "timeKey": "18:55",
+            "w": 30,
+            "c": 181
+          },
+          {
+            "timeKey": "19:00",
+            "w": 8,
+            "c": 58
+          },
+          {
+            "timeKey": "19:05",
+            "w": 20,
+            "c": 114
+          },
+          {
+            "timeKey": "19:10",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "19:15",
+            "w": 62,
+            "c": 358
+          },
+          {
+            "timeKey": "19:20",
+            "w": 6,
+            "c": 32
+          },
+          {
+            "timeKey": "19:25",
+            "w": -3,
+            "c": -21
+          },
+          {
+            "timeKey": "19:30",
+            "w": 17,
+            "c": 111
+          },
+          {
+            "timeKey": "19:35",
+            "w": 2,
+            "c": 11
+          },
+          {
+            "timeKey": "19:40",
+            "w": 0,
+            "c": -6
+          }
+        ],
+        "id": 241
+      },
+      {
+        "date": "2025-12-01",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 414,
+        "charCountStart": 6603,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 24,
+            "c": 844
+          },
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": 117
+          },
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": 169
+          }
+        ],
+        "id": 242
+      },
+      {
+        "date": "2025-12-01",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 453,
+        "charCountStart": 6963,
+        "changes": [],
+        "id": 243
+      },
+      {
+        "date": "2025-12-02",
+        "filePath": "מחשבות על קדושה ועל עבודה.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 2,
+            "c": 210
+          },
+          {
+            "timeKey": "10:55",
+            "w": 1303,
+            "c": 9056
+          },
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": -6
+          },
+          {
+            "timeKey": "11:20",
+            "w": 7,
+            "c": 243
+          },
+          {
+            "timeKey": "11:25",
+            "w": 2,
+            "c": 216
+          },
+          {
+            "timeKey": "11:30",
+            "w": 31,
+            "c": 386
+          },
+          {
+            "timeKey": "11:35",
+            "w": 23,
+            "c": 164
+          },
+          {
+            "timeKey": "11:40",
+            "w": 0,
+            "c": 175
+          },
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": 37
+          },
+          {
+            "timeKey": "11:50",
+            "w": 41,
+            "c": 391
+          },
+          {
+            "timeKey": "13:10",
+            "w": 0,
+            "c": 146
+          },
+          {
+            "timeKey": "13:15",
+            "w": 0,
+            "c": 223
+          },
+          {
+            "timeKey": "13:20",
+            "w": -1,
+            "c": 139
+          },
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 412
+          },
+          {
+            "timeKey": "13:30",
+            "w": 0,
+            "c": 162
+          },
+          {
+            "timeKey": "13:35",
+            "w": 12,
+            "c": 232
+          },
+          {
+            "timeKey": "13:40",
+            "w": 12,
+            "c": 234
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 120
+          },
+          {
+            "timeKey": "13:55",
+            "w": 29,
+            "c": 269
+          }
+        ],
+        "id": 244
+      },
+      {
+        "date": "2025-12-02",
+        "filePath": "Excerpts from Steam Pillars - a Memoir, By Prof. Eleanore Pupinstone.md",
+        "wordCountStart": 644,
+        "charCountStart": 3686,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 46,
+            "c": 272
+          }
+        ],
+        "id": 245
+      },
+      {
+        "date": "2025-12-02",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 36,
+        "charCountStart": 304,
+        "changes": [
+          {
+            "timeKey": "23:15",
+            "w": -1,
+            "c": -6
+          }
+        ],
+        "id": 246
+      },
+      {
+        "date": "2025-12-02",
+        "filePath": "flock-music.md",
+        "wordCountStart": 25707,
+        "charCountStart": 143251,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 5,
+            "c": 22
+          },
+          {
+            "timeKey": "22:25",
+            "w": 4,
+            "c": 20
+          },
+          {
+            "timeKey": "22:30",
+            "w": 6,
+            "c": 29
+          },
+          {
+            "timeKey": "22:35",
+            "w": 16,
+            "c": 60
+          },
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "23:30",
+            "w": 51,
+            "c": 273
+          },
+          {
+            "timeKey": "23:35",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "23:40",
+            "w": 7,
+            "c": 35
+          },
+          {
+            "timeKey": "23:45",
+            "w": 3,
+            "c": 16
+          },
+          {
+            "timeKey": "23:50",
+            "w": 2,
+            "c": 10
+          },
+          {
+            "timeKey": "23:55",
+            "w": 5,
+            "c": 15
+          }
+        ],
+        "id": 247
+      },
+      {
+        "date": "2025-12-02",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 438,
+        "charCountStart": 7741,
+        "changes": [],
+        "id": 248
+      },
+      {
+        "date": "2025-12-03",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 438,
+        "charCountStart": 7741,
+        "changes": [],
+        "id": 249
+      },
+      {
+        "date": "2025-12-03",
+        "filePath": "flock-music.md",
+        "wordCountStart": 25807,
+        "charCountStart": 143741,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": -74,
+            "c": -415
+          },
+          {
+            "timeKey": "21:10",
+            "w": 7,
+            "c": 36
+          },
+          {
+            "timeKey": "21:15",
+            "w": 8,
+            "c": 44
+          },
+          {
+            "timeKey": "21:20",
+            "w": 15,
+            "c": 96
+          },
+          {
+            "timeKey": "21:25",
+            "w": 51,
+            "c": 295
+          },
+          {
+            "timeKey": "21:30",
+            "w": 5,
+            "c": 54
+          },
+          {
+            "timeKey": "22:20",
+            "w": 29,
+            "c": 127
+          },
+          {
+            "timeKey": "22:25",
+            "w": 52,
+            "c": 296
+          },
+          {
+            "timeKey": "22:30",
+            "w": 30,
+            "c": 154
+          },
+          {
+            "timeKey": "22:35",
+            "w": 6,
+            "c": 34
+          },
+          {
+            "timeKey": "22:40",
+            "w": 11,
+            "c": 27
+          },
+          {
+            "timeKey": "22:45",
+            "w": 3,
+            "c": 10
+          },
+          {
+            "timeKey": "22:50",
+            "w": 5,
+            "c": 41
+          },
+          {
+            "timeKey": "22:55",
+            "w": 5,
+            "c": 21
+          },
+          {
+            "timeKey": "23:00",
+            "w": 31,
+            "c": 148
+          },
+          {
+            "timeKey": "23:05",
+            "w": 70,
+            "c": 375
+          },
+          {
+            "timeKey": "23:10",
+            "w": 47,
+            "c": 249
+          },
+          {
+            "timeKey": "23:15",
+            "w": -3,
+            "c": -1
+          },
+          {
+            "timeKey": "23:20",
+            "w": 3,
+            "c": 21
+          },
+          {
+            "timeKey": "23:25",
+            "w": 20,
+            "c": 131
+          },
+          {
+            "timeKey": "23:30",
+            "w": -39,
+            "c": -201
+          },
+          {
+            "timeKey": "23:35",
+            "w": -10,
+            "c": -49
+          },
+          {
+            "timeKey": "23:45",
+            "w": -6,
+            "c": -34
+          },
+          {
+            "timeKey": "23:50",
+            "w": 19,
+            "c": 98
+          },
+          {
+            "timeKey": "23:55",
+            "w": -4,
+            "c": -19
+          }
+        ],
+        "id": 250
+      },
+      {
+        "date": "2025-12-05",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 438,
+        "charCountStart": 7741,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": -3
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2025-12-05",
+        "filePath": "flock-music.md",
+        "wordCountStart": 26088,
+        "charCountStart": 145279,
+        "changes": [
+          {
+            "timeKey": "00:30",
+            "w": 27,
+            "c": 145
+          },
+          {
+            "timeKey": "00:35",
+            "w": -32,
+            "c": -161
+          },
+          {
+            "timeKey": "00:40",
+            "w": 22,
+            "c": 107
+          },
+          {
+            "timeKey": "00:45",
+            "w": -27,
+            "c": -146
+          },
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "16:10",
+            "w": 5,
+            "c": 37
+          },
+          {
+            "timeKey": "16:15",
+            "w": 34,
+            "c": 193
+          },
+          {
+            "timeKey": "16:20",
+            "w": 36,
+            "c": 206
+          },
+          {
+            "timeKey": "16:25",
+            "w": 6,
+            "c": 50
+          },
+          {
+            "timeKey": "16:30",
+            "w": 9,
+            "c": 54
+          },
+          {
+            "timeKey": "16:35",
+            "w": 58,
+            "c": 321
+          },
+          {
+            "timeKey": "16:40",
+            "w": 47,
+            "c": 240
+          },
+          {
+            "timeKey": "16:45",
+            "w": 21,
+            "c": 122
+          },
+          {
+            "timeKey": "16:55",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "17:00",
+            "w": 25,
+            "c": 137
+          },
+          {
+            "timeKey": "17:05",
+            "w": 58,
+            "c": 325
+          },
+          {
+            "timeKey": "17:10",
+            "w": 2,
+            "c": 3
+          },
+          {
+            "timeKey": "17:50",
+            "w": -2,
+            "c": -3
+          },
+          {
+            "timeKey": "18:55",
+            "w": -95,
+            "c": -501
+          },
+          {
+            "timeKey": "19:00",
+            "w": 61,
+            "c": 355
+          },
+          {
+            "timeKey": "19:05",
+            "w": 73,
+            "c": 397
+          },
+          {
+            "timeKey": "19:10",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "19:20",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "19:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:30",
+            "w": -8,
+            "c": -37
+          },
+          {
+            "timeKey": "20:50",
+            "w": -1,
+            "c": -6
+          },
+          {
+            "timeKey": "20:55",
+            "w": 7,
+            "c": 30
+          },
+          {
+            "timeKey": "21:00",
+            "w": -8,
+            "c": -50
+          },
+          {
+            "timeKey": "21:05",
+            "w": -7,
+            "c": -49
+          },
+          {
+            "timeKey": "21:25",
+            "w": 42,
+            "c": 202
+          },
+          {
+            "timeKey": "21:30",
+            "w": 39,
+            "c": 211
+          },
+          {
+            "timeKey": "21:35",
+            "w": 23,
+            "c": 124
+          },
+          {
+            "timeKey": "21:40",
+            "w": 25,
+            "c": 111
+          },
+          {
+            "timeKey": "21:45",
+            "w": 54,
+            "c": 303
+          },
+          {
+            "timeKey": "21:50",
+            "w": 13,
+            "c": 62
+          },
+          {
+            "timeKey": "21:55",
+            "w": -23,
+            "c": -120
+          },
+          {
+            "timeKey": "22:00",
+            "w": 26,
+            "c": 143
+          },
+          {
+            "timeKey": "22:05",
+            "w": -1,
+            "c": -4
+          },
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "Flock Wiki/Alice.md",
+        "wordCountStart": 35,
+        "charCountStart": 298,
+        "changes": [],
+        "id": 253
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "Shirley.md",
+        "wordCountStart": 21,
+        "charCountStart": 184,
+        "changes": [],
+        "id": 254
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "flock-music.md",
+        "wordCountStart": 26600,
+        "charCountStart": 148110,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 9,
+            "c": 57
+          },
+          {
+            "timeKey": "00:05",
+            "w": -12,
+            "c": -61
+          },
+          {
+            "timeKey": "00:10",
+            "w": 10,
+            "c": 59
+          },
+          {
+            "timeKey": "00:15",
+            "w": 44,
+            "c": 239
+          },
+          {
+            "timeKey": "00:20",
+            "w": 26,
+            "c": 139
+          },
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "17:00",
+            "w": 23,
+            "c": 124
+          },
+          {
+            "timeKey": "17:05",
+            "w": 28,
+            "c": 152
+          },
+          {
+            "timeKey": "17:10",
+            "w": 73,
+            "c": 387
+          },
+          {
+            "timeKey": "17:15",
+            "w": 81,
+            "c": 473
+          },
+          {
+            "timeKey": "17:20",
+            "w": 36,
+            "c": 204
+          },
+          {
+            "timeKey": "17:25",
+            "w": 27,
+            "c": 156
+          },
+          {
+            "timeKey": "17:30",
+            "w": 39,
+            "c": 247
+          },
+          {
+            "timeKey": "17:35",
+            "w": 67,
+            "c": 344
+          },
+          {
+            "timeKey": "17:40",
+            "w": 41,
+            "c": 206
+          },
+          {
+            "timeKey": "17:45",
+            "w": 9,
+            "c": 53
+          },
+          {
+            "timeKey": "17:50",
+            "w": 73,
+            "c": 397
+          },
+          {
+            "timeKey": "23:55",
+            "w": 1,
+            "c": 6
+          }
+        ],
+        "id": 255
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 438,
+        "charCountStart": 7738,
+        "changes": [
+          {
+            "timeKey": "01:45",
+            "w": 0,
+            "c": 60
+          }
+        ],
+        "id": 256
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "flock-music.md",
+        "wordCountStart": 27175,
+        "charCountStart": 151296,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 0,
+            "c": 9
+          },
+          {
+            "timeKey": "16:25",
+            "w": 51,
+            "c": 277
+          },
+          {
+            "timeKey": "16:30",
+            "w": 104,
+            "c": 583
+          },
+          {
+            "timeKey": "16:35",
+            "w": 33,
+            "c": 188
+          },
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "16:45",
+            "w": 11,
+            "c": 74
+          },
+          {
+            "timeKey": "16:50",
+            "w": 9,
+            "c": 32
+          },
+          {
+            "timeKey": "16:55",
+            "w": 15,
+            "c": 84
+          },
+          {
+            "timeKey": "17:00",
+            "w": 18,
+            "c": 102
+          },
+          {
+            "timeKey": "17:05",
+            "w": 68,
+            "c": 353
+          },
+          {
+            "timeKey": "17:10",
+            "w": 12,
+            "c": 74
+          },
+          {
+            "timeKey": "17:15",
+            "w": 16,
+            "c": 89
+          },
+          {
+            "timeKey": "17:20",
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "17:25",
+            "w": 18,
+            "c": 101
+          },
+          {
+            "timeKey": "17:30",
+            "w": 50,
+            "c": 296
+          },
+          {
+            "timeKey": "17:35",
+            "w": 8,
+            "c": 35
+          },
+          {
+            "timeKey": "17:40",
+            "w": 78,
+            "c": 387
+          },
+          {
+            "timeKey": "17:45",
+            "w": 24,
+            "c": 161
+          },
+          {
+            "timeKey": "18:05",
+            "w": -185,
+            "c": -1021
+          },
+          {
+            "timeKey": "18:40",
+            "w": 62,
+            "c": 345
+          },
+          {
+            "timeKey": "18:45",
+            "w": 145,
+            "c": 721
+          },
+          {
+            "timeKey": "18:50",
+            "w": 92,
+            "c": 462
+          },
+          {
+            "timeKey": "18:55",
+            "w": 98,
+            "c": 491
+          },
+          {
+            "timeKey": "19:00",
+            "w": 15,
+            "c": 30
+          },
+          {
+            "timeKey": "19:05",
+            "w": 42,
+            "c": 242
+          },
+          {
+            "timeKey": "19:10",
+            "w": 11,
+            "c": 64
+          },
+          {
+            "timeKey": "19:15",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "19:30",
+            "w": -111,
+            "c": -609
+          },
+          {
+            "timeKey": "19:35",
+            "w": 39,
+            "c": 215
+          },
+          {
+            "timeKey": "19:40",
+            "w": 44,
+            "c": 240
+          },
+          {
+            "timeKey": "19:45",
+            "w": 81,
+            "c": 387
+          },
+          {
+            "timeKey": "19:50",
+            "w": 10,
+            "c": 45
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "Shirley.md",
+        "wordCountStart": 21,
+        "charCountStart": 184,
+        "changes": [],
+        "id": 258
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "todos.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 34,
+            "c": 333
+          },
+          {
+            "timeKey": "10:55",
+            "w": 14,
+            "c": -58
+          },
+          {
+            "timeKey": "11:00",
+            "w": 18,
+            "c": 88
+          },
+          {
+            "timeKey": "16:45",
+            "w": 1,
+            "c": 1
+          },
+          {
+            "timeKey": "16:50",
+            "w": 23,
+            "c": 139
+          },
+          {
+            "timeKey": "16:55",
+            "w": 14,
+            "c": 69
+          },
+          {
+            "timeKey": "17:05",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "17:15",
+            "w": 4,
+            "c": 25
+          }
+        ],
+        "id": 259
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 438,
+        "charCountStart": 7798,
+        "changes": [],
+        "id": 260
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "Flock Wiki/Side 1 Alice.md",
+        "wordCountStart": 453,
+        "charCountStart": 6963,
+        "changes": [],
+        "id": 261
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28035,
+        "charCountStart": 155779,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "16:50",
+            "w": 19,
+            "c": 95
+          },
+          {
+            "timeKey": "16:55",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "17:00",
+            "w": -7,
+            "c": -18
+          },
+          {
+            "timeKey": "17:05",
+            "w": -3,
+            "c": -12
+          },
+          {
+            "timeKey": "17:10",
+            "w": 1,
+            "c": 1
+          },
+          {
+            "timeKey": "17:15",
+            "w": -15,
+            "c": -96
+          }
+        ],
+        "id": 262
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 706,
+        "charCountStart": 4256,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 263
+      },
+      {
+        "date": "2025-12-17",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28031,
+        "charCountStart": 155773,
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": -1,
+            "c": 5
+          },
+          {
+            "timeKey": "11:25",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "11:30",
+            "w": 17,
+            "c": 91
+          },
+          {
+            "timeKey": "11:35",
+            "w": 7,
+            "c": 36
+          },
+          {
+            "timeKey": "11:40",
+            "w": -1,
+            "c": 4
+          },
+          {
+            "timeKey": "11:45",
+            "w": 2,
+            "c": 25
+          },
+          {
+            "timeKey": "17:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:55",
+            "w": 1,
+            "c": -6
+          }
+        ],
+        "id": 264
+      },
+      {
+        "date": "2025-12-17",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 706,
+        "charCountStart": 4255,
+        "changes": [],
+        "id": 265
+      },
+      {
+        "date": "2025-12-17",
+        "filePath": "todos.md",
+        "wordCountStart": 107,
+        "charCountStart": 597,
+        "changes": [],
+        "id": 266
+      },
+      {
+        "date": "2025-12-18",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 706,
+        "charCountStart": 4255,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -34,
+            "c": -252
+          },
+          {
+            "timeKey": "22:25",
+            "w": 45,
+            "c": 270
+          },
+          {
+            "timeKey": "22:30",
+            "w": 20,
+            "c": 139
+          }
+        ],
+        "id": 267
+      },
+      {
+        "date": "2025-12-19",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28031,
+        "charCountStart": 155773,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:40",
+            "w": 24,
+            "c": 144
+          }
+        ],
+        "id": 268
+      },
+      {
+        "date": "2025-12-19",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1073,
+        "charCountStart": 6293,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:45",
+            "w": 0,
+            "c": 7
+          },
+          {
+            "timeKey": "12:55",
+            "w": 15,
+            "c": 324
+          },
+          {
+            "timeKey": "17:25",
+            "w": 16,
+            "c": 667
+          },
+          {
+            "timeKey": "17:30",
+            "w": 38,
+            "c": 1184
+          },
+          {
+            "timeKey": "17:35",
+            "w": 29,
+            "c": 802
+          },
+          {
+            "timeKey": "17:40",
+            "w": 25,
+            "c": 348
+          },
+          {
+            "timeKey": "17:45",
+            "w": 3,
+            "c": 0
+          },
+          {
+            "timeKey": "17:50",
+            "w": 127,
+            "c": 753
+          }
+        ],
+        "id": 269
+      },
+      {
+        "date": "2025-12-19",
+        "filePath": "todos.md",
+        "wordCountStart": 107,
+        "charCountStart": 597,
+        "changes": [],
+        "id": 270
+      },
+      {
+        "date": "2025-12-23",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28055,
+        "charCountStart": 155917,
+        "changes": [],
+        "id": 271
+      },
+      {
+        "date": "2025-12-23",
+        "filePath": "todos.md",
+        "wordCountStart": 107,
+        "charCountStart": 597,
+        "changes": [],
+        "id": 272
+      },
+      {
+        "date": "2025-12-23",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1326,
+        "charCountStart": 10378,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 2,
+            "c": 0
+          },
+          {
+            "timeKey": "00:20",
+            "w": 18,
+            "c": 240
+          },
+          {
+            "timeKey": "00:25",
+            "w": 1,
+            "c": 240
+          },
+          {
+            "timeKey": "00:30",
+            "w": 4,
+            "c": 0
+          },
+          {
+            "timeKey": "00:35",
+            "w": 2,
+            "c": 0
+          },
+          {
+            "timeKey": "00:40",
+            "w": 14,
+            "c": 495
+          },
+          {
+            "timeKey": "00:45",
+            "w": -9,
+            "c": 90
+          },
+          {
+            "timeKey": "00:50",
+            "w": 22,
+            "c": 252
+          },
+          {
+            "timeKey": "00:55",
+            "w": 11,
+            "c": 0
+          },
+          {
+            "timeKey": "01:00",
+            "w": 11,
+            "c": 108
+          },
+          {
+            "timeKey": "01:05",
+            "w": 9,
+            "c": 0
+          },
+          {
+            "timeKey": "01:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:00",
+            "w": 1,
+            "c": 0
+          },
+          {
+            "timeKey": "13:05",
+            "w": 1,
+            "c": 329
+          },
+          {
+            "timeKey": "13:15",
+            "w": 3,
+            "c": 0
+          },
+          {
+            "timeKey": "13:30",
+            "w": 13,
+            "c": 561
+          },
+          {
+            "timeKey": "13:35",
+            "w": 4,
+            "c": 301
+          },
+          {
+            "timeKey": "18:40",
+            "w": -6,
+            "c": -72
+          },
+          {
+            "timeKey": "18:45",
+            "w": 19,
+            "c": 72
+          },
+          {
+            "timeKey": "18:50",
+            "w": 19,
+            "c": 1414
+          },
+          {
+            "timeKey": "18:55",
+            "w": 20,
+            "c": 76
+          },
+          {
+            "timeKey": "19:00",
+            "w": 24,
+            "c": 798
+          },
+          {
+            "timeKey": "19:05",
+            "w": 10,
+            "c": 0
+          },
+          {
+            "timeKey": "22:00",
+            "w": 11,
+            "c": 255
+          },
+          {
+            "timeKey": "22:05",
+            "w": 11,
+            "c": 105
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2025-12-24",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28055,
+        "charCountStart": 155917,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 16,
+            "c": 83
+          },
+          {
+            "timeKey": "19:10",
+            "w": 3,
+            "c": 14
+          }
+        ],
+        "id": 274
+      },
+      {
+        "date": "2025-12-24",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1541,
+        "charCountStart": 15642,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 6,
+            "c": 304
+          },
+          {
+            "timeKey": "16:10",
+            "w": 13,
+            "c": 0
+          },
+          {
+            "timeKey": "16:15",
+            "w": 46,
+            "c": 0
+          },
+          {
+            "timeKey": "16:20",
+            "w": 38,
+            "c": 2774
+          },
+          {
+            "timeKey": "16:25",
+            "w": 9,
+            "c": 0
+          },
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:30",
+            "w": 23,
+            "c": 0
+          },
+          {
+            "timeKey": "17:35",
+            "w": 44,
+            "c": 57
+          },
+          {
+            "timeKey": "17:40",
+            "w": 9,
+            "c": 0
+          },
+          {
+            "timeKey": "17:45",
+            "w": 7,
+            "c": 76
+          },
+          {
+            "timeKey": "17:50",
+            "w": 30,
+            "c": 608
+          },
+          {
+            "timeKey": "19:15",
+            "w": 3,
+            "c": 0
+          },
+          {
+            "timeKey": "19:25",
+            "w": 3,
+            "c": 0
+          },
+          {
+            "timeKey": "19:30",
+            "w": -3,
+            "c": 0
+          },
+          {
+            "timeKey": "19:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:00",
+            "w": 2,
+            "c": 0
+          },
+          {
+            "timeKey": "23:30",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "23:35",
+            "w": 12,
+            "c": 874
+          },
+          {
+            "timeKey": "23:40",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 275
+      },
+      {
+        "date": "2025-12-24",
+        "filePath": "todos.md",
+        "wordCountStart": 107,
+        "charCountStart": 597,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 11,
+            "c": 58
+          }
+        ],
+        "id": 276
+      },
+      {
+        "date": "2025-12-25",
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1022,
+        "charCountStart": 6474,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 1,
+            "c": 17
+          },
+          {
+            "timeKey": "17:55",
+            "w": 1,
+            "c": 26
+          },
+          {
+            "timeKey": "18:40",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2025-12-25",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28074,
+        "charCountStart": 156014,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 11,
+            "c": 57
+          }
+        ],
+        "id": 278
+      },
+      {
+        "date": "2025-12-25",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1785,
+        "charCountStart": 20336,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 18,
+            "c": 494
+          },
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 114
+          },
+          {
+            "timeKey": "18:25",
+            "w": 2,
+            "c": -114
+          },
+          {
+            "timeKey": "18:30",
+            "w": 10,
+            "c": 0
+          },
+          {
+            "timeKey": "18:35",
+            "w": 32,
+            "c": 399
+          },
+          {
+            "timeKey": "18:40",
+            "w": 7,
+            "c": 746
+          },
+          {
+            "timeKey": "18:45",
+            "w": 23,
+            "c": -120
+          },
+          {
+            "timeKey": "18:50",
+            "w": 15,
+            "c": 0
+          },
+          {
+            "timeKey": "19:00",
+            "w": 0,
+            "c": 80
+          }
+        ],
+        "id": 279
+      },
+      {
+        "date": "2025-12-25",
+        "filePath": "Flock Wiki/Schokoe Bottom.md",
+        "wordCountStart": 1747,
+        "charCountStart": 11431,
+        "changes": [],
+        "id": 280
+      },
+      {
+        "date": "2025-12-26",
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1026,
+        "charCountStart": 6541,
+        "changes": [],
+        "id": 281
+      },
+      {
+        "date": "2025-12-26",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 439,
+        "charCountStart": 7869,
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "11:50",
+            "w": 62,
+            "c": 357
+          },
+          {
+            "timeKey": "11:55",
+            "w": 82,
+            "c": 452
+          },
+          {
+            "timeKey": "12:00",
+            "w": 65,
+            "c": 311
+          },
+          {
+            "timeKey": "12:05",
+            "w": 25,
+            "c": 134
+          },
+          {
+            "timeKey": "12:10",
+            "w": 5,
+            "c": 69
+          },
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:20",
+            "w": 35,
+            "c": 193
+          }
+        ],
+        "id": 282
+      },
+      {
+        "date": "2025-12-26",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28085,
+        "charCountStart": 156071,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": -9,
+            "c": -35
+          },
+          {
+            "timeKey": "12:15",
+            "w": -5,
+            "c": 1
+          }
+        ],
+        "id": 283
+      },
+      {
+        "date": "2025-12-26",
+        "filePath": "todos.md",
+        "wordCountStart": 118,
+        "charCountStart": 655,
+        "changes": [],
+        "id": 284
+      },
+      {
+        "date": "2025-12-26",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1892,
+        "charCountStart": 21935,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": -60,
+            "c": -300
+          },
+          {
+            "timeKey": "22:50",
+            "w": 4,
+            "c": -200
+          },
+          {
+            "timeKey": "22:55",
+            "w": 40,
+            "c": 1320
+          },
+          {
+            "timeKey": "23:00",
+            "w": -14,
+            "c": -200
+          },
+          {
+            "timeKey": "23:05",
+            "w": -11,
+            "c": 0
+          },
+          {
+            "timeKey": "23:15",
+            "w": -2,
+            "c": 0
+          },
+          {
+            "timeKey": "23:35",
+            "w": 13,
+            "c": 1660
+          },
+          {
+            "timeKey": "23:45",
+            "w": 24,
+            "c": 0
+          },
+          {
+            "timeKey": "23:50",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 285
+      },
+      {
+        "date": "2025-12-26",
+        "filePath": "Flock Wiki/Chitlin Musical Circuit.md",
+        "wordCountStart": 564,
+        "charCountStart": 3948,
+        "changes": [],
+        "id": 286
+      },
+      {
+        "date": "2025-12-27",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1888,
+        "charCountStart": 24215,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 23,
+            "c": 132
+          }
+        ],
+        "id": 287
+      },
+      {
+        "date": "2025-12-27",
+        "filePath": "Flock Wiki/The path of the Caravan.md",
+        "wordCountStart": 1702,
+        "charCountStart": 12963,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 265
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "Flock Wiki/The Tour after Atlanta.md",
+        "wordCountStart": 3655,
+        "charCountStart": 26072,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 0,
+            "c": 613
+          }
+        ],
+        "id": 289
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "Flock Wiki/The Performance In Herndon Stadium.md",
+        "wordCountStart": 595,
+        "charCountStart": 3685,
+        "changes": [],
+        "id": 290
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "Flock Wiki/The path of the Caravan.md",
+        "wordCountStart": 1707,
+        "charCountStart": 13228,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 16,
+            "c": 120
+          }
+        ],
+        "id": 291
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1911,
+        "charCountStart": 24347,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": 4,
+            "c": 0
+          },
+          {
+            "timeKey": "14:40",
+            "w": -8,
+            "c": 0
+          },
+          {
+            "timeKey": "14:45",
+            "w": -2,
+            "c": 0
+          },
+          {
+            "timeKey": "14:50",
+            "w": -2,
+            "c": 0
+          },
+          {
+            "timeKey": "16:30",
+            "w": -5,
+            "c": 0
+          }
+        ],
+        "id": 292
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28071,
+        "charCountStart": 156037,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -1,
+            "c": -6
+          }
+        ],
+        "id": 293
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 713,
+        "charCountStart": 9390,
+        "changes": [],
+        "id": 294
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "Flock Wiki/Chitlin Musical Circuit.md",
+        "wordCountStart": 564,
+        "charCountStart": 3948,
+        "changes": [],
+        "id": 295
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "fuckinsheet.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 675,
+            "c": 17159
+          }
+        ],
+        "id": 296
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "Flock Wiki/The Performance In Herndon Stadium.md",
+        "wordCountStart": 595,
+        "charCountStart": 3685,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1898,
+        "charCountStart": 24347,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28070,
+        "charCountStart": 156031,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 5,
+            "c": 35
+          },
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 299
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "Flock Wiki/The path of the Caravan.md",
+        "wordCountStart": 1723,
+        "charCountStart": 13348,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2025-12-30",
+        "filePath": "Flock Wiki/The path of the Caravan.md",
+        "wordCountStart": 1723,
+        "charCountStart": 13348,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 7,
+            "c": 63
+          }
+        ],
+        "id": 301
+      },
+      {
+        "date": "2025-12-30",
+        "filePath": "Flock Wiki/The Tour after Atlanta.md",
+        "wordCountStart": 3655,
+        "charCountStart": 26685,
+        "changes": [],
+        "id": 302
+      },
+      {
+        "date": "2025-12-31",
+        "filePath": "Flock Wiki/Steam Pillars Effect Bible v1.0.md",
+        "wordCountStart": 989,
+        "charCountStart": 6968,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -14,
+            "c": -95
+          },
+          {
+            "timeKey": "14:35",
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "15:05",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 303
+      },
+      {
+        "date": "2026-01-01",
+        "filePath": "Flock Wiki/Mini Ceremony.md",
+        "wordCountStart": 574,
+        "charCountStart": 4203,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": -6,
+            "c": -50
+          }
+        ],
+        "id": 304
+      },
+      {
+        "date": "2026-01-01",
+        "filePath": "Flock Wiki/Enemies Beat Map.md",
+        "wordCountStart": 1780,
+        "charCountStart": 11304,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 0,
+            "c": -4
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "18:15",
+            "w": -48,
+            "c": -331
+          },
+          {
+            "timeKey": "18:35",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "18:45",
+            "w": -59,
+            "c": -425
+          },
+          {
+            "timeKey": "18:50",
+            "w": 33,
+            "c": 186
+          },
+          {
+            "timeKey": "19:55",
+            "w": 8,
+            "c": 47
+          }
+        ],
+        "id": 305
+      },
+      {
+        "date": "2026-01-02",
+        "filePath": "Flock Wiki/The path of the Caravan.md",
+        "wordCountStart": 1734,
+        "charCountStart": 13448,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 306
+      },
+      {
+        "date": "2026-01-02",
+        "filePath": "Flock Wiki/The Greensboro disruption.md",
+        "wordCountStart": 503,
+        "charCountStart": 3251,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 403,
+            "c": 2589
+          },
+          {
+            "timeKey": "20:30",
+            "w": 17,
+            "c": 127
+          }
+        ],
+        "id": 307
+      },
+      {
+        "date": "2026-01-02",
+        "filePath": "Flock Wiki/Chapter 5 Bitmap.md",
+        "wordCountStart": 369,
+        "charCountStart": 2031,
+        "changes": [],
+        "id": 308
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/Side 2 Tim.md",
+        "wordCountStart": 1898,
+        "charCountStart": 24347,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "13:40",
+            "w": 1,
+            "c": 2
+          }
+        ],
+        "id": 309
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "todos.md",
+        "wordCountStart": 118,
+        "charCountStart": 655,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 9,
+            "c": 46
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 310
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 713,
+        "charCountStart": 9390,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 74,
+            "c": 385
+          },
+          {
+            "timeKey": "16:25",
+            "w": 34,
+            "c": 161
+          }
+        ],
+        "id": 311
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/Mini Ceremony.md",
+        "wordCountStart": 568,
+        "charCountStart": 4153,
+        "changes": [],
+        "id": 312
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/The Greensboro disruption.md",
+        "wordCountStart": 923,
+        "charCountStart": 5967,
+        "changes": [],
+        "id": 313
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/The Performance In Herndon Stadium.md",
+        "wordCountStart": 595,
+        "charCountStart": 3685,
+        "changes": [],
+        "id": 314
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/The Tour after Atlanta.md",
+        "wordCountStart": 3655,
+        "charCountStart": 26685,
+        "changes": [],
+        "id": 315
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/The path of the Caravan.md",
+        "wordCountStart": 1734,
+        "charCountStart": 13448,
+        "changes": [],
+        "id": 316
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "Flock Wiki/Chitlin Musical Circuit.md",
+        "wordCountStart": 564,
+        "charCountStart": 3948,
+        "changes": [],
+        "id": 317
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "Flock Wiki/Mini Ceremony.md",
+        "wordCountStart": 568,
+        "charCountStart": 4153,
+        "changes": [],
+        "id": 318
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "Flock Wiki/The Greensboro disruption.md",
+        "wordCountStart": 923,
+        "charCountStart": 5967,
+        "changes": [],
+        "id": 319
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "Flock Wiki/Steam Pillars Effect Bible v1.0.md",
+        "wordCountStart": 977,
+        "charCountStart": 6888,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 81,
+            "c": 485
+          }
+        ],
+        "id": 320
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "Flock Wiki/The Steam Pillars.md",
+        "wordCountStart": 1026,
+        "charCountStart": 6541,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": -55,
+            "c": -331
+          },
+          {
+            "timeKey": "21:20",
+            "w": 91,
+            "c": 484
+          },
+          {
+            "timeKey": "22:10",
+            "w": 175,
+            "c": 951
+          }
+        ],
+        "id": 321
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 821,
+        "charCountStart": 9936,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 32,
+            "c": 158
+          },
+          {
+            "timeKey": "14:30",
+            "w": 95,
+            "c": 546
+          },
+          {
+            "timeKey": "14:35",
+            "w": 15,
+            "c": 93
+          }
+        ],
+        "id": 322
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28075,
+        "charCountStart": 156064,
+        "changes": [],
+        "id": 323
+      },
+      {
+        "date": "2026-01-04",
+        "filePath": "todos.md",
+        "wordCountStart": 134,
+        "charCountStart": 735,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2026-01-09",
+        "filePath": "Flock Wiki/The Tour after Atlanta.md",
+        "wordCountStart": 3655,
+        "charCountStart": 26685,
+        "changes": [],
+        "id": 328
+      },
+      {
+        "date": "2026-01-09",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28075,
+        "charCountStart": 156064,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 329
+      },
+      {
+        "date": "2026-01-10",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28075,
+        "charCountStart": 156062,
+        "changes": [],
+        "id": 330
+      },
+      {
+        "date": "2026-01-10",
+        "filePath": "Flock Wiki/The Greensboro disruption.md",
+        "wordCountStart": 923,
+        "charCountStart": 5967,
+        "changes": [],
+        "id": 331
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28075,
+        "charCountStart": 156062,
+        "changes": [],
+        "id": 332
+      },
+      {
+        "date": "2026-03-24",
+        "filePath": "Flock Wiki/Shirley.md",
+        "wordCountStart": 21,
+        "charCountStart": 184,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": -1,
+            "c": -9
+          }
+        ],
+        "id": 336
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "Flock Wiki/Playground.md",
+        "wordCountStart": 963,
+        "charCountStart": 10733,
+        "changes": [],
+        "id": 340
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "Flock Wiki/Hearing about Elvis's death - Trading Ford at the Yadkin River.md",
+        "wordCountStart": 367,
+        "charCountStart": 2273,
+        "changes": [],
+        "id": 341
+      },
+      {
+        "date": "2026-04-05",
+        "filePath": "flock-music.md",
+        "wordCountStart": 28075,
+        "charCountStart": 156062,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:45",
+            "w": -28075,
+            "c": -156062
+          }
+        ],
+        "id": 342
+      },
+      {
+        "date": "2026-04-05",
+        "filePath": "Flock Music .md",
+        "wordCountStart": 43535,
+        "charCountStart": 242418,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -362,
+            "c": 7369
+          },
+          {
+            "timeKey": "14:35",
+            "w": -15620,
+            "c": -87413
+          },
+          {
+            "timeKey": "14:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:50",
+            "w": 15637,
+            "c": 85688
+          },
+          {
+            "timeKey": "14:55",
+            "w": -10,
+            "c": -56
+          },
+          {
+            "timeKey": "15:00",
+            "w": 0,
+            "c": 15
+          },
+          {
+            "timeKey": "15:05",
+            "w": 0,
+            "c": -3
+          }
+        ],
+        "id": 343
+      },
+      {
+        "date": "2026-04-05",
+        "filePath": "Copy of Flock Music .md",
+        "wordCountStart": 15627,
+        "charCountStart": 85632,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": -15627,
+            "c": -85632
+          },
+          {
+            "timeKey": "14:45",
+            "w": 15620,
+            "c": 84461
+          }
+        ],
+        "id": 344
+      }
+    ]
+  }
+}

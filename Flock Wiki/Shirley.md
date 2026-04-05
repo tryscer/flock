@@ -1,6 +1,6 @@
 ---
 aliases:
-  - shirley, white rabbit girl
+  - white rabbit girl
   - שירלי
 tags:
   - characters
