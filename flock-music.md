@@ -2518,34 +2518,33 @@ And suddenly I’m unsure of myself for leaving, and loving Alice and hating mys
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
 
 By the offramp from highway 29 to Salisbury, a big sign welcomes us to the Hitching Post Drive-In. Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
-	“Be careful,” Eleanore says to Barry. “Don’t bump into Shirley’s car.”  
-	We’re a long line of cars, all with their headlights dark, stealing into the immense lot from across the line of little mounds that mark its back perimeter. I’m in the back seat; Alice and Cindy flank me, both hugging me.   
-	Eleanore took my place in the front. She’s holding on to the dashboard with a tense anticipation, like a captain at the wheel, as we find our place in the back with the others. It’s a new Elvis film playing, black-and-white. Elvis sits brooding in a jail cell. His white face towers over us, his hairline cut off by the rim of the Chevy’s roof.  
-	“Look how *handsome* he was,” Cindy says.   
-	“He walks and talks like a real *king*,” Eleanore says.   
-	“What an *asset* the world lost today,” Barry says.   
-	The lot was so big its edges were shrouded in darkness, and full of cars – dozens of cars. We found a place facing the big screen, next to a speaker pole with an intact speaker attached to it. The people in the car next to us – kids like us – gave us a look.   
-“Play innocent,” Barry said.  
-“We are innocent,” Eleanore said.   
-“That’s the spirit,” Cindy said.   
-On the screen, Elvis and Judy Tyler are sitting next to each other at a bar, shooting questioning looks at each other. Under the screen there’s a little stage and under it there’s a white booth and next to it I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
-	Suddenly Alice takes my hand. She presses her palm to mine.   
+​	“Be careful,” Eleanore says to Barry. “Don’t bump into Shirley’s car.”  
+​	We’re a long line of cars, all with their headlights dark, stealing into the immense lot from across the line of little mounds that mark its back perimeter. I’m in the back seat; Alice and Cindy flank me, both hugging me.   
+​	Eleanore took my place in the front. She’s holding on to the dashboard with a tense anticipation, like a captain at the wheel, as we find our place in the back with the others. It’s a new Elvis film playing, black-and-white. Elvis sits brooding in a jail cell. His white face towers over us, his hairline cut off by the rim of the Chevy’s roof.  
+​	“Look how *handsome* he was,” Cindy says.   
+​	“He walks and talks like a real *king*,” Eleanore says.   
+​	“What an *asset* the world lost today,” Barry says.   
+​	The lot is so big its edges are shrouded in darkness, and full of cars – dozens of cars. We find a place facing the big screen, next to a speaker pole with an intact speaker attached to it. The people in the car next to us – kids like us – give us a dirty look.   
+​	“Play innocent,” Barry says.  
+​	“We are innocent,” Eleanore says.   
+​	“That’s the spirit,” Cindy says.   
+​	On the screen, Elvis and Judy Tyler are sitting next to each other at a bar, shooting questioning looks at each other. Under the screen there’s a little stage and under it there’s a white booth and next to it I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
+	"I know what you need," Alice says. She presses her palm against mine.   
 	“Forget it,” I say and pull my hand away. “It’s lost all meaning now.” 
 
 *(yor… soyoung and beau… ti-fohl…)*
 
 When we heard the news on the radio I felt like a truck has rammed itself into my stomach. Barry stopped the car and I felt like we were still moving; I put my hand on Barry’s shoulder, trying to right myself, feeling I would fall at any moment.  
-	“I don’t even know why I’m crying,” I heard Cindy saying behind me. “I mean, I never really knew him. Or have I?”  
-	“I don’t know why I’m crying, either,” said Alice. “Eleanore, do you know why you’re crying?”  
-	“Shut up, girl,” said Eleanore, sobbing.   
-Eddie was sitting to my right. He put a hand on my shoulder. “s’alright,” he said in my ear. “Just a little bit of shock, boy-o… it’s going to be over in a minute or two…”   
-His kindness surprised me – and served to underline the gravity of the news.   
-“It’s the end of rock and roll,” Eleanore said.   
-“Nice, really nice,” Cindy said. “Cheerful as always.”  
-“She’s right, though,” Alice said. “It’s the end of something to be sure.” She put her hand on mine. “It might,” she added, “be the start of something…”  
+​	“I don’t even know why I’m crying,” I heard Cindy saying behind me. “I mean, I never really knew him. Or have I?”  
+​	“I don’t know why I’m crying, either,” said Alice. “Eleanore, do you know why you’re crying?”  
+​	“Shut up, girl,” said Eleanore, sobbing.   
+​	Eddie was sitting to my right. He put a hand on my shoulder. “s’alright,” he said in my ear. “Just a little bit of shock, boy-o… it’s going to be over in a minute or two…”   
+​	His kindness surprised me – and served to underline the gravity of the news.   
+​	“It’s the end of rock and roll,” Eleanore said.   
+​	“Nice, really nice,” Cindy said. “Cheerful as always.”  
+​	“She’s right, though,” Alice said. “It’s the end of something to be sure.” She put her hand on mine. “It might,” she added, “be the start of something…”  
 ​	“Are you going to prophet school, too?” Cindy said.   
-I took Alice’s hand and squeezed it. Alice squeezed back – a perfectly silent channel of communication, just for us, in the middle of this loud and public car.   
-​	“Yeah,” said Alice, “me and the Bear-gineer. We’re following Tim there.”  
+​	I took Alice’s hand and squeezed it. Alice squeezed back – a perfectly silent channel of communication, just for us, in the middle of this loud and public car.   ​	“Yeah,” said Alice, “me and the Bear-gineer. We’re following Tim there.”  
 ​	“The Bear-gineer,” I said. “Where is that smelly old thing? I think I deserve to hug it for a little while.”   
 ​	The Bear-gineer was found and passed on and I latched on to it, putting my face in his dusty fur. For a minute I was a boy. Then, Barry’s voice pulled me back:  
 ​	“We better get out of the way.”  
@@ -2553,188 +2552,184 @@ I took Alice’s hand and squeezed it. Alice squeezed back – a perfectly silen
 ​	“Let’s get out of this can,” Cindy said.
 
 We left the car to the sound of a girl crying. We were at the precipice of a gloomy lookout point over the Yadkin river: a dead place with dead bushes and a smattering of sick, spindly trees, all overlooking a slow, sad river. An old bronze sign dedicated to a Revolutionary general, green and flaking, made the place feel even more ancient. The road sloped down and turned into a wooden bridge. The air was dead, no echoes. The moon was a sliver of itself and everyone around was a silvery, ghostly figure.   
-	“It’s eerily quiet,” Eleanore said. “I wonder what this place is. And *why*.”  
-	“For us,” Alice told her, “it’s where the world ends.”  
-	“Cheer the hell up, you two,” Cindy said. “Not that I’m cheerful myself, mind.”  
-	Barry said, “It’s different when you’ve actually met the guy. It feels more real.”  
-	Eddie snorted. “You’ve met Elvis?”  
-	“Me and Cindy here,” Barry said, throwing a sideways look at Eddie, who took an appreciative drag from his cigarette. “Matter of fact, there were not two feet between Elvis’s face and Cindy’s unmentionables.”  
-	“Shut up,” Cindy said. “Really inappropriate.”  
-	“Yeah, Bear,” said Eleanore. “Bad taste.”   
-The caravan folk were scattered between the cars. Some went out of their way to show indifference, joking and laughing in the dead, echoless air – but most of them were hugging. Next to nearly every car were people hugging. The source of the crying turned out to be Shirley, who was hugged by both Patty and Veronika. As I watched, Alice ran over to them and joined the huddle. Easily, without a word being spoken, the hug expanded to include her. I went over and the group followed. I didn’t mean to join – maybe just to put a hand on Alice’s shoulder, but Eleanore pushed me from behind and soon enough we were all in there.   
-	“I don’t know why I’m crying,” I heard Shirley say. “I never even liked that man’s singing.”  
-	A womanly hand clasped me on the back. Another womanly body was pressed against me. I felt myself melting into the hug I didn’t mean to join. Someone hugged me from behind. To my surprise, the bigger the circle became, the better I felt.   
-I heard the coughing and purring of an old, large engine and lifted my head to see Mo’s bus ambling up the hill. I heard the hinges squeak and turned to see Pete opening the door.	  
-	“What happened?” he said. “Why is everybody hugging?”  
-	“Turn on the radio,” someone shouted.   
-	“Elvis is dead,” I said.   
-	“Yeah, but what are you sad for?” said Pete.   
-	“I mean,” I said, and immediately started crying. The group hug pulled me deeper in and I smelled Alice’s hair. A moment later I felt Pete’s hands around my neck.   
-	“I’m not hugging you because that man is dead,” he whispered in my ear. “I’m hugging you because you have a terrible taste in music and I feel sorry for you.”  
-	I started giggling. “You’re right,” I said, wiping away the tears, “that Tiny Richard you keep listening to is so much better.”   
-	“It’s Little Richard and you know it,” he said, laughing himself.    
+​	“It’s eerily quiet,” Eleanore said. “I wonder what this place is. And *why*.”  
+​	“For us,” Alice told her, “it’s where the world ends.”  
+​	“Cheer the hell up, you two,” Cindy said. “Not that I’m cheerful myself, mind.”  
+​	Barry said, “It’s different when you’ve actually met the guy. It feels more real.”  
+​	Eddie snorted. “You’ve met Elvis?”  
+​	“Me and Cindy here,” Barry said, throwing a sideways look at Eddie, who took an appreciative drag from his cigarette. “Matter of fact, there were not two feet between Elvis’s face and Cindy’s unmentionables.”  
+​	“Shut up, Bear,” Cindy said. “Really inappropriate.”  
+​	“Yeah, Bear,” said Eleanore, “bad taste.”   
+​	The caravan folk were scattered between the cars. Some went out of their way to show indifference, joking and laughing in the dead, echoless air – but most of them were hugging. Next to nearly every car were people hugging. The source of the crying turned out to be Shirley, who was hugged by both Patty and Veronika. As I watched, Alice ran over to them and joined the huddle. Easily, without a word being spoken, the hug expanded to include her. I went over and the group followed. I didn’t mean to join – maybe just to put a hand on Alice’s shoulder - but Eleanore pushed me from behind and soon enough we were all in there.   
+​	“I don’t know why I’m crying,” I heard Shirley say. “I never even liked that man’s singing.”  
+​	A womanly hand clasped me on the back. Another womanly body was pressed against me. I felt myself melting into the hug I didn’t mean to join. Someone hugged me from behind. To my surprise, the bigger the circle became, the better I felt.   
+​	I heard the coughing and purring of an old, large engine and lifted my head to see Mo’s bus ambling up the hill. I heard the hinges squeak and turned to see Pete opening the door.	  
+​	“What happened?” he said. “Why is everybody hugging?”  
+​	“Turn on the radio, man,” someone shouted.   
+​	“Elvis is dead,” I said.   
+​	“Yeah, but what are you sad for?” said Pete.   
+​	“I mean,” I said, and immediately started crying. The group hug pulled me deeper in and I smelled Alice’s hair. A moment later I felt Pete’s hands around my neck.   
+​	“I’m not hugging you because that man is dead,” he whispered in my ear. “I’m hugging you because you have a terrible taste in music and I feel sorry for you.”  
+​	I started giggling. “You’re right,” I said, wiping away the tears, “that Tiny Richard you keep listening to is so much better.”   
+​	“It’s Little Richard and you know it,” he said, laughing himself.    
 I grabbed him and forced him to be part of the huddle. The group swallowed him: Shirley draping himself around his neck and Joanne treating herself to a hug from him. Then something interesting happened: Pete started crying.   
-	“Yeah, yeah,” said Alice from inside the circle. “You don’t know why, either.” She hugged him, too. 
+​	“Yeah, yeah,” said Alice from inside the circle. “You don’t know why, either.” She hugged him, too. 
 
 One by one, the cars of our not-so-little caravan found their way to the dreary lookout, most of them already knowing and grieving, and some surprised and hurt only after they stopped. Tired of the grief, Alice and I took a walk by wooden railing marking the end of the rest area, staring down at the Yadkin river. Rotten logs were submerged beneath the surface of the water, looking like pale bodies in the moonlight.   
-	“It’s so quiet here,” I said. “So quiet it hurts my ears.”  
-	“Yeah,” Alice said. “It’s the exact opposite of a Pillars show.”  
-	“How I’d love me a Pillars show right now,” I said, hugging myself. “Won’t mind getting some of that Love they keep talking about.”  
-	“Stay right here,” Alice said. “I’ve got some loving for you right here.” She put her arms around my neck and kissed me, a warm, salty kiss. “I always wanted to speak like that,” she said and kissed me again, a fleeting kiss, like an afterthought. “Like movie starlets do.”  
-	“You’re a starlet, to be sure,” I told her.   
-	“You make me feel like one, Timothy.”  
+​	“It’s so quiet here,” I said. “So quiet it hurts my ears.”  
+​	“Yeah,” Alice said. “It’s the exact opposite of a Pillars show.”  
+​	“How I’d love me a Pillars show right now,” I said, hugging myself. “Won’t mind getting some of that Love they keep talking about.”  
+​	“Stay right here,” Alice said. “I’ve got some loving for you right here.” She put her arms around my neck and kissed me, a warm, salty kiss. “I always wanted to speak like that,” she said and kissed me again, a fleeting kiss, like an afterthought. “Like movie starlets do.”  
+​	“You’re a starlet, to be sure,” I told her.   
+​	“You make me feel like one, Timothy.”  
 “You know, I think maybe that’s a good time to head back.”  
-	Alice drew away from my hug. “Back where?” she said.   
-	“You know. Home.”  
-	“Where’s that?”   
-“You know,” I said. “How can we still listen to music after today?”  
-	“Home,” Alice said, taking my head in her hands and looking me in the eye, “is where *we* are. And the show *must* go on.”  
-	She kissed me again, a wild, bitter kiss.
+​	Alice drew away from my hug. “Back where?” she said.   
+​	“You know. Home.”  
+​	“Where’s that?”   
+​	“You know,” I said. “How can we still listen to music after today?”  
+​	“Home,” Alice said, taking my head in her hands and looking me in the eye, “is where *we* are. And the show *must* go on.”  
+​	She kissed me again, a wild, bitter kiss.
 
 I thought again about love – Love, for that matter. “I want to teach you something,” I said.   
-	“What’s that?” she asked. She was playing with the lobe of my ear, running it through her fingers.   
-	“It’s something that we learned a while back, and it helps with…”  
-	“Who’s *we*? Helps with *what*?”  
-	“You’ll see.”  
-	I took a small step back and held out my hand, palm outstretched. She did the same. I took a small step forward and our hands were almost touching.   
-“What do we do now?” Alice said.   
-“If you feel ready,” I said, “lean in.”  
-Our fingertips were searching for each other, and every time they bumped into one another I felt electric currents. Finally our fingers aligned. Then our gazes were aligned, too.   
-Slowly, gently, I pushed my hand forward. Our fingers clung on to each other, segment by segment, until POP – our palms met. Her skin was very warm, almost moist, very soft, and so different from Barry’s.   
-“I can feel it,” Alice whispered. 	  
-I leaned forwards, feeling like Alice was tethered to the base of the world – as if she’s the most stable anchor point in the universe. Her grey, round eyes went soft, the irises expanded; the lines on her face smoothed themselves out and softened as her shoulders drooped; the warmness in my chest multiplied itself and sent itself into my stomach and my legs. I felt my legs going deep into the ground, growing roots.    
-“I think I’m falling for you,” Alice said. “Is that okay?”  
-I let my hand relax and Alice’s hand relaxed. Our hands remained pressed together, like they were glued to each other. We drew closer. The warmness was a thick blanket shielding us from the oppressive, dark stillness.  
-“So, it seems,” said a voice behind us, “that this whole place was an ancient Indian trading ford.”  
-The magic broke; Alice retracted her hand. We turned around to face Eleanore.   
-“Yeah,” she continued. “It says so right there on this sign. It was active for hundreds of years, right at this spot.” Her eyes were twinkling as she was looking at us, but she wasn’t smiling. Alice was very red and I wondered if I was, too.   
-“Excuse me,” Alice said, very politely, and ran away.   
-“Yeah,” said Eleanore. “Then they built a damn upstream and flooded this whole place. Fitting location for a night like this, don’t you think?”  
-We stood there, staring at each other in the dark. From far away I could hear the others: crying, talking in hushed voices, singing Elvis songs softly and slowly.   
-“Eleanore,” I said, “that was uncalled for.”  
-“Was it now,” said Eleanore.   
-“Yes.”  
-“You and Alice, huh?”  
-“I don’t know,” I said. “I think so. I hope so.”    
-“And you expect me to accept this just… lying down?”  
-“Huh,” I said. “I guess you make a good point.”  
-“You can have your fun,” Eleanore said, turning away. “But don’t think I won’t have my fun, too.”
+​	“What’s that?” she asked. She was playing with the lobe of my ear, running it through her fingers.   
+​	“It’s something that we learned a while back, and it helps with…”  
+​	“Who’s *we*? Helps with *what*?”  
+​	“You’ll see.”  
+​	I took a small step back and held out my hand, palm outstretched. She did the same. I took a small step forward and our hands were almost touching.   
+​	“What do we do now?” Alice said.   
+​	“If you feel ready,” I said, “lean in.”  
+​	Our fingertips were searching for each other, and every time they bumped into one another I felt electric currents. Finally our fingers aligned. Then our gazes were aligned, too.   
+​	Slowly, gently, I pushed my hand forward. Our fingers clung on to each other, segment by segment, until POP – our palms met. Her skin was very warm, almost moist, very soft, and so different from Barry’s.   
+​	“I can feel it,” Alice whispered. 	  
+​	I leaned forwards, feeling like Alice was tethered to the base of the world – as if she’s the most stable anchor point in the universe. Her grey, round eyes went soft, the irises expanded; the lines on her face smoothed themselves out and softened as her shoulders drooped; the warmness in my chest multiplied itself and sent itself into my stomach and my legs. I felt my legs going deep into the ground, growing roots.    
+​	“I think I’m falling for you,” Alice said, “is that okay?”  
+​	I let my hand relax and Alice’s hand relaxed, too. Our hands remained pressed together, as if they were glued to each other. We drew closer. The warmness was a thick blanket shielding me from the oppressive, dark stillness.  
+​	“So, it seems,” said a voice behind us, “that this whole place was an ancient Indian trading ford.”  
+​	The magic broke; Alice retracted her hand. We turned around to face Eleanore.   ​	“Yeah,” Eleanore said, “it says so right there on this sign. It was active for hundreds of years, right at this spot.” Her eyes were twinkling as she was looking at us, but she wasn’t smiling.    
+​	“Excuse me,” Alice said, very politely, and ran away.   
+​	“Bye now,” said Eleanore. “So... then they built a damn upstream and flooded this whole place. Fitting location for a night like this, don’t you think, Timothy?”  
+​	We stood there, staring at each other in the dark. From far away I could hear the others: crying, talking in hushed voices, singing Elvis songs softly and slowly.   
+​	“Eleanore,” I said slowly, “that was uncalled for.”  
+​	“Was it now,” said Eleanore.   
+​	“Yes.”  
+​	“You and Alice, huh?”  
+​	“I don’t know,” I said. “I think so. I hope so.”    
+​	“And you expect me to accept this just… lying down?”  
+​	“Huh,” I said. “I guess you make a good point.”  
+​	“You can have your fun,” Eleanore said, turning away. “But don’t think I won’t have my fun, too.”
 
-Up ahead, where the tree line met the end of the cliff, I saw Shirley’s friend, Veronika, kneeling down on the ground.  
-	“Excuse me,” I said. “Have you seen Alice? Hey, are you okay? Are you crying?”  
-	Veronika looked up. I the dim moonlight I saw dirt on her face and hands.   
-	“I’m not crying,” Veronika said. “I’m making amends.” She had a low, almost androgynous voice, raspy at that; in the dead air she sounded like a cryptkeeper making an ominous promise.    
-	“What do you mean,” I said, “‘making amends?’”  
-	“I mean,” Veronika said, “the world has lost a life, the world owes itself a life. Take a look.” She held out a little packet. I felt inside –  
-	“Why do you have moist pine nuts in a bag?” I asked.   
-	“You might think of them as delicious pine nuts,” she said. “I think of them as baby trees.”  
-	She meticulously tilled a bit of ground in her bare hands until it was soft and fluffy and her hands were very dirty; then she made a little hole in the aired ground.   
-	“Do you want to do the honors?” she asked.  
-	I carefully picked a single, slippery nut from the packet and dropped it in the hole. Veronika took a folded little piece of paper from her pocket and tossed it in.   
-	“What’s that?” I asked.   
-Veronika didn’t answer. She used her dirty palms to cover the baby tree and the note. 
+Up ahead, where the tree line met the end of a cliff, I saw Shirley’s friend, Veronika, kneeling down on the ground.  
+​	“Excuse me,” I said. “Have you seen Alice? Hey, are you okay? Are you crying?”  ​	Veronika looked up. I the dim moonlight I saw dirt on her face and hands.   
+​	“I’m not crying,” Veronika said. “I’m making amends.” She had a low, almost androgynous voice, raspy at that; in the dead air she sounded like a cryptkeeper making an ominous promise.    
+​	“What do you mean,” I said, “‘making amends?’”  
+​	“I mean,” Veronika said, “the world has lost a life, the world owes itself a life. Take a look.” She held out a little packet. I felt inside –  
+​	“Why do you have moist pine nuts in a bag?” I asked.   
+​	“You might think of them as delicious pine nuts,” she said. “I think of them as baby trees.”  
+​	She meticulously tilled a bit of ground in her bare hands until it was soft and fluffy and her hands were very dirty; then she made a little hole in the aired ground.   
+​	“Do you want to do the honors?” she asked.  
+​	I carefully picked a single, slippery nut from the packet and dropped it in the hole. Veronika took a folded little piece of paper from her pocket and tossed it in.   
+​	“What’s that?” I asked. Veronika didn’t answer. She used her dirty palms to cover the baby tree and the note. 
 
 “Then you kind of lean in into each other–”  
-	I heard Alice’s voice behind me, where people were still hanging out by the cars. I turned to see her pressing palms with Shirley. They were looking each other and in the darkness I saw their shoulders rounding and softening, saw their steaming breaths stretching. I stared in disbelief.   
-I heard Shirley saying, “I can really feel it\!”  
-	“Tim invented it,” Alice said. “He’s a genius.”   
-	I heard my blood rushing in my veins as Shirley was doing my private thing with Patty, as Alice was teaching it to Joanne. I stood outside, in the darkness, and saw it spread across the group like a wave.   
-	Then I noticed Barry was standing beside me, looking in the same direction. His face was bitter.   
-	“So,” he said. “That’s the way it’s gonna be, huh?”
+​	I heard Alice’s voice behind me, where people were still hanging out by the cars. I turned to see her pressing palms with Shirley. They were looking each other and in the darkness I saw their shoulders rounding and softening, saw their steaming breaths stretching. I stared in disbelief.   
+​	I heard Shirley saying, “I can really feel it\!”  
+​	“Tim invented it,” Alice said. “He’s a genius.”   
+​	I heard my blood rushing in my veins as Shirley was doing my private thing with Patty, as Alice was teaching it to Joanne. I stood outside, in the darkness, and saw it spread across the group like a wave.   
+​	Then I noticed Barry was standing beside me, looking in the same direction. His face was bitter.   
+​	“So,” he said. “That’s the way it’s gonna be, huh?”
 
 *(aahend I love you… so…)*
 
 “What do you mean,” Alice is saying, “‘it’s lost all meaning now?’”  
-“Just that,” I say. On stage, Elvis is breaking a guitar inches away from some rude guy’s face. Seeing the bare insides of the guitar makes me cringe.   
-“What’s lost meaning?” Eleanore is saying from the front seat.  
-	“Mind your own beeswax,” I say. I squeeze Alice’s hand in a way that I hope will convey ‘let’s get out of here’.   
-	Outside, the cars are illuminated in the silvery light from the screen and the cars are humming with Elvis’s crooning coming from cheap speakers and people shouting at each other across cars. Some people travel between cars or wander off to the concession stand, in the middle of the lot. We stand outside our car, breathing the night air.   
-	“You’re angry with me,” Alice whispers.   
-	“Yeah, I guess I am,” I say, looking at the screen. 	  
-	“I’ve never been yelled at by someone quite as tall as you are,” she says, almost to herself, “so be gentle, okay?”  
-	“I’m not going to yell.”  
-	“You promise?” she says, looking up at me.   
-	“You took a private thing and you made it… public,” I say. “I wanted it to be *our* thing, and now it’s *everybody’s*. It’s *worthless*.”  
-	“Aw,” she says. She puts her hand up on my chest. “You can be *really* stupid sometimes.”  
-	I stare at her in disbelief and she laughs – an innocent laugh, not mean, but it makes me angrier.   
-	“Tim,” she says, “didn’t you figure out the first rule of this Pillars thing? It gets stronger when more people join in.”  
-	“What does?”  
-	She shrugs. “Whatever. Love, I guess. What I’m sure is that our thing is not *worthless*. It’s *better* now that more people share in it.”  
-	“Now you sound like one of them communists.”  
-	“Natasha, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, Boris, I’ll make you a deal. We do it now and if it doesn’t work I’ll…” she smiles and bites her lip.   
-	“You do what?”  
-	“I’ll make it worth your while,” she says and winks at me.   
-	“You talk just like a starlet,” I say and we laugh and I put my palm up and Alice puts her palm up and I look her in the eye and the heels of our palms meet.  
-	Alice is the most stable point in the world.   
-	My shoulders go soft.  
-	“See?” says Alice. “Now you’re going to have to make it worth *my* while.”   
-I smile. I let my arm go loose and step forward and, our palms still pressed against each other, I kiss her, a wild, hungry kiss.   
-	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?”
+​	“Just that,” I say. On stage, Elvis is breaking a guitar inches away from some rude guy’s face. Seeing the bare insides of the guitar makes me cringe.   
+​	“What’s lost meaning?” Eleanore is saying from the front seat.  
+​	“Mind your own beeswax,” I say. I squeeze Alice’s hand in a way that I hope will convey ‘let’s get out of here’.   
+​
+Outside, the cars are illuminated in the silvery light from the screen and the cars are humming with Elvis’s crooning coming from cheap speakers and people calling at each other across cars. Some people travel between cars or wander off to the concession stand in the middle of the lot. We stand outside our car, breathing the night air and not looking at each other.   
+​​	“Before we begin, I’ve never been yelled at by someone quite as tall as yourself,” Alice says, almost to herself, “so be gentle, okay?”  
+​	“I’m not going to yell.”  
+​	“You promise?” she says, looking up at me.   
+​	“You took a private thing and you made it… public,” I say. “I wanted it to be *our* thing, and now it’s *everybody’s*. It’s *worthless*.”  
+​	“Aw,” she says. She puts her hand up on my chest. “You can be *really* stupid sometimes.”  
+​	I stare at her in disbelief and she laughs – an innocent laugh, not mean, but it makes me angrier.   
+​	“Tim,” she says, “didn’t you figure out the first rule of this whole thing? It gets stronger when people join in.”  
+​	“What does?”  
+​	She shrugs. “Whatever. Love, I guess. What I’m sure is that our thing is not *worthless*. It’s *better* now that more people share in it.”  
+​	“Now you sound like one of them communists.”  
+​	“Natasha, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, Boris, I’ll make you a deal. We do it now and if it doesn’t work I’ll…” she smiles and bites her lip.   
+​	“You do what?”  
+​	“I’ll make it worth your while,” she says and winks at me.   
+​	“You talk just like a starlet,” I say and we laugh and I put my palm up and Alice puts her palm up and I look her in the eye and the heels of our palms meet.  
+​	Alice is the most stable point in the universe.   
+​	My shoulders go soft.  
+​	“See?” says Alice right into my eyes. “Now you’re going to have to make it worth *my* while.”   
+​	I smile. I let my arm go loose and step forward and, our palms still pressed against each other, I kiss her, a wild, hungry kiss.   
+​	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?”
 
 We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.   
-	“Hi, handsome,” says Patty. They’re all still dressed fancy – their show clothes.   
-	“Hey, girls,” says Alice, clutching my hand.   
-	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   
-	“You don’t go by ‘girls’?” says Alice.   
-	“No. Now we’re the Paint Pillars,” says Shirley.	  
-“Is that your fan club name?” asks Alice.   
-	“It is\! What’s yours, Alice?”  
-	“It’s Wonderland.”  
-	“Alice of Wonderland\!” they all cheer.   
-“I’m done,” says Veronika. We all crowd the trunk to take a look.   
-“Wow,” Alice says. “It’s beautiful.”  
-“Wow,” I say. “Nice. Really really nice. Great.” I walk away.   
-Veronika’s painting is two giant hands, pressing palms against each other.   
-“Wait up\!” Alice calls, laughing. “I’ll see you girls later\! I mean I’ll see you paint pillars later\!”  
-Patty asks, “Why isn’t he smiling anymore?” 
+​	“Hi, handsome,” says Patty. They’re all still dressed fancy – their show clothes.   
+​	“Hey, girls,” says Alice, clutching my hand.   
+​	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   
+​	“You don’t go by ‘girls’?” says Alice.   
+​	“No. Now we’re the Paint Pillars,” says Shirley.	  
+​	“Is that your fan club name?” asks Alice.   
+​	“It is\! What’s yours, Alice?”  
+​	“It’s Wonderland.”  
+​	“Alice of Wonderland\!” they all cheer.   
+​	“I’m done,” says Veronika. We all crowd the trunk to take a look.   
+​	“Wow,” Alice says. “It’s beautiful.”  
+​	“​Wow,” I say. “Nice. Really really nice. Great.” I walk away.   
+​	Veronika’s painting is two giant hands, pressing palms against each other.   
+​	“Wait up\!” Alice calls, laughing. “I’ll see you girls later\! I mean I’ll see you Paint Pillars later\!”  
+​	I hear Patty ask, “Why isn’t he smiling anymore?” 
 
-In the middle of the lot there’s a little brick and mortar shack and a light beam is streaming from its roof and illuminating the screen – the projectionist booth. Elvis is \[xxx\]. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that some light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
-	“Ready for the action, Wonderland girl?” he says.   
-	“We’re ready,” we say in unison. Eddie raises his head to see we’re holding hands, and smiles to himself.   
-	“Well,” he says, “as long as *you’re* ready…”   
-	“We got a lot of matchbooks and we’re going to hand them all out,” I say.    
-	“Listen up, you kiddos,” Eddie says. “Mama wants this *small,* okay? Mama wants it *contained*, yeah? She wants to make sure we don’t grow so fast.”  
-	“Right,” I say. Eddie gets up and wipes the dust from his pants. He’s still wearing his mechanic’s overalls.   
-	“So,” he says, “if you go around and hand out these matchbooks to whomever wants to join us, this will be a catastrophe. Mayhem. *Il problema*.”  
-	Above us, Elvis stands alone in front of a television camera, looking down at us. I shoot him one last fleeting look.   
-	“Right,” says Alice.   
-	“In short, it will be,” says Eddie and touches two wires together, “*Rock’n’roll*.”  
-	All around the lot, Elvis’s voice dies down. From the nearby cars we can hear people moan and call out…
+In the middle of the lot there’s a little brick and mortar shack and a light beam is streaming from its roof and illuminating the screen – the projectionist booth. Elvis is pacing above our heads. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that some light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
+​	“Ready for the action, Wonderland?” he says.   
+​	“We’re ready,” we say in unison. Eddie raises his head to see we’re holding hands, and smiles to himself.   
+​​	“Well,” he says, “as long as *you’re* ready…”   
+​	“We got a lot of matchbooks and we’re going to hand them all out,” I say.    
+​	“Listen up, you kiddos,” Eddie says. “Mama wants this *small,* okay? Mama wants it *contained*, yeah? She wants to make sure we don’t grow too much, too soon.”  
+​	“Right,” I say. Eddie gets up and wipes the dust from his pants. He’s still wearing his mechanic’s overalls.   
+​	“So,” he says, “if you go around and hand out these matchbooks to whomever wants to join us, this will be a catastrophe. Mayhem. *Il problema*.”  
+​	Above us, Elvis stands alone in front of a television camera, looking down at us. I shoot him one last fleeting look.   
+​	“Right,” says Alice.   
+​	“In short, it will be,” says Eddie and touches two wires together, “*Rock’n’roll*.”  
+​	All around the lot, Elvis’s voice dies down. From the nearby cars we can hear people moan and call out…
 
 *(hey, what happened to the sound?)*
 
-On stage, Elvis is standing with his thumbs in his pockets. Behind him is a TV set resembling jail cell bars. He opens his mouth, about to sing. Below him, a familiar van pulls over right under the screen, with people standing on stage. As the truck rolls into the beams, Elvis’s figure breaks and distorts and illuminates the Steam Pillars.   
-Elvis opens his mouth, but through the speakers we hear he speaks in Vilma’s voice…
+On stage, Elvis is standing with his thumbs in his pockets. Behind him is a TV set made to look like cell bars in a jail. Below him, a familiar van pulls over right under the screen, with people standing on the bed in the back. As the truck rolls into the beams Elvis’s figure breaks and distorts and illuminates the Steam Pillars.   
+​	Elvis opens his mouth, but through the speakers we hear him speak in Vilma’s voice…
 
 *(are you guys ready for something NEW?)*
 
-The door of the projectionist booth opens and an orange-and-white clad man comes out. Eddie lifts his head towards him. The man shrugs and goes away.   
-	All around us the speakers explodes with sound. Jo’s guitar is a tinny thunder. The kids in the car next to me are stunned. I look at them as one of them turns to look at me. I smile at him to let him know he hasn’t gone crazy. Now Vilma’s voice is loud over the guitar…  
-	  
+The door of the projectionist booth opens and an orange-and-white clad man comes out. Eddie lifts his head towards him. The man winks at Eddie and goes away, around the building, towards the concession stand.   
+​	All around us the speakers explodes with sound. Jo’s guitar is a tinny thunder. The kids in the car next to me are stunned. I look as one of them turns to look at me. I smile at him to let him know he hasn’t gone crazy. Now Vilma’s voice is loud over the guitar…  
+
 *(d’warden threwaparty in coun-TEE jail\!)*
 
-In the back, we see the Joneses get out of their car and dance together. Up ahead, we see Cindy and Eleanore and Barry do the same. The music is hot, and the people in the car next to us start swaying with it.    
-	“Who the hell are these people?” the driver yells through the open window. Eddie got the speakers to work really loud now, and the whole lot is buzzing with Pillars music.  
-	“They’re called The Steam Pillars,” Alice tells him. “They’re black and white performers and they’re the hottest thing around\! Hey, do you dare to dance?”
+In the back, we see the Joneses get out of their car and dance together. Up ahead, we see Cindy and Eleanore and Barry do the same. On screen, the figures of the dancers, all wearing inmates' uniforms, and that of the live players, all dancing too, blend and move into each other. It seems the band is playing with the movie instead of on top of it. The music is hot, and the people in the car next to us start swaying with it.    
+​	“Who the hell are these people?” the driver yells through the open window. Eddie got the speakers to work really loud now, and the whole lot is buzzing with Pillars music.  
+​	“They’re called The Steam Pillars,” Alice tells him. “They’re black and white performers and they’re the hottest thing around\! Hey, do you dare to dance?”
 
-*(y’cain’t find a partner use a wood-den chaiir, let’s–)*
+*(y’cain’t findapadneh use a wood-den chaiir, let’s–)*
 
-The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a mad pace. Their version is everything I feel since I heard the news: betrayal, confusion, loud boisterous mourning.   
+The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. ==Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a mad pace==. Their version is everything I feel since I heard the news: betrayal, confusion, loud boisterous mourning.   
 We walk hand in hand between cars, looking for people to hand matchbooks to.   
-	“The problem is,” Alice shouts in my ear, “how do we choose? They’re *all* dancing\!”  
-	I look around to see the whole lot is out of their cars, dancing and hooting. Some people dance on the roofs of their cars. The air is dense. Then I guess the movie reel runs out, sending splattering, flashing light on the faces of the Steam Pillars. The screen is white now, except for the giant shadows of the band. The makeshift crowd cheers… in that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
+​	“The problem is,” Alice shouts in my ear, “how do we choose? They’re *all* dancing\!”  
+​	I look around to see the whole lot is out of their cars, dancing and hooting. Some people dance on the roofs of their cars. The air is dense. Then I guess the movie reel runs out, sending splattering, flashing light on the faces of the Steam Pillars. The screen is white now, except for the giant shadows of the band. The makeshift crowd cheers… in that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
 
 The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it a muffler backfiring? I find myself running towards the stage with Alice, but as we get near Cindy she signals us to stop.   
-	“I’m going to kill them,” says B.L.  
-	“We’ll sort it out,” says Cindy. They push their way towards the truck.   
-	On the truck bed, Mucho and two of B.L.’s biker friends are brawling. Heath stands between Vilma and another “Seven”, as more of them circle the truck in their bikes.   
-	One of the bikers grabs one of the mics and calls into it, 
+​	“I’m going to kill them,” says B.L.  
+​	“We’ll sort it out,” says Cindy. They push their way towards the truck.   
+​	On the truck bed, Mucho and two of B.L.’s biker friends are brawling. Heath stands between Vilma and another “Seven”, as more of them circle the truck in their bikes.   
+​	One of the bikers grabs one of the mics and calls into it, 
 
-*(ladies and gentleman, I am Captain Argyle of the South Carolina Citizen’s Decency Commission. We apologize for the disruption you have suffered and we will resume the motion picture moment–)*
+*(ladies and gentleman, I am Captain ==Argyle== of the South Carolina Citizen’s Decency Commission. We apologize for the disruption you have suffered and we will resume the motion picture moment–)*
 
 We see Vilma as she grabs the mic and lays it down close to her face. Mucho has joined Heath in creating a perimeter around her. Through the nearby speakers we hear her voice as she cries out,
 
-*(Do you guys want to watch the rest of the ‘motion picture’? Or do you guys want some rock’n’roll?)*
+*(Do you guys want to watch the rest of the ‘motion picture...’ Or do you guys want some rock’n’roll?)*
 
 The crowd cheers–  
 ​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling.   
