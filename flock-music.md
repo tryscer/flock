@@ -1,26 +1,17 @@
-- [ ] 📅 2026-04-05 🔺 this is a test
 ## Epitaph
-
-
 "Let my people go."
-
 — *Some hopped-up, bush-watching, self-proclaimed leader of men*
 
-
 "Too much a-love drives a man insane."
-
-
 — *Elvis Aaron Presley*
 
-
 # Side 1: Alice
+
 ## Track 1: Alice Gets in a Car
-
-
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
 
-*Ba-Boom Boom-Boom*…  
+*BaBoom Boom-Boom*…  
 ​        ==It's June 13th, 1958, a Saturday, one month before my 18th birthday, one day before Elvis died.== It's an early-summer morning. The windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
 
 
@@ -70,9 +61,7 @@ Scenic Greensboro rolls across the windows: the trimmed green lawns and rustic r
 ​        “Much obliged. Now, there might be some rough customers at the Fair today, so you girls stick close to Tim and me,” he says. I’m thinking, “Boy, does he like to say 'Now' with such gravitas.”  
 ​        "Oh," says Barry. "And, now, no talking to strangers".
 
-
-(song) 
-- [x] hhshsh shshshshs sh shsh ✅ 2026-04-05
+- [ ] (song) 
 
 "Alice has never been to a live show before," says our Hostess. "This is going to be her first one".  
 ​        "Ah," I say, "my very first show".  
@@ -2732,6 +2721,6 @@ We see Vilma as she grabs the mic and lays it down close to her face. Mucho has 
 *(Do you guys want to watch the rest of the ‘motion picture...’ Or do you guys want some rock’n’roll?)*
 
 The crowd cheers–  
-​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling.   
+​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling. I hold her and 
 
 

@@ -1,5 +1,6 @@
 
-#  Chapter 6 Betamax
+![[Pasted image 20260405185914.png]]
+
 
 - 3 tact play in which love is discovered to be a stronger drug than the
   usual rocknroll drug

@@ -4,4 +4,4 @@ filter by function task.file.path.toLocaleLowerCase() === 'Flock-Music.md'.toLoc
 
 ```
 
-
+![[630E2C0C-BB92-4135-84FA-0E7D262CDAEB_1_105_c.jpeg]]

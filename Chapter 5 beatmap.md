@@ -1,4 +1,5 @@
 
+- ![[Pasted image 20260405185639.png]]
 - Tim is internally insulted when Alice gives more attention to Cindy
   and then to Shirly
 
