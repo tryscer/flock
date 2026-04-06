@@ -10,8 +10,7 @@
 ## Track 1: Alice Gets in a Car
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
-
-*BaBoom Boom-Boom*…  
+*Ba-Boom Boom-Boom*…  
 ​        ==It's June 13th, 1958, a Saturday, one month before my 18th birthday, one day before Elvis died.== It's an early-summer morning. The windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
 
 
@@ -166,9 +165,9 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​        Cindy whispers in my ear, "I'm running away from home".
 
 
-==replace this with radio insert *(BROOM BROOM BROOM\! BROOM BROOM BROOM\!)*  ==
+- [ ] ==replace this with radio insert *(BROOM BROOM BROOM\! BROOM BROOM BROOM\!)*  ==
 
-
+  
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
 ​        "You'll push us into the ditch\!" Eleanore yells. "Tim, put your back into it\! Barry is pushing twice as hard as you\!"  
 ​        "Will you shut your little mouth and steer the car?"  
@@ -2506,20 +2505,27 @@ And suddenly I’m unsure of myself for leaving, and loving Alice and hating mys
 
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
 
-By the offramp from highway 29 to Salisbury, a big sign welcomes us to the Hitching Post Drive-In. Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
+By the offramp from highway 29 to Salisbury, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
 ​	“Be careful,” Eleanore says to Barry. “Don’t bump into Shirley’s car.”  
-​	We’re a long line of cars, all with their headlights dark, stealing into the immense lot from across the line of little mounds that mark its back perimeter. I’m in the back seat; Alice and Cindy flank me, both hugging me.   
-​	Eleanore took my place in the front. She’s holding on to the dashboard with a tense anticipation, like a captain at the wheel, as we find our place in the back with the others. It’s a new Elvis film playing, black-and-white. Elvis sits brooding in a jail cell. His white face towers over us, his hairline cut off by the rim of the Chevy’s roof.  
-​	“Look how *handsome* he was,” Cindy says.   
-​	“He walks and talks like a real *king*,” Eleanore says.   
-​	“What an *asset* the world lost today,” Barry says.   
-​	The lot is so big its edges are shrouded in darkness, and full of cars – dozens of cars. We find a place facing the big screen, next to a speaker pole with an intact speaker attached to it. The people in the car next to us – kids like us – give us a dirty look.   
+​	We’re a long line of cars, all with their headlights darkened, stealing into the immense lot from across the line of little mounds that mark its back perimeter. I’m in the back seat; Alice and Cindy flank me, both hugging me.   
+​	Eleanore took my place in the front. She’s holding on to the dashboard with a tense anticipation, like a captain at the wheel, as Barry gently glides across rows and rows of cars. 
+​	"God, are they *all* crying?" Eleanore says. 
+​	I look up and peer through the nearest car window and see a boy and a girl our age. The girl is sobbing into a handkerchief; the boy, red-nosed, is wiping his eyes. In the next window, the back seat of the car shows three girls hugging. In the next window, an older man, sitting alone and crying; in the one after that, someone tries to console his girlfriend. "Maybe it's just a hoax," he tells her. We keep moving between cars. The lot is so large its edges are shrouded in darkness. 
 ​	“Play innocent,” Barry says.  
 ​	“We are innocent,” Eleanore says.   
-​	“That’s the spirit,” Cindy says.   
-​	On the screen, Elvis and Judy Tyler are sitting next to each other at a bar, shooting questioning looks at each other. Under the screen there’s a little stage and under it there’s a white booth and next to it I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
-	"I know what you need," Alice says. She presses her palm against mine.   
-	“Forget it,” I say and pull my hand away. “It’s lost all meaning now.” 
+​	“That’s the spirit,” Cindy says. 
+​	The cars are all parked next to speaker posts, wires hanging between the posts and the car windows where the speakers are hanging, and all the cars are facing an enormous screen and on screen, Elvis's gigantic presence looms in black-and-white over the darkened lot. Elvis's hairline is cut off by the rim of the Chevy’s roof and he's now brooding in a jail cell, maybe dreaming about the time when he'll be free. 
+​	“Look how *handsome* he was,” Cindy says.   
+​	"And so young," says Alice.
+​	“He walks and talks like a real *king*,” Eleanore says.   
+​	“What an *asset* the world lost today,” Barry says. 
+​	"He sings great in this movie," I say. "I should say I am sorry we won't get to hear it."
+​	On screen, Elvis is shooting questioning looks at Judy Tyler. Under the screen I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
+​	"Now I get the worst part," I say. "I will never, ever, see him on stage. Never."
+​	I look to my left and see the couple we parked next to are listening to our conversation. They are our age, and the woman looks a little like Alice. She now looks at me with wide eyes. 
+​	"You're right," she says. "Fuck."
+​	"Hey, I know what you need," Alice says. She presses her palm against mine.   
+​	“Forget it,” I say and pull my hand away. “It’s lost all meaning now.” 
 
 *(yor… soyoung and beau… ti-fohl…)*
 
@@ -2531,25 +2537,24 @@ When we heard the news on the radio I felt like a truck has rammed itself into m
 ​	His kindness surprised me – and served to underline the gravity of the news.   
 ​	“It’s the end of rock and roll,” Eleanore said.   
 ​	“Nice, really nice,” Cindy said. “Cheerful as always.”  
-​	“She’s right, though,” Alice said. “It’s the end of something to be sure.” She put her hand on mine. “It might,” she added, “be the start of something…”  
-​	“Are you going to prophet school, too?” Cindy said.   
-​	I took Alice’s hand and squeezed it. Alice squeezed back – a perfectly silent channel of communication, just for us, in the middle of this loud and public car.   ​	“Yeah,” said Alice, “me and the Bear-gineer. We’re following Tim there.”  
-​	“The Bear-gineer,” I said. “Where is that smelly old thing? I think I deserve to hug it for a little while.”   
-​	The Bear-gineer was found and passed on and I latched on to it, putting my face in his dusty fur. For a minute I was a boy. Then, Barry’s voice pulled me back:  
-​	“We better get out of the way.”  
-​​	More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were stopping by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.  
-​	“Let’s get out of this can,” Cindy said.
+​	“She’s right, though,” Alice said. “It’s the end of something to be sure.” ​	
+​​	More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were stopping by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.  ​	“Let’s get out of this can,” Cindy said.
 
 We left the car to the sound of a girl crying. We were at the precipice of a gloomy lookout point over the Yadkin river: a dead place with dead bushes and a smattering of sick, spindly trees, all overlooking a slow, sad river. An old bronze sign dedicated to a Revolutionary general, green and flaking, made the place feel even more ancient. The road sloped down and turned into a wooden bridge. The air was dead, no echoes. The moon was a sliver of itself and everyone around was a silvery, ghostly figure.   
-​	“It’s eerily quiet,” Eleanore said. “I wonder what this place is. And *why*.”  
-​	“For us,” Alice told her, “it’s where the world ends.”  
-​	“Cheer the hell up, you two,” Cindy said. “Not that I’m cheerful myself, mind.”  
-​	Barry said, “It’s different when you’ve actually met the guy. It feels more real.”  
-​	Eddie snorted. “You’ve met Elvis?”  
-​	“Me and Cindy here,” Barry said, throwing a sideways look at Eddie, who took an appreciative drag from his cigarette. “Matter of fact, there were not two feet between Elvis’s face and Cindy’s unmentionables.”  
-​	“Shut up, Bear,” Cindy said. “Really inappropriate.”  
-​	“Yeah, Bear,” said Eleanore, “bad taste.”   
-​	The caravan folk were scattered between the cars. Some went out of their way to show indifference, joking and laughing in the dead, echoless air – but most of them were hugging. Next to nearly every car were people hugging. The source of the crying turned out to be Shirley, who was hugged by both Patty and Veronika. As I watched, Alice ran over to them and joined the huddle. Easily, without a word being spoken, the hug expanded to include her. I went over and the group followed. I didn’t mean to join – maybe just to put a hand on Alice’s shoulder - but Eleanore pushed me from behind and soon enough we were all in there.   
+​	“It’s eerily quiet,” Eleanore said. “I wonder what this place is. And *what for*.”  
+​	The caravan folk were scattered between the cars. Some went out of their way to show indifference, joking and laughing in the dead, echoless air – but most of them were hugging. Next to nearly every car were people hugging. 
+​	"It's a joke, right?" 
+​	Joanne and John came towards us, huddled as if they're supporting each other from falling. 
+​	"It's not a joke," I say. "The man left."
+​	Another car slows by, 
+​	
+
+
+"Excuse me, I'm new here. Could you maybe get the Pillars to play for us?"
+"I'll see what I can do"
+
+
+The source of the crying turned out to be Shirley, who was hugged by both Patty and Veronika. As I watched, Alice ran over to them and joined the huddle. Easily, without a word being spoken, the hug expanded to include her. I went over and the group followed. I didn’t mean to join – maybe just to put a hand on Alice’s shoulder - but Eleanore pushed me from behind and soon enough we were all in there.   
 ​	“I don’t know why I’m crying,” I heard Shirley say. “I never even liked that man’s singing.”  
 ​	A womanly hand clasped me on the back. Another womanly body was pressed against me. I felt myself melting into the hug I didn’t mean to join. Someone hugged me from behind. To my surprise, the bigger the circle became, the better I felt.   
 ​	I heard the coughing and purring of an old, large engine and lifted my head to see Mo’s bus ambling up the hill. I heard the hinges squeak and turned to see Pete opening the door.	  
@@ -2670,7 +2675,7 @@ We’re sneaking away between the cars like outcasts. Elvis is a giant pacing ab
 ​	“​Wow,” I say. “Nice. Really really nice. Great.” I walk away.   
 ​	Veronika’s painting is two giant hands, pressing palms against each other.   
 ​	“Wait up\!” Alice calls, laughing. “I’ll see you girls later\! I mean I’ll see you Paint Pillars later\!”  
-​	I hear Patty ask, “Why isn’t he smiling anymore?” 
+​	I hear Patty ask, “Why isn’t he smiling anymore?”    
 
 In the middle of the lot there’s a little brick and mortar shack and a light beam is streaming from its roof and illuminating the screen – the projectionist booth. Elvis is pacing above our heads. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that some light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
 ​	“Ready for the action, Wonderland?” he says.   
@@ -2708,8 +2713,7 @@ We walk hand in hand between cars, looking for people to hand matchbooks to.
 ​	“The problem is,” Alice shouts in my ear, “how do we choose? They’re *all* dancing\!”  
 ​	I look around to see the whole lot is out of their cars, dancing and hooting. Some people dance on the roofs of their cars. The air is dense. Then I guess the movie reel runs out, sending splattering, flashing light on the faces of the Steam Pillars. The screen is white now, except for the giant shadows of the band. The makeshift crowd cheers… in that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
 
-The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it a muffler backfiring? I find myself running towards the stage with Alice, but as we get near Cindy she signals us to stop.   
-​	“I’m going to kill them,” says B.L.  
+The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it a muffler backfiring? I find myself running towards the stage with Alice, but as we get near Cindy she signals us to stop.   ​	“I’m going to kill them,” says B.L.  
 ​	“We’ll sort it out,” says Cindy. They push their way towards the truck.   
 ​	On the truck bed, Mucho and two of B.L.’s biker friends are brawling. Heath stands between Vilma and another “Seven”, as more of them circle the truck in their bikes.   
 ​	One of the bikers grabs one of the mics and calls into it, 
@@ -2724,3 +2728,4 @@ The crowd cheers–
 ​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling. I hold her and 
 
 
+ 
