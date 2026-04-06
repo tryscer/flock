@@ -1,4 +1,4 @@
-## Epitaph
+## Epitaph test
 "Let my people go."
 — *Some hopped-up, bush-watching, self-proclaimed leader of men*
 
@@ -2736,5 +2736,17 @@ We see Vilma as she grabs the mic and lays it down close to her face. Mucho has 
 The crowd cheers–  
 ​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling. I hold her and kiss her, gently, lovingly, and the taste of that one kiss will stay in my mouth for the rest of my life. 
 
+*(Heath, why don't you sing one? Come on, Heath, give us a number...)*
+
+We walk towards the stage. You almost can't see the cars now, the crowd is so thick. Every now and then we see someone standing on their car, as if on an island in a deep sea. I say, "Do you think Cindy got rid of the Sevens?"
+​	"I'm sure she did," Alice says, pulling on my hand. "Come on! I want to be where it's at..."
+​	On the truck bed, it seems Vilma and Babatunde are trying to convince Heath into doing something. Mucho comes over holding a microphone stand and puts it in front of Heath's face. We're not far off from the makeshift stage now, and we can hear Heath clearly now, not through the little drive-in speakers...
+
+*(Alright, alright... Ladies and gentleman, this is a song dear to my heart - it's also Elvis's greatest hit - let's take it away in C-major, Baba, try to follow my rhythm...)
+
+*(ta-TAta-TA!)*
+
+Heath jabs the piano keys four times and the crowd grows silent. We watch with baited breath: Heath takes his time. 
+​	Then, his fingers start traveling 
 
  
