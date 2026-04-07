@@ -2500,7 +2500,6 @@ And suddenly I’m unsure of myself for leaving, and loving Alice and hating mys
 	We hold hands. She smiles at me. I open my mouth to tell her that, her delightful kiss notwithstanding, I still have business to attend to back in Fredericksburg. Then Cindy bursts out, crying, telling us they just announced on stage that Elvis died.
 
 ## Track 6: The End of the World
-
 *Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written here, on this piece of paper I’ve been handed, that this afternoon, at sixteen-oh-nine hours, an accident happened at Fort Hood Basic Training Facility in Temple, Texas. It would appear Corporal Elvis Pressley has been hurt… hurt by an explosive… excuse me, Jane, John… by an explosive device… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Paramedics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
@@ -2516,7 +2515,7 @@ By the offramp from highway 29 to Salisbury, under a big sign welcoming us to th
 ​	“That’s the spirit,” Cindy says. 
 ​	The cars are all parked next to speaker posts, wires hanging between the posts and the car windows where the speakers are hanging, and all the cars are facing an enormous screen and on screen, Elvis's gigantic presence looms in black-and-white over the darkened lot. Elvis's hairline is cut off by the rim of the Chevy’s roof and he's now brooding in a jail cell, maybe dreaming about the time when he'll be free. 
 ​	“Look how *handsome* he was,” Cindy says.   
-​	"And so young," says Alice.
+​	"And so *young*," says Alice.
 ​	“He walks and talks like a real *king*,” Eleanore says.   
 ​	“What an *asset* the world lost today,” Barry says. 
 ​	"He sings great in this movie," I say. "I should say I am sorry we won't get to hear it."
@@ -2529,7 +2528,7 @@ By the offramp from highway 29 to Salisbury, under a big sign welcoming us to th
 
 *(yor… soyoung and beau… ti-fohl…)*
 
-When we heard the news on the radio I felt like a truck has rammed itself into my stomach. Barry stopped the car and I felt like we were still moving; I put my hand on Barry’s shoulder, trying to right myself, feeling I would fall at any moment.  
+When we heard the news on the radio I felt like a truck has rammed itself into my stomach. Barry stopped the car next to the Buzz billboard and I felt like we were still moving; I put my hand on Barry’s shoulder, trying to right myself, feeling I would fall at any moment.  
 ​	“I don’t even know why I’m crying,” I heard Cindy saying behind me. “I mean, I never really knew him. Or have I?”  
 ​	“I don’t know why I’m crying, either,” said Alice. “Eleanore, do you know why you’re crying?”  
 ​	“Shut up, girl,” said Eleanore, sobbing.   
@@ -2546,7 +2545,7 @@ We left the car to the sound of a girl crying. We were at the precipice of a glo
 ​	"It's a joke, right?" 
 ​	Joanne and John came towards us, huddled as if they're supporting each other from falling. 
 ​	"It's a joke, right?" John repeated. He grabbed me by the collar of my shirt, imploring me. 
-​	"It's not a joke," I said. "The man has left."
+​	"It's not a joke," I said to his face. "The man has left."
 ​	Joanne came near and treated herself to a hug from me, raising a grumble from Alice. She looked up and said, "But how can we be rock'n'roll fans now?"
 ​	Another car slowed by us, its passenger rolling down the window and sticking his head out.
 ​	"What's up?" he said.
@@ -2646,7 +2645,8 @@ Up ahead, where the tree line met the end of a cliff, I saw Shirley’s friend, 
 
 “What do you mean,” Alice is saying, “‘it’s lost all meaning now?’”  
 ​	“Just that,” I say. Around us, the drive-in is a dark sea of cars. Elvis is breaking a guitar inches away from some rude guy’s face. Seeing the bare insides of the guitar makes me cringe.   
-​	“What’s lost meaning?” Eleanore is saying from the front seat.  ​	“Mind your own beeswax,” I say. I squeeze Alice’s hand in a way that I hope will convey ‘let’s get out of here’.   
+​	“What’s lost meaning?” Eleanore is saying from the front seat.
+​	“Mind your own beeswax,” I say. I squeeze Alice’s hand in a way that I hope will convey ‘let’s get out of here’.   
 ​
 Outside, the cars are illuminated in the silvery light from the screen and the cars are humming with Elvis’s crooning coming from cheap speakers and people calling at each other across cars. Some people travel between cars or wander off to the concession stand in the middle of the lot. We stand outside our car, breathing the night air and not looking at each other.   
 ​​	“Before we begin, I’ve never been yelled at by someone quite as tall as yourself,” Alice says, almost to herself, “so be gentle, okay?”  
@@ -2667,7 +2667,8 @@ Outside, the cars are illuminated in the silvery light from the screen and the c
 ​	My shoulders go soft.  
 ​	The distance between Alice and me can only be measured with a microscope. I feel us blending into each other. 
 ​	“See?” says Alice right into my eyes. “Now you’re going to have to make it worth *my* while.”   
-​	I smile. I let my arm go loose and step forward and, our palms still pressed against each other, I kiss her, a wild, hungry kiss.   ​	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?”
+​	I smile. I let my arm go loose and step forward and, our palms still pressed against each other, I kiss her, a wild, hungry kiss.
+​	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?”
 
 We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.   
 ​	“Hi, handsome,” says Patty. 
@@ -2719,7 +2720,7 @@ In the back, we see the Joneses get out of their car and dance together. Up ahea
 The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. ==Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a mad pace==. Their version is everything I feel since I heard the news: betrayal, confusion, loud boisterous mourning.   
 ​	We walk hand in hand between cars, looking for people to hand matchbooks to.   
 ​	“The problem is,” Alice shouts in my ear, “how do we choose? They’re *all* dancing\!”  
-​	I look around to see the whole lot is out of their cars, dancing and hooting. A lot of people turned on their headlights and the whole lot is illuminated by the glaring, yellow lights. Some people dance on the roofs of their cars. The air is dense. Then I guess the movie reel runs out, sending splattering, flashing light on the faces of the Steam Pillars. The screen is white now, except for the giant shadows of the band. The makeshift crowd turns to the stage and cheers… in that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
+​	I look around to see the whole lot is out of their cars, dancing and hooting. People turned on their headlights and the whole lot is now illuminated by those glaring, yellow lights. Some people dance on the roofs of their cars. The air is dense... in that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
 
 *(BOOM!)*
 
@@ -2727,7 +2728,7 @@ The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it 
 ​	“We’ll sort it out,” says Cindy. They push their way towards the truck.   
 ​	On the truck bed, Mucho and two of B.L.’s biker friends are brawling. Heath stands between Vilma and another “Seven”, as more of them circle the truck in their bikes. The crowd is ablaze. One of the bikers grabs one of the mics and calls into it, 
 
-*(ladies and gentleman, I am Captain Whitaker of the South Carolina Citizen’s Decency Commission. We apologize for the disruption you have suffered and we will resume the motion picture moment–)*
+*(ladies and gentleman, I am Captain Whitaker of the South Carolina Citizen’s Decency Commission. We apologize for the disruption you have suffered and we will make sure to resume the motion picture moment–)*
 
 We see Vilma as she grabs the mic and lays it down close to her face. Mucho has joined Heath in creating a perimeter around her. Through the nearby speakers we hear her voice, enormous even now, as she cries out,
 
@@ -2738,15 +2739,35 @@ The crowd cheers–
 
 *(Heath, why don't you sing one? Come on, Heath, give us a number...)*
 
-We walk towards the stage. You almost can't see the cars now, the crowd is so thick. Every now and then we see someone standing on their car, as if on an island in a deep sea. I say, "Do you think Cindy got rid of the Sevens?"
-​	"I'm sure she did," Alice says, pulling on my hand. "Come on! I want to be where it's at..."
-​	On the truck bed, it seems Vilma and Babatunde are trying to convince Heath into doing something. Mucho comes over holding a microphone stand and puts it in front of Heath's face. We're not far off from the makeshift stage now, and we can hear Heath clearly now, not through the little drive-in speakers...
+We walk towards the stage. You almost can't see the cars now, the crowd is so thick. Every now and then we see someone dancing on their car, as if on an island in the deep sea. 
+​	I say, "Do you think Cindy got rid of the Sevens?"
+​	"I'm sure she did," Alice says, pulling on my hand. "Come on! I want to be where it's *at*..."
+​	On the truck bed, it seems Vilma and Babatunde are trying to convince Heath. Mucho comes over holding a microphone stand and puts it in front of Heath's face. We're not far off from the makeshift stage now, and we can hear Heath clearly now, not through the little drive-in speakers...
 
-*(Alright, alright... Ladies and gentleman, this is a song dear to my heart - it's also Elvis's greatest hit - let's take it away in C-major, Baba, try to follow my rhythm...)
+*(Alright, alright... Ladies and gentleman, this is a song dear to my heart - it's also Elvis's greatest hit - let's take it away in C-major, Baba, Mucho, try to follow my rhythm...)
 
-*(ta-TAta-TA!)*
+*(ta-tata-TA!)*
 
-Heath jabs the piano keys four times and the crowd grows silent. We watch with baited breath: Heath takes his time. 
-​	Then, his fingers start traveling 
+Heath jabs the piano keys four times, hard, and the crowd grows silent. We watch with baited breath: Heath takes his time. 
+​	Then, his fingers start traveling on the keys, softly, and the air is full of a soft, lyrical notes. Heath croons softly into the microphone...
 
- 
+*(Y-y-you shake my nerves and you rattle my brain...)*
+
+*(ta-tata-ta...)*
+
+Now Heath issues the same four notes, but now they sound sad and longing. Heath and his piano are a diminutive figures under the hulking image of Elvis. He almost whispers into the mic...
+
+*(too much a-love drives a man insane...)*
+
+The piano picks up rhythm and speed. I look at the faces around  
+
+*(y-y-you broke my will -- but what a thrill --)*
+
+Then the movie reel runs out and the screen fills with splattering, flashing light... the screen is blank now except for the giant shadows of the Steam Pillars. The makeshift crowd turns to the stage and cheers… Heath improvises quickly and the rest of the band moves quickly with him, the drums and the bass and the guitar
+
+
+
+
+
+
+
