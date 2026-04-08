@@ -10,7 +10,7 @@ Todos 5
 
 - [ ]  Emerson at the end
 
-- [ ]  Make the show in the pipeworks thicker
+- [ ]  Make the show in the pipeworks thicker with original on the road ending
 
 - [ ]  Mention of Dr Player in Greensboro - eleanore
 
@@ -23,11 +23,6 @@ Todos 5
 ## What is missing:
 
 - [ ]  Matchbook effect and new people
-
--  [ ] Beargineer
-
--  [ ]  <span class="mark">Tim and Alice are walking to Magnolia, he asks to
-    kiss her and she replies with “I already did, silly”.</span>
 
 - [ ]  <span class="mark">Reconvening with the others and the car in the
     Magnolia House.</span>
