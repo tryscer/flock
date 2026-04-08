@@ -2757,9 +2757,7 @@ Now Heath issues the same four notes, but now they sound sad and longing. Heath 
 
 *(too much a-love drives a man insane...)*
 
-The piano picks up rhythm and speed. I look around; the faces around us are expectant. Everybody sways with Heath's playing like reeds. Next to us an older woman, very pretty, is
-
-The faces around me are expectant. Elvis is a Zoot-suited, black-and-white figure above us. 
+The piano picks up rhythm and speed. I look around; the faces around us are expectant. Everybody sways with Heath's playing like reeds. Next to us an older woman, very pretty, is mouthing the words with the music. Elvis is a Zoot-suited, black-and-white figure above us. 
 
 *(y-y-you broke my will -- but what a thrill --)*
 
@@ -2772,13 +2770,9 @@ An huge cheer rolls over us, carrying us with it. The crowd is enormous; its end
 *(TWANGGGGGGG!)*
 
 *(Damn it. Hey, can any of you people know how to change a string?)*
-
-
-
-
-A 
-
-
+​	
+"I bet you can change a string," Alice says. 
+​	"Of course," I say. 
 
 
 

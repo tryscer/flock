@@ -123,28 +123,11 @@ Tact 1
 
 - The band does Elvis’s last hit, Great Balls of Fire, and Heath shines
   for the first time.
-
-- Mucho breaks a string, looking for Eddie, Alice and Tim about to kiss,
-  Alice says to Tim “I bet you can change that string”, and Tim helps
-  him. We see how geeky he is with guitars.
-
-- Shirely and her fanclub are drawing on people’s cars
-
-- The show ends with everybody cheering. Tim thinks he saw some vision
-  for a fleeting moment, but isn’t sure.
-
-- Alice and Elenore compete who is more worried about Cindy
-
-- They look for Cindy and find her despondent at the back seat of
-  Emerson’s car. Emerson is demanding Barry and Cindy return. Barry gets
-  into character,telling Emerson they are actually here on a top secret
-  mission for Buzz Music, the new enterprise Barry just made up.
-
-  - “Let my sister go!”
-
-- <span class="mark">After the show the pillars invite tim to ride with
-  them.</span> He looks back to see a long car-snake.
-
+- they talk to another fan and tell her about the caravan
+- Mucho breaks a string, Alice says to Tim “I bet you can change that string”, and Tim helps him. We see how geeky he is with guitars.
+- time sees the crowd from the stage and gets the bug
+- tim sees veronika paint on people's cars
+- after, he looks back in the car and sees a huge shlong of cars
 - <span class="mark">Ruminating Tim says this is the moment the pillars
   exploded, mentioning Atlanta. ״there was no stopping after
   that”.</span>
