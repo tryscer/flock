@@ -1,4 +1,4 @@
-## Epitaph test
+## Epitaph
 "Let my people go."
 — *Some hopped-up, bush-watching, self-proclaimed leader of men*
 
@@ -2753,18 +2753,30 @@ Heath jabs the piano keys four times, hard, and the crowd grows silent. We watch
 
 *(Y-y-you shake my nerves and you rattle my brain...)*
 
-*(ta-tata-ta...)*
-
 Now Heath issues the same four notes, but now they sound sad and longing. Heath and his piano are a diminutive figures under the hulking image of Elvis. He almost whispers into the mic...
 
 *(too much a-love drives a man insane...)*
 
-The piano picks up rhythm and speed. I look at the faces around  
+The piano picks up rhythm and speed. I look around; the faces around us are expectant. Everybody sways with Heath's playing like reeds. Next to us an older woman, very pretty, is
+
+The faces around me are expectant. Elvis is a Zoot-suited, black-and-white figure above us. 
 
 *(y-y-you broke my will -- but what a thrill --)*
 
-Then the movie reel runs out and the screen fills with splattering, flashing light... the screen is blank now except for the giant shadows of the Steam Pillars. The makeshift crowd turns to the stage and cheers… Heath improvises quickly and the rest of the band moves quickly with him, the drums and the bass and the guitar
+Then the movie reel runs out and the screen fills with splattering, flashing light... the screen is blank now except for the giant shadows of the Steam Pillars. On a dime, Heath's piano and the drums and the bass and the guitar all join in on the same beat... 
 
+*(good-NESS grAI-cious! greAT balls of FI-er!)*
+
+An huge cheer rolls over us, carrying us with it. The crowd is enormous; its ends are infinite. 
+
+*(TWANGGGGGGG!)*
+
+*(Damn it. Hey, can any of you people know how to change a string?)*
+
+
+
+
+A 
 
 
 
