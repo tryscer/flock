@@ -2765,15 +2765,41 @@ Then the movie reel runs out and the screen fills with splattering, flashing lig
 
 *(good-NESS grAI-cious! greAT balls of FI-er!)*
 
-An huge cheer rolls over us, carrying us with it. The crowd is enormous; its ends are infinite. 
+An huge cheer rolls over us, carrying us with it. The crowd is enormous; its ends are infinite. Heath hammers on the piano like a madman. 
+​	"Who is this guy?" says someone next to us.
+​	"Heath Walker Caine," says someone next to them. It turns out to be the male Jones, who winks at us as he says, "Hey, dare to dance?"
+​	Once it is discovered we're in the know, people have a lot of questions for us: 
+​	"Why do you guys paint on your cars?"
+​	"So it's not a hoax. Are you sure?"
+​	"What are they called again? Steaming Dinner?"
+​	Alice hasa stopped dancing; she's standing and watching Heath play, mesmerized. I hug her and she says, "I was so stupid! I get it now!"
+​	I say, "Get what?"
 
 *(TWANGGGGGGG!)*
 
-*(Damn it. Hey, can any of you people know how to change a string?)*
+*(Damn it. Hey, do any of you people know how to change an electric bass string?)*
 ​	
-"I bet you can change a string," Alice says. 
-​	"Of course," I say. 
+"Never mind. I bet you can change a string," Alice says. 
+​	"Of course I can change a string," I say, even though I can't. I rush forward, holding my hand up. The song goes on; Heath's left hand makes up for the lack of Mucho's stomach-flipping bass. Jo's guitar remains in the background, respectful of Heath's piano. As I rush through the crowd I can almost smell the electricity in the air. Almost all of the car owners have turned on their headlights; almost every standing space is full of people. 
 
+*(s'alright, Eddie, you can stay where you are. I can see Tom here coming to the stage. Greeeeeaaaaat Balls of Fire!)*
 
+I climb on the bed of the truck. Wires, thick as railroad steel, issue from the truck and into a whirring, buzzing, smelly box on the ground. The Steam Pillars stand shoulder-to-shoulder on the truck bed, hemmed in by microphone stands and amplifiers. In the middle, Heath goes to town on his small upright piano. He plays it so hard the truck sways, and we sway with it. I make my way towards Mucho, who decided to keep playing on his remaining three strings, and find myself sandwitched between him and Vilma. 
+​	"Hey kid, string's in the case," Mucho says.
+​	"Hey kid, knew you'd be back," says Vilma and gives me a nudge. I rummage in the guitar case for the right string. 
+​	"It's just that it's new," Mucho says off mic to me. "Mama got it for me."
+​	"It's beautiful!" I say. "Is that a Sunburst Precision?"
+​	"I don't give a fuck! Are you changing my string?"
+​	"While you're playing?!"
+​	He laughs. "Welcome to the big league, son."
+​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns the tuning peg and continues playing. I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
+​	"Fuck you, Heath. You totally stole my thunder."
 
+*(Comeon bayy-be! d-d-drive me crahy-zee!)*
 
+​Heath is dripping sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. I look up and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by headlights, and moving as if they were one body, moving in exact sync with the music, with the swaying and dancing of the Steam Pillars around me, with the creaking suspension of the truck. An enormous feeling of power washes over me. It is in this exact moment that I find out what I want to do in life. 
+​	Near me, in the crowd, Alice is sending me kisses and turns away almost immediately to dance with a stranger. 
+
+After the show, back in the car and our bellies full of Love, I turn and look back. Lots of experts will later have lots of opinions about when exactly the Steam Pillars exploded into public attention. They'll mention Atlanta, Georgia, they'll mention Columbia, South Carolina; but for me, it's this exact moment, when I look back and see the length of US-360, miles long, is one long uninterrupted caravan, snaking down the hills and filling the horizon. 
+
+*(*
