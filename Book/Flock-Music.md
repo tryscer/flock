@@ -2772,7 +2772,7 @@ An huge cheer rolls over us, carrying us with it. The crowd is enormous; its end
 ​	"Why do you guys paint on your cars?"
 ​	"So it's not a hoax. Are you sure?"
 ​	"What are they called again? Steaming Dinner?"
-​	Alice hasa stopped dancing; she's standing and watching Heath play, mesmerized. I hug her and she says, "I was so stupid! I get it now!"
+​	Alice has stopped dancing; she's standing and watching Heath play, mesmerized. I hug her and she says, "I was so stupid! I get it now!"
 ​	I say, "Get what?"
 
 *(TWANGGGGGGG!)*
@@ -2800,6 +2800,6 @@ I climb on the bed of the truck. Wires, thick as railroad steel, issue from the 
 ​Heath is dripping sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. I look up and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by headlights, and moving as if they were one body, moving in exact sync with the music, with the swaying and dancing of the Steam Pillars around me, with the creaking suspension of the truck. An enormous feeling of power washes over me. It is in this exact moment that I find out what I want to do in life. 
 ​	Near me, in the crowd, Alice is sending me kisses and turns away almost immediately to dance with a stranger. 
 
-After the show, back in the car and our bellies full of Love, I turn and look back. Lots of experts will later have lots of opinions about when exactly the Steam Pillars exploded into public attention. They'll mention Atlanta, Georgia, they'll mention Columbia, South Carolina; but for me, it's this exact moment, when I look back and see the length of US-360, miles long, is one long uninterrupted caravan, snaking down the hills and filling the horizon. 
+After the show, back in the car and our bellies full of Love, I turn and look back. Lots of experts will later have lots of opinions about when exactly the Steam Pillars exploded into public attention. They'll mention Atlanta, Georgia, they'll mention Columbia, South Carolina; but for me, it's this exact moment, when I look back and see the length of US-360, miles long, is one  uninterrupted caravan, snaking down the hills and filling the horizon. 
 
 *(*
