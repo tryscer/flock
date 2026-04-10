@@ -2098,7 +2098,7 @@ Cindy and I walk through the orchard to the carpark, carrying food. Three men st
 “Who’s hungry?” I say. I expect them to rush over, but they all have their attention turned to something beyond the fence…  
 	“So there you are,” says Pete, not shifting his gaze.   
 “Trouble?” asks Cindy, finding a place next to them, looking at the same direction.  
-“I think so,” says Pete. “Look over there, you guys.”  
+“I think so,” says Pete. “Look over there, you fellas.”  
 Beyond the trees, over on the highway, I can see a black-and-white Chevy Bel Air parked on the shoulder. Its owner stands next to it and seems to be watching us. Across the distance I can see the sun reflected on a pair of chrome sunglasses.  
 “It’s definitely the same guy I saw,” says Heath. He’s got a raspy, high, musical voice. “I recognize that car. The black-and-white car that looks like a cop-car.” He’s turning to look at Cindy above the rim of his shades.   
 “Hi,” Cindy says to him. “I love your piano playing.”  
@@ -2504,7 +2504,7 @@ And suddenly I’m unsure of myself for leaving, and loving Alice and hating mys
 
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
 
-By the offramp from highway 29 to Salisbury, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
+By the offramp from US-29 to Salisbury, NC, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
 ​	“Be careful,” Eleanore says to Barry. “Don’t bump into Shirley’s car.”  
 ​	We’re a long line of cars, all with their headlights darkened, stealing into the immense lot from across the line of little mounds that mark its back perimeter. I’m in the back seat; Alice and Cindy flank me, both hugging me.   
 ​	Eleanore took my place in the front. She’s holding on to the dashboard with a tense anticipation, like a captain at the wheel, as Barry gently glides across rows and rows of cars. 
@@ -2537,7 +2537,8 @@ When we heard the news on the radio I felt like a truck has rammed itself into m
 ​	“It’s the end of rock and roll,” Eleanore said.   
 ​	“Nice, really nice,” Cindy said. “Cheerful as always.”  
 ​	“She’s right, though,” Alice said. “It’s the end of something to be sure.” ​	
-​​	More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were stopping by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.  ​	“Let’s get out of this can,” Cindy said.
+​​	More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were stopping by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.
+​	“Let’s get out of this can,” Cindy said.
 
 We left the car to the sound of a girl crying. We were at the precipice of a gloomy lookout point over the Yadkin river: a dead place with dead bushes and a smattering of sick, spindly trees, all overlooking a slow, sad river. An old bronze sign dedicated to a Revolutionary general, green and flaking, made the place feel even more ancient. The road sloped down and turned into a wooden bridge. The air was dead, no echoes. The moon was a sliver of itself and everyone around was a silvery, ghostly figure.   
 ​	“It’s eerily quiet,” Eleanore said. “I wonder what this place is. And *what for*.”  
@@ -2686,7 +2687,7 @@ We’re sneaking away between the cars like outcasts. Elvis is a giant pacing ab
 ​	“Wait up\!” Alice calls, laughing. “I’ll see you girls later\! I mean I’ll see you Paint Pillars later\!”  
 ​	I hear Patty ask, “Why isn’t he smiling?”    
 
-In the middle of the lot there’s a little brick and mortar projectionist's booth and a light beam is streaming from its roof, illuminating the screen with Elvis's image. The dead man is pacing above our heads. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that some light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
+In the back of the lot there’s a little cinderblock projectionist's booth and a light beam is streaming from its roof, illuminating the screen with Elvis's image. The dead man is pacing above our heads. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that some light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
 ​	“Ready for the action, Wonderland?” he says.   
 ​	“We’re ready,” we say in unison. Eddie raises his head to see we’re holding hands, and smiles to himself.   
 ​​	“Well,” he says, “as long as *you’re* ready…”   
@@ -2769,7 +2770,7 @@ An huge cheer rolls over us, carrying us with it. The crowd is enormous; its end
 ​	"Who is this guy?" says someone next to us.
 ​	"Heath Walker Caine," says someone next to them. It turns out to be the male Jones, who winks at us as he says, "Hey, dare to dance?"
 ​	Once it is discovered we're in the know, people have a lot of questions for us: 
-​	"Why do you guys paint on your cars?"
+​	"Why do you fellas paint on your cars?"
 ​	"So it's not a hoax. Are you sure?"
 ​	"What are they called again? Steaming Dinner?"
 ​	Alice has stopped dancing; she's standing and watching Heath play, mesmerized. I hug her and she says, "I was so stupid! I get it now!"
@@ -2779,8 +2780,12 @@ An huge cheer rolls over us, carrying us with it. The crowd is enormous; its end
 
 *(Damn it. Hey, do any of you people know how to change an electric bass string?)*
 ​	
+# hey
+## hey hey
+### hey hey hey
+#### hey hey hey
 "Never mind. I bet you can change a string," Alice says. 
-​	"Of course I can change a string," I say, even though I can't. I rush forward, holding my hand up. The song goes on; Heath's left hand makes up for the lack of Mucho's stomach-flipping bass. Jo's guitar remains in the background, respectful of Heath's piano. As I rush through the crowd I can almost smell the electricity in the air. Almost all of the car owners have turned on their headlights; almost every standing space is full of people. 
+​	"Of course I can change a string," I say. I rush forward, holding my hand up. The song goes on; Heath's left hand makes up for the lack of Mucho's stomach-flipping bass. Jo's guitar remains in the background, respectful of Heath's piano. As I rush through the crowd I can almost smell the electricity in the air. Almost all of the car owners have turned on their headlights; almost every standing space is full of people. 
 
 *(s'alright, Eddie, you can stay where you are. I can see Tom here coming to the stage. Greeeeeaaaaat Balls of Fire!)*
 
@@ -2788,18 +2793,19 @@ I climb on the bed of the truck. Wires, thick as railroad steel, issue from the 
 ​	"Hey kid, string's in the case," Mucho says.
 ​	"Hey kid, knew you'd be back," says Vilma and gives me a nudge. I rummage in the guitar case for the right string. 
 ​	"It's just that it's new," Mucho says off mic to me. "Mama got it for me."
-​	"It's beautiful!" I say. "Is that a Sunburst Precision?"
+​	"It's beautiful!" I say. "Is that a Sunburst Precision Jazz?"
 ​	"I don't give a fuck! Are you changing my string?"
 ​	"While you're playing?!"
 ​	He laughs. "Welcome to the big league, son."
 ​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns the tuning peg and continues playing. I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
 ​	"Fuck you, Heath. You totally stole my thunder."
+​	And then,
 
 *(Comeon bayy-be! d-d-drive me crahy-zee!)*
 
-​Heath is dripping sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. I look up and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by headlights, and moving as if they were one body, moving in exact sync with the music, with the swaying and dancing of the Steam Pillars around me, with the creaking suspension of the truck. An enormous feeling of power washes over me. It is in this exact moment that I find out what I want to do in life. 
+​Heath is dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. I look up and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by car headlights, and moving as if they were one body, moving in exact sync with the music, with the swaying and dancing of the Steam Pillars around me, with the creaking suspension of the truck. An enormous feeling of power washes over me. ==It is in this exact moment that I find out what I want to do in life.== 
 ​	Near me, in the crowd, Alice is sending me kisses and turns away almost immediately to dance with a stranger. 
 
-After the show, back in the car and our bellies full of Love, I turn and look back. Lots of experts will later have lots of opinions about when exactly the Steam Pillars exploded into public attention. They'll mention Atlanta, Georgia, they'll mention Columbia, South Carolina; but for me, it's this exact moment, when I look back and see the length of US-360, miles long, is one  uninterrupted caravan, snaking down the hills and filling the horizon. 
+After the show, back in the car with our bellies full of Love, I turn and look back. Lots of experts will later have lots of opinions about when exactly the Steam Pillars ==exploded into public attention==. They'll mention Atlanta, Georgia, they'll mention Columbia, South Carolina; but for me, it's this exact moment, outside of the Hitching Post Drive-In in Salisbury, NC, when I look back and see the length of US-360, miles long, is one  uninterrupted caravan, snaking down the hills and extending to the horizon. 
 
 *(*

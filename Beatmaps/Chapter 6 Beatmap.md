@@ -59,6 +59,7 @@ Leftover stuff
 
 ### Tact 2
 
+
 - Fan clubs expand as new people join
 - The feeling of love and intimacy in the caravan remains
 - Eleanore is loud, talking about the activism, trying to join the ur
@@ -66,29 +67,12 @@ Leftover stuff
 - Grafitti
 - Language
 
-- Charlotte, NC
-  - In the show (**The Excelsior Club**)
-    - Very dense, hot and sweaty, lots of unknown people/ music is also dense and hot
-    - Density causes greater effect: love, visions (not for tim though)
-    - Meeting and greeting greenhorns
-    - Eddie summons tim backstage
-    - Tim & Alice
-    - Cindy FSG Eleanore
-    - Barry & Rosetta
-
-  - Backstage
-    - They offer him to be the roadie, after testing him in a way he doesn’t like very much
-    - Jo is against him, which is sad because she has a crush on him
-    - Mucho laughs about sleeping in the same bed with Baba,Jo reminds them that thanks to the UR they have hotel rooms and don’t need to sleep in a basement, vilma is “just happy to have a bed”
-
-- Greenville, SC
-  - Tim is in the truck with the band. It’s the middle of the night, some days later. They are running away but laughing about it
-  - They mention the green book
-  - Flashback
-    - In the kundas, they spot the vigilanties. Cindy & FSG
-    - In the show, vigilanties bring local branch & police and they blow up the show. It’s violent but kind of funny.
-    - The band escapes by the skin of their teeth
-  - There are five cars with them. They use the green book to escape police stop
+- fix back: the vigilanties swear to return, tim is invited to be a roadie and drive with the band. 
+- on the road, later, they discover the vigilanties follow them. 
+- Mucho laughs about sleeping in the same bed with Baba,Jo reminds them that thanks to the UR they have hotel rooms and don’t need to sleep in a basement, vilma is “just happy to have a bed”
+- They are running away but laughing about it
+- They mention the green book
+- They use the green book to escape police stop
   - They accidentally enter a “sunset town”. They are surrounded - locals and police
   - They escape by the theeth of their skin
   - They talk about needing to adhere to the green book more
