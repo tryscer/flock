@@ -2746,14 +2746,16 @@ In the back, we see the Joneses get out of their car and dance together. Up ahea
 
 *(y’cain’t findapadneh use a wood-den chaiir, let’s–)*
 
-The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. ==Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a mad pace==. Their version is everything I feel since I heard the news: betrayal, confusion, loud boisterous mourning.   
+The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. ==Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a mad pace==. Their version is everything I feel since I heard the news: betrayal, confusion; a loud, boisterous mourning.   
 ​	We walk hand in hand between cars, looking for people to hand matchbooks to.   
 ​	“The problem is,” Alice shouts in my ear, “how do we choose? They’re *all* dancing\!”  
+- [ ] here it is!
 ​	I look around to see the whole lot is out of their cars, dancing and hooting. People turned on their headlights and the whole lot is now illuminated by those glaring, yellow lights. Some people dance on the roofs of their cars. The air is dense... in that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
 
 *(BOOM!)*
 
-The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it a muffler backfiring? I find myself running towards the stage with Alice, but as we get near Cindy she signals us to stop.   ​	“I’m going to kill them,” says B.L.  
+The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it a muffler backfiring? I find myself running towards the stage with Alice, but as we get near Cindy she signals us to stop.
+​	“I’m going to kill them,” says B.L.  
 ​	“We’ll sort it out,” says Cindy. They push their way towards the truck.   
 ​	On the truck bed, Mucho and two of B.L.’s biker friends are brawling. Heath stands between Vilma and another “Seven”, as more of them circle the truck in their bikes. The crowd is ablaze. One of the bikers grabs one of the mics and calls into it, 
 
@@ -2805,16 +2807,13 @@ An huge cheer rolls over us. The crowd is enormous; its ends are infinite. Heath
 ​	"What are they called again? Steaming Dinner?"
 ​	Alice has stopped dancing; she's standing and watching Heath play, mesmerized. I hug her and she says, "I was so stupid! I get it now!"
 ​	I say, "Get what?"
-- [ ] need a moment where mama's control is lost and the crowd makes its own decisions. 
 
-- control is clearly lost
-- the crowd becomes something else
 *(TWANGGGGGGG!)*
 
 *(Damn it. Hey, do any of you people know how to change an electrical bass string?)*
 ​
 "Never mind. I bet *you* can change a string," Alice says. 
-​	"Of course I can change a string," I say. I rush forward, holding my hand up. The song goes on; Heath's left hand is working frantically now. Jo's guitar remains in the background, respectful of Heath's piano. As I rush through the crowd I can  smell the electricity in the air. Almost all of the car owners have turned on their headlights; almost every standing space is full of people. 
+​	"Of course I can change a string," I say. I rush forward, holding my hand up. The song goes on; Heath's left hand is working frantically now. Jo's guitar remains in the background, respectful of Heath's piano. As I rush through the crowd I can  smell the electricity in the air. Almost all of the car owners have turned on their headlights; almost every standing space is full of people dancing in those lights. 
 
 *(s'alright, Eddie, you can stay where you are. I can see Tommmy here coming to the stage... greeeeeaaaaat Balls of Fire!)*
 
@@ -2828,16 +2827,16 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	He laughs. "Welcome to the big league, son."
 ​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns on the tuning peg and continues playing. I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
 ​	"Fuck you, Heath. ==You totally stole my thunder==."
-​	Mucho laughs. "Don't blaspheme in front of the priest," he mocks. Heath is literally dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he winks at me. 
-​	Behind Mucho, Joe is playing harder now, moving with her guitar as if shaking and rattling it is what makes the music drop out of it. I stare at her fingers moving across the strings...
+​	Mucho laughs. "Don't blaspheme in front of the priest," he mocks. Heath is literally dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he looks back; he winks at me. 
+​	Behind Mucho, Joe is playing harder now, moving with her guitar as if shaking and rattling it is what makes the music fall out of it. I stare at her fingers moving across the strings...
 
 *(c'mon bahy-be... drive me crahy-zee...)*
 
 ​​​​Mucho puts his hand on the mic and says, "Nice work, kid."
-​	"Yeah," says Vilma. "You can dance with me, don't be afraid. Hey, when did you learn to change strings that way?"
+​	"Yeah," says Vilma. "You can dance with me, don't be shy, boy. Hey, when did you learn to change strings that way?"
 ​	"I didn't," I say. "My first time." I dance with her. 
 ​	Mucho bellows a laugh so loud it makes me cringe. "Hey kid, you want a job with the band? Spend some time in the limelight?"
-​	I look up and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by car headlights, and moving as if they were one body, moving in exact ==sync== with the music, with the ==swaying and dancing== of the Steam Pillars around me, with the creaking suspension of the truck. An enormous feeling brews in my ==belly==. 
+​	I look up at the limelight and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by car headlights, and moving as if they were one body, moving in exact coordination with the music; with the movement of the Steam Pillars around me; with the creaking suspension of the truck. An enormous feeling brews in my stomach. 
 ​	Without knowing it, I lift my arms and the sea of people near us cheers... in the crowd, Alice is sending me excited kisses and turns away almost immediately to dance with a stranger. 
 ​	Mucho says to the mic,
 
