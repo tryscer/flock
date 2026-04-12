@@ -8,7 +8,7 @@
 # Side 1: Alice
 
 ## Track 1: Alice Gets in a Car
-*DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
+*DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, green ones and white ones, flocking together, going their own way… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
 *Ba-Boom Boom-Boom*…  
 ​        ==It's June 13th, 1958, a Saturday, one month before my 18th birthday, one day before Elvis died.== It's an early-summer morning. The windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
@@ -28,13 +28,12 @@ and stuff some necessities into my handbag: a little powder kit, my babysitting 
 ​        Inside it's full of people and already steaming hot. Ricky Nelson is singing on the radio about having been a little fool. Cindy is stunning in a coral dress in the back seat, blonde and blue-eyed and radiating sunshine. I hug her and she says quietly, "I've got something to–"  
 ​        "Peaches\!"  
 ​        "Don't call me that," I say to Barry, who’s sweating at the wheel in a brown suit that looks too big for him.   
- ​        "Who's she?" says the girl sitting next to Cindy without looking in my direction. She’s got black cigarette pants and a black turtleneck and black sunglasses and black flat shoes. She’s reading through *Seventeen* (“The Big FASHION Issue\!”.)   
+ ​        "Who's she?" says the girl sitting next to Cindy without looking in my direction. She’s got black cigarette pants and a black turtleneck and black sunglasses and black flat shoes. She’s reading through *Seventeen* (“The Big FASHION Issue\!”)   
 ​        "Oh," says Cindy, storing her secret. "I want you to meet my favorite cousin.” Her voice, warm and loud and Southern, takes on its Party-Hostess quality.   
 ​        "Eleanore," says the cousin over the magazine. Cindy lays a hand on Eleanore's knee and says, "After we’re done, we're taking Eleanore back to the train station going home. She lives in *New-York-City*, you know". Eleanore winces.  
 ​        "We've met before," I tell Eleanore.  
 ​        "Have we?" she says, disinterested. She pushes Cindy's hand away without looking up from her magazine.  
 ​        "Alright, boys and girls, here we go," says Barry. We jerk in our seats as the old jalopy springs into action. 
-
 
 Sitting shotgun is a mystery boy, tall, very handsome, ginger-haired. He’s wearing a tight, white tee-shirt and has his hand resting limply behind Barry’s back. I give Cindy an important look...   
 ​        "Oh," says Cindy, her voice resuming that Party Hostess quality, "this of course is Barry's friend Tim". She whispers in my ear, "he has *all* the records". To Tim she says, "please meet Peaches. She’s a music fan, too".  
@@ -54,8 +53,8 @@ Sitting shotgun is a mystery boy, tall, very handsome, ginger-haired. He’s wea
 
 *(Splish splash\! I was having a bath\!)*
 
-
-Scenic Greensboro rolls across the windows: the trimmed green lawns and rustic red stone of College Park. "Now, Alice, I'm responsible for you," says Barry. If you listened to them, you couldn’t tell Cindy and Barry are siblings: Cindy kept her Alabama accent, but Barry lost his in favor of a moderately adequate impression of a big-city, North Carolina speech. "I assume you told your parents you would be riding with me?"  
+- [ ] change greensboro to fredriquestburgue 
+Scenic ==Greensboro rolls across the windows: the trimmed green lawns and rustic red stone of College Park.== "Now, Alice, I'm responsible for you," says Barry. If you listened to them, you couldn’t tell Cindy and Barry are siblings: Cindy kept her Alabama accent, but Barry lost his in favor of a moderately adequate impression of a big-city, North Carolina speech. "I assume you told your parents you would be riding with me?"  
 ​        "Of course," I lie. "Mamma sends her regards".  
 ​        “Much obliged. Now, there might be some rough customers at the Fair today, so you girls stick close to Tim and me,” he says. I’m thinking, “Boy, does he like to say 'Now' with such gravitas.”  
 ​        "Oh," says Barry. "And, now, no talking to strangers".
@@ -64,7 +63,7 @@ Scenic Greensboro rolls across the windows: the trimmed green lawns and rustic r
 
 "Alice has never been to a live show before," says our Hostess. "This is going to be her first one".  
 ​        "Ah," I say, "my very first show".  
-​        "A greenhorn,” says Eleanore dryly. "Well, you know, I myself have been to *dozens* of shows. And Cindy, you've been to a handful yourself, right?"  
+​        "A greenhorn,” says Eleanore dryly. "Well, you know, I myself have been to *dozens* of shows. And Cindy, you've been to a *handful* yourself, right?"  
 ​        I wonder at the reason for the obvious slight and quickly find him in the front seat, peering at the map from atop his shades. The sweat on his neck glistens in the late morning sun.  
 ​        Cindy presses against me. I look to my left: Eleanore and Cindy are sitting a foot apart. Both are locking sights on Tim. It suddenly feels even hotter in the car. 
 ​        "Tim, didn’t you say," says Cindy, “it's not the number of shows, it's how *gas* the numbers are. Isn't that right, Tim?”  
@@ -112,8 +111,8 @@ Scenic Greensboro rolls across the windows: the trimmed green lawns and rustic r
 ​        “You want me to take my engine apart every month?”  
 ​        “Nah, man, no. You only need to do that every *six* months”.
 
-
-We're passing the sign saying we are leaving beautiful Greensboro, NC, population of 79,000, and another, advocating the smoking of Buzz Cigarettes (“A Real HONEY of a Smoke\!”). Elvis comes on the radio, his presence announced by an overwhelming procession of staccato guitar riffs.
+- [ ] change greensboro here
+We're passing the sign saying we are leaving beautiful ==Greensboro, NC, population of 79,000,== and another, advocating the smoking of Buzz Cigarettes (“A Real HONEY of a Smoke\!”). Elvis comes on the radio, his presence announced by an overwhelming procession of staccato guitar riffs.
 
 
 *(y-y-ouaaain't nothing but a hound…dog)*
@@ -165,9 +164,9 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​        Cindy whispers in my ear, "I'm running away from home".
 
 
-- [ ] ==replace this with radio insert *(BROOM BROOM BROOM\! BROOM BROOM BROOM\!)*  ==
+## Chapter 2: 
+- [ ]  radio insert 
 
-  
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
 ​        "You'll push us into the ditch\!" Eleanore yells. "Tim, put your back into it\! Barry is pushing twice as hard as you\!"  
 ​        "Will you shut your little mouth and steer the car?"  
@@ -195,7 +194,7 @@ By the time we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACE
 ​        Tim says, "they have a little garage over there, with tools and everything–"  
 ​        "The mechanic's sort of in," says the man whose name is Max.  
 ​        "That's great\!" says Barry. "Where can we find him? Wait, what do you mean *sorta*?"  
-​        "Well," says the man in overalls and scratches his head, "he's in the Juke Joint". He gestures towards a shack further down the road, its entrance marked with crates of empty beer bottles.  
+​        "Well," says the man in overalls and scratches his head, "he's in the Juke Joint". He gestures towards a shack farther down the road, its entrance marked with crates of empty beer bottles.  
 ​        "Do you need supervision fixing the car?" Eleanore says to Tim. She is watching him putting on his shirt.  
 ​        "Come, sister,” says Barry. “Let’s find us a mechanic”. ​        Cindy takes my hand, so I come, too. 
 
@@ -366,7 +365,6 @@ The noon sun hurts my eyes. I think about asking Tim to lend me his shades, but 
 ​        “Damn it,” says Tim.  
 ​        “Are we going or what?” says Eleanore.    
 ​        But Cindy is quiet, pale: she looks at Eleanore, then at Tim. In the sunlight you can plainly see a couple of dark lipstick marks on his neck. 
-
 
 It’s beginning to get pretty crowded in the car: on the bench seat in front, Tim is squeezed between Eddie and Barry. Cindy and Eleanore won’t sit next to each other anymore, so I’m the cheese in that particular hate sandwich. ​        
 ​        “Are you okay to drive, Bear?” Asks Tim. “Want me to take over?”  
@@ -685,7 +683,7 @@ Cindy and I stand alone by the shooting booth. Life has resumed its course, duck
 ​        “I angered Eleanore.”
 ​        “Thought that was your plan all along.”
 ​        “Yeah, but I think I overdid it. And she *is* my ticket out of here.”  
-​        My eyes suddenly fill with tears and I can’t see anything and to hide that I’m looking down. 
+​        My eyes suddenly fill with tears and I can’t see anything and, to hide that, I’m looking at my shoes. 
 ​        “What do you mean, your ticket out of here?” I ask her shoes.   
 ​        “Listen, Peach — I mean listen…”   
 ​        I shuffle my feet. “You still owe me an explanation,” I say.   
@@ -833,7 +831,7 @@ I look at the crowd. Everybody is dancing. They sway with the guitar and the sin
 “Let my people go!” I shout. 
 ​        “What did you say?” Asks the cop. He’s now suddenly looking at the white man on stage. 
 ​        The tent is alive with movement and sound. From our corner of the tent we look in envy at how, where things are happening, some people are actually dancing on the seats of the benches. 
-​        “Why, this is very, very serious!” Says the cop, “I gotta go get—“ and leaves the tent again. 
+​        “Why, this is very, very serious!” Says the cop, “He's white and they're... mixing! I gotta go get—“ and leaves the tent again. 
 ​        I look at Tim dancing and it hurts my heart. The drums, the bass, the guitar and the piano all elevate this pain to a level I don’t recognize. The tent is swaying and swooning. Tim leaves the corner and wanders around the tent, dancing with the black people in the crowd. 
 
 
@@ -887,17 +885,17 @@ And the choir:
 ​        The cop barrels down the aisle. 
 ​        “Ladies and gentlemen,” says Vilma, looking at the cop. The pianist plays a slow, thumping groove. “Ladies and gentlemen, I do hope you made the most out of our short time together. We were the Steam Pillars!”
 ​        She runs away from the stage. 
-​        Just then, the cop, breathing and red, climbs on stage. He grabs the drum and Babatunde and him play tug of war with it. It sounds like thunder. Mucho, seeing this, lifts his bass and goes into the audience, playing along with the piano. People laugh and clap, letting him through. The cop leaves Babatunde’s drum…
+​        Just then, the cop, breathing and red, climbs on. He grabs the drum and Babatunde and him play tug of war with it. It sounds like thunder. Mucho, seeing this, lifts his bass and goes into the audience, playing along with the piano. People laugh and clap, letting him through. The cop leaves Babatunde’s drum…
 
 
 (drrrapappapa!)
 
 
 …and leaves to follow Mucho. Babatunde, Johnny and the guitarist wave at the crowd and leave. Everybody laughs. The cop’s face gets even more red. He grabs Mucho, who trips, drops his bass, then runs through the crowd. 
-​        The only men on stage are the white pianist, playing the ridiculous sound, and Eddie, standing there and shaking Barry’s bottle of Coke to the rhythm. 
+​        The only men on stage are the white pianist, playing the ridiculous tune, and Eddie, standing there and shaking Barry’s bottle of Coke to the rhythm. 
 ​        The cop climbs the stage. He grabs the pianist by the collar. The music stops. The crowd is booing—
 ​        Next to the amplifier, Eddie is shaking his Coke bottle. Just as it seems the cop managed to grab the man, Eddie is emptying the coke into the buzzing amplifier. A huge cloud of acrid, sweet smelling steam fills the stage. When the cloud clears, all that’s left on stage is the cop.
-​        “Everybody,” says the cop into one of the microphones. “Everybody. Due to the outrageous nature—“
+​        “Everybody,” says the cop into one of the microphones. He coughs. “Everybody. Due to the outrageous nature—“
 ​        He is greeted with a wall of boos. 
 ​        “You are all ordered to clear the tent!”
 ​        “Boo!”
@@ -1261,7 +1259,7 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​        We all cheer.
 ​        "Someone turn on the radio!" I say.
 
-
+## Chapter XXX: 
 *(Caaaatch-a-falling-staaar and putitin-your-pock-CLICK!)*
 
 
@@ -2469,6 +2467,7 @@ The Magnolia House is a two-story detached house, covered with white wood boards
 	- [ ] delete this
 
 ## Chapter XXX 
+- [ ] rewrite this entire chapter. everything must go!
 It’s night at the Pomona Pipeworks. An elaborate maze of hanging machinery, and the volume tonight is twice as loud, bouncing from speakers into round, metal ovens and breaking like waves on the big, hanging metal pipes. It’s like a grotesque cathedral… the band does their Alice number again,
 
 *(Nobody’s fault\! Damn right\!)*
