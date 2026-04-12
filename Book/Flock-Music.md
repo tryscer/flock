@@ -2323,7 +2323,7 @@ The little blind chorus is starting to sing,
 Now Babatunde riffs on his washboard and Mucho kind of grooves along with him on the bassline, played on an ancient washtub base. We stand there, two perfectly innocent bystanders.  
 	“If I were a Russian spy, what would my codename be?” Alice asks.  
 	“You would be Katyushka, the deadly assassin.”  
-	“You would be Boris, the handsome hit-man.”  
+	“You would be Ivan, the handsome hit-man.”  
 	“Boy, these guys sure play good\!”  
 	Some people join us in listening, mostly kids.
 
@@ -2341,11 +2341,11 @@ She smiles at me. “What is?”
 *(Up above my head\!)*
 
 “Hey you\! Down at the intersection\!”  
-	The policeman is standing in a little booth welded to a power line up above the street. He’s wearing khaki uniform, a straw campaign hat.  
-	“You\! Down in the intersection\! Quit your rioting\!”  
-	Some passersby scowl at the dancers.   
+​	The policeman is standing in a little booth welded to a pole up above the street. He’s wearing khaki uniform, a straw campaign hat.  
+​	“You\! Down in the intersection\! Quit your rioting\!”  
+​	Some passersby scowl at the dancers.   
 “For His sweet mercy, Lord,” says a passerby, a little church lady. “Now you’ve upset Abner in his box\!”  
-	The cop, most probably named Abner, hangs outside his box, to take a better look at the crowd. Some dancers stop and look up, guilty. Eleanore’s prey is nowhere to be seen.   
+​	The cop, most probably named Abner, hangs outside his box, to take a better look at the crowd. Some dancers stop and look up, guilty. Eleanore’s prey is nowhere to be seen.   
 	“We’re just dancing, sir\!” says Alice.  
 	“You’re causing a traffic jam, madam\! That is public disruption\!”  
 	“No we’re not\!”  
@@ -2357,7 +2357,7 @@ The black blind choir rises from their seats on the Jefferson monument. They pic
 Vilma stands in front; Mucho puts a huge hand on her shoulder, and Babatunde stands behind him, putting his hand on Mucho’s back; in the back, Jo, with huge sunglasses on, puts her hand on Babatunde’s shoulder. They start down the monument, down the street, towards the market…   
 	I say, “I say, let’s follow them\!” – and get a disapproving look from Alice.  
 	“Not subtle enough?” I whisper.   
-	“Really not subtle,” she whispers back. “Boris, I am ashamed of you.”  
+	“Really not subtle,” she whispers back. “Ivan, really I am disappointed.”  
 	I take her hand and we walk and kind of dance to the music, and a few other people are joining us in a procession. Eleanore got her boy back; so did Cindy, and with us a middle-aged couple, for which morning was pretty much routine up until a few minutes ago.   
 	“Hey you dancers\!” yells the cop, above us. “No dancing in a procession either\! Why, this—this is an illegal demonstration\!”  
 	“Don’t need to permit to dance\!” yells the same guy as before.   
@@ -2500,7 +2500,7 @@ And suddenly I’m unsure of myself for leaving, and loving Alice and hating mys
 	We hold hands. She smiles at me. I open my mouth to tell her that, her delightful kiss notwithstanding, I still have business to attend to back in Fredericksburg. Then Cindy bursts out, crying, telling us they just announced on stage that Elvis died.
 
 ## Track 6: The End of the World
-*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written here, on this piece of paper I’ve been handed, that this afternoon, at sixteen-oh-nine hours, an accident happened at Fort Hood Basic Training Facility in Temple, Texas. It would appear Corporal Elvis Pressley has been hurt… hurt by an explosive… excuse me, Jane, John… by an explosive device… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Paramedics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
+*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written here, on this piece of paper I’ve been handed, that this afternoon, at nine minutes pat four, an accident happened at Fort Hood Basic Training Facility in Temple, Texas. It would appear Private Elvis Pressley has been hurt… hurt by an explosive… excuse me, Jane, John… by an explosive device… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
 
@@ -2521,23 +2521,23 @@ By the offramp from US-29 to Salisbury, NC, under a big sign welcoming us to the
 ​	"He sings great in this movie," I say. "I should say I am sorry we won't get to hear it."
 ​	On screen, Elvis is shooting questioning looks at Judy Tyler. Under the screen I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
 ​	"Now I get the worst part," I say. "I will never, ever, see him on stage. Never."
-​	I look to my left and see the couple we parked next to are listening to our conversation. They are our age, and the woman looks a little like Alice. She now looks at me with wide eyes. 
+​	I look to my left and see the couple we parked next to are listening to our conversation. They are our age, and the woman looks a little like Alice. She now looks at me with widening eyes. 
 ​	"You're right," she says. "Fuck."
 ​	"Hey, I know what you need," Alice says. She presses her palm against mine.   
 ​	“Forget it,” I say and pull my hand away. “It’s lost all meaning now.” 
 
 *(yor… soyoung and beau… ti-fohl…)*
 
-When we heard the news on the radio I felt like a truck has rammed itself into my stomach. Barry stopped the car next to the Buzz billboard and I felt like we were still moving; I put my hand on Barry’s shoulder, trying to right myself, feeling I would fall at any moment.  
+When we heard the news on the radio ==I felt like a truck has rammed itself into my stomach==. Barry stopped the car next to the Buzz billboard and I felt like we were still moving; I put my hand on Barry’s shoulder, trying to right myself, feeling I would fall at any moment.  
 ​	“I don’t even know why I’m crying,” I heard Cindy saying behind me. “I mean, I never really knew him. Or have I?”  
 ​	“I don’t know why I’m crying, either,” said Alice. “Eleanore, do you know why you’re crying?”  
 ​	“Shut up, girl,” said Eleanore, sobbing.   
 ​	Eddie was sitting to my right. He put a hand on my shoulder. “s’alright,” he said in my ear. “Just a little bit of shock, boy-o… it’s going to be over in a minute or two…”   
 ​	His kindness surprised me – and served to underline the gravity of the news.   
-​	“It’s the end of rock and roll,” Eleanore said.   
+​	“It’s the end of rock'n'roll,” Eleanore said.   
 ​	“Nice, really nice,” Cindy said. “Cheerful as always.”  
 ​	“She’s right, though,” Alice said. “It’s the end of something to be sure.” ​	
-​​	More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were stopping by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.
+​​	More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were ==stopping== by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.
 ​	“Let’s get out of this can,” Cindy said.
 
 We left the car to the sound of a girl crying. We were at the precipice of a gloomy lookout point over the Yadkin river: a dead place with dead bushes and a smattering of sick, spindly trees, all overlooking a slow, sad river. An old bronze sign dedicated to a Revolutionary general, green and flaking, made the place feel even more ancient. The road sloped down and turned into a wooden bridge. The air was dead, no echoes. The moon was a sliver of itself and everyone around was a silvery, ghostly figure.   
@@ -2563,8 +2563,8 @@ Over by the tree line, next to a lonely picnic table, Shirley was hugging Patty 
 ​	“Yeah, but what are you sad for?” said Pete.   
 ​	“I mean,” I said, and immediately started crying. The group hug pulled me deeper in and I smelled Patty’s hair. A moment later I felt Pete’s hands around my neck.   
 ​	“I’m not hugging you because that man is dead,” he whispered in my ear. “I’m hugging you because you have a terrible taste in music and I feel sorry for you.”  
-​	I started giggling. “You’re right,” I said, wiping my eyes on my sleeve, “that Tiny Richard you keep listening to is such a better singer.”   
-​	“It’s Little Richard and you know it,” he said, laughing himself. I grabbed him and forced him to be part of the huddle. The group swallowed him: Shirley draping herself around his neck and Veronika patting his arm. Then Pete started crying.   
+​	I started giggling. “You’re right,” I said, wiping my eyes on my sleeve, “that ==Tiny Richar==d you keep listening to is such a better singer.”   
+​	“It’s ==Little Richard== and you know it,” he said, laughing himself. I grabbed him and forced him to be part of the huddle. The group swallowed him: Shirley draping herself around his neck and Veronika patting his arm. Then Pete started crying.   
 ​	“Yeah, yeah,” said Eleanore from inside the circle. “You don’t know why, either.” She hugged him, too. We stayed in that hug for a long time. 
 
 "We gotta do something," someone said. 
@@ -2598,7 +2598,7 @@ I thought again about love – Love, for that matter. “I want to teach you som
 ​	“It’s something that we learned a while back, and it helps with…”  
 ​	“Who’s *we*? Helps with *what*?”  
 ​	“You’ll see.”  
-​	I kissed her head and took a small step back and held out my hand, palm outstretched. She did the same, looking expectant. I took a small step forward and our hands were almost touching.   
+​	I kissed her forehead. I took a small step back and held out my hand, palm outstretched. She did the same, looking expectant. I took a small step forward and our hands were almost touching.   
 ​	“What do we do now?” Alice said. "This is exciting."   
 ​	“If you feel ready,” I said, “lean in.”  
 ​	Our fingertips were searching for each other, and every time they bumped into one another I felt electric currents in my hand. Finally our fingers aligned. Then, without talking about it, our gazes were aligned, too.   
@@ -2609,7 +2609,8 @@ I thought again about love – Love, for that matter. “I want to teach you som
 ​	I let my hand relax and Alice’s hand relaxed, too. Our hands remained pressed together, as if they were glued to each other. We drew closer. The warmness was a thick blanket shielding us from the oppressive, dark stillness.  
 ​	“So, it seems,” said a voice behind us, “that this whole place was an ancient Indian trading ford.”  
 ​	The magic broke; Alice retracted her hand. We turned around to face Eleanore.
-​	“Yeah,” Eleanore said, “it says so right there on this sign. It was active for hundreds of years, right at this spot.” Her eyes were twinkling as she was looking at us, but she wasn’t smiling.    ​	“Excuse me,” Alice said, very politely, and ran away.   
+​	“Yeah,” Eleanore said, “it says so right there on this sign. It was active for hundreds of years, right at this spot.” Her eyes were twinkling as she was looking at us, but she wasn’t smiling.
+​	“Excuse me,” Alice said, very politely, and ran away.   
 ​	“Bye now,” said Eleanore. “So... then they built a damn upstream and flooded this whole place. Fitting location for a night like this, don’t you think, Timothy?”  
 ​	We stood there, staring at each other in the dark. From far away I could hear the others: crying, talking in hushed voices, singing.   
 ​	“Eleanore,” I said slowly, “that was uncalled for.”  
@@ -2619,13 +2620,12 @@ I thought again about love – Love, for that matter. “I want to teach you som
 ​	“I don’t know,” I said. “I think so. I hope so.”    
 ​	“And you expect me to accept this just… lying down?”  
 ​	“Huh,” I said. “I guess you make a good point.”  
-​	“You can have your fun,” Eleanore said, turning away. “But don’t think I won’t have my fun, too.”
+​	“You can have your fun,” Eleanore said, turning away. “But don’t think I won’t have my fun, just the same.”
 
 Up ahead, where the tree line met the end of a cliff, I saw Shirley’s friend, Veronika, kneeling down on the ground.  
 ​	“Excuse me,” I said. “Have you seen Alice? Hey, are you okay? Are you crying?”
 ​	Veronika looked up. I the dim moonlight I saw dirt on her face and hands.   
-​	“I’m not crying,” Veronika said. “I’m making amends.” She had a low, almost androgynous voice, raspy at that; in the dead air she sounded like a cryptkeeper making an ominous promise.    
-​	“What do you mean,” I said, “‘making amends?’”  
+​	“I’m not crying,” Veronika said. “I’m making amends.” She had a low, almost androgynous voice, raspy at that; in the dead air she sounded like a cryptkeeper making an ominous promise.    ​	“What do you mean,” I said, “‘making amends?’”  
 ​	“I mean,” Veronika said, “the world has lost a life, the world owes itself a life. Take a look.” She held out a little packet. I felt inside –  
 ​	“Why do you have moist pine nuts in a bag?” I asked.   
 ​	“You might think of them as pine nuts,” she said. “I think of them as baby trees.”  
@@ -2660,7 +2660,7 @@ Outside, the cars are illuminated in the silvery light from the screen and the c
 ​	“What does?”  
 ​	She shrugs. “Whatever. Love, I guess. What I’m sure is that our thing is not *worthless*. It’s *better* now that more people share in it.”  
 ​	“Now you sound like one of them communists.”  
-​	“Natasha, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, Boris, I’ll make you a deal. We press hands now and if it doesn’t work I’ll…” she smiles and bites her lip.   
+​	“Katyushka, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, Ivan, I’ll make you a deal. We press hands now and if it doesn’t work I’ll…” she smiles and bites her lip.   
 ​	“You do what?”  
 ​	“I’ll make it worth your while,” she says and winks at me.   
 ​	“You talk just like a starlet,” I say and we laugh and I put my palm up and Alice puts her palm up and I look her in the eye and the heels of our palms meet.  
@@ -2684,13 +2684,13 @@ We’re sneaking away between the cars like outcasts. Elvis is a giant pacing ab
 ​	“I’m done,” says Veronika. We all crowd the trunk to take a look.   
 ​	“Wow,” Alice says. “It’s beautiful.”  
 ​	“​Wow,” I say. “Nice. Really really nice. Great.” I walk away.   ​	Veronika’s painting is two giant hands, pressing palms against each other.   
-​	“Wait up\!” Alice calls, laughing. “I’ll see you girls later\! I mean I’ll see you Paint Pillars later\!”  
+​	“Wait up!” Alice calls, laughing. “I’ll see you girls later! I mean I’ll see you Paint Pillars later\!”  
 ​	I hear Patty ask, “Why isn’t he smiling?”    
 
-In the back of the lot there’s a little cinderblock projectionist's booth and a light beam is streaming from its roof, illuminating the screen with Elvis's image. The dead man is pacing above our heads. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that some light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
+In the back of the lot there’s a little cinderblock projectionist's booth and a light beam is streaming from its roof, illuminating the screen with Elvis's image. The dead man is pacing above our heads. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that a little bit of light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
 ​	“Ready for the action, Wonderland?” he says.   
 ​	“We’re ready,” we say in unison. Eddie raises his head to see we’re holding hands, and smiles to himself.   
-​​	“Well,” he says, “as long as *you’re* ready…”   
+​​	“Well,” he says, “as long as *you two* ready…”   
 ​	“We got a lot of matchbooks and we’re going to hand them all out,” I say.    
 ​	“All of them? Now listen up, you kiddos, yeah?” Eddie says. “Mama wants this *small,* okay? Mama wants it *contained*, yeah? She wants to make sure we don’t grow too much, too soon.”  
 ​	“Right,” I say. Eddie gets up and wipes the dust from his pants. He’s still wearing his mechanic’s overalls.   
@@ -2735,7 +2735,9 @@ We see Vilma as she grabs the mic and lays it down close to her face. Mucho has 
 
 *(Do you guys want to watch the rest of the ‘motion picture...’ Or do you guys want some rock’n’roll?)*
 
-The crowd cheers–  
+The crowd cheers; it's a long, rolling rumble, going through the lot like a wave. When the wave reaches us we allow ourselves to be swept along with it, and we hold hands and shout and scream. 
+​	"Rock'n'roll will never die!" Alice yells at the screen, at the image of dead Elvis. 
+​	The truck is swaying and rocking -- the denim-clad gang that tried to seize the mics is leaving the stage. Under the truck I see Cindy, talking earnestly with one of the members, holding on to his top button, her face flushed. A huge "boo" greets the bikers as they leave. ​	
 ​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling. I hold her and kiss her, gently, lovingly, and the taste of that one kiss will stay in my mouth for the rest of my life. 
 
 *(Heath, why don't you sing one? Come on, Heath, give us a number...)*
@@ -2766,7 +2768,7 @@ Then the movie reel runs out and the screen fills with splattering, flashing lig
 
 *(good-NESS grAI-cious! greAT balls of FI-er!)*
 
-An huge cheer rolls over us, carrying us with it. The crowd is enormous; its ends are infinite. Heath hammers on the piano like a madman. 
+An huge cheer rolls over us. The crowd is enormous; its ends are infinite. Heath hammers on the piano like a madman. 
 ​	"Who is this guy?" says someone next to us.
 ​	"Heath Walker Caine," says someone next to them. It turns out to be the male Jones, who winks at us as he says, "Hey, dare to dance?"
 ​	Once it is discovered we're in the know, people have a lot of questions for us: 
@@ -2775,37 +2777,45 @@ An huge cheer rolls over us, carrying us with it. The crowd is enormous; its end
 ​	"What are they called again? Steaming Dinner?"
 ​	Alice has stopped dancing; she's standing and watching Heath play, mesmerized. I hug her and she says, "I was so stupid! I get it now!"
 ​	I say, "Get what?"
+- [ ] need a moment where mama's control is lost and the crowd makes its own decisions. 
 
+- control is clearly lost
+- the crowd becomes something else
 *(TWANGGGGGGG!)*
 
-*(Damn it. Hey, do any of you people know how to change an electric bass string?)*
-​	
-# hey
-## hey hey
-### hey hey hey
-#### hey hey hey
-"Never mind. I bet you can change a string," Alice says. 
-​	"Of course I can change a string," I say. I rush forward, holding my hand up. The song goes on; Heath's left hand makes up for the lack of Mucho's stomach-flipping bass. Jo's guitar remains in the background, respectful of Heath's piano. As I rush through the crowd I can almost smell the electricity in the air. Almost all of the car owners have turned on their headlights; almost every standing space is full of people. 
+*(Damn it. Hey, do any of you people know how to change an electrical bass string?)*
+​
+"Never mind. I bet *you* can change a string," Alice says. 
+​	"Of course I can change a string," I say. I rush forward, holding my hand up. The song goes on; Heath's left hand is working frantically now. Jo's guitar remains in the background, respectful of Heath's piano. As I rush through the crowd I can  smell the electricity in the air. Almost all of the car owners have turned on their headlights; almost every standing space is full of people. 
 
-*(s'alright, Eddie, you can stay where you are. I can see Tom here coming to the stage. Greeeeeaaaaat Balls of Fire!)*
+*(s'alright, Eddie, you can stay where you are. I can see Tommmy here coming to the stage... greeeeeaaaaat Balls of Fire!)*
 
-I climb on the bed of the truck. Wires, thick as railroad steel, issue from the truck and into a whirring, buzzing, smelly box on the ground. The Steam Pillars stand shoulder-to-shoulder on the truck bed, hemmed in by microphone stands and amplifiers. In the middle, Heath goes to town on his small upright piano. He plays it so hard the truck sways, and we sway with it. I make my way towards Mucho, who decided to keep playing on his remaining three strings, and find myself sandwitched between him and Vilma. 
+I climb on to the bed of the truck. Wires, thick as railroad steel, issue from the truck and into a whirring, buzzing, smelly crate on the ground. The Steam Pillars stand shoulder-to-shoulder on the truck bed, hemmed in by microphone stands and amplifiers. In the middle, Heath goes to town on his small upright piano. He plays it so hard the truck sways, and we sway with it. I make my way towards Mucho, who decided to keep playing on his remaining three strings, and find myself sandwiched between him and Vilma. 
 ​	"Hey kid, string's in the case," Mucho says.
-​	"Hey kid, knew you'd be back," says Vilma and gives me a nudge. I rummage in the guitar case for the right string. 
-​	"It's just that it's new," Mucho says off mic to me. "Mama got it for me."
-​	"It's beautiful!" I say. "Is that a Sunburst Precision Jazz?"
+​	"Hey kid, knew you'd be back," says Vilma and gives me a nudge. It's dark and messy on the floor. I duck and rummage in the guitar case, trying to gauge the right string with my fingers. 
+​	"It's just that it's new," Mucho says, facing away from the mic. "Mama got it for me."
+​	"It's beautiful!" I say. I pull out a coiled spring, as thick as my little finger. "Is that a Sunburst Precision?"
 ​	"I don't give a fuck! Are you changing my string?"
 ​	"While you're playing?!"
 ​	He laughs. "Welcome to the big league, son."
-​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns the tuning peg and continues playing. I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
-​	"Fuck you, Heath. You totally stole my thunder."
-​	And then,
+​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns on the tuning peg and continues playing. I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
+​	"Fuck you, Heath. ==You totally stole my thunder==."
+​	Mucho laughs. "Don't blaspheme in front of the priest," he mocks. Heath is literally dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he winks at me. 
+​	Behind Mucho, Joe is playing harder now, moving with her guitar as if shaking and rattling it is what makes the music drop out of it. I stare at her fingers moving across the strings...
 
-*(Comeon bayy-be! d-d-drive me crahy-zee!)*
+*(c'mon bahy-be... drive me crahy-zee...)*
 
-​Heath is dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. I look up and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by car headlights, and moving as if they were one body, moving in exact sync with the music, with the swaying and dancing of the Steam Pillars around me, with the creaking suspension of the truck. An enormous feeling of power washes over me. ==It is in this exact moment that I find out what I want to do in life.== 
-​	Near me, in the crowd, Alice is sending me kisses and turns away almost immediately to dance with a stranger. 
+​​​​Mucho puts his hand on the mic and says, "Nice work, kid."
+​	"Yeah," says Vilma. "You can dance with me, don't be afraid. Hey, when did you learn to change strings that way?"
+​	"I didn't," I say. "My first time." I dance with her. 
+​	Mucho bellows a laugh so loud it makes me cringe. "Hey kid, you want a job with the band? Spend some time in the limelight?"
+​	I look up and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by car headlights, and moving as if they were one body, moving in exact ==sync== with the music, with the ==swaying and dancing== of the Steam Pillars around me, with the creaking suspension of the truck. An enormous feeling brews in my ==belly==. 
+​	Without knowing it, I lift my arms and the sea of people near us cheers... in the crowd, Alice is sending me excited kisses and turns away almost immediately to dance with a stranger. 
+​	Mucho says to the mic,
 
-After the show, back in the car with our bellies full of Love, I turn and look back. Lots of experts will later have lots of opinions about when exactly the Steam Pillars ==exploded into public attention==. They'll mention Atlanta, Georgia, they'll mention Columbia, South Carolina; but for me, it's this exact moment, outside of the Hitching Post Drive-In in Salisbury, NC, when I look back and see the length of US-360, miles long, is one  uninterrupted caravan, snaking down the hills and extending to the horizon. 
+*(Yeah! Give it to our new roady, Tommy!)*
 
-*(*
+==Later, in the band's truck, with Eddie smoking at the wheel and the band all snoring in the back and me starkly awake and full of Love and missing Alice,== I turn and look back. 
+​	In the future, all sort of people will have opinions about when exactly was the moment the Steam Pillars burst into the public's attention. Some will say Atlanta, other say as early as Columbia; but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-360 is an uninterrupted snake made up of caravan headlights, running up and down the hills and extending into the horizon. 
+#### chapter break candidate
+*(We're gonna be here all night, rocking and a-rolling, and it's a beautiful summer night to boot... 
