@@ -2694,9 +2694,11 @@ Outside, tearing the paper wrapper around a pack of Buzz, I see Rosetta walking 
 ​	I say, "Oh," and open the back door of the black Sedan next to me. Pete as at the wheel and "Mama" is in the front seat, next to him, wearing sunglasses. She looks at me through the rear view mirror. 
 ​	"One thing I want to make clear," she says. "You seem like a smart kid, so I bet you'll understand. We're treading a very fine line here."
 ​	"Fine line?"
-​	
+​​	"Don't interrupt. A *very* fine line. That little caravan of fans... it's our foundation, our germ, if you will. The reason why we can do that thing we do. But if our little caravan becomes a big caravan, then folks are going to notice us and then we won't be able to *do* that thing we do. You *get* me?"
+​	I say, "Did you... *hear* the conversation I just had in there? Is that why you're telling me this?"
+​	Mama says, "I have ears everywhere. Now get out of here."
 
-We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
+Back with Alice again ("What did Cindy say?" "Don't ask."), we’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
 ​	“Hi, handsome,” says Patty. 
 ​	“Hey, girls,” says Alice, clutching my hand.   
 ​	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   
