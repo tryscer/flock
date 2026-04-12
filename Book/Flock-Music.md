@@ -2129,6 +2129,7 @@ A big column of steam rises above the orchard, like someone poured water over a 
 	“Where’s Alice? Where’s Alice\!”  
 	“She went with the Joneses\! Let’s go\!”
 
+## Chapter XXX: 
 *(Isn’t it a beautiful day to be a-rocking and a-rolling, America? Yes, the Soviets are sending guard dogs into space, to float above our heads… but today we can look at the sky, that clear blue sky, America, and remember His grace always shines on us. Anyway, here’s an oldie from a fallen giant of rock’n’roll… a naughty boy indeed… Jerry Lee, we don’t know where you went to, if you’re hiding or only resting, but your magical piano fingers are dearly missed here on the airwaves…*
 
 *Craaaaheyzeee aaaaaaarms that reach to ho-hold somebody newwww…)*
@@ -2221,6 +2222,7 @@ We catch up to Moe’s faded-yellow schoolbus. I honk and he opens the door.
    
 *(butnooooow I’mmmm so lonely… oh-all the time…)*
 
+## Chapter XXX: 
 Our caravan, three cars long, is parking along the the US-360. Mo, Pete and Barry are out, pissing. The Joneses didn’t have Alice, it would seem, but they did say they definitely saw her along the way. The Joneses are older than us, a married couple, literally grown-ups. They seem trustworthy to me.   
 	“Yeah, we saw her with Baba, do you know Baba?” says Joanne to me while the three cars are parking on the side of the road. We’re leaning on the trunk of the Joneses’ car, sharing a cigarette.  
 	“He’s the dude from Africa. The Mad Drummer. I think he’s the soul of the band,” she says, “its essence.”  
@@ -2296,6 +2298,7 @@ Jimmy and Rosetta sit on the ground next to the barrel. They take matchboxes fro
 	“What are you scribbling?” says Alice. I show her, and she takes a matchbook from the barrel. The barrel is full of loose matchboxes: there are maybe a thousand yellow Buzz Cigarette matchbooks there. Jimmy winks at Alice. I look around and see all of us are now scribbling on matchbooks. I let my eyes rise to meet Mama’s; she has this very intense look Eddie sometimes gets.   
 	“You kids up to a little upheaval?” she asks.
 
+## Chapter XXX: 
 *(You’re listening to WGBG 1400AM, The Voice of the Gate City… and this fine Sunday begins with promise of commercial excitement all around the Gate City’s Sesquicentennial Anniversary. Down at the Jefferson City Hall, the Brothers of the Brush and the Centennial Belles will have a joint beard-growing contest and Revival Dress fashion show… all brought to you by the smooth flavor and lasting calm of Buzz Cigarettes, a real honey of a smoke.)* 
 
 That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people, shoppers, lunchers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  
@@ -2460,10 +2463,12 @@ I say, “So maybe we’ll dance again some other time, kiddo.”
 
 The Magnolia House is a two-story detached house, covered with white wood boards and light green roof. Vilma and I pass across a series of big windows looking into a busy hotel lobby.  
 “So long,” says Vilma. “Here’s your friend’s headscarf. I really do hope we’ll ‘dance again some night,’ Tim. You’re pretty to look at from the stage.”  
-	I kiss her goodbye. When I turn to get back I see Alice standing by the car, wearing my sunglasses, radiant in this sunshine. I take slow steps towards her, anxious of what she’ll say. What she says is,  
+	I kiss her goodbye. ==When I turn to get back I see Alice standing by the car, wearing my sunglasses, radiant in this sunshine. I take slow steps towards her, anxious of what she’ll say. What she says is,  
 	“You have four hours to change your mind.”  
-	With that, she goes right back in the car. 
+	With that, she goes right back in the car. ==
+	- [ ] delete this
 
+## Chapter XXX 
 It’s night at the Pomona Pipeworks. An elaborate maze of hanging machinery, and the volume tonight is twice as loud, bouncing from speakers into round, metal ovens and breaking like waves on the big, hanging metal pipes. It’s like a grotesque cathedral… the band does their Alice number again,
 
 *(Nobody’s fault\! Damn right\!)*
@@ -2845,5 +2850,5 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ==Later, in the band's truck, with Eddie smoking at the wheel and the band all snoring in the back and me starkly awake and full of Love and missing Alice,== I turn and look back. 
 ​	In the future, all sort of people will have opinions about when exactly was the moment the Steam Pillars burst into the public's attention. Some will say Atlanta, other say as early as Columbia; but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-360 is an uninterrupted snake made up of caravan headlights, running up and down the hills and extending into the horizon. 
 
-%%#### chapter break candidate%% 
+## Chapter XXX: The Horns of Plenty
 *(We're gonna be here all night, rocking and a-rolling, and it's a beautiful summer night to boot... 
