@@ -2528,7 +2528,8 @@ By the offramp from US-29 to Salisbury, NC, under a big sign welcoming us to the
 
 *(yor… soyoung and beau… ti-fohl…)*
 
-When we heard the news on the radio ==I felt like a truck has rammed itself into my stomach==. Barry stopped the car next to the Buzz billboard and I felt like we were still moving; I put my hand on Barry’s shoulder, trying to right myself, feeling I would fall at any moment.  
+When we heard the news on the radio, only a few hours earlier, it didn't come as words but as a dull buzzing in my ears. The road was lit but my eyes stopped broadcasting what they saw. People were talking around me but I couldn't make out who or what they were saying. It was like my mind, to shield me from the news, stopped processing all information. 
+​	After a while, meaning returned part by part: first I noticed we were not moving anymore. Then, that we were parked by the side of the road, along with other cars.    
 ​	“I don’t even know why I’m crying,” I heard Cindy saying behind me. “I mean, I never really knew him. Or have I?”  
 ​	“I don’t know why I’m crying, either,” said Alice. “Eleanore, do you know why you’re crying?”  
 ​	“Shut up, girl,” said Eleanore, sobbing.   
@@ -2567,12 +2568,18 @@ Over by the tree line, next to a lonely picnic table, Shirley was hugging Patty 
 ​	“It’s ==Little Richard== and you know it,” he said, laughing himself. I grabbed him and forced him to be part of the huddle. The group swallowed him: Shirley draping herself around his neck and Veronika patting his arm. Then Pete started crying.   
 ​	“Yeah, yeah,” said Eleanore from inside the circle. “You don’t know why, either.” She hugged him, too. We stayed in that hug for a long time. 
 
-"We gotta do something," someone said. 
+"That's it for me," said someone I didn't know, his hand on his car and his keys in his hand. "I'm heading home."
+​​	"Don't!" Alice said. "It gets better!"
+​	"Let him go," Eddie said. "It's okay that some people go."
+​	"Maybe we'll dance again later," Cindy tolds him. He drove away. 
 ​	"We gotta turn back," said someone else. "How can we keep dancing after today?"
-​	"How can you go on after today *without* dancing?" said Barry. Cindy and I exchanged amused looks.
+​	"How can you go on after today *without* dancing?" said Barry. 
+​	Cindy and I exchanged amused looks.
 ​	"He's right," said someone. "We gotta do something. The show must go on."
 ​	"I wish the Pillars were here to play to us."
 ​	"I can still feel the Love from the show."
+​	Eddie is located sitting on the one picnic tableת smoking by himself. A delegation appears before him. 
+​	"You want to hear the Steam Pillars?" he says. "Oh, you'll see the Steam Pillars. Tonight, in fact."
 
 *(love me ten-der, love me sweeeet--)*
 
@@ -2666,12 +2673,30 @@ Outside, the cars are illuminated in the silvery light from the screen and the c
 ​	“You talk just like a starlet,” I say and we laugh and I put my palm up and Alice puts her palm up and I look her in the eye and the heels of our palms meet.  
 ​	Alice is the most stable point in the universe.   
 ​	My shoulders go soft.  
-​	The distance between Alice and me can only be measured with a microscope. I feel us blending into each other. 
+​	The distance between Alice and me can only be measured with an electronic microscope. I feel us blending into each other. 
 ​	“See?” says Alice right into my eyes. “Now you’re going to have to make it worth *my* while.”   
-​	I smile. I let my arm go loose and step forward and, our palms still pressed against each other, I kiss her, a wild, hungry kiss.
-​	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?”
+​	I let my arm go loose and step forward and, our palms still pressed against each other, I kiss her, a wild, hungry kiss.
+​	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?” 
 
-We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.   
+I leave Alice and Cindy to talk by the car and I wander to the concession stand. A bored teenager in an orange and white shirt is picking his nose by the till. I wait in line to get a Moon Pie for Alice and a pack of Buzz for myself. The couple behind me are teenagers, too, but clearly not from our flock. 
+​	"I knew it was a bad idea to come," the girl says. She wears a denim jacket and a knee-long skirt and chewing gum. 
+​	"I gotta tell ya," says her boy, also chewing gum, "I gotta tell ya I agree with ya. Watching this movie is a *bummer*. Damn Anna for making us come."
+​	I tell them, "I got a feeling you're gonna be glad you came tonight."
+​	"What did you say?" says the boy. 
+​	"I said I think you're going to be glad you came."
+​	"Why? What have you got planned?"
+​	"It's not me," I say. "It's some... let's say they're friends of mine. They got something else going on tonight. You just wait. If you like rock'n'roll, you're going to have a good time tonight." I wink at them and regret it. 
+​
+Outside, tearing the paper wrapper around a pack of Buzz, I see Rosetta walking towards me, looking serious. As she nears me she mutters without stopping. 
+​	I call after her: "What did you say?"
+​	She stops. She clenches and unclenches her fists and comes back. 
+​	"I said," she said, "get in the car next to you."
+​	I say, "Oh," and open the back door of the black Sedan next to me. Pete as at the wheel and "Mama" is in the front seat, next to him, wearing sunglasses. She looks at me through the rear view mirror. 
+​	"One thing I want to make clear," she says. "You seem like a smart kid, so I bet you'll understand. We're treading a very fine line here."
+​	"Fine line?"
+​	
+
+We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
 ​	“Hi, handsome,” says Patty. 
 ​	“Hey, girls,” says Alice, clutching my hand.   
 ​	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   
@@ -2683,7 +2708,8 @@ We’re sneaking away between the cars like outcasts. Elvis is a giant pacing ab
 ​	“Alice of Wonderland\!” they all cheer.   
 ​	“I’m done,” says Veronika. We all crowd the trunk to take a look.   
 ​	“Wow,” Alice says. “It’s beautiful.”  
-​	“​Wow,” I say. “Nice. Really really nice. Great.” I walk away.   ​	Veronika’s painting is two giant hands, pressing palms against each other.   
+​	“​Wow,” I say. “Nice. Really really nice. Great.” I walk away.
+​	Veronika’s painting is two giant hands, pressing palms against each other.   
 ​	“Wait up!” Alice calls, laughing. “I’ll see you girls later! I mean I’ll see you Paint Pillars later\!”  
 ​	I hear Patty ask, “Why isn’t he smiling?”    
 
@@ -2817,5 +2843,6 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 
 ==Later, in the band's truck, with Eddie smoking at the wheel and the band all snoring in the back and me starkly awake and full of Love and missing Alice,== I turn and look back. 
 ​	In the future, all sort of people will have opinions about when exactly was the moment the Steam Pillars burst into the public's attention. Some will say Atlanta, other say as early as Columbia; but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-360 is an uninterrupted snake made up of caravan headlights, running up and down the hills and extending into the horizon. 
-#### chapter break candidate
+
+%%#### chapter break candidate%% 
 *(We're gonna be here all night, rocking and a-rolling, and it's a beautiful summer night to boot... 
