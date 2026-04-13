@@ -1,4 +1,4 @@
-## Epitaph
+#### Epitaph
 "Let my people go."
 — *Some hopped-up, bush-watching, self-proclaimed leader of men*
 
@@ -6,8 +6,7 @@
 — *Elvis Aaron Presley*
 
 # Side 1: Alice
-
-## Track 1: Alice Gets in a Car
+## Track 1: Chevy Bel Air 
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, green ones and white ones, flocking together, going their own way… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
 *Ba-Boom Boom-Boom*…  
@@ -163,9 +162,8 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​        "Yeah," says Barry. "We'll all be better off finding a place to–"  
 ​        Cindy whispers in my ear, "I'm running away from home".
 
-
-## Chapter 2: 
-- [ ]  radio insert 
+## Track 2: The Mechanic   
+- [ ]  radio insert - buzz cigarette ad
 
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
 ​        "You'll push us into the ditch\!" Eleanore yells. "Tim, put your back into it\! Barry is pushing twice as hard as you\!"  
@@ -185,7 +183,7 @@ Cindy and I are sitting in the back seat, holding hands.
 ​        And so on.
 
 
-By the time we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACENT\!) it's so hot out that even the tarmac is sweating a little. We can see a couple of peeling pumps, previously red, the workshop behind the office, where a carcass of a car lays hopelessly dead.  
+By the time we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACENT\!) ===it's so hot out that even the tarmac is sweating a little. We can see== a couple of peeling pumps, previously red, the workshop behind the office, where a carcass of a car lays hopelessly dead.  
 ​        Both Barry and Tim are drenched with sweat. Barry took off his coat and tie and he’s leaning on Tim, breathing hard; to our communal delight, Tim has taken off his shirt and is using it to dry his face. We girls leave the car – to get fresh air, of course.  
 ​        "Fill 'er up?" says a stocky man in overalls, who appeared as if out of nowhere. His name patch says his name is Max.  
 ​        “Nothing much to fill up,” Barry says, “unless you got a mechanic.”  
@@ -252,7 +250,8 @@ Barry looks at me like he would look at an infantile, but the mechanic is mollif
 ​        "Come on\!" I say to him, "I can win this\!"  
 ​        "Now, young lady," says Barry. "I promised your mother I'll look after you. No way am I letting a minor drink".  
 ​        "You're only three years older than us,” says Cindy. “*old man*.”  
-​        "Excuse me," says the mechanic. "Are you, sir, a minor?"  ​        Barry straightens his back. "If you must know, I'm almost twenty-one years old.”  
+​        "Excuse me," says the mechanic. "Are you, sir, a minor?"
+​        Barry straightens his back. "If you must know, I'm almost twenty-one years old.”  
 ​        "So you do the drinking.”  
 ​        ”Yeah,” says Cindy. “That makes sense\!”  
 ​        Barry looks even more confused. Cindy and I look at each other.   
@@ -406,7 +405,7 @@ I blush. “I listened to *Whole Lotta Shakin’* so much I got the record scrat
 ​        “No,” says Eddie. “*Start* listening to this grease monkey. Step on the gas. Start living.”   
 ​        “Fine,” says Barry. He steps on the gas and turns the wheel. I feel the pressure of the seat against my back…  
 ​        “There you go,” says Eddie. “Now take it down a notch. Don’t live too much, you’re not used to it.”  
-​        But Barry doesn’t brake. He belches loudly, then hoots, then gives it even more gas. Tim looks worried; Eddie, too. The van disappears in the background… then the car swings and sways… Then we all rock in our seats. Cindy falls on my lap. I grab her hand. For what seems to be an hour, we spin out of control. There’s an awful noise as the wheels dig into the asphalt.   
+​        But Barry doesn’t brake. He belches loudly, then hoots, then gives it even more gas. Tim looks worried; Eddie, too. The van disappears in the back window… then the car swings and sways… Then we all rock in our seats. Cindy falls on my lap. I grab her hand. For what seems to be an hour, we spin out of control. There’s an awful noise as the wheels dig into the asphalt.   
 ​        Tim puts his hand on the wheel.   
 ​        “Nice and slow,” he shouts. “Pump the brakes\!”  
 ​        The car rights itself. We drive away slowly.
@@ -450,7 +449,7 @@ We all get it: now they’ve both got greasy hands. Barry smirks and wipes a gre
 ​        “Good morning, Sheriff Emerson,” says Cindy.   
 ​        “Hello, children,” says the big chromed head. “What is it, then? Should I be telling your father you were driving wild? *And* smoking?”  
 ​        At the mention of his father, a quick transformation goes through Barry: his back straightens, his shaking hand on the wheel smoothes. He takes the cigarette out of his mouth and puts it out in the Chevy’s clean ashtray. He turns to the Sheriff, their faces nearly touching.   
-​        “I’m sorry, Sheriff Emerson,” he says, losing his North Carolina accent almost entirely. “I forgot you’re not partial to the smell. I’m in fact so glad to see you here on this sunny day, because our car, it’s the *damndest thing*—” he takes his right hand off the wheel to gesture at the engine — “I mean I thought we fixed it, didn’t we, Tim?”  
+​        “I’m sorry, Sheriff Emerson,” he says, losing his ==North Carolina== accent almost entirely. “I forgot you’re not partial to the smell. I’m in fact so glad to see you here on this sunny day, because our car, it’s the *damndest thing*—” he takes his right hand off the wheel to gesture at the engine — “I mean I thought we fixed it, didn’t we, Tim?”  
 ​        “Thought we fixed it,” repeats Tim in a choked voice, trying not to make eye contact.  
 ​        The Sheriff looks at Barry’s grimy hands and face, then at Tim’s. He nods. Then at Eddie —  
 ​        “Why, you have a mechanic with you,” he says.   
@@ -458,7 +457,7 @@ We all get it: now they’ve both got greasy hands. Barry smirks and wipes a gre
 ​        “He’s useless,” says Tim.   
 ​        “It’s the damndest thing,” says the Sheriff. “Do you kids need any help?”   
 ​        Eleanore and Cindy exchange glances. Barry did it.  
-​        “Oh, I wouldn’t want to impose, Sheriff,” says Barry. “I mean, there’s a service station right down the road at South Hill, and we’re heading there right this very moment.”   
+​        “Oh, I wouldn’t want to impose, Sheriff,” says Barry. “I mean, there’s a service station right down the road at ==South Hill==, and we’re heading there right this very moment.”   
 ​        “You promise to take good care of her?” says the Sheriff, looking around.   
 ​        “The car will be as good as new,” says Barry.   
 ​        “No, you idiot,” says the Sheriff and looks at us. “Of your little sister. I’ll be seeing your father tonight, and I’d hate to tell him his little girl is in trouble”. Cindy ​smiles a forced smile.   
@@ -479,12 +478,11 @@ Somebody turns on the radio…
 "Boo\!"  
 ​        “Weak\!”  
 ​        “Turn the dial, man\!”  
-​        Outside the car window, a metal sign rolls by, black with green lettering, saying “WELCOME TO VIRGINIA \- THE OLD DOMINION”, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
+​        Outside the car window, a metal sign rolls by, black with green lettering, saying ==“WELCOME TO VIRGINIA \- THE OLD DOMINION”==, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
 
 
-## Track 2: Alice Gets a Book of Matches
+## Track 3: Dare to Dance  
 *Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what music shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love...*
-
 
 *Step right up!*
 ​        We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!* s of the carousel, the sizzle of meats on grills, the crunch of peanut shells under foot, the din of the crowd. 
@@ -520,7 +518,7 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 ​        “Shut up, city girl,” says Barry, “my father says this initiative just might make me the youngest junior executive ever in Buzz history.”  
 ​        The PA says, “Will the child Bernard Green please report to the manager’s office next to the entrance, Bernard Green, Bernie, your mom is worried.”
 ​        Eddie takes out a soft pack of Buzz cigarettes from his overalls pocket. “Junior executive,” he says and lights one up, “now, there’s something to aspire to.”  
-​        Barry snatches the cigarette away right from Eddie’s mouth. “Why,” he says and puts it in his own mouth, “what do you aspire to?” he coughs.   
+​        Barry yanks the cigarette away from Eddie’s mouth. “Why,” he says and puts it in his own mouth, “what do you aspire to?” he coughs.   
 ​        Eddie reaches out and takes the cigarette back. “Me? I want the normal things. Success, fame…” he puffs on the cigarette, then offers it to Eleanore. “…equality between races…”  
 ​        Eleanore puffs on the cigarette with an elegant city-girl air. “Equality between races," she says, "independence… working for the United Nations…” she hands the cigarette to Tim. 
 ​        Tim takes it between his thumb and forefinger, gives it a very cool drag. “Independence,” he says and puffs. “Driving my bike very fast… napping in the sun… beer…”  
@@ -548,7 +546,7 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 ​        Then a heavy hand lands on Barry’s shoulder–  
 ​        “Is this Mr. B. MacAllister, Jr., I see before me?” says the owner of the heavy hand behind us.   
 ​        Eleanore acts fast: she grabs the green cigarette from Barry’s raised hand and stuffs it in his coat pocket. We all turn around to find two besuited, bespectacled, respectable-looking, identical-looking white men.    
-​        Barry’s expression changes from shock to serenity, smoothes itself out so fast: “Hello, Mr. Farley\! Why, gang, this is Mr. Farley, our advertising executive\! Mr. Farley, please meet my sister, cousin and their friend.”   
+​        Barry’s expression changes from shock to serenity, smoothes itself out so fast: “Hello, Mr. Farley\! Why, gang, this is Mr. Farley, our advertising executive\! Mr. Farley, please meet my sister, my cousin and their friend.”   
 ​        “Well met, ladies,” says one of the identical besuited men and gestures towards the other. “Mr. B. MacAcllister, Jr., I’d like you to meet Mr. C. Evans, the Fair’s executive manager.”  
 ​        ”Well met,” Mr. Evans says.   
 ​        “Well met,” replies Mr. B. MacAllister, Jr. and gives a well-honed, respectable nod.   
@@ -592,14 +590,12 @@ A few people are sitting on folding chairs next to a big tent. Eddie and the hug
 ​        “Means he ain’t no drummer,” bellows Besame Mucho. 
 ​        Babatunde laughs, a hearty laugh. 
 ​        “He ain’t no drummer,” says the woman, “he is a *magician*. I’m Vilma, Alice and friends. I sing for the band. And I’m… happy you brought Edwardo back to us.” She has a small voice, like a girl’s. 
-​        ==“I’m Johnny Terry,” says the man with the thick curls. “I’m with the choir, you could say.”
-​        “You guys have a *choir*?”==
 ​        “Are you convinced yet?” Asks Eddie. “Or do you guys want to still go see the Seven-Tops?”
 ​        “Hey, why are you like this?” Says Mucho. “Show some respect. Some of these cats can *rock*.”
 ​        “All I’m saying,” says Eddie, “is after the Steam Pillars… I don’t think there’s going to be any of another show.”
 ​        “Are you being metaphorical?” Asks Cindy. “Have everybody met? I’m Cindy and this is my brother Barry and my cousin from New York City Eleanore.”
 ​        I suddenly realize that apart from Eddie, all the people are black, and reflect briefly on how much I’ve grown since this morning. I’m tingling with excitement. 
-​        “You guys are real musicians! ==With a choir!==”
+​        “You guys are real musicians!"
 ​        “Just cogs in the machine,” says Mucho. 
 
 
@@ -650,7 +646,7 @@ We walk around the fairgrounds, waiting for the show to start. We pass an ice cr
 ​
 At the next stall, under the string of bare lightbulbs, the hand-painted sign at the nearby booth says “10 shots \- 25¢,” and the red-faced man in the open-collared shirt under it is busy counting shots of .22 into the hand of a young black patron, who’s chatting excitedly with his girlfriend. A bunch of old Winchester rifles lie at the counter. The man is picking up one of them and shooting into the depths of the booth, where metal cutouts, shot to tatters, are supposed to imitate ducks and quails. 
 ​        Every time a rifle fires, the red-faced man jumps.  
-​        “Excuse me,” says Cindy ==in her charming voice,== “this young man would like to win me the largest teddy bear you have.”  
+​        “Excuse me,” says Cindy, “this young man would like to win me the largest teddy bear you have.”  
 ​        ”That would be the Bear-gineer,” says the red-faced man, wiping a handkerchief across his sweaty forehead. He gestures towards the top shelf above his head, where a large bear, wearing a train engineer’s hat and overalls, is sitting. 
 ​        “Gotta warn you, young man, 12 days so far and no one won him yet.” The man next to us fires a round into the line of automated duck-like things and it spins around its axis with a *ping\!*  
 ​        The red-faced man shudders.   
@@ -891,7 +887,7 @@ And the choir:
 (drrrapappapa!)
 
 
-…and leaves to follow Mucho. Babatunde, Johnny and the guitarist wave at the crowd and leave. Everybody laughs. The cop’s face gets even more red. He grabs Mucho, who trips, drops his bass, then runs through the crowd. 
+…and leaves to follow Mucho. Babatunde and the guitarist wave at the crowd and leave. Everybody laughs. The cop’s face gets even more red. He grabs Mucho, who trips, drops his bass, then runs through the crowd. 
 ​        The only men on stage are the white pianist, playing the ridiculous tune, and Eddie, standing there and shaking Barry’s bottle of Coke to the rhythm. 
 ​        The cop climbs the stage. He grabs the pianist by the collar. The music stops. The crowd is booing—
 ​        Next to the amplifier, Eddie is shaking his Coke bottle. Just as it seems the cop managed to grab the man, Eddie is emptying the coke into the buzzing amplifier. A huge cloud of acrid, sweet smelling steam fills the stage. When the cloud clears, all that’s left on stage is the cop.
@@ -911,9 +907,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​        “Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
 
 
-## Track 3: Alice Goes Down a Rabbit Hole
-
-
+## Track 4: Down the Rabbit Hole 
 *“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon... Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss, Mr. C. Evans, gave a statement, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that you folks lined up to hear! Among those caught up in the fray was the son a prominent businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
 
 
@@ -1259,10 +1253,8 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​        We all cheer.
 ​        "Someone turn on the radio!" I say.
 
-## Chapter XXX: 
-*(Caaaatch-a-falling-staaar and putitin-your-pock-CLICK!)*
-
-
+## Track 5: Rockin' the Deuce 
+- [ ] radio break
 We run up the many stairs of the Richmond Main Street train station, a big block of columns and ornamental windows and thatched roofs. 
 ​        "What time is her train?" says Barry. "Did we miss it?"
 ​        We hear a loud *braaaaaaang* above our head. I look up to see the huge clock face showing it's half past seven. The sun is low behind the clock tower, casting a long shadow over us.
@@ -1499,10 +1491,9 @@ Barry, where's the Buzz Cigarettes tobacco warehouse in Richmond?"
 ​        "I told you guys," says Eleanore. "It was supposed to be *obvious*."
 
 
-## Track 4: Alice Goes to Wonderland
-==radio break
+## Track 6: Birds of a Feather 
+- [ ] ==radio break
 *...and that was XXXX by the XXX, as requested by listener XXX... who tells us it was the first song she heard being played live. Do you remember your first show?*==
-
 
 We cross the street in solemn silence. 
 ​        In the small parking lot beneath the Buzz warehouse, a few cars are parked, most of them old and dusty. As we walk between them I pass my finger through the dust on a Ford's back window. 
@@ -1813,23 +1804,24 @@ In the parking lot, a few people are waiting for us: Eddie and the cigarette gir
 
 
 When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little lot. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember from the show they'd just watched. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little car-lit parking lot has become. 
-​        At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
-​        I whisper to Cindy, "talk to him. Tell him. Tell him you'll be leaving either way".
+​
+At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
+​​	I whisper to Cindy, "talk to him. Tell him. Tell him you'll be leaving either way".
 ​        But Cindy knows her brother better. She walks over to him and takes his hand. Suddenly they seem to me like they were when I first met them, these two kids from the country, holding each other’s hand in the recess ground of a big-city school.
-​        Barry is looking at the people in the clearing and nodding, as if to an unheard beat.
-​        "Yes, yes," he says, maybe to his sister and maybe to himself. "Any why the hell not?"
+​        Barry is holding hands with his sister, looking at the people in the clearing, and nodding -- as if to an unheard beat.
+​        "Yes, yes," he says, maybe to his sister and maybe to himself. "Anyway, why the hell not?"
 ​        He walks towards the middle of the parking lot, where paint and brushes are waiting.
 
 
 # Side 2: Tim
-## Track 5: Morning, Gorgeous
+## Track 7: Morning, Gorgeous
 *Do you remember your first time? Butterflies fluttering in your belly and sweat on your palms – the world suddenly an alien place, shiny and foreign and beautiful – the chirps of birds all of a sudden holding meaning beyond meaning? And what do I mean by “first time,” listener? Am I being lude? Ludicrous? Out-ragous? Reb-belious? Am I talking about es-ee-ex? Maybe, listener, maybe I am. But there are all sorts of first times in our life and they start way back on that first step we take as tiny little toddlers. So cute\! So: do you remember your first strike on that baseball pitch? The first time your momma took you to the movies? And even – yessiry indeed\! – your very first kiss? More importantly, listener, and listen closely, buddy: do you remember the song that was playing at the time? Here’s a little number so many of us would recognize as the soundtrack for all sorts of first times – those four angels from Sheboygan, the wonder-ful Chordettes, singing a plea for the Sandman himself…*
 
-*(Pam-pam-papa-pam-pam-pam-pa-pa-pampam-pam…)*
+*(Pam-pam-papa-pam-pam-pam-pa-pa-pampam-pah…)*
 
-I first fell in love with Alice at the sunrise after we decided to follow The Steam Pillars. Even years later, when an early summer sun would catch my eye just right, I would instantly see it again: how Alice was asleep in the back seat of Barry’s old Chevy, the angle of her head, slumped on the window, and those freckles on that pale skin, and how her fingers and the tips of her hair were dipped in radiant pink paint…  
+I first fell in love with Alice at the sunrise after the night we decided to follow the band. Even years later, when an early summer sun would catch my eye just right, I would instantly see it again: how Alice was asleep in the back seat of Barry’s old Chevy, the angle of her head, slumped on the window, and those freckles on that pale skin, and how her fingers and the tips of her hair were dipped in radiant pink paint…  
 Barry has been driving right behind the band’s van, and every now and again Eddie would pop his head out of the window and shout something back, something like, we stop for gas in a mile or two. We’ve been driving all night, at first so excited we talked in hushed, urgent voices, like we were sharing a secret. Everybody was congratulating or joshing Barry about his newfound freedom. It took a long time for the girls to fall asleep.   
-Now it’s just me and Barry, my hand hanging on the seat behind him, silent, taking in the view. The interstate is stretching ahead, miles and miles of cracked asphalt under a giant sunrise. Something, I don’t know what, catches my attention, a sound perhaps. I look back and I see Alice in the back seat, all freckles and paint, and a pain I never felt before goes coursing through my veins. I think, *I’ve never seen anything so pretty*. I think, *I’ve never been happier*. I think, *I’ve never been so miserable*.   
+Now it’s just me and Barry, my hand hanging on the seat behind him, silent, taking in the view. The interstate is stretching ahead, miles and miles of cracked asphalt under a giant sunrise. Something, I don’t know what, catches my attention, a sound perhaps. I look back and I see Alice in the back seat, all freckles and paint, and a pain I never felt before goes coursing through my veins. I think, *I’ve never seen anyone so pretty*. I think, *I’ve never been happier*. I think, *I’ve never been so miserable*.   
 Around us are cars driven by fellow fans, sometimes overtaking, sometimes slowing down. Every now and then Shirley’s car, its doors painted with red flowers, would drive by us, and she would lean out of the window and blow kisses at us. Lots of other drivers of those painted cars would signal and wave as they passed, but Shirley sent kisses.   
 Our car has its own ornament, right there ahead of us, taking up all of the space on the hood. Barry painted it, dipping his fingers in a can of pink paint, a giant dodo bird, wearing a top hat, and Alice gave the finishing touches, writing underneath it,
 
@@ -2127,7 +2119,7 @@ A big column of steam rises above the orchard, like someone poured water over a 
 	“Where’s Alice? Where’s Alice\!”  
 	“She went with the Joneses\! Let’s go\!”
 
-## Chapter XXX: 
+## Track 8: Alice Was Here  
 *(Isn’t it a beautiful day to be a-rocking and a-rolling, America? Yes, the Soviets are sending guard dogs into space, to float above our heads… but today we can look at the sky, that clear blue sky, America, and remember His grace always shines on us. Anyway, here’s an oldie from a fallen giant of rock’n’roll… a naughty boy indeed… Jerry Lee, we don’t know where you went to, if you’re hiding or only resting, but your magical piano fingers are dearly missed here on the airwaves…*
 
 *Craaaaheyzeee aaaaaaarms that reach to ho-hold somebody newwww…)*
@@ -2220,7 +2212,6 @@ We catch up to Moe’s faded-yellow schoolbus. I honk and he opens the door.
    
 *(butnooooow I’mmmm so lonely… oh-all the time…)*
 
-## Chapter XXX: 
 Our caravan, three cars long, is parking along the the US-360. Mo, Pete and Barry are out, pissing. The Joneses didn’t have Alice, it would seem, but they did say they definitely saw her along the way. The Joneses are older than us, a married couple, literally grown-ups. They seem trustworthy to me.   
 	“Yeah, we saw her with Baba, do you know Baba?” says Joanne to me while the three cars are parking on the side of the road. We’re leaning on the trunk of the Joneses’ car, sharing a cigarette.  
 	“He’s the dude from Africa. The Mad Drummer. I think he’s the soul of the band,” she says, “its essence.”  
@@ -2296,7 +2287,7 @@ Jimmy and Rosetta sit on the ground next to the barrel. They take matchboxes fro
 	“What are you scribbling?” says Alice. I show her, and she takes a matchbook from the barrel. The barrel is full of loose matchboxes: there are maybe a thousand yellow Buzz Cigarette matchbooks there. Jimmy winks at Alice. I look around and see all of us are now scribbling on matchbooks. I let my eyes rise to meet Mama’s; she has this very intense look Eddie sometimes gets.   
 	“You kids up to a little upheaval?” she asks.
 
-## Chapter XXX: 
+## Track 9: A Little Upheaval 
 *(You’re listening to WGBG 1400AM, The Voice of the Gate City… and this fine Sunday begins with promise of commercial excitement all around the Gate City’s Sesquicentennial Anniversary. Down at the Jefferson City Hall, the Brothers of the Brush and the Centennial Belles will have a joint beard-growing contest and Revival Dress fashion show… all brought to you by the smooth flavor and lasting calm of Buzz Cigarettes, a real honey of a smoke.)* 
 
 That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people, shoppers, lunchers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  
@@ -2464,9 +2455,9 @@ The Magnolia House is a two-story detached house, covered with white wood boards
 	I kiss her goodbye. ==When I turn to get back I see Alice standing by the car, wearing my sunglasses, radiant in this sunshine. I take slow steps towards her, anxious of what she’ll say. What she says is,  
 	“You have four hours to change your mind.”  
 	With that, she goes right back in the car. ==
-	- [ ] delete this
+- [ ] delete this
 
-## Chapter XXX 
+## Track 10: This Is Not a Pipe
 - [ ] rewrite this entire chapter. everything must go!
 It’s night at the Pomona Pipeworks. An elaborate maze of hanging machinery, and the volume tonight is twice as loud, bouncing from speakers into round, metal ovens and breaking like waves on the big, hanging metal pipes. It’s like a grotesque cathedral… the band does their Alice number again,
 
@@ -2503,8 +2494,8 @@ And suddenly I’m unsure of myself for leaving, and loving Alice and hating mys
 	“What?” she says. “I heard Cindy say that.”  
 	We hold hands. She smiles at me. I open my mouth to tell her that, her delightful kiss notwithstanding, I still have business to attend to back in Fredericksburg. Then Cindy bursts out, crying, telling us they just announced on stage that Elvis died.
 
-## Track 6: The End of the World
-*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written here, on this piece of paper I’ve been handed, that this afternoon, at nine minutes pat four, an accident happened at Fort Hood Basic Training Facility in Temple, Texas. It would appear Private Elvis Pressley has been hurt… hurt by an explosive… excuse me, Jane, John… by an explosive device… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
+## Track 11: The End of the World
+*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written here, on this piece of paper I’ve been handed, that this afternoon, at nine minutes pat four, an accident happened at Fort Hood Basic Training Facility near Killeen, Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordinance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
 
@@ -2523,7 +2514,7 @@ By the offramp from US-29 to Salisbury, NC, under a big sign welcoming us to the
 ​	“He walks and talks like a real *king*,” Eleanore says.   
 ​	“What an *asset* the world lost today,” Barry says. 
 ​	"He sings great in this movie," I say. "I should say I am sorry we won't get to hear it."
-​	On screen, Elvis is shooting questioning looks at Judy Tyler. Under the screen I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
+​	On screen, Elvis is shooting questioning looks at Judy Tyler: two ghosts looking through each other. Under the screen I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
 ​	"Now I get the worst part," I say. "I will never, ever, see him on stage. Never."
 ​	I look to my left and see the couple we parked next to are listening to our conversation. They are our age, and the woman looks a little like Alice. She now looks at me with widening eyes. 
 ​	"You're right," she says. "Fuck."
@@ -2661,9 +2652,7 @@ Up ahead, where the tree line met the end of a cliff, I saw Shirley’s friend, 
 ​	“Mind your own beeswax,” I say. I squeeze Alice’s hand in a way that I hope will convey ‘let’s get out of here’.   
 ​
 Outside, the cars are illuminated in the silvery light from the screen and the cars are humming with Elvis’s crooning coming from cheap speakers and people calling at each other across cars. Some people travel between cars or wander off to the concession stand in the middle of the lot. We stand outside our car, breathing the night air and not looking at each other.   
-​​	“Before we begin, I’ve never been yelled at by someone quite as tall as yourself,” Alice says, almost to herself, “so be gentle, okay?”  
-​	“I’m not going to yell.”  
-​	“You promise?” she says, looking up at me.   
+​	"What's wrong?" she says, taking my hand.   
 ​	“It's just that... the hand pressing... I wanted it to be *our* thing, and now it’s *everybody’s*. It’s *worthless*.”  
 ​	“Aw,” she says. She puts her hand up on my chest. “You can be *really* stupid sometimes.”  
 ​	I stare at her in disbelief and she laughs – an innocent laugh, not mean, but it makes me angrier.   
@@ -2671,20 +2660,15 @@ Outside, the cars are illuminated in the silvery light from the screen and the c
 ​	“What does?”  
 ​	She shrugs. “Whatever. Love, I guess. What I’m sure is that our thing is not *worthless*. It’s *better* now that more people share in it.”  
 ​	“Now you sound like one of them communists.”  
-​	“Katyushka, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, Ivan, I’ll make you a deal. We press hands now and if it doesn’t work I’ll…” she smiles and bites her lip.   
+​	“Katyushka, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, Ivan, I’ll make you a deal. We press hands again and if it doesn’t work I’ll…” she smiles and bites her lip.   
 ​	“You do what?”  
-​	“I’ll make it worth your while,” she says and winks at me.   
-​	“You talk just like a starlet,” I say and we laugh and I put my palm up and Alice puts her palm up and I look her in the eye and the heels of our palms meet.  
-​	Alice is the most stable point in the universe.   
-​	My shoulders go soft.  
-​	The distance between Alice and me can only be measured with an electronic microscope. I feel us blending into each other. 
-​	“See?” says Alice right into my eyes. “Now you’re going to have to make it worth *my* while.”   
-​	I let my arm go loose and step forward and, our palms still pressed against each other, I kiss her, a wild, hungry kiss.
+​	“I’ll make it worth your while,” she says and winks at me.  
+​	“You talk just like a starlet,” I say. I kiss her, a wild, hungry kiss.
 ​	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?” 
 
-I leave Alice and Cindy to talk by the car and I wander to the concession stand. A bored teenager in an orange and white shirt is picking his nose by the till. I wait in line to get a Moon Pie for Alice and a pack of Buzz for myself. The couple behind me are teenagers, too, but clearly not from our flock. 
+I leave Alice and Cindy to talk by the car and I wander off to the concession stand. A bored teenager in an orange and white shirt is picking his nose by the till. I wait in line to get a Moon Pie for Alice and a pack of Buzz for myself. The couple in front of me are teenagers, too, but clearly not from our caravan. 
 ​	"I knew it was a bad idea to come," the girl says. She wears a denim jacket and a knee-long skirt and chewing gum. 
-​	"I gotta tell ya," says her boy, also chewing gum, "I gotta tell ya I agree with ya. Watching this movie is a *bummer*. Damn Anna for making us come."
+​	"I gotta tell ya," says her boy, also chewing gum, "I gotta tell ya I agree with ya. Watching this movie is a *bummer*. Damn Sue Ellen for making us come."
 ​	I tell them, "I got a feeling you're gonna be glad you came tonight."
 ​	"What did you say?" says the boy. 
 ​	"I said I think you're going to be glad you came."
@@ -2698,11 +2682,11 @@ Outside, tearing the paper wrapper around a pack of Buzz, I see Rosetta walking 
 ​	I say, "Oh," and open the back door of the black Sedan next to me. Pete as at the wheel and "Mama" is in the front seat, next to him, wearing sunglasses. She looks at me through the rear view mirror. 
 ​	"One thing I want to make clear," she says. "You seem like a smart kid, so I bet you'll understand. We're treading a very fine line here."
 ​	"Fine line?"
-​​	"Don't interrupt. A *very* fine line. That little caravan of fans... it's our foundation, our germ, if you will. The reason why we can do that thing we do. But if our little caravan becomes a big caravan, then folks are going to notice us and then we won't be able to *do* that thing we do. You *get* me?"
+​​	"Don't interrupt. A *very* fine line. That little caravan of fans... it's our foundation, our germ, if you will. The reason why we can do that thing we do. But if our *little* caravan becomes a *big* caravan, then folks are going to notice us and then we won't be able to do that thing we do. You *get* me?"
 ​	I say, "Did you... *hear* the conversation I just had in there? Is that why you're telling me this?"
 ​	Mama says, "I have ears everywhere. Now get out of here."
 
-Back with Alice again ("What did Cindy say?" "Don't ask."), we’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
+Back with Alice again ("What did Cindy say?" "Don't ask"), we’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
 ​	“Hi, handsome,” says Patty. 
 ​	“Hey, girls,” says Alice, clutching my hand.   
 ​	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   
@@ -2722,7 +2706,7 @@ Back with Alice again ("What did Cindy say?" "Don't ask."), we’re sneaking awa
 In the back of the lot there’s a little cinderblock projectionist's booth and a light beam is streaming from its roof, illuminating the screen with Elvis's image. The dead man is pacing above our heads. We can hear his voice, tinny and weak, coming in from one of the speakers hanging on posts next to the cars. Eddie is stooping under the window of the projectionist’s booth. His hair sometimes bobs high enough so that a little bit of light from the projector gets entangled in his hair. He’s pulling out wires and connecting new ones. When Alice comes over he winks at her.  
 ​	“Ready for the action, Wonderland?” he says.   
 ​	“We’re ready,” we say in unison. Eddie raises his head to see we’re holding hands, and smiles to himself.   
-​​	“Well,” he says, “as long as *you two* ready…”   
+​​	“Well,” he says, “as long as *you two* are ready…”   
 ​	“We got a lot of matchbooks and we’re going to hand them all out,” I say.    
 ​	“All of them? Now listen up, you kiddos, yeah?” Eddie says. “Mama wants this *small,* okay? Mama wants it *contained*, yeah? She wants to make sure we don’t grow too much, too soon.”  
 ​	“Right,” I say. Eddie gets up and wipes the dust from his pants. He’s still wearing his mechanic’s overalls.   
@@ -2750,20 +2734,28 @@ In the back, we see the Joneses get out of their car and dance together. Up ahea
 
 *(y’cain’t findapadneh use a wood-den chaiir, let’s–)*
 
-The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. ==Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a mad pace==. Their version is everything I feel since I heard the news: betrayal, confusion; a loud, boisterous mourning.   
-​	We walk hand in hand between cars, looking for people to hand matchbooks to.   
-​	“The problem is,” Alice shouts in my ear, “how do we choose? They’re *all* dancing\!”  
-- [ ] here it is!
-​	I look around to see the whole lot is out of their cars, dancing and hooting. People turned on their headlights and the whole lot is now illuminated by those glaring, yellow lights. Some people dance on the roofs of their cars. The air is dense... in that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
+The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a slow pace. Their version is everything I feel since I heard the news: betrayal, confusion; a loud, boisterous mourning.   
+​	We walk hand in hand between cars, just Alice and me. When we reach a couple who dances, we stop and dance with them.
+​	"Who are they? They rock!" one of them asks. 
+​	"They're the Steam Pillars!" Alice says. "Hey, you guys don't want to idle too long at the station. Here, take some matches."
+​	As we walk away, I say in her ear, "Real smooth, Katyashka," and she giggles. 
+​
+"I'm out of matches," I tell her after a while. 
+​	"I've got one book left," she says. "Oh my, Mama's going to be mad."
+​	"We should give it to someone special!" I say. "Really *choose* someone, you know?"
+​	“The problem is,” Alice says in my ear, “how do we choose? They’re *all* dancing\!”  
+​	I look around to see the whole lot is out of their cars, dancing. People turned on their headlights and the whole lot is now illuminated by those glaring, yellow lights. Some people dance on the roofs of their cars. The air is dense. We see Rosetta going by, and she's bursting with laughter. She winks at us. 
+​	"Lord," she says, "Mama's gonna be mad."
+​	In that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
 
 *(BOOM!)*
 
 The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it a muffler backfiring? I find myself running towards the stage with Alice, but as we get near Cindy she signals us to stop.
-​	“I’m going to kill them,” says B.L.  
+​	==“I’m going to kill them,” says B.L.==  
 ​	“We’ll sort it out,” says Cindy. They push their way towards the truck.   
-​	On the truck bed, Mucho and two of B.L.’s biker friends are brawling. Heath stands between Vilma and another “Seven”, as more of them circle the truck in their bikes. The crowd is ablaze. One of the bikers grabs one of the mics and calls into it, 
+​	On the truck bed, Mucho and two of ==B.L.’s biker friends== are brawling. Heath stands between Vilma and another “Seven”, as more of them circle the truck in their bikes. The crowd is ablaze. One of the bikers grabs one of the mics and calls into it, 
 
-*(ladies and gentleman, I am Captain Whitaker of the South Carolina Citizen’s Decency Commission. We apologize for the disruption you have suffered and we will make sure to resume the motion picture moment–)*
+*(ladies and gentleman, I am Captain Whitaker of the South Carolina Citizen’s Decency League. We apologize for the disruption you have suffered and we will make sure to resume the motion picture moment–)*
 
 We see Vilma as she grabs the mic and lays it down close to her face. Mucho has joined Heath in creating a perimeter around her. Through the nearby speakers we hear her voice, enormous even now, as she cries out,
 
@@ -2794,7 +2786,7 @@ Now Heath issues the same four notes, but now they sound sad and longing. Heath 
 
 *(too much a-love drives a man insane...)*
 
-The piano picks up rhythm and speed. I look around; the faces around us are expectant. Everybody sways with Heath's playing like reeds. Next to us an older woman, very pretty, is mouthing the words with the music. Elvis is a Zoot-suited, black-and-white figure above us. 
+The piano picks up rhythm and speed. I look around; the faces around us are expectant. Everybody sways with Heath's playing like reeds. Next to us an older woman, very pretty, is mouthing the words with the music. Elvis is a fancy-suited, black-and-white figure above us. 
 
 *(y-y-you broke my will -- but what a thrill --)*
 
@@ -2830,7 +2822,7 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	"While you're playing?!"
 ​	He laughs. "Welcome to the big league, son."
 ​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns on the tuning peg and continues playing. I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
-​	"Fuck you, Heath. ==You totally stole my thunder==."
+​	"Fuck you, Heath. You went and took the wind under my sails."
 ​	Mucho laughs. "Don't blaspheme in front of the priest," he mocks. Heath is literally dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he looks back; he winks at me. 
 ​	Behind Mucho, Joe is playing harder now, moving with her guitar as if shaking and rattling it is what makes the music fall out of it. I stare at her fingers moving across the strings...
 
@@ -2849,5 +2841,5 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ==Later, in the band's truck, with Eddie smoking at the wheel and the band all snoring in the back and me starkly awake and full of Love and missing Alice,== I turn and look back. 
 ​	In the future, all sort of people will have opinions about when exactly was the moment the Steam Pillars burst into the public's attention. Some will say Atlanta, other say as early as Columbia; but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-360 is an uninterrupted snake made up of caravan headlights, running up and down the hills and extending into the horizon. 
 
-## Chapter XXX: The Horns of Plenty
+## Track 12: Hardest Working Men
 *(We're gonna be here all night, rocking and a-rolling, and it's a beautiful summer night to boot... 
