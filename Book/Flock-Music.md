@@ -478,7 +478,7 @@ Somebody turns on the radio…
 "Boo\!"  
 ​        “Weak\!”  
 ​        “Turn the dial, man\!”  
-​        Outside the car window, a metal sign rolls by, black with green lettering, saying ==“WELCOME TO VIRGINIA \- THE OLD DOMINION”==, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
+​        Outside the car window, a metal sign rolls by, black with green lettering, saying “WELCOME TO VIRGINIA \- THE OLD DOMINION”, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
 
 
 ## Track 3: Dare to Dance  
@@ -2452,102 +2452,91 @@ I say, “So maybe we’ll dance again some other time, kiddo.”
 
 The Magnolia House is a two-story detached house, covered with white wood boards and light green roof. Vilma and I pass across a series of big windows looking into a busy hotel lobby.  
 “So long,” says Vilma. “Here’s your friend’s headscarf. I really do hope we’ll ‘dance again some night,’ Tim. You’re pretty to look at from the stage.”  
-	I kiss her goodbye. ==When I turn to get back I see Alice standing by the car, wearing my sunglasses, radiant in this sunshine. I take slow steps towards her, anxious of what she’ll say. What she says is,  
-	“You have four hours to change your mind.”  
-	With that, she goes right back in the car. ==
-- [ ] delete this
+	I kiss her goodbye. 
 
 ## Track 10: This Is Not a Pipe
-- [ ] rewrite this entire chapter. everything must go!
-It’s night at the Pomona Pipeworks. An elaborate maze of hanging machinery, and the volume tonight is twice as loud, bouncing from speakers into round, metal ovens and breaking like waves on the big, hanging metal pipes. It’s like a grotesque cathedral… the band does their Alice number again,
+- [ ] radio break
+- [ ] show at the pipeworks
+- [ ] helping a greenhorn find the show
+- [ ] cindy & b.l. 
+- [ ] emerson
+- [ ] postcards and fan club
+- [ ] somehow eddie gets in the car
 
-*(Nobody’s fault\! Damn right\!)*
+"Come on, Barry, turn on the radio," Alice says. 
+​	"Not until Eddie apologizes."
+​	"Never!"
+​	Outside it's an endless, singular mass of yellowing corn fields, interrupted by billboards and road signs. 
+​	"So don't apologize," says Alice, smiling a sly smile. "Just tell him you regret it."
+​	Eddie chuckles. "I'll tell you what I'll do if this hardhead don't capitulate," he says. "I'll use my magic on him."
+​	Outside a tall billboard rolls by. I watch Barry flinch when he sees the Buzz logo on it. Next to the logo is Kim Novac, blonde and slim and black & white, and next to her is a speech bubble. Someone grafittied something on the speech bubble...
+​	"What magic do you mean?" says Cindy. "Something like *this*?"
+​	"I suppose," says Eddie, confused. The graffiti on the sign says, 
 
-And suddenly I’m unsure of myself for leaving, and loving Alice and hating myself, and I find myself standing outside, wishing I’d been a smoker. I’m holding a can of Pabst (“What’ll you have?”). Alice follows me outside.
+*Turn on the radio.*
 
-“Hey, you,” she says.  
-	“Hey,” I say. “Good show tonight.”  
-	Alice’s eyes sparkle in the moonlight. “Best show tonight.”  
-	We stare at each other and smile.   
-	Suddenly she bursts, “How can you have enough of that? Why don’t you want to have *more* of that?”  
-	“I know, Alice, I know,” I say. “It’s a good thing. But good things need to… to end at some point. And you know, it’s good to end them while they’re good.”  
-	She comes over and hugs me. I pat her back.  
-	“I mean,” I say, “what are you going to live off of?”  
-	“Well,” she says, “I have a change of underwear.”  
-	“What?”   
-	“Never mind.”  
-	“Also, is that what an enterprising young person should do?” I say. “You know, Alice, if you’re not going to take care of *number one*, nobody will.”  
-	“Ah,” she says.  
-	“What?”  
-	“I see what you’re doing there. I didn’t before, but I do now.”  
-	“What do you mean?” I ask.   
-	“You’re handing me *lines*, that’s what you’re doing.”  
-	“Is that so?”  
-	“Yeah,” she laughs. “Yeah. You’re doing it so badly, even I can notice it.”  
-	I laugh, too. I hold her in my hands…  
-	“So since you’re going forever,” says Alice, “def-initely going forever and for-sure tonight…”  
-	“Yes,” I say.   
-	“...that I should give you your goodbye kiss.”  
-	“Kiddo,” I say, and that’s all I say since Alice’s lips surprise me. They’re thin and soft, this time wet, and they flutter on my lips and depart.  
-	“Always good to leave them wanting more,” says Alice.   
-	I laugh.   
-	“What?” she says. “I heard Cindy say that.”  
-	We hold hands. She smiles at me. I open my mouth to tell her that, her delightful kiss notwithstanding, I still have business to attend to back in Fredericksburg. Then Cindy bursts out, crying, telling us they just announced on stage that Elvis died.
-
+We stare at it until it rolls away from view.
+​	"Forget it," says Barry.
+​	At the next sign we see a car parked beneath it and when we get closer we see it's Jimmy's car. Jimmy has climbed on the sign, spray can in hand. Barry stops his car and we get out and look up.
+​	"What's up, Jimmy?" I say. 
+​	Jimmy looks down at us from the ladder. 
+​	"Have you been crying, Jim?"
+​	"Turn on your radio, man," says Jimmy. "It's the end of the world."
 ## Track 11: The End of the World
-*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written here, on this piece of paper I’ve been handed, that this afternoon, at nine minutes pat four, an accident happened at Fort Hood Basic Training Facility near Killeen, Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordinance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
+*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written on this piece of paper I’ve been handed that this afternoon, at nine minutes past four, an accident happened at Fort Hood Basic Training Facility in Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordinance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
 
-By the offramp from US-29 to Salisbury, NC, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
+By the exit from US-29 to Salisbury, NC, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
 ​	“Be careful,” Eleanore says to Barry. “Don’t bump into Shirley’s car.”  
 ​	We’re a long line of cars, all with their headlights darkened, stealing into the immense lot from across the line of little mounds that mark its back perimeter. I’m in the back seat; Alice and Cindy flank me, both hugging me.   
 ​	Eleanore took my place in the front. She’s holding on to the dashboard with a tense anticipation, like a captain at the wheel, as Barry gently glides across rows and rows of cars. 
 ​	"God, are they *all* crying?" Eleanore says. 
-​	I look up and peer through the nearest car window and see a boy and a girl our age. The girl is sobbing into a handkerchief; the boy, red-nosed, is wiping his eyes. In the next window, the back seat of the car shows three girls hugging. In the next window, an older man, sitting alone and crying; in the one after that, someone tries to console his girlfriend. "Maybe it's just a hoax," he tells her. We keep moving between cars. The lot is so large its edges are shrouded in darkness. 
+​	I look up and peer through the nearest car window and see a boy and a girl our age. The girl is sobbing into a handkerchief; the boy, red-nosed, is wiping his eyes. In the next window, the back seat of the car shows three girls hugging. In the next window, an older man, sitting alone and blowing his nose into a handkerchief; in the one after that, someone tries to console his girlfriend. "Maybe it's just a hoax and someone like made it up," he says. We keep moving between cars. The lot is so large its edges are shrouded in darkness. 
 ​	“Play innocent,” Barry says.  
 ​	“We are innocent,” Eleanore says.   
 ​	“That’s the spirit,” Cindy says. 
-​	The cars are all parked next to speaker posts, wires hanging between the posts and the car windows where the speakers are hanging, and all the cars are facing an enormous screen and on screen, Elvis's gigantic presence looms in black-and-white over the darkened lot. Elvis's hairline is cut off by the rim of the Chevy’s roof and he's now brooding in a jail cell, maybe dreaming about the time when he'll be free. 
+​	The cars are all parked next to speaker posts, wires hanging between the posts and the car windows where the speakers are hanging, and all the cars are facing an enormous screen, and on screen Elvis's gigantic presence is looming in black-and-white. Elvis's hairline is cut off by the rim of the Chevy’s roof and he's now brooding in a jail cell, maybe dreaming about the time when he'll be free. 
 ​	“Look how *handsome* he was,” Cindy says.   
 ​	"And so *young*," says Alice.
 ​	“He walks and talks like a real *king*,” Eleanore says.   
 ​	“What an *asset* the world lost today,” Barry says. 
-​	"He sings great in this movie," I say. "I should say I am sorry we won't get to hear it."
+​	"He sings great in this movie," I say. "I'm a little sorry we won't get to hear it."
 ​	On screen, Elvis is shooting questioning looks at Judy Tyler: two ghosts looking through each other. Under the screen I can see Eddie and Rosetta and someone in an usher’s uniform, white and orange. Eddie has his hand on the man’s shoulder and Rosetta is shaving bills from a big stack and pushing them into the man’s hand as, above them, Elvis is standing on a little stage above the bar, strapping on a guitar.    
 ​	"Now I get the worst part," I say. "I will never, ever, see him on stage. Never."
-​	I look to my left and see the couple we parked next to are listening to our conversation. They are our age, and the woman looks a little like Alice. She now looks at me with widening eyes. 
+​	I look to my left and see the couple we parked next to are listening to our conversation. They are our age, and the woman looks a little like Alice. She looks at me with widening eyes. 
 ​	"You're right," she says. "Fuck."
 ​	"Hey, I know what you need," Alice says. She presses her palm against mine.   
 ​	“Forget it,” I say and pull my hand away. “It’s lost all meaning now.” 
+​	On screen, Elvis is singing,
 
 *(yor… soyoung and beau… ti-fohl…)*
 
-When we heard the news on the radio, only a few hours earlier, it didn't come as words but as a dull buzzing in my ears. The road was lit but my eyes stopped broadcasting what they saw. People were talking around me but I couldn't make out who or what they were saying. It was like my mind, to shield me from the news, stopped processing all information. 
-​	After a while, meaning returned part by part: first I noticed we were not moving anymore. Then, that we were parked by the side of the road, along with other cars.    
+When we heard the news on the radio, only a few hours earlier, it didn't come as words but as a dull buzzing in my ears. The road was lit but my eyes stopped transmitting what they saw. People were talking around me but I couldn't make out who or what they were saying. It was like my mind, to shield me from the news, stopped understanding everything. 
+​	After a while, meaning returned bit by bit: first I noticed we were not moving anymore. Then, that we were parked by the side of the road, along with other cars.    
 ​	“I don’t even know why I’m crying,” I heard Cindy saying behind me. “I mean, I never really knew him. Or have I?”  
 ​	“I don’t know why I’m crying, either,” said Alice. “Eleanore, do you know why you’re crying?”  
 ​	“Shut up, girl,” said Eleanore, sobbing.   
-​	Eddie was sitting to my right. He put a hand on my shoulder. “s’alright,” he said in my ear. “Just a little bit of shock, boy-o… it’s going to be over in a minute or two…”   
-​	His kindness surprised me – and served to underline the gravity of the news.   
+​	Eddie was sitting to my right. He put a hand on my shoulder. “s’alright,” he said in my ear. “Just a little bit of shell-shock, boy-o… it’s going to be over in a minute or two…”   ​	His kindness surprised me – and served to underscore the gravity of the news.   
 ​	“It’s the end of rock'n'roll,” Eleanore said.   
-​	“Nice, really nice,” Cindy said. “Cheerful as always.”  
+​	“Nice, really nice,” Cindy said. “Ain’t you a ray of sunshine.”  
 ​	“She’s right, though,” Alice said. “It’s the end of something to be sure.” ​	
-​​	More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were ==stopping== by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.
+
+​​More than a few cars were stopped around the Buzz billboard like scattered toys. And more of our caravan were ==stopping== by. As Barry was maneuvering the Chevy out of the way I saw the Joneses’ Chrysler slowing by, then abruptly braking. I heard Joanne scream.
 ​	“Let’s get out of this can,” Cindy said.
 
 We left the car to the sound of a girl crying. We were at the precipice of a gloomy lookout point over the Yadkin river: a dead place with dead bushes and a smattering of sick, spindly trees, all overlooking a slow, sad river. An old bronze sign dedicated to a Revolutionary general, green and flaking, made the place feel even more ancient. The road sloped down and turned into a wooden bridge. The air was dead, no echoes. The moon was a sliver of itself and everyone around was a silvery, ghostly figure.   
 ​	“It’s eerily quiet,” Eleanore said. “I wonder what this place is. And *what for*.”  
-​	The caravan folk were scattered between the cars. Some went out of their way to show indifference, joking and laughing in the dead, echoless air – but most of them were quiet. Some were huddled and hugging; some found quiet spots to be alone. A man we didn't know yet was muttering to himself and walking in circles around the huge concrete pole at the base of the Buzz billboard. 
+​	The caravan folk were scattered between the cars. Some went out of their way to show indifference, joking and laughing in the dead, echoless air – but most of them were quiet. Some were huddled and hugging; some found secluded spots to be alone in. A man we didn't know yet was muttering to himself and walking in circles around the huge concrete pole at the base of the Buzz billboard. 
 ​	"It's a joke, right?" 
 ​	Joanne and John came towards us, huddled as if they're supporting each other from falling. 
 ​	"It's a joke, right?" John repeated. He grabbed me by the collar of my shirt, imploring me. 
-​	"It's not a joke," I said to his face. "The man has left."
+​	"It's not a joke," I said to his face. "The man has left us."
 ​	Joanne came near and treated herself to a hug from me, raising a grumble from Alice. She looked up and said, "But how can we be rock'n'roll fans now?"
 ​	Another car slowed by us, its passenger rolling down the window and sticking his head out.
 ​	"What's up?" he said.
 ​	"Read the sign," someone said. 
-​	"Turn on the radio," John told him. "But brake the car, first."
+​	"Turn on the radio," John told him. "But pull over first."
 ​	
 Over by the tree line, next to a lonely picnic table, Shirley was hugging Patty and Veronika. As I watched, Alice ran over to them and joined the huddle. Easily, without a word being spoken, the hug expanded to include her. I went over with Barry and Cindy and Eleanore. I didn’t mean to join – maybe just to put a hand on Alice’s shoulder - but I think Eleanore pushed me from behind and soon enough we were all in there, grabbing and squeezing each other. I put my head on Patty's shoulder and she patted my head.   
 ​	“I don’t know why I’m crying,” I heard Shirley say. “I never even liked that man’s singing.”  
@@ -2564,17 +2553,17 @@ Over by the tree line, next to a lonely picnic table, Shirley was hugging Patty 
 ​	“Yeah, yeah,” said Eleanore from inside the circle. “You don’t know why, either.” She hugged him, too. We stayed in that hug for a long time. 
 
 "That's it for me," said someone I didn't know, his hand on his car and his keys in his hand. "I'm heading home."
-​​	"Don't!" Alice said. "It gets better!"
+​​	"Don't!" Alice said. “It ain’t over yet!"
 ​	"Let him go," Eddie said. "It's okay that some people go."
-​	"Maybe we'll dance again later," Cindy tolds him. He drove away. 
+​	"Maybe we'll dance again later," Cindy told him. He drove away. 
 ​	"We gotta turn back," said someone else. "How can we keep dancing after today?"
 ​	"How can you go on after today *without* dancing?" said Barry. 
 ​	Cindy and I exchanged amused looks.
 ​	"He's right," said someone. "We gotta do something. The show must go on."
 ​	"I wish the Pillars were here to play to us."
 ​	"I can still feel the Love from the show."
-​	Eddie is located sitting on the one picnic tableת smoking by himself. A delegation appears before him. 
-​	"You want to hear the Steam Pillars?" he says. "Oh, you'll see the Steam Pillars. Tonight, in fact."
+​	Eddie is located sitting on the one picnic table, smoking by himself. A delegation appears before him. 
+​	"You want to hear the Steam Pillars?" he says. "Oh, you'll see the Steam Pillars. Tonight, in fact... just you wait..."
 
 *(love me ten-der, love me sweeeet--)*
 
@@ -2630,7 +2619,6 @@ Up ahead, where the tree line met the end of a cliff, I saw Shirley’s friend, 
 ​	“I’m not crying,” Veronika said. “I’m making amends.” She had a low, almost androgynous voice, raspy at that; in the dead air she sounded like a cryptkeeper making an ominous promise.    ​	“What do you mean,” I said, “‘making amends?’”  
 ​	“I mean,” Veronika said, “the world has lost a life, the world owes itself a life. Take a look.” She held out a little packet. I felt inside –  
 ​	“Why do you have moist pine nuts in a bag?” I asked.   
-​	“You might think of them as pine nuts,” she said. “I think of them as baby trees.”  
 ​	She meticulously tilled a bit of ground in her bare hands until it was soft and fluffy and her hands were very dirty; then she made a little hole in the aired ground.   
 ​	“Do you want to do the honors?” she asked.  
 ​	I carefully picked a single, slippery nut from the packet and dropped it in the hole. Veronika took a folded little piece of paper from her pocket and tossed it in.   
@@ -2656,7 +2644,7 @@ Outside, the cars are illuminated in the silvery light from the screen and the c
 ​	“It's just that... the hand pressing... I wanted it to be *our* thing, and now it’s *everybody’s*. It’s *worthless*.”  
 ​	“Aw,” she says. She puts her hand up on my chest. “You can be *really* stupid sometimes.”  
 ​	I stare at her in disbelief and she laughs – an innocent laugh, not mean, but it makes me angrier.   
-​	“Tim,” she says, “didn’t you figure out the first rule of this whole thing? It gets stronger when people join in.”  
+​	“Tim,” she says, “Don't you get it yet? It better when more folks join in.”  
 ​	“What does?”  
 ​	She shrugs. “Whatever. Love, I guess. What I’m sure is that our thing is not *worthless*. It’s *better* now that more people share in it.”  
 ​	“Now you sound like one of them communists.”  
@@ -2682,11 +2670,11 @@ Outside, tearing the paper wrapper around a pack of Buzz, I see Rosetta walking 
 ​	I say, "Oh," and open the back door of the black Sedan next to me. Pete as at the wheel and "Mama" is in the front seat, next to him, wearing sunglasses. She looks at me through the rear view mirror. 
 ​	"One thing I want to make clear," she says. "You seem like a smart kid, so I bet you'll understand. We're treading a very fine line here."
 ​	"Fine line?"
-​​	"Don't interrupt. A *very* fine line. That little caravan of fans... it's our foundation, our germ, if you will. The reason why we can do that thing we do. But if our *little* caravan becomes a *big* caravan, then folks are going to notice us and then we won't be able to do that thing we do. You *get* me?"
+​​	"Don't interrupt. A *very* fine line. That little caravan of fans... it's our foundation, our base, the reason why we can do the things we do. But if our *little* caravan becomes a *big* caravan, then folks are going to *notice us* and then we won't be able to do that thing we do. You *get* me?"
 ​	I say, "Did you... *hear* the conversation I just had in there? Is that why you're telling me this?"
 ​	Mama says, "I have ears everywhere. Now get out of here."
 
-Back with Alice again ("What did Cindy say?" "Don't ask"), we’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
+I'm back with Alice again. We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
 ​	“Hi, handsome,” says Patty. 
 ​	“Hey, girls,” says Alice, clutching my hand.   
 ​	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   
@@ -2730,23 +2718,22 @@ The door of the projectionist booth opens and an orange-and-white clad man comes
 
 In the back, we see the Joneses get out of their car and dance together. Up ahead, we see Cindy and Eleanore and Barry do the same. On screen, the figures of the dancers, all wearing inmates' uniforms, and that of the live players, all dancing too, blend and move into each other. It seems the band is playing with the movie instead of on top of it. The music is hot, and the people in the car next to us start swaying in their seats with it.    
 ​	“Who the hell are these people?” the driver yells through the open window. Eddie got the speakers to work really loud now, and the whole lot is buzzing with Pillars music.  
-​	“They’re called The Steam Pillars,” Alice tells him. “They’re black and white performers and they’re the hottest thing around\! Hey, aren't you tired of being cooped up in your car? Do you dare to dance?”
+​	“They’re called The Steam Pillars,” Alice tells him. “They got white and colored folks playing together and they’re the hottest thing around\! Hey, aren't you tired of being cooped up in your car? Do you dare to dance?”
 
 *(y’cain’t findapadneh use a wood-den chaiir, let’s–)*
 
 The Pillars’ version of *Jailhouse Rock* is angry, not funny at all. Vilma’s voice breaks and commands attention and Babatunde’s drums are driving forward at a slow pace. Their version is everything I feel since I heard the news: betrayal, confusion; a loud, boisterous mourning.   
 ​	We walk hand in hand between cars, just Alice and me. When we reach a couple who dances, we stop and dance with them.
 ​	"Who are they? They rock!" one of them asks. 
-​	"They're the Steam Pillars!" Alice says. "Hey, you guys don't want to idle too long at the station. Here, take some matches."
-​	As we walk away, I say in her ear, "Real smooth, Katyashka," and she giggles. 
+​	"They're the Steam Pillars!" Alice says. "Hey, you guys, don’t stay stuck in your car. Here, take some matches. There's a clue in them."
+​	As we walk away, I say in her ear, "Real smooth, Katyashka," and she giggles and squeezes me. 
 ​
-"I'm out of matches," I tell her after a while. 
+"I'm out of matches," I say her after a while. 
 ​	"I've got one book left," she says. "Oh my, Mama's going to be mad."
 ​	"We should give it to someone special!" I say. "Really *choose* someone, you know?"
 ​	“The problem is,” Alice says in my ear, “how do we choose? They’re *all* dancing\!”  
 ​	I look around to see the whole lot is out of their cars, dancing. People turned on their headlights and the whole lot is now illuminated by those glaring, yellow lights. Some people dance on the roofs of their cars. The air is dense. We see Rosetta going by, and she's bursting with laughter. She winks at us. 
-​	"Lord," she says, "Mama's gonna be mad."
-​	In that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. It ends as soon as it starts. I will never have visions again. 
+​	"Lord," she says, "Mama gonna be mad."
 
 *(BOOM!)*
 
@@ -2759,12 +2746,13 @@ The song ends abruptly: there’s trouble on stage. Then a gunshot – or is it 
 
 We see Vilma as she grabs the mic and lays it down close to her face. Mucho has joined Heath in creating a perimeter around her. Through the nearby speakers we hear her voice, enormous even now, as she cries out,
 
-*(Do you guys want to watch the rest of the ‘motion picture...’ Or do you guys want some rock’n’roll?)*
+*(Do you all wanna watch the rest of the ‘motion picture...’ Or do you guys want some rock’n’ROLL?)*
 
 The crowd cheers; it's a long, rolling rumble, going through the lot like a wave. When the wave reaches us we allow ourselves to be swept along with it, and we hold hands and shout and scream. 
 ​	"Rock'n'roll will never die!" Alice yells at the screen, at the image of dead Elvis. 
 ​	The truck is swaying and rocking -- the denim-clad gang that tried to seize the mics is leaving the stage. Under the truck I see Cindy, talking earnestly with one of the members, holding on to his top button, her face flushed. A huge "boo" greets the bikers as they leave. ​	
-​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling. I hold her and kiss her, gently, lovingly, and the taste of that one kiss will stay in my mouth for the rest of my life. 
+​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling. I hold her and kiss her, gently, lovingly. In that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. 
+​	It ends as soon as it starts. I will never have visions again. 
 
 *(Heath, why don't you sing one? Come on, Heath, give us a number...)*
 
@@ -2836,10 +2824,10 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	Without knowing it, I lift my arms and the sea of people near us cheers... in the crowd, Alice is sending me excited kisses and turns away almost immediately to dance with a stranger. 
 ​	Mucho says to the mic,
 
-*(Yeah! Give it to our new roady, Tommy!)*
+*(Yeah! Give it to our new roadie, Tommy!)*
 
-==Later, in the band's truck, with Eddie smoking at the wheel and the band all snoring in the back and me starkly awake and full of Love and missing Alice,== I turn and look back. 
-​	In the future, all sort of people will have opinions about when exactly was the moment the Steam Pillars burst into the public's attention. Some will say Atlanta, other say as early as Columbia; but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-360 is an uninterrupted snake made up of caravan headlights, running up and down the hills and extending into the horizon. 
+Later, in the band's truck leaving the drive-in, with Eddie smoking at the wheel and the band all celebrating and drinking, I turn and look back. 
+​	In the future experts will debate endlessly on when was it that the Steam Pillars burst into public attention. Some will say Atlanta, other that it was as early as Columbia -- but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of  caravan headlights, running up and down the hills and extending into the horizon. 
 
-## Track 12: Hardest Working Men
+## Track 12: Going by the Book
 *(We're gonna be here all night, rocking and a-rolling, and it's a beautiful summer night to boot... 
