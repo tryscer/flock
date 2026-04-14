@@ -6,7 +6,7 @@
 — *Elvis Aaron Presley*
 
 # Side 1: Alice
-## Track 1: Chevy Bel Air 
+## Track 1: Runaway Girl 
 *DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, green ones and white ones, flocking together, going their own way… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
 *Ba-Boom Boom-Boom*…  
@@ -162,7 +162,7 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​        "Yeah," says Barry. "We'll all be better off finding a place to–"  
 ​        Cindy whispers in my ear, "I'm running away from home".
 
-## Track 2: The Mechanic   
+## Track 2: Name That Tune   
 - [ ]  radio insert - buzz cigarette ad
 
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
@@ -907,7 +907,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ​        “Time to stop idling at the station, Alice of Wonderland,” he whispers in my ear. “Ready to come on board?”  
 
 
-## Track 4: Down the Rabbit Hole 
+## Track 4: All Aboard! 
 *“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon... Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss, Mr. C. Evans, gave a statement, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that you folks lined up to hear! Among those caught up in the fray was the son a prominent businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
 
 
@@ -1253,7 +1253,7 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​        We all cheer.
 ​        "Someone turn on the radio!" I say.
 
-## Track 5: Rockin' the Deuce 
+## Track 5: Second Street Saturday Night 
 - [ ] radio break
 We run up the many stairs of the Richmond Main Street train station, a big block of columns and ornamental windows and thatched roofs. 
 ​        "What time is her train?" says Barry. "Did we miss it?"
@@ -2119,7 +2119,7 @@ A big column of steam rises above the orchard, like someone poured water over a 
 	“Where’s Alice? Where’s Alice\!”  
 	“She went with the Joneses\! Let’s go\!”
 
-## Track 8: Alice Was Here  
+## Track 8: I Saw It Too  
 *(Isn’t it a beautiful day to be a-rocking and a-rolling, America? Yes, the Soviets are sending guard dogs into space, to float above our heads… but today we can look at the sky, that clear blue sky, America, and remember His grace always shines on us. Anyway, here’s an oldie from a fallen giant of rock’n’roll… a naughty boy indeed… Jerry Lee, we don’t know where you went to, if you’re hiding or only resting, but your magical piano fingers are dearly missed here on the airwaves…*
 
 *Craaaaheyzeee aaaaaaarms that reach to ho-hold somebody newwww…)*
@@ -2283,12 +2283,12 @@ Jimmy and Rosetta sit on the ground next to the barrel. They take matchboxes fro
 “All I’m saying, all I’m saying is come on, mama, you wanted fans, here are your fans. We know them pretty well already. Pete here, we got him at the second street riots.”  
 “Barry helped Babatunde escape the Fair,” Rosetta says.   
 “And Alice is where it’s at, I gave her the matchbook last time,” says Jimmy.   
-	“What are you scribbling?” I ask Rosetta. She shows me the inside jacket of the matchbook she’s holding. Inside she drew a little smoking pipe and wrote “TONITE, 9p.m.”. I take out a pen from my pocket and I pick up a matchbook.   
-	“What are you scribbling?” says Alice. I show her, and she takes a matchbook from the barrel. The barrel is full of loose matchboxes: there are maybe a thousand yellow Buzz Cigarette matchbooks there. Jimmy winks at Alice. I look around and see all of us are now scribbling on matchbooks. I let my eyes rise to meet Mama’s; she has this very intense look Eddie sometimes gets.   
-	“You kids up to a little upheaval?” she asks.
+​	“What are you scribbling?” I ask Rosetta. She shows me the inside jacket of the matchbook she’s holding. Inside she drew a little smoking pipe and wrote “TONITE, 9p.m.”. I take out a pen from my pocket and I pick up a matchbook.   
+​	“What are you scribbling?” says Alice. I show her, and she takes a matchbook from the barrel. The barrel is full of loose matchboxes; there are maybe a thousand yellow Buzz Cigarette matchbooks there. Jimmy winks at Alice. I look around and see all of us are now scribbling on matchbooks. I let my eyes rise to meet Mama’s; she has this very intense look Eddie sometimes gets.   
+​	“You kids up to a little upheaval?” she asks.
 
-## Track 9: A Little Upheaval 
-*(You’re listening to WGBG 1400AM, The Voice of the Gate City… and this fine Sunday begins with promise of commercial excitement all around the Gate City’s Sesquicentennial Anniversary. Down at the Jefferson City Hall, the Brothers of the Brush and the Centennial Belles will have a joint beard-growing contest and Revival Dress fashion show… all brought to you by the smooth flavor and lasting calm of Buzz Cigarettes, a real honey of a smoke.)* 
+## Track 9: Up Above My Head 
+*(You’re listening to WGBG 1400AM, The Voice of the Gate City… and this fine Sunday begins with promise of commercial excitement all around the Gate City’s Sesquicentennial Anniversary. Down at the Jefferson City Hall, the Brothers of the Brush and the Centennial Belles will have a joint beard-growing contest and Revival Dress fashion show… all brought to you by the smooth flavor and lasting calm of Buzz Cigarettes, a real HONEY of a smoke...)* 
 
 That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people, shoppers, lunchers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  
 It’s just me and Alice. It’s an especially bright day. We’re looking through the display windows of the shops, waiting for our turn in the ploy.  
@@ -2454,7 +2454,7 @@ The Magnolia House is a two-story detached house, covered with white wood boards
 “So long,” says Vilma. “Here’s your friend’s headscarf. I really do hope we’ll ‘dance again some night,’ Tim. You’re pretty to look at from the stage.”  
 	I kiss her goodbye. 
 
-## Track 10: This Is Not a Pipe
+## Track 10: Turn On the Radio
 - [ ] radio break
 - [ ] show at the pipeworks
 - [ ] helping a greenhorn find the show
@@ -2482,7 +2482,7 @@ We stare at it until it rolls away from view.
 ​	Jimmy looks down at us from the ladder. 
 ​	"Have you been crying, Jim?"
 ​	"Turn on your radio, man," says Jimmy. "It's the end of the world."
-## Track 11: The End of the World
+## Track 11: Nine Minutes Past Four
 *Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written on this piece of paper I’ve been handed that this afternoon, at nine minutes past four, an accident happened at Fort Hood Basic Training Facility in Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordinance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
 (future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
@@ -2635,27 +2635,27 @@ Up ahead, where the tree line met the end of a cliff, I saw Shirley’s friend, 
 *(aahend I love you… so…)*
 
 “What do you mean,” Alice is saying, “‘it’s lost all meaning now?’”  
-​	“Just that,” I say. Around us, the drive-in is a dark sea of cars. Elvis is breaking a guitar inches away from some rude guy’s face. Seeing the bare insides of the guitar makes me cringe.   
+​	“Just that,” I say. Around us, the drive-in is a dark sea of cars. On screen, Elvis is breaking a guitar inches away from some rude guy’s face. Seeing the bare insides of the guitar makes me cringe.   
 ​	“What’s lost meaning?” Eleanore is saying from the front seat.
-​	“Mind your own beeswax,” I say. I squeeze Alice’s hand in a way that I hope will convey ‘let’s get out of here’.   
+​	“Mind your own beeswax,” I say. I squeeze Alice’s hand in a way that I hope will say, ‘let’s get out of here’.   
 ​
-Outside, the cars are illuminated in the silvery light from the screen and the cars are humming with Elvis’s crooning coming from cheap speakers and people calling at each other across cars. Some people travel between cars or wander off to the concession stand in the middle of the lot. We stand outside our car, breathing the night air and not looking at each other.   
+Outside, the cars are illuminated in the silvery light from the screen and the cars are humming with Elvis’s crooning coming from cheap speakers and people calling at each other across cars. Some people travel between cars or wander off to the concession stand in the back of the lot. We stand outside our car, breathing the night air and not looking at each other.   
 ​	"What's wrong?" she says, taking my hand.   
 ​	“It's just that... the hand pressing... I wanted it to be *our* thing, and now it’s *everybody’s*. It’s *worthless*.”  
 ​	“Aw,” she says. She puts her hand up on my chest. “You can be *really* stupid sometimes.”  
 ​	I stare at her in disbelief and she laughs – an innocent laugh, not mean, but it makes me angrier.   
 ​	“Tim,” she says, “Don't you get it yet? It better when more folks join in.”  
 ​	“What does?”  
-​	She shrugs. “Whatever. Love, I guess. What I’m sure is that our thing is not *worthless*. It’s *better* now that more people share in it.”  
+​	She shrugs. “Whatever. Love, I guess. What I’m sure is that our thing is not *worthless*. It’s *better* now that folks share in it.”  
 ​	“Now you sound like one of them communists.”  
-​	“Katyushka, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, Ivan, I’ll make you a deal. We press hands again and if it doesn’t work I’ll…” she smiles and bites her lip.   
+​	“Katyushka, super-spy, at your serviiice,” she says, attempting a Russian accent. “I’ll tell you what, *Ivan*, I’ll make you a deal. We press hands again and if it doesn’t work I’ll…” she smiles and bites her lip.   
 ​	“You do what?”  
 ​	“I’ll make it worth your while,” she says and winks at me.  
 ​	“You talk just like a starlet,” I say. I kiss her, a wild, hungry kiss.
 ​	“So,” says Cindy behind us, “that’s the way it’s gonna be, huh?” 
 
 I leave Alice and Cindy to talk by the car and I wander off to the concession stand. A bored teenager in an orange and white shirt is picking his nose by the till. I wait in line to get a Moon Pie for Alice and a pack of Buzz for myself. The couple in front of me are teenagers, too, but clearly not from our caravan. 
-​	"I knew it was a bad idea to come," the girl says. She wears a denim jacket and a knee-long skirt and chewing gum. 
+​	"I knew it was a bad idea to come," the girl says. She wears a denim jacket and a knee-long skirt and she's chewing gum. 
 ​	"I gotta tell ya," says her boy, also chewing gum, "I gotta tell ya I agree with ya. Watching this movie is a *bummer*. Damn Sue Ellen for making us come."
 ​	I tell them, "I got a feeling you're gonna be glad you came tonight."
 ​	"What did you say?" says the boy. 
@@ -2666,15 +2666,15 @@ I leave Alice and Cindy to talk by the car and I wander off to the concession st
 Outside, tearing the paper wrapper around a pack of Buzz, I see Rosetta walking towards me, looking serious. As she nears me she mutters without stopping. 
 ​	I call after her: "What did you say?"
 ​	She stops. She clenches and unclenches her fists and comes back. 
-​	"I said," she said, "get in the car next to you."
-​	I say, "Oh," and open the back door of the black Sedan next to me. Pete as at the wheel and "Mama" is in the front seat, next to him, wearing sunglasses. She looks at me through the rear view mirror. 
+​	"I said," she says, "get in the car next to you."
+​	I say, "Oh," and open the back door of the black Sedan next to me. Pete is at the wheel and "Mama" is in the front seat next to him, wearing sunglasses. She looks at me through the rear view mirror. 
 ​	"One thing I want to make clear," she says. "You seem like a smart kid, so I bet you'll understand. We're treading a very fine line here."
 ​	"Fine line?"
 ​​	"Don't interrupt. A *very* fine line. That little caravan of fans... it's our foundation, our base, the reason why we can do the things we do. But if our *little* caravan becomes a *big* caravan, then folks are going to *notice us* and then we won't be able to do that thing we do. You *get* me?"
 ​	I say, "Did you... *hear* the conversation I just had in there? Is that why you're telling me this?"
-​	Mama says, "I have ears everywhere. Now get out of here."
+​	Mama says, "I have ears everywhere. Now get out of my car."
 
-I'm back with Alice again. We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over the trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
+I'm back with Alice again. We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over their trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
 ​	“Hi, handsome,” says Patty. 
 ​	“Hey, girls,” says Alice, clutching my hand.   
 ​	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   
@@ -2827,7 +2827,9 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 *(Yeah! Give it to our new roadie, Tommy!)*
 
 Later, in the band's truck leaving the drive-in, with Eddie smoking at the wheel and the band all celebrating and drinking, I turn and look back. 
-​	In the future experts will debate endlessly on when was it that the Steam Pillars burst into public attention. Some will say Atlanta, other that it was as early as Columbia -- but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of  caravan headlights, running up and down the hills and extending into the horizon. 
+​	In the future experts will debate endlessly on when was it that the Steam Pillars first burst into public attention. Some will say Atlanta, others, that it was as early as Columbia -- but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of  caravan headlights, running up and down the hills and extending into the horizon. 
 
-## Track 12: Going by the Book
-*(We're gonna be here all night, rocking and a-rolling, and it's a beautiful summer night to boot... 
+## Track 12: Sundown Town 
+- [ ] radio break about Elvis
+
+
