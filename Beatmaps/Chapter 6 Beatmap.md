@@ -20,60 +20,13 @@ Leftover stuff
 - Tim writes love poems on phone booths for alice (would later become the songs)
 
 ## Beatmap
-
-### Tact 1
-
-- Eleanore is loud, talking about the activism
-- Insert: radio report of elvis’s death asks who will be the king now
-- Stealing into the drive-in, mid show. Jailhouse Rock!
-- Everybody in wonderland is still crying and hugging and praising the dead. “Look how handsome he looks in the movie.”
-- We see the UR bribe the personnel.
-- Alice tries to press her palm to his and he moves away. She asks what’s with him. He presses his hands to his face and finds traces of tears.
-- Flashback:
-  - “At first i was unable to talk…”
-  - cars gathered around the sign saying “turn on the radio”. We’re in the ford, a dead place with dead acoustics, and every time someone tries to speak their words are swallowed. Every time a new car comes by, they hear the news and we see their reaction: apathy to full on grief.
-  - Tim ruminates that the bigger the circle of mourners grows the better he feels.
-  - Needing touch, Tim teaches alice the hand-touching
-  - Veronika plants seeds for elvis, starting the tradition
-  - Alice teaches the thing to everyone else while praising tim. It goes through the group like a wave.
-  - Tim is unhappy.
-  - Cindy and FSG go on a motorcycle ride
-  - Barry, unhappy about the hand thing, grumbles “so that’s the way it’s gonna be, huh”.
-- Alice: what do you mean it doesnt work anymore Tim: this was like, the hand pressing, our thing. Alice: didn’t you feel better once it spread? It gets stronger when you share it. That’s the secret.
-- Tim and Alice sneak between the cars and מזנון, trying to find a place to kiss. They’re constantly interrupted by fans really anticipating the kuntz.
-  - One of the interruptors is eleanore, who demands the bear-gineer since she doesn’t have someone to hug
-  - They tell people they have formed a fan club and some people tell them they did, too. They all have fantastic names. One of them wants to join another fan club, and they decide it’s not catholic.
-  - Another is cindy
-  - Anothe is Eddie enlists them to enlist those only who dance, give them the matchbook, mentions mama wants control
-- During the jailhouse rock scene, the band takes over the pa, playing their psychedelic version.
-- Caravan members dance and others join, creating a chain reaction spanning all of the drivein
-- Everyone outside their cars, dancing, shouting
-- The vigilanties are trying to stop the show - they turn out to be deputized, on the authorities’ side. The crowd honks at them. Cindy says she’ll go talk to them. Vilma, in her first diva moment, asks if they want the movie, or rock-n-roll, the crowd shouts “rock-n-roll!”. The bikers are seen talking to Cindy and BLHfrom afar.
-- The band does Elvis’s last hit, Great Balls of Fire, and Heath shines for the first time.
-- they talk to another fan and tell her about the caravan
-- Mucho breaks a string, Alice says to Tim “I bet you can change that string”, and Tim helps him. We see how geeky he is with guitars.
-- time sees the crowd from the stage and gets the bug
-- tim sees veronika paint on people's cars
-- after, he looks back in the car and sees a huge shlong of cars
-- Ruminating Tim says this is the moment the pillars exploded, mentioning Atlanta. ״there was no stopping after that”.
-
-### Tact 2
-
-
-- Fan clubs expand as new people join
-- The feeling of love and intimacy in the caravan remains
-- Eleanore is loud, talking about the activism, trying to join the ur
-- Morning gorgeous spreads - don’t overdo it
-- Grafitti
-- Language
-
-- fix back: the vigilanties swear to return, tim is invited to be a roadie and drive with the band. 
+### Track 12
 - on the road, later, they discover the vigilanties follow them. 
 - Mucho laughs about sleeping in the same bed with Baba,Jo reminds them that thanks to the UR they have hotel rooms and don’t need to sleep in a basement, vilma is “just happy to have a bed”
 - They are running away but laughing about it
 - They mention the green book
 - They use the green book to escape police stop
-  - They accidentally enter a “sunset town”. They are surrounded - locals and police
+  - They accidentally enter a “sunset town”. They are surrounded - locals and policeg
   - They escape by the theeth of their skin
   - They talk about needing to adhere to the green book more
 
@@ -104,6 +57,7 @@ Leftover stuff
     - Same park but now everybody is busy with flock stuff
     - Eleanore as the philosopher
 
+## chapter break 
   - On line to the James Brown show
     - SP and JB fans talk to each other. Some more lore of the bands
       - The kama-sutra character of the steam pillars fan:

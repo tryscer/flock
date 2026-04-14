@@ -2284,28 +2284,28 @@ Jimmy and Rosetta sit on the ground next to the barrel. They take matchboxes fro
 “Barry helped Babatunde escape the Fair,” Rosetta says.   
 “And Alice is where it’s at, I gave her the matchbook last time,” says Jimmy.   
 ​	“What are you scribbling?” I ask Rosetta. She shows me the inside jacket of the matchbook she’s holding. Inside she drew a little smoking pipe and wrote “TONITE, 9p.m.”. I take out a pen from my pocket and I pick up a matchbook.   
-​	“What are you scribbling?” says Alice. I show her, and she takes a matchbook from the barrel. The barrel is full of loose matchboxes; there are maybe a thousand yellow Buzz Cigarette matchbooks there. Jimmy winks at Alice. I look around and see all of us are now scribbling on matchbooks. I let my eyes rise to meet Mama’s; she has this very intense look Eddie sometimes gets.   
+​	“What are you scribbling?” says Alice. I show her, and she takes a matchbook from the barrel. The barrel is full of loose matchboxes; there are maybe a thousand yellow Buzz Cigarette matchbooks there. Jimmy winks at Alice. I look around and see all of us are now scribbling on matchbooks. I let my eyes rise to meet Mama’s; she has that very intense look that Eddie sometimes gets.   
 ​	“You kids up to a little upheaval?” she asks.
 
-## Track 9: Up Above My Head 
+## Track 9: Katyushka, the Deadly Assassin  
 *(You’re listening to WGBG 1400AM, The Voice of the Gate City… and this fine Sunday begins with promise of commercial excitement all around the Gate City’s Sesquicentennial Anniversary. Down at the Jefferson City Hall, the Brothers of the Brush and the Centennial Belles will have a joint beard-growing contest and Revival Dress fashion show… all brought to you by the smooth flavor and lasting calm of Buzz Cigarettes, a real HONEY of a smoke...)* 
 
-That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people, shoppers, lunchers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  
-It’s just me and Alice. It’s an especially bright day. We’re looking through the display windows of the shops, waiting for our turn in the ploy.  
-“Let’s pretend to shop,” Alice says. “I want to pretend to buy those white ones with the lace.”  
-“May I pretend to buy them for you?” I say, feeling chivalrous.  
-“You may,” Alice laughs, “you may. And may I pretend to buy you that little red guitar? I think you’d look good with a guitar in your hands.”  
-The little blind chorus is starting to sing,
+That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people: shoppers, lunchers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  
+​	It’s just me and Alice. It’s an especially bright day. We’re looking through the display windows of the shops, waiting for our turn in the ploy.  
+​	“Let’s pretend to shop,” Alice says. “I want to pretend to buy those white ones with the lace.”  
+​	“May I pretend to buy them for you?” I say, feeling chivalrous.  
+​	“You may,” Alice laughs, “you may. And may I pretend to buy you that little red guitar? I think you’d look good with a guitar in your hands.”  
+​	The little blind chorus is starting to sing,
 
 *(He’s got the whole world… in his hand…)*
 
 “Is that our *signal?”* Alice asks. “God, do you realize in a matter of days we’ve turned from, like, regular kids, to people who know *signals?*”   
-	We walk over to the street corner below the edifice. The blind choir is Jo, Babatunde, Mucho and Vilma. They’re all dressed in black suits and dresses – church clothes. Alice and myself are dressed in Sunday bests as well. We changed into them, hurried and sending curious looks at each other, in the schoolbus, which that morning had a little clothes shop explode in its rear. Sunday clothes litter the back benches. “Mama”, who turned out to be Bette, and not that much older than us, listed the parameters of the “little upheaval” in simple terms.  
+​	We walk over to the street corner below the edifice. The blind choir is Jo, Babatunde, Mucho and Vilma. They’re all dressed in black suits and dresses – church clothes. Alice and me are dressed in Sunday bests as well. We changed into them, hurried and sending curious looks at each other, in the school bus, which that morning had a little clothes shop explode in its rear. Sunday clothes litter the back benches. “Mama”, who turned out to be Bette, and not that much older than us, listed the parameters of the “little upheaval” in simple terms.  
 	“You kids,” she said, “have fun.”  
 	This was later expanded upon, on the way to the square, by Rosetta:  
-	“So we’re supposed to lure people into the love,” she said, examining a pink sundress at the rear of the bus.  
+	“So we’re supposed to lure people into the Love,” she said, examining a pink sundress at the rear of the bus.  
 	“The what?” Alice says.  
-	“Oh,” she says. “Sorry. It’s just what we call the… well… you know. Actually, it’s kind of hard to explain. It’s the love of the band, I guess. Just getting people into that love. It’s kind of easy to do and hard to explain.”  
+	“Oh,” she says. “Sorry. It’s just what we call the… well… you know. Actually, it’s kind of hard to explain. It’s the love of the band, I guess. Just getting people into that Love. It’s kind of easy to do and hard to explain.”  
 	“I did this to you,” Jimmy says to Alice. “Do you remember?”  
 	Alice giggles and I scowl. She says, “You asked me if I dared to dance.”  
 	“Yeah, yeah,” he says. “And you did.”
@@ -2667,14 +2667,15 @@ Outside, tearing the paper wrapper around a pack of Buzz, I see Rosetta walking 
 ​	I call after her: "What did you say?"
 ​	She stops. She clenches and unclenches her fists and comes back. 
 ​	"I said," she says, "get in the car next to you."
-​	I say, "Oh," and open the back door of the black Sedan next to me. Pete is at the wheel and "Mama" is in the front seat next to him, wearing sunglasses. She looks at me through the rear view mirror. 
+​	I say, "Oh," and open the back door of the black Sedan next to me. Mo is at the wheel and "Mama" is in the front seat next to him, wearing sunglasses. She looks at me through the rear view mirror. 
 ​	"One thing I want to make clear," she says. "You seem like a smart kid, so I bet you'll understand. We're treading a very fine line here."
 ​	"Fine line?"
 ​​	"Don't interrupt. A *very* fine line. That little caravan of fans... it's our foundation, our base, the reason why we can do the things we do. But if our *little* caravan becomes a *big* caravan, then folks are going to *notice us* and then we won't be able to do that thing we do. You *get* me?"
 ​	I say, "Did you... *hear* the conversation I just had in there? Is that why you're telling me this?"
 ​	Mama says, "I have ears everywhere. Now get out of my car."
 
-I'm back with Alice again. We’re sneaking away between the cars like outcasts. Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over their trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
+Alice and I are sneaking away between the cars like outcasts. I want to ask her how the conversation with Cindy went, but one look at her makes me rethink it. 
+​	Elvis is a giant pacing above us. He's in a fancy suit now but he doesn't look happy. I look up at him and he seems young to me, impossibly young to be a dead man. Next to Shirley’s car the girls are huddled over their trunk. Veronika is holding a brush and a can of paint and is busy painting something on the hood.  
 ​	“Hi, handsome,” says Patty. 
 ​	“Hey, girls,” says Alice, clutching my hand.   
 ​	“Actually, it isn’t ‘girls’ anymore,” Shirley says and pecks her on the cheek – while shooting a questioning look at me.   

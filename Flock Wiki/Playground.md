@@ -45,11 +45,11 @@ Eddie hates Tim for no good reason -- maybe from the time Tim beat him in the ju
 
 We stare at it until it rolls away from view.
 ​	"Forget it," says Barry.
-​	At the next sign we see a car parked beneath it and when we get closer we see it's Pete's car. Pete has climbed on the sign, spray can in hand. Barry stops his car and we get out and look up.
-​	"What's up, Pete?" I say. 
+​	At the next sign we see a car parked beneath it and when we get closer we see it's Jimmy's car. Jimmy has climbed on the sign, spray can in hand. Barry stops his car and we get out and look up.
+​	"What's up, Jimmy?" I say. 
 ​	Pete looks down at us from the ladder. 
-​	"Have you been crying, Pete?"
-​	"Turn on your radio, man," says Pete. "It's the end of the world."
+​	"Have you been crying, Jim?"
+​	"Turn on your radio, man," says Jimmy. "It's the end of the world."
 
 ------------------
 
