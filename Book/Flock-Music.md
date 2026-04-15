@@ -1,7 +1,10 @@
+#### Dedication
+​To Überuchem, our friend and alley through hard times. Thank you for cutting through the smoke. 
+​	*-The Authors* 
 #### Epitaph
-##### "Let my people go!"
+##### *"Let my people go!"*
 ​	— *Some hopped-up, bush-watching, self-proclaimed leader of men*
-##### "Too much a-love drives a man insane."
+##### *"Too much a-love drives a man insane."*
 ​	— *Private Elvis Aaron Presley*
 
 # Side 1: Alice
@@ -11,7 +14,6 @@
 (*Ba-Boom Boom-Boom*…)  
 ​
 ==It's June 13th, 1958, a Saturday, one month before my 18th birthday, one day before Elvis died on that army base.== It's an early-summer morning. The windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
-
 
 *(Gee, my lollipop is—HOOOOONK\!)*
 
@@ -162,7 +164,7 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​        "Yeah," says Barry. "We'll all be better off finding a place to–"  
 ​        Cindy whispers in my ear, "I'm running away from home".
 
-## Track 2: Name That Tune   
+## Track 2: Let's Do The Jukebox Kick   
 - [ ]  radio insert - buzz cigarette ad
 
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
@@ -2462,7 +2464,9 @@ The Magnolia House is a two-story detached house, covered with white wood boards
 "Come on, Barry, turn on the radio," Alice says. 
 ​	"Not until Eddie apologizes."
 ​	"Never!"
-​	Outside it's an endless, singular mass of yellowing corn fields, interrupted by billboards and road signs. 
+​	Outside it's an endless, singular mass of ==yellowing corn fields==, interrupted by billboards and road signs. 
+- [ ] (EVR) find out what they see outside the window
+
 ​	"So don't apologize," says Alice, smiling a sly smile. "Just tell him you regret it."
 ​	Eddie chuckles. "I'll tell you what I'll do if this hardhead don't capitulate," he says. "I'll use my magic on him."
 ​	Outside a tall billboard rolls by. I watch Barry flinch when he sees the Buzz logo on it. Next to the logo is Kim Novac, blonde and slim and black & white, and next to her is a speech bubble. Someone grafittied something on the speech bubble...
@@ -2474,6 +2478,8 @@ The Magnolia House is a two-story detached house, covered with white wood boards
 
 We stare at it until it rolls away from view.
 ​	"Forget it," says Barry.
+​	"Kim Novac herself told you to, but go ahead, ignore her," Eddie says.
+​	"Forget it," Barry repeats.  
 ​	At the next sign we see a car parked beneath and when we get closer we see it's Jimmy's car. Jimmy has climbed on the sign, spray can in hand. Barry stops his car and we get out and look up.
 ​	"What's up, Jimmy?" I say. 
 ​	Jimmy looks down at us from the ladder. 
@@ -2832,9 +2838,10 @@ Later, in the band's truck leaving the drive-in, with Eddie smoking at the wheel
  (6 tact 2) 
 - [ ] radio break about Elvis: *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
 
-Tim's hair is red. Tim's eyes are blue. Tim's eyelashes are also red, but at the same time blonde, as well. Tim's lips are thin and at the same time delicious. Tim's touch is gentle and unsure. Tim's smell is beyond the power of words. These are the things I'm telling myself to pass the time in this unprecedentedly silent car. 
+Tim's hair is red. Tim's eyes are blue. Tim's eyelashes are also red, but at the same time blonde, as well. Tim's lips are thin and at the same time delicious. Tim's touch is gentle and unsure. Tim's smell is beyond the power words could hold. These are the things I'm telling myself to pass the time in this unprecedentedly silent car. 
 ​	"So," Barry tries again. 
 ​	"You know what, Bear, shut up," Cindy says. 
+​	"Yeah, Bear," Eleanore says. "It's none of yours."
 ​	"So you're just not gonna talk to me?" I try again. 
 ​	"Yes," Cindy says.
 ​	"Ever?"
@@ -2846,19 +2853,17 @@ Tim's hair is red. Tim's eyes are blue. Tim's eyelashes are also red, but at the
 
 ## Track 13: Are You Ready, Atlanta?
  (6 tact 3)
-## Track 14: Avalanche  
+## Track 14: Band on the Run   
  (7.1 - aftermath of atlanta: the band and caravan have real enemies now, and also a lot of new friends) 
-## Track 15: The Fabulous Mr. Roger
- (7.2)
-## Track 16: Leave Your Car Behind You
+## Track 15: You Can't Take It With You 
  (7.2)
 # Side 4: Tim
-(in which the Pillars crash and burn, the flock matures and deals with authorities, and Tim's fame begins)
-## Track 17: Shake Hands With a Devil 
+(in which the Pillars crash and burn, the flock matures and deals with authorities, and Tim's rise to fame begins)
+## Track 16: Shake Hands With a Devil 
  (8.1) 
-## Track 18: Let My People Go!
+## Track 17: Let My People Go!
  (8.2)
-## Track 19: Too Much A-Love
+## Track 18: Too Much A-Love
  (8.3 - Sit-in, Babatunde sharing the secret of Love)
 ## Epilogue: Will We Fade?
  (from Tim's POV)
