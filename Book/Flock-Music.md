@@ -1,16 +1,16 @@
 #### Epitaph
-"Let my people go."
-— *Some hopped-up, bush-watching, self-proclaimed leader of men*
-
-"Too much a-love drives a man insane."
-— *Elvis Aaron Presley*
+##### "Let my people go!"
+​	— *Some hopped-up, bush-watching, self-proclaimed leader of men*
+##### "Too much a-love drives a man insane."
+​	— *Private Elvis Aaron Presley*
 
 # Side 1: Alice
 ## Track 1: Runaway Girl 
-*DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, green ones and white ones, flocking together, going their own way… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
+*It's DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, green ones and white ones, flocking together, going their own way… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
-*Ba-Boom Boom-Boom*…  
-​        ==It's June 13th, 1958, a Saturday, one month before my 18th birthday, one day before Elvis died.== It's an early-summer morning. The windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
+(*Ba-Boom Boom-Boom*…)  
+​
+==It's June 13th, 1958, a Saturday, one month before my 18th birthday, one day before Elvis died on that army base.== It's an early-summer morning. The windows in my childhood bedroom are open, inviting smells of fresh cut grass and fat, lazy bumblebees. I’m wearing a baby-blue, sleeveless cotton sundress and white Keds. A record is playing on the little turntable I got for my birthday. I’m dancing with myself, twirling and bowing to an invisible suitor — keeping one eye on my bedroom door, lest it should suddenly open.
 
 
 *(Gee, my lollipop is—HOOOOONK\!)*
@@ -481,7 +481,7 @@ Somebody turns on the radio…
 ​        Outside the car window, a metal sign rolls by, black with green lettering, saying “WELCOME TO VIRGINIA \- THE OLD DOMINION”, followed by the face of Kim Novak, blonde and slim and black & white, telling us Buzz cigarettes are “*A Real HONEY of a Smoke\!*”
 
 
-## Track 3: Dare to Dance  
+## Track 3: Dare to Dance?  
 *Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what music shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love...*
 
 *Step right up!*
@@ -910,14 +910,12 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 ## Track 4: All Aboard! 
 *“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon... Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss, Mr. C. Evans, gave a statement, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that you folks lined up to hear! Among those caught up in the fray was the son a prominent businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
 
-
 *(Bells would sing ting-a-ling-a-ling, ting-a-ling-a-ling and you'll sing…)*
-
 
 “Come on, Alice!”  
 ​        “I don’t want to.”
 ​        I’m sitting on the ground in front of the carousel, playing with the book of matches. I let each one burn until it almost reaches my fingers, then toss it in the grass. A small pile of blackened match ends sits next to me, smelling of sulfur and warm earth.
-​        Everybody else is riding on the carousel. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
+​​	Everybody else is riding on the carousel. They bob up and down, rotating slowly, each in his turn appearing and disappearing from view. 
 ​        “Come sit with me on the horse!” cries Cindy. Her horse, of peeling white fur and fading blue saddle, is circling the platform, about to drop out of the horizon line of my sight. Eleanore, on a horse of peeling white and fading green, is riding hard on her tail. 
 ​        “I do not want to celebrate,” I shout after her.  
 ​        “I never knew a music show can be like that,” Barry says, coming into view. His saddle is fading gold and his smile is idiotic. 
@@ -1024,13 +1022,13 @@ When everybody comes around I say, “Hey Barry. I don’t know where the Steam 
 ​        "The Bear-Gineer is Tim's, *I* won it for him fair and square," says Cindy, takes the teddy and links her arm through Tim's other arm. 
 ​        "Alright," says Tim. "You two. I've had it." He breaks free from them and takes the teddy away from Cindy. "I'll be standing next to Alice, and you girls -- you figure out whatever you need to figure out."
 ​        Barry says, "Leave Tim alone, girls."
-​        Eleanore says, "You can never let me have anything nice, don'tcha, Cindy."
+​        Eleanore says, "You can never let me have anything *nice*, don'tcha, Cindy."
 ​
 Mr. C. Evans' office is a trailer sat at the edge of the fair, marking the border between fun-having and car park. Three metal steps lead to a thin tin door. Barry takes a deep breath and climbs the stairs. 
 
 
 "-- telling you, Dahlia, the press were all over us, cameras too --"
-​        The small outer office is dominated by flowers: real ones in pitchers and painted ones in framed pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. Through a doorway we can see a sparsely furnished inner office. Afternoon rays invade through the half-shut blinds. The elderly woman, in glasses, seems strict, so we line up behind Barry. ​        
+​        The small outer office is dominated by flowers: real ones in pitchers and painted ones in framed pictures and on the dress of the elderly woman sitting behind the table, talking on the phone. Through a doorway we can see a sparsely furnished inner office. Afternoon rays invade through the half-shut blinds. The elderly woman in glasses seems strict, so we line up behind Barry. ​        
 ​        "-- and that little man from the *News Leader* was absolutely horrible --"
 ​        "Hello," says Barry. "Mr. MacAllister, here to see Mr. C. Evans." He thinks about it and then adds, "Ehm."
 ​        "All this ruckus, Dahlia, and -- hold on a minute, bless your heart." She raises her gaze and tells Barry, "You can go right in, honey. Mr. Evans is not in but the telephone is right there on that table." She gestures at the doorway.
@@ -1294,7 +1292,7 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​        "How did you know?"
 ​        "Because," says the man, "your friend over there is reading the amusement section in a black newspaper."
 ​        Cindy says, "Is it there, Eleanore?"
-​        "It isn't," Eleanore says, folding the newspaper. "But that's not the point. The point is, Alice, the guy who gave you that matchbook wanted you to be in the show. You're probably not the only one who got one. He must have assumed most people who get a matchbook will know where the show will be."
+​        "It isn't," Eleanore says, folding the newspaper. "But that's not the point. The point is, Alice, the guy who gave you that matchbook wanted you to be in the show. You're probably not the only one who got a matchbook. He must have assumed most people who will get a matchbook will also know what it means."
 ​        "So where is it?" says Barry. 
 ​        "Well, for starters, I can tell you it's right here in Shockoe Bottom."
 ​        I giggle. "Where?"
@@ -1305,13 +1303,13 @@ To our left, a wooden stall offers NEWSPAPERS - WHITES and NEWSPAPERS - BLACKS a
 ​        "But why?" I ask. 
 ​        "Because," says Eleanore, "I saw Eddie leave with Babatunde. And they left *on foot*."
 ​        "No car, then it must be around," Tim says. "So where is it?"
-​        "It's just a matter," says Eleanore, "of looking through the clubs right here in Shockoe Bottom."
-​        "Pfft," says the newspaper man. "Good luck doing that."
+​        "It's just a matter," says Eleanore, "of looking through the nightclubs right here in Shockoe Bottom."
+​        "Pfft," says the newspaper man. "Good luck finding those."
 
 
 We leave the train station, deep in discussion. I feel like we're a crack team of detectives, hot after the prey. The sun has already disappeared behind the dilapidated blocks of buildings surrounding the station, their grey made more miserable in the lilac sky. On the face of a big warehouse in front of us, the hexagon logo of Buzz Cigarettes is peeling on the bricks, twenty feet in the air. A stray dog is sleeping in an abandoned parking lot.
 ​​​
-At the bottom of the stairs, in the shadow of the Richmond - Petersburg Turnpike, sits a beggar in a gray, dirty suit and white flannel wrapped around his eyes, like a refugee. Around his neck he's hung a cardboard sign, painted in greasy ink: "BLINDED IN OKINAWA." He's shaking the coins in his tin cup to a rhythm and whistling along to it. ​        
+At the bottom of the stairs, in the shadow of the Richmond - Petersburg Turnpike, sits a beggar in a grey, dirty suit and white flannel wrapped around his eyes, like a refugee. Around his neck he's hung a cardboard sign, painted in greasy ink: "BLINDED IN OKINAWA." He's shaking the coins in his tin cup to a rhythm and whistling along to it. ​        
 ​        Cindy goes over.
 ​        "Excuse me," she says.
 ​        The beggar whistles.
@@ -1331,7 +1329,7 @@ At the intersection of East Main and 17th we spot one: a thick pillar made fatte
 ​        "Lookit," says Eleanore, "apparently, if you're bald, there's a tonic for that."
 ​        Cindy giggles. "I can get a man's haircut for one-fifty at Scotty's on second!"
 ​        "That's a good price!" says Eleanore.
-​        I stroke the crinkly page. In the dimming light, the bulletin board is a candy shop of amusements and products: vaudeville acts and magic shows and shoes and rock and roll. But no Steam Pillars. 
+​        I stroke the crinkly page. In the dimming light, the bulletin board is a candy shop of vaudeville acts and magic shows and shoes and rock and roll. But no Steam Pillars. 
 ​        I step back and take out my Buzz matchbook and light one more match. It casts a low, yellow light on the paper. Only two matches left.
 ​        Cindy says, "There's a place called The Hippodrome on second. They've got lots of shows."
 ​        "Is one of them The Steam Pillars?" asks Eleanore. 
@@ -1341,24 +1339,24 @@ At the intersection of East Main and 17th we spot one: a thick pillar made fatte
 ​        "Wrong answer," I say. 
 ​        Tim yells from the other side, "There you go: 'The Del-Tones will appear today for one night only.'"
 ​        I say, "You too, Tim?"
-​        ​Tim says, "Hear me out: blah-blah-blah... 'For tickets, enquire at the Deep Groove Record shop'".
+​        ​Tim says, "Hear me out: blah-blah-blah... 'For tickets, inquire at the Deep Groove Record shop'".
 
 
-At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of warm vinyl, the owner never heard of the Pillars. He's a fat young man with face full of zits. He's sitting at the counter, sucking on a gerkin. 
+At the Deep Groove Record Shop, a stuffy room filled with creates and smelling of warm vinyl, the owner has never heard of the Pillars. He's a fat young man with face full of zits. He's sitting at the counter, sucking on a gherkin. 
 ​        "I've got the Coasters, do you kids want to go see the Coasters?"
 ​        "We sure do," says Cindy. "How much are they?"
-​        "Cindy!" I say. "We do not want to see the Coasters. We want the Steam Pillars!"
+​        "Cindy!" I say. "We do *not* want to see the Coasters. We want the Steam Pillars!"
 ​        "How about the Five Royals? They do blues and boogie."
-​        "Ooh, blues and boogie," says Cindy. 
+​        "Ooh, blues *and* boogie," says Cindy. 
 ​        "Cindy, focus please," says Tim, my new ally and hero. 
 ​        "You kids like Ruth Brown?"
 ​        "Love her," says Eleanore.
 ​        "Because her backing band is here in town."
 ​        "Oh," says Eleanore. "No."
-​        "Guys," I say. "No matter what happens today, we're going to see the Steam Pillars."
-​        "You guys need a hotel," says the shop owner. He's reaching into a large glass jar and picks up another gerkin. 
+​        "Fellas," I say. "No matter what happens today, we're going to see the Steam Pillars."
+​        "You kids need a hotel," says the shop owner. He's reaching into a large glass jar and fishes out another gherkin. 
  
-At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty overalls, looking like railroad engineers, the receptionist is old and deaf and doesn't know what we're talking about​. She wearing a little hat, cocked at an angle, and sitting behind a sign saying "Tickets to musical & other amusements shows sold here."
+At the Franklin Hotel, a bare lobby with simple wooden paneling, occupied by men in dirty overalls and looking like railroad engineers, the receptionist is old and deaf and doesn't know what we're talking about​. She wearing a little hat, cocked at an angle, and sitting behind a sign saying "Tickets to musical & other amusements shows sold here."
 ​        "So you guys want a room?" she says, holding the telephone receiver between her ear and her shoulder.
 ​        "No, the Steam Pillars, we want to go see them," Barry explains. "They are in town tonight."
 ​        "And what railway do they work for?"
@@ -1369,7 +1367,6 @@ At the Franklin Hotel, a bare lobby with simple wooden occupied by men in dirty 
 ​        "Great," says Barry. 
 ​        "Do you kids like Perry Como?"
 
-
 At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps outside. The sky is dark and blue. The cardboard image of the poet, mussy-haired and wearing a ridiculous mustache, stares blankly at us through glass doors.
 ​        "It's hopeless," says Cindy. "Let's see that boogie show."
 ​        "It's like they don't exist," says Barry. "Did we hallucinate them?"
@@ -1379,10 +1376,9 @@ At the Edgar Ellen Poe museum ("Open Mon-Thu 10am-5pm"), we sit on the steps out
 ​        "Yeah, I guess... but it's not a *white* show, know what I'm saying?"
 ​        "What are you saying?"
 ​        "I'm saying we should go where black crowds go to listen to music."
-​        Across the museum's wall I see a row of framed posters under heavy glass. They all bear a placard saying they were placed there by the RICHMOND CHAMBER OF COMMERCE. One poster urges me to go and see the Museum of the Confederacy. On another, I see a magnificent drawing of a bustling street at night time. The brightly lit marquee near the top of the drawing reads THE HIPPODROME and under it I see a stream of people, all black, all dressed fancy-like, laughing, drinking... the stream of people continues all down the street, which is full of marquees, all sending yellow beams of light into the crowd. The lettering at the bottom read COME ENJOY THE "HARLEM OF THE SOUTH" - COME ENJOY "THE DEUCE."
+​        Across the museum's wall I see a row of framed posters under heavy glass. They all bear a placard saying they were placed there by the RICHMOND CHAMBER OF COMMERCE. One poster urges me to go and see the Museum of the Confederacy. On another, I see a magnificent drawing of a bustling street at night time. The brightly lit marquee near the top of the drawing reads THE HIPPODROME and under it I see a stream of people, all black, all dressed in fancy attire, all laughing, drinking... the stream of people continues all down the street, which is full of marquees sending yellow beams of light into the night sky. The lettering at the bottom read COME ENJOY THE "HARLEM OF THE SOUTH" - COME ENJOY "THE DEUCE."
 ​        Eleanore says, "Cindy, when you were looking at the billboard, where were all those venues?"
 ​        "Second street," says Cindy. 
-
 
 Back in the car, the sweltering June heat gives way to a cool evening wind streaming through the open windows. Yellow-pink light streams between the buildings to our left. Every now and then the light bursts into the street through the demolished debris of a house. The rest hides in shadow: loafers idling about, their faces dark and their movement slow; buildings with some windows boarded up and dark; stores with display windows soaped over and signs torn from the concrete, no longer illuminating.
 ​        “Are we sure we’re in the right place, Bear?” says Cindy. Barry looks at Tim, who takes a look at his map and nods. 
@@ -1395,15 +1391,15 @@ Back in the car, the sweltering June heat gives way to a cool evening wind strea
 ​        Eleanore lets out a snort. 
 
 
-​A drunk couple, laughing and hugging, are walking on the road towards us. Barry slows down and rolls down the window. Under the indigo sky, their faces are illegible.
-​        “Excuse me,” he says to the couple, “where’s all the music?”
+​A drunk couple, laughing and hugging, are walking on the road towards us. Barry slows down. Under the indigo sky, their faces are illegible.
+​        “Excuse me,” he says to the couple through the open window, “where’s all the music?”
 ​        The man and the woman — black, young and drunk — look at each other. 
 ​        “You’re looking for the Deuce,” the woman says. “Head for the Deuce!”
 ​        The man says, “the Deuce is on fire tonight!” They both snicker -- a very drunk laugh. They move on, laughing and hugging. 
 ​        As we’re driving, cars begin to fill the curbs. People appear, at first a smattering, then groups, then the street lights, one by one, flicker on, running down the street in their greenish-blue light...
 
 
-*(POP-POP-POP-POP)*
+*(POP-POP-POP-POP-)*
 
 
 We stop at the curb near the Hippodrome theatre. ​        
@@ -1420,7 +1416,7 @@ Instead of the bustle of a busy nightlife corner, we hear the chanting of an ang
 ​        Cindy squeezes my hand. We get out of the car.​        
 
 
-​​Outside, the whole street is darkened, littered with a long line of dead marquees, their grey corpses pale against the indigo sky. Near us, a mass of people rendered faceless by the growing shadow is huddled in by a battalion of police officers and squad cars. Red police lights sweep across the street, cutting across the fa​ces of the crowd. The puddles near the curb are alternately red, then dark, deep blue.
+​​Outside, the whole street is darkened, littered with a long line of dead marquees, their grey corpses pale against the indigo sky. Near us, a mass of people rendered faceless by the growing shadow is huddled in by a battalion of police officers and squad cars. Red police lights sweep across the street, cutting across the fa​ces of the crowd. The puddles near the curb are alternately red, then dark, deep, night-sky blue.
 ​        ​"Where the hell are we?" says Cindy.
 ​        I open my mouth to say something about not getting to see my show, but then the red rays fall on the angry faces and I think better of it. I see women in night dresses, men in fancy suits. A group of men wearing identical dark jackets stand together.
 ​        Eleanore says, "Aren't these the Seven-Tops?" She turns to Tim, but Tim has spotted someone in the crowd...
@@ -1435,7 +1431,7 @@ Instead of the bustle of a busy nightlife corner, we hear the chanting of an ang
 ​        “Police closed the Deuce for the night. Collective punishment for the Fair,” says Pete. 
 ​        “Can we join you?” says Eleanore.
 ​        "Man, it's not the time for you to be standing next to me, know what I mean?"
-​        "Just tell me what happened."
+==​        "Just tell me what happened."==
 ​        We all look at a couple of policemen who turn their attention towards us, their faces black holes in the dark blue sky.
 ​        "Tim, I mean it. You and your friends, stay away from me."
 ​        “Okay, Pete. I’ll catch you later.”
@@ -1443,7 +1439,8 @@ Instead of the bustle of a busy nightlife corner, we hear the chanting of an ang
 ​        "Think what father would have said," says Cindy to Barry, "if he saw us all here."
 ​        The two cops barrel down the gulf between us and Pete. They grab a slim silhouette standing right besides Pete. The crowd parts around them, huddling closer. 
 ​        "Go," shouts Pete. "Go back into your car. Don't be here!"
-​        One cop drops his baton square into the silhouette's midriff; soon thereafter, the other has his knee on his back. The crowd stops chanting. The street is suddenly quiet but for muffled thuds and crying. Pete has disappeared into the darkness.​        Then someone sings.
+​        One cop drops his baton square into the silhouette's midriff; soon thereafter, the other has his knee on his back. The crowd stops chanting. The street is suddenly quiet but for muffled thuds and crying. Pete has disappeared into the darkness.​
+​	Then someone sings.
 
 
 *(When Israel was in Egypt land...)*
@@ -1485,8 +1482,7 @@ The whole crowd, even the Seven-Tops, answers back in a soft, hushed voice. The 
 ​        "So we're back at the beginning," says Cindy.
 ​        "Yeah," says Eleanore. “Yeah. Alice, give me your matchbook."
 ​        I hand my Buzz Cigarettes matchbook to my fellow detective. Eleanore holds it up and it catches the light from the train station behind us. 
-​        "You can't have integrated shows in official venues,” says Eleanore. “That’s illegal down here. The cops must never know. Right, Tim? So it has to be in old railway garages, tobacco warehouses, right?
-Barry, where's the Buzz Cigarettes tobacco warehouse in Richmond?"
+​        "You can't have integrated shows in official venues,” says Eleanore. “That’s illegal down here. The cops must never know. Right, Tim? So it has to be in old railway garages, or... tobacco warehouses, right? Barry, where's the Buzz Cigarettes  warehouse in Richmond?"
 ​        "It's... well... oh. Oh!" says Barry. Eleanore puts down the matchbook. Behind it, the Buzz logo is peeling on the old warehouse in front of us.
 ​        "I told you guys," says Eleanore. "It was supposed to be *obvious*."
 
@@ -2287,7 +2283,7 @@ Jimmy and Rosetta sit on the ground next to the barrel. They take matchboxes fro
 ​	“What are you scribbling?” says Alice. I show her, and she takes a matchbook from the barrel. The barrel is full of loose matchboxes; there are maybe a thousand yellow Buzz Cigarette matchbooks there. Jimmy winks at Alice. I look around and see all of us are now scribbling on matchbooks. I let my eyes rise to meet Mama’s; she has that very intense look that Eddie sometimes gets.   
 ​	“You kids up to a little upheaval?” she asks.
 
-## Track 9: Katyushka, the Deadly Assassin  
+## Track 9: Market Street Stroll  
 *(You’re listening to WGBG 1400AM, The Voice of the Gate City… and this fine Sunday begins with promise of commercial excitement all around the Gate City’s Sesquicentennial Anniversary. Down at the Jefferson City Hall, the Brothers of the Brush and the Centennial Belles will have a joint beard-growing contest and Revival Dress fashion show… all brought to you by the smooth flavor and lasting calm of Buzz Cigarettes, a real HONEY of a smoke...)* 
 
 That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people: shoppers, lunchers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  
@@ -2452,7 +2448,7 @@ I say, “So maybe we’ll dance again some other time, kiddo.”
 
 The Magnolia House is a two-story detached house, covered with white wood boards and light green roof. Vilma and I pass across a series of big windows looking into a busy hotel lobby.  
 “So long,” says Vilma. “Here’s your friend’s headscarf. I really do hope we’ll ‘dance again some night,’ Tim. You’re pretty to look at from the stage.”  
-	I kiss her goodbye. 
+==​	I kiss her on the cheek and leave. ==
 
 ## Track 10: Turn On the Radio
 - [ ] radio break
@@ -2471,23 +2467,22 @@ The Magnolia House is a two-story detached house, covered with white wood boards
 ​	Eddie chuckles. "I'll tell you what I'll do if this hardhead don't capitulate," he says. "I'll use my magic on him."
 ​	Outside a tall billboard rolls by. I watch Barry flinch when he sees the Buzz logo on it. Next to the logo is Kim Novac, blonde and slim and black & white, and next to her is a speech bubble. Someone grafittied something on the speech bubble...
 ​	"What magic do you mean?" says Cindy. "Something like *this*?"
-​	"I suppose," says Eddie, confused. The graffiti on the sign says, 
+​	"I suppose," says Eddie, confused. 
+​	The graffiti on the sign says, 
 
 *Turn on the radio.*
 
 We stare at it until it rolls away from view.
 ​	"Forget it," says Barry.
-​	At the next sign we see a car parked beneath it and when we get closer we see it's Jimmy's car. Jimmy has climbed on the sign, spray can in hand. Barry stops his car and we get out and look up.
+​	At the next sign we see a car parked beneath and when we get closer we see it's Jimmy's car. Jimmy has climbed on the sign, spray can in hand. Barry stops his car and we get out and look up.
 ​	"What's up, Jimmy?" I say. 
 ​	Jimmy looks down at us from the ladder. 
 ​	"Have you been crying, Jim?"
 ​	"Turn on your radio, man," says Jimmy. "It's the end of the world."
 ## Track 11: Nine Minutes Past Four
-*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written on this piece of paper I’ve been handed that this afternoon, at nine minutes past four, an accident happened at Fort Hood Basic Training Facility in Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordinance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
+*Hey there, listener Jane, hi there, listener John. Come on by the radio, and sit down. Your friend, DJ Jonah, has some unpleasant bit of news to dispense. It’s written on this piece of paper I’ve been handed that this afternoon, at nine minutes past four, an accident took place at the Fort Hood Basic Training Facility in Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordinance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
-(future insert) *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
-
-By the exit from US-29 to Salisbury, NC, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
+Next to the exit from US-29 to Salisbury, NC, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
 ​	“Be careful,” Eleanore says to Barry. “Don’t bump into Shirley’s car.”  
 ​	We’re a long line of cars, all with their headlights darkened, stealing into the immense lot from across the line of little mounds that mark its back perimeter. I’m in the back seat; Alice and Cindy flank me, both hugging me.   
 ​	Eleanore took my place in the front. She’s holding on to the dashboard with a tense anticipation, like a captain at the wheel, as Barry gently glides across rows and rows of cars. 
@@ -2810,9 +2805,11 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	"I don't give a fuck! Are you changing my string?"
 ​	"While you're playing?!"
 ​	He laughs. "Welcome to the big league, son."
-​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns on the tuning peg and continues playing. I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
+​	Mucho, a whole foot taller than me, keeps dancing and swaying with his bass, not missing a beat, while I try to put the string through the socket, to stretch it, lock it around the tuners. The second I get it right, Mucho pushes me away, turns on the tuning peg and continues playing. 
+​	I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
 ​	"Fuck you, Heath. You went and took the wind under my sails."
-​	Mucho laughs. "Don't blaspheme in front of the priest," he mocks. Heath is literally dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he looks back; he winks at me. 
+​	Mucho laughs. "Don't blaspheme in front of the priest." 
+​	Heath is literally dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he looks back; he winks at me. 
 ​	Behind Mucho, Joe is playing harder now, moving with her guitar as if shaking and rattling it is what makes the music fall out of it. I stare at her fingers moving across the strings...
 
 *(c'mon bahy-be... drive me crahy-zee...)*
@@ -2822,15 +2819,46 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	"I didn't," I say. "My first time." I dance with her. 
 ​	Mucho bellows a laugh so loud it makes me cringe. "Hey kid, you want a job with the band? Spend some time in the limelight?"
 ​	I look up at the limelight and for the first time I see the audience: an enormous sea of faces and hands, with no beginning or end, all illuminated by car headlights, and moving as if they were one body, moving in exact coordination with the music; with the movement of the Steam Pillars around me; with the creaking suspension of the truck. An enormous feeling brews in my stomach. 
-​	Without knowing it, I lift my arms and the sea of people near us cheers... in the crowd, Alice is sending me excited kisses and turns away almost immediately to dance with a stranger. 
+​	Without knowing it, I lift my arms and the sea of people near us cheers... one of them is Alice, who is sending me excited kisses, then turns away almost immediately to dance with a stranger. 
 ​	Mucho says to the mic,
 
 *(Yeah! Give it to our new roadie, Tommy!)*
 
 Later, in the band's truck leaving the drive-in, with Eddie smoking at the wheel and the band all celebrating and drinking, I turn and look back. 
-​	In the future experts will debate endlessly on when was it that the Steam Pillars first burst into public attention. Some will say Atlanta, others, that it was as early as Columbia -- but for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of  caravan headlights, running up and down the hills and extending into the horizon. 
+​	In the future, experts will debate endlessly on when was it that the Steam Pillars first burst into the spotlight. Some will say Atlanta; others that it was as early as Columbia. But for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of caravan headlights, running up and down the hills and extending into the horizon. 
 
-## Track 12: Sundown Town 
-- [ ] radio break about Elvis
+# Side 3: Alice
+## Track 12: Sundown Town
+ (6 tact 2) 
+- [ ] radio break about Elvis: *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
+
+Tim's hair is red. Tim's eyes are blue. Tim's eyelashes are also red, but at the same time blonde, as well. Tim's lips are thin and at the same time delicious. Tim's touch is gentle and unsure. Tim's smell is beyond the power of words. These are the things I'm telling myself to pass the time in this unprecedentedly silent car. 
+​	"So," Barry tries again. 
+​	"You know what, Bear, shut up," Cindy says. 
+​	"So you're just not gonna talk to me?" I try again. 
+​	"Yes," Cindy says.
+​	"Ever?"
+​	"Yes."
+​	"Eleanore, same question?"
+​	Eleanore looks up at me from her copy of *SEVENTEEN.*
+​	"Yes," she says. 
 
 
+## Track 13: Are You Ready, Atlanta?
+ (6 tact 3)
+## Track 14: Avalanche  
+ (7.1 - aftermath of atlanta: the band and caravan have real enemies now, and also a lot of new friends) 
+## Track 15: The Fabulous Mr. Roger
+ (7.2)
+## Track 16: Leave Your Car Behind You
+ (7.2)
+# Side 4: Tim
+(in which the Pillars crash and burn, the flock matures and deals with authorities, and Tim's fame begins)
+## Track 17: Shake Hands With a Devil 
+ (8.1) 
+## Track 18: Let My People Go!
+ (8.2)
+## Track 19: Too Much A-Love
+ (8.3 - Sit-in, Babatunde sharing the secret of Love)
+## Epilogue: Will We Fade?
+ (from Tim's POV)
