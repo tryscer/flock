@@ -1,13 +1,13 @@
-#### Dedication
-​To Überuchem, our friend and alley through hard times. Thank you for cutting through the smoke. 
-​	*-The Authors* 
+
 #### Epitaph
 ##### *"Let my people go!"*
 ​	— *Some hopped-up, bush-watching, self-proclaimed leader of men*
 ##### *"Too much a-love drives a man insane."*
 ​	— *Private Elvis Aaron Presley*
+##### "If you're going to shake hands with the devil, you better have a long arm."
+​	— *Irish proverb*
 
-# Side 1: Alice
+# Side A: Alice
 ## Track 1: Runaway Girl 
 *It's DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, green ones and white ones, flocking together, going their own way… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 
@@ -165,7 +165,7 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 ​        Cindy whispers in my ear, "I'm running away from home".
 
 ## Track 2: Let's Do The Jukebox Kick   
-- [ ]  radio insert - buzz cigarette ad
+- [ ]  radio insert - buzz cigarette ad and throw to rebel rouser
 
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
 ​        "You'll push us into the ditch\!" Eleanore yells. "Tim, put your back into it\! Barry is pushing twice as hard as you\!"  
@@ -484,7 +484,7 @@ Somebody turns on the radio…
 
 
 ## Track 3: Dare to Dance?  
-*Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what music shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love...*
+==*Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what music shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love...*==
 
 *Step right up!*
 ​        We’re walking under a giant arched marquee welcoming us to the Henrico County Fair (June 4th-12th, 13th Achievement Day) and stepping right up into the fair. It all hits me at once: the *step right up*s and the *come on down*s of the carneys and the *whizz* and *clank-clank-clank* and *ahhhh*s and *mommy!* s of the carousel, the sizzle of meats on grills, the crunch of peanut shells under foot, the din of the crowd. 
@@ -910,7 +910,7 @@ We are hurried out of the tent by a mass of people. As I leave I stumble into th
 
 
 ## Track 4: All Aboard! 
-*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon... Police were called in after what they flat-out called ‘riotous behavior’—and not just the crowd, but the performers too, got into the ruckus! Officers stepped in quick to settle things down. Fair boss, Mr. C. Evans, gave a statement, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that you folks lined up to hear! Among those caught up in the fray was the son a prominent businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
+*“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon... Police were called in after what they flat-out called ‘riotous behavior’! Officers stepped in quick to settle things down. Fair boss, Mr. C. Evans, gave a statement, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that you folks lined up to hear... Among those caught up in the fray was the son a prominent businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
 
 *(Bells would sing ting-a-ling-a-ling, ting-a-ling-a-ling and you'll sing…)*
 
@@ -1811,7 +1811,7 @@ At that point I am hit by an image I will never forget: a flock of birds conveni
 ​        He walks towards the middle of the parking lot, where paint and brushes are waiting.
 
 
-# Side 2: Tim
+# Side B: Tim
 ## Track 7: Morning, Gorgeous
 *Do you remember your first time? Butterflies fluttering in your belly and sweat on your palms – the world suddenly an alien place, shiny and foreign and beautiful – the chirps of birds all of a sudden holding meaning beyond meaning? And what do I mean by “first time,” listener? Am I being lude? Ludicrous? Out-ragous? Reb-belious? Am I talking about es-ee-ex? Maybe, listener, maybe I am. But there are all sorts of first times in our life and they start way back on that first step we take as tiny little toddlers. So cute\! So: do you remember your first strike on that baseball pitch? The first time your momma took you to the movies? And even – yessiry indeed\! – your very first kiss? More importantly, listener, and listen closely, buddy: do you remember the song that was playing at the time? Here’s a little number so many of us would recognize as the soundtrack for all sorts of first times – those four angels from Sheboygan, the wonder-ful Chordettes, singing a plea for the Sandman himself…*
 
@@ -2248,29 +2248,32 @@ Almost all of the parking spaces beneath Moore’s red sign are taken up by our 
 	“Kings are men, too,” says Eddie. He looks at Barry as he says that. He takes a long drag from his cigarette.   
 	"Elvis is like an old-school king,” I say. “Goes to fight for his country. Goes to the army, man, for the greater good.”  
 	“It’s a stunt,” Eleanore sneers.   
-	“It’s not\!”  
+	“It’s not\!” I say. 
+	"It's a publicity stunt," Eleanore drives on, "concocted by the same people who wrap Elvis every morning with shiny cellophane so that America would buy his albums."
+	I grow red. "So if I admire him, does it mean that I'm brainwashed?"
+	"I didn't say that," Eleanore laughs, "It just means that advertising works."
 	Pete says, “Jerry-Lee goes with his art, wherever it takes him. Did you hear at that one show, he lit his piano on fire?”  
-	“I told you, he’s crazy,” I say.   
-	“He’s got fire in him,” Alice suddenly says. We all look at her.   
-	“I mean,” she says. “He’s got fire in him. It’s in him. You can hear that in his playing. It’s just bursting to get out.”  
-	I laugh. “How would you know it?”   
+	“I told you, he’s not with us,” I say.
+	​"Try to put that in an ad," says Eleanore.   
+	“He’s got *fire* in him,” Alice suddenly says. We all look at her.   
+	“I mean,” she says. “He’s got fire in him. It’s in him. You can hear that in his playing. It’s just bursting to get out. It's not something that you can control.”  
+	I laugh. “And how would you know?”   
 	She says, “By listening to him.” She blushes. “A lot.”  
 	Cindy asks Alice, “Do you think you have fire inside you?”  
-	“I do,” says Alice. “The show showed me that. This music.” She looks at me. “Tim and Pete have got that fire too, this is why they go to all these underground shows.” Her words send pleasant tingles down my back.  
+	“I do,” says Alice. “Going to my first show showed me that. This music.” She looks at me. “Tim and Pete have got that fire too, this is why they go to all these underground shows.” Her words send pleasant tingles down my back.  
 	Eddie asks, “Do you girls have fire in you, too?”  
-	Cindy and Eleanore look at each other and laugh.  
+	Cindy and Eleanore look at each other and burst out.  
 	“Yeah, they got a little bit of it going on, too,” Alice laughs with them. “Cindy is the powder keg, and Eleanore’s the spark.”  
 	Eddie says, “And what about Barry here?”  
 	Barry says, “Leave me alone, Edwar-do.”  
 	Eddie says, “You look like you would give your life to a higher cause. Wouldn’t even hesitate.”  
-	Barry laughs, “Is the cause dancing at the Steam Pillars shows? If so, I’m willing to give my life to that.”  
-	Cindy says, “Is that Barry talking over there? I mean the voice sounds like his, but the words–”  
-Eddie says, “You know what, all of you guys, come with me. There’s someone you should meet.”
+​	Barry laughs, “Is the cause dancing at the Steam Pillars shows? If so, I’m willing to give my life to that.”Cindy says, ​	​	“Is that Barry talking over there? I mean the voice sounds an awful lot like his, but the words–”  
+​	Eddie says, “You know what, all of you guys, come with me. There’s someone you should meet.”
 
 Across the way from Moore’s Restaurant, in the third floor of the U-Park-It Self-Park lot, the Steam Pillars truck is the only car, and a hub of tense action, overseen by a stern, watchful woman, someone I think I already saw at the Steam Pillars show.  
-	“Watch it now,” she says, “grab it by the edges.”  
-	I see Rosetta, the cigarette girl, and Jimmy, who danced with Alice the day before, carrying an little barrel over from the truck to the little pool of light from the streetlamps outside. Jimmy stumbles and rocks the barrel. I see a matchbook falling out of it.   
-	Jo, the tall guitarist, stands next to the onramp, a lookout. She’s smoking a long cigarette and whenever it touches her lips, she winces and shuts her eyes.   
+	“Take it easy now,” she says, “grab it by the edges.”  
+	I see Rosetta, the cigarette girl, and Jimmy, who danced with Alice the day before, carrying an little barrel over from the truck to the little pool of light from the street lamps outside. Jimmy stumbles and rocks the barrel. I see a matchbook falling out of it.   
+	Jo, the tall guitarist, stands next to the onramp: a lookout. She’s smoking a long cigarette and whenever it touches her lips, she winces and shuts her eyes.   
 Eddie says, “These are some people I want you to meet.”  
 “I don’t have time for you, Eddie,” says the stern looking woman. “Set down the crate under the light. Does everybody have pens?”  
 “Listen, Mama–”  
@@ -2831,39 +2834,52 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 *(Yeah! Give it to our new roadie, Tommy!)*
 
 Later, in the band's truck leaving the drive-in, with Eddie smoking at the wheel and the band all celebrating and drinking, I turn and look back. 
-​	In the future, experts will debate endlessly on when was it that the Steam Pillars first burst into the spotlight. Some will say Atlanta; others that it was as early as Columbia. But for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of caravan headlights, running up and down the hills and extending into the horizon. 
+​	In the future, experts will debate endlessly on when was it that the Steam Pillars first burst into the spotlight. Some will say Atlanta; others that it was as early as Columbia. But for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of caravan headlights, running up and down hills and extending into the horizon. 
 
-# Side 3: Alice
-## Track 12: Sundown Town
- (6 tact 2) 
-- [ ] radio break about Elvis: *…so Elvis stepped on a grenade and stepped off the edge of the world. We need a new King. Jerry Lee is underground;* 
+# Side C: Alice
+(the steam pillars face fame; the flock is born; tim starts playing with the band)
+### 12: Sundown Town 
+- the pillars and caravan face violent opposition; are decommissioned for a while; fan clubs rise in the meanwhile and they turn into flocks; the famous flames join the steam pillars and leave james brown; mr. macallister comes to curse but gets out blessing.
+- facing pushback from jealous eleanore and cindy about dating tim, alice is shown to have grown both in her abilities and social status in the group, as she brings the problem to a Loving conclusion. 
 
-Tim's hair is red. Tim's eyes are blue. Tim's eyelashes are also red, but at the same time blonde, as well. Tim's lips are thin and at the same time delicious. Tim's touch is gentle and unsure. Tim's smell is beyond the power words could hold. These are the things I'm telling myself to pass the time in this unprecedentedly silent car. 
-​	"So," Barry tries again. 
-​	"You know what, Bear, shut up," Cindy says. 
-​	"Yeah, Bear," Eleanore says. "It's none of yours."
-​	"So you're just not gonna talk to me?" I try again. 
-​	"Yes," Cindy says.
-​	"Ever?"
-​	"Yes."
-​	"Eleanore, same question?"
-​	Eleanore looks up at me from her copy of *SEVENTEEN.*
-​	"Yes," she says. 
+### 13: Are You Ready, Atlanta?
+- as the huge caravan finds crafty ways to infiltrate Atlanta, the Pillars are offered a deal to go "Straight" by attending a legal public show -- but having Heath play on a different stage. this causes rifts within the group and within the fan clubs. 
+- on the way to atlanta and while there, a mysterious suitor leaves alice pretty poems on phone booths. it turns out to be shirley and not tim. 
+- baba starts teaching alice to play the drums. while drumming, they muse about life. 
+- the show, in front of 10K people, is disrupted by the caravan itself, who spontaneously decides for itself. the chapter ends a moment before the disruption occurs. 
 
+### 14: Band On The Run / Ushpizin 
+- the caravan has to navigate harder enemies now, and use more guile and cunning. 
+- they have many guests, including Mr. C. Evans, who comes in and sort of stays. 
+- more real musicians join the steam pillars, who become a motherfucking large band
+- the caravan grows throughout the episode, which has time jumps. by the end of the track is so big it has a logistics arm 
+- vilma and heath clash more and more on stage. 
+- mucho, who never recovered from his injury, drinks more and more. 
+- tim is unhappy with the treatment he gets from the pillars. with Alice's support, he teaches himself to play guitar (using joe as inspiration) as alice continues her tutelage under baba. later, tim and alice will learn to play for work flocks. 
+### 15: You Can't Take It With You
+- Alice has her 18th party at a pillars show, where the band gives her respect
+- Mr. C. Evans befriends Tim. Alice doesn't like it. 
+- The track ends with band and loyal caravan members ditching their painted vehicles and boarding a train into their final destination: West East St. Los Givatayim. 
+# Side D: Tim
+(the steam pillars crash and burn; the flock matures; tim finds success)
+### 16: Better Have a Long Arm 
+- to appease Buzz Music, the pillars agree to record a single. this causes baba to leave the band. 
+- when the pillars get to the recording studio they learn their single is the b-side: the a-side will be the song Tim wrote. 
+- Mr C. Evans sets his sights on Tim instead of the pillars. He teaches him the phrase "if you're going to shake hands with the devil, better have a long arm."
 
-## Track 13: Are You Ready, Atlanta?
- (6 tact 3)
-## Track 14: Band on the Run   
- (7.1 - aftermath of atlanta: the band and caravan have real enemies now, and also a lot of new friends) 
-## Track 15: You Can't Take It With You 
- (7.2)
-# Side 4: Tim
-(in which the Pillars crash and burn, the flock matures and deals with authorities, and Tim's rise to fame begins)
-## Track 16: Shake Hands With a Devil 
- (8.1) 
-## Track 17: Let My People Go!
- (8.2)
-## Track 18: Too Much A-Love
- (8.3 - Sit-in, Babatunde sharing the secret of Love)
-## Epilogue: Will We Fade?
- (from Tim's POV)
+### 17: Let My People Go!
+- the pillars break up. 
+- in the wake of the pillars' breakup with buzz, the authorities surround West East Givatayim. 
+- Barry volunteers to talk to the Man, but since the Man doesn't understand flocking, he is mistaken for the leader and jailed. 
+
+### 18: Too Much A-Love
+- in the aftermath of last episode, the flocks decide to arrange a powerful sit-in next to the jail where Barry is held. 
+- babatunde appears as a flock member. he teaches the secret of Love to the flock, negating the need for the pillars. 
+- in an "all because of a little nail" scene, cindy eats a little led.
+
+# Epilogue
+- at cindy's funeral, mr. macallister joins the movement.
+- after, tim and alice try to convince each other but fail. Alice stays with the flock and Tim leaves to pursue a career in show business. (We might learn through his musings that the song he wrote for alice was his first hit.)
+- Before leaving, Tim finds Barry and leaves him with a long, romantic goodbye kiss. 
+- Tim is leaving West Los Givatayim on his bike. It rains. Near the sign saying he's leaving city limits he stops and looks back. 
+- Goodbye, Alice. 
