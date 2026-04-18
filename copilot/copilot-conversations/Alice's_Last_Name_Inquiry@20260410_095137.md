@@ -12,7 +12,7 @@ tags:
 **user**: what is alice's last name
 [Timestamp: 2026/04/10 09:51:37]
 
-**ai**: Based on the manuscript [[Flock-Music]] and the associated character notes, Alice’s last name is not explicitly stated. She is primarily referred to as **Alice** or by her nickname **"Peaches."**
+**ai**: Based on the manuscript [[Flock Music]] and the associated character notes, Alice’s last name is not explicitly stated. She is primarily referred to as **Alice** or by her nickname **"Peaches."**
 
 In the notes, she is also identified as **"Alice of Wonderland"** (a reference to her fan club, [[Wonderland Express]]), but this is a moniker adopted within the context of the flock rather than a surname.
 [Timestamp: 2026/04/10 09:51:40]
@@ -59,10 +59,10 @@ Please retry in 1.373770349s. [{"@type":"type.googleapis.com/google.rpc.Help","l
 }
 [Timestamp: 2026/04/10 11:33:18]
 
-**user**: Your job is to tell me the next unwritten beat in [[Flock-Music|the manuscript]] by aligning the manuscript to its beatmap. The beatmap is the source of truth. Do not invent scene developments that are not explicitly present in the beatmap.
+**user**: Your job is to tell me the next unwritten beat in [[Flock Music|the manuscript]] by aligning the manuscript to its beatmap. The beatmap is the source of truth. Do not invent scene developments that are not explicitly present in the beatmap.
 
 Process:
-1. Read the last 50 lines of [[Flock-Music|the manuscript]].
+1. Read the last 50 lines of [[Flock Music|the manuscript]].
 2. Identify the exact last written line or sentence, even if it is partial or out of order.
 3. Open the correct beatmap in {Beatmaps/} for the current Track (chapter).
 4. Find the closest exact or near-exact beatmap line that matches the manuscript’s last written line.
@@ -95,10 +95,10 @@ Output:
 - Someone tells them to turn on the Radio. It’s the end of the world.
 [Timestamp: 2026/04/10 21:31:54]
 
-**user**: Your job is to tell me the next unwritten beat in [[Flock-Music|the manuscript]] by aligning the manuscript to its beatmap. The beatmap is the source of truth. Do not invent scene developments that are not explicitly present in the beatmap.
+**user**: Your job is to tell me the next unwritten beat in [[Flock Music|the manuscript]] by aligning the manuscript to its beatmap. The beatmap is the source of truth. Do not invent scene developments that are not explicitly present in the beatmap.
 
 Process:
-1. Read the last 50 lines of [[Flock-Music|the manuscript]].
+1. Read the last 50 lines of [[Flock Music|the manuscript]].
 2. Identify the exact last written line or sentence, even if it is partial or out of order.
 3. Open the correct beatmap in {Beatmaps/} for the current Track (chapter).
 4. Find the closest exact or near-exact beatmap line that matches the manuscript’s last written line.
@@ -128,10 +128,10 @@ Output:
 Please retry in 29.745755818s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerDay-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"29s"}]</errorChunk>
 [Timestamp: 2026/04/10 21:35:30]
 
-**user**: Your job is to tell me the next unwritten beat in [[Flock-Music|the manuscript]] by aligning the manuscript to its beatmap. The beatmap is the source of truth. Do not invent scene developments that are not explicitly present in the beatmap.
+**user**: Your job is to tell me the next unwritten beat in [[Flock Music|the manuscript]] by aligning the manuscript to its beatmap. The beatmap is the source of truth. Do not invent scene developments that are not explicitly present in the beatmap.
 
 Process:
-1. Read the last 50 lines of [[Flock-Music|the manuscript]].
+1. Read the last 50 lines of [[Flock Music|the manuscript]].
 2. Identify the exact last written line or sentence, even if it is partial or out of order.
 3. Open the correct beatmap in {Beatmaps/} for the current Track (chapter).
 4. Find the closest exact or near-exact beatmap line that matches the manuscript’s last written line.

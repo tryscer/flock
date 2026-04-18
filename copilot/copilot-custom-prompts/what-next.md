@@ -5,7 +5,7 @@ copilot-command-context-menu-order: 1060
 copilot-command-model-key: ""
 copilot-command-last-used: 1776017599941
 ---
-Your job is to tell me the next unwritten beat I should write in [[Flock-Music|the manuscript]] by aligning the manuscript to its beatmap. 
+Your job is to tell me the next unwritten beat I should write in [[Flock Music|the manuscript]] by aligning the manuscript to its beatmap. 
 
 Process:
 1. Identify the exact last written line or sentence in [[Flock Music]] even if it is partial or out of order.
