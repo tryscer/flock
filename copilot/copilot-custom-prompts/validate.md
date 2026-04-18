@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1070
 copilot-command-model-key: ""
-copilot-command-last-used: 1776472268748
+copilot-command-last-used: 1776536631608
 ---
 You are an anachronism and plausibility auditor for an alt-history novel set in the U.S. South, summer 1958.
 Your task is to evaluate whether {} is believable within that setting, considering:

@@ -199,19 +199,19 @@ By the time we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACE
 ​        "Come, sister,” says Barry. “Let’s find us a mechanic”. ​        Cindy takes my hand, so I come, too. 
 
 
-Larry's Juke Joint is a shack not far from, but certainly not adjacent to, the gas station. We walk through a swinging door and inside it’s one small room, cool and dark, smelling of stale beer and tobacco smoke. The sawdust on the floor is trampled and black, indicating that at other times the place is packed with dancers and drinkers. Now, in the morning, it’s empty save for a few dirty tables and an old jukebox. The jukebox is loudly playing a record I know — "Wake Up, Little Susie", by the Everly Brothers. Next to the jukebox, at the only full table, two men sit next to two glasses and a half-empty bottle.  
+Larry's Juke Joint is a shack not far from, but certainly not adjacent to, the gas station. We walk through a swinging door and inside it’s one small room, cool and dark, smelling of stale beer and stale smoke. The sawdust on the floor is trampled and black, hinting that, at other times, the place is packed with dancers and drinkers. Now, in the morning, it’s empty save for a few dirty tables and an old jukebox. The jukebox is loudly playing a record I know — "Wake Up, Little Susie", by the Everly Brothers. Next to the jukebox, at the only full table, two men sit next to two glasses and a half-empty bottle.  
 ​        "Please, no more," says the older one. He looks at his glass, nauseated.   
 ​        "What’s the matter with you?" says the younger man. "I thought you said you could drink". He's got a foreign accent and he's wearing a mechanic's overalls. The embroidered patch on his chest says his name is Eddie.  
 ​        We come closer.  
 ​        "Excuse me," says Barry, official-like. The man whose name is probably Eddie looks up. He's got black eyes and black hair, combed up like a wall above his head, and a clean shaven face. He's striking: not handsome, rather sharp-featured, keen.  
-​        "If you're looking for Larry, you gotta holler through the kitchen door," he says. "He's in there making his terrible barbecue".  
+​        "If you're looking for Larry, you gotta holler through the kitchen door," he says. "He's in there making his terrible pulled pork".  
 ​        "Actually," says Barry, "we need a mechanic".  
 ​        "Tough luck. He's not in today".  
-​        "You're wearing a mechanic's uniform," says an indigent Barry and tugs at his tie. I giggle and Cindy presses my hand hard.   
+​        "You're wearing a mechanic's uniform," says an indigent Barry. He tugs at his tie. I giggle and Cindy presses my hand hard.   
 ​        "Just keeping his shirt warm. Come on," he says to the sallow-looking fellow next to him, "one last round. I'll give you triple or nothing".  
 ​        "No more, Eddie," says the sallow man. "Please, no more". He looks at his glass again – it's about one eighth full – and burps thoughtfully.  
 ​        "Excuse me very much," says Barry. "We have a vehicle in urgent need of repair".  
-​        "Oh," says the mechanic. "I didn't know it was a *vehicle*. I thought you just had *car trouble*. In that case, I am *forlorn* to inform you that this very Thursday happens to be the National Day of Appreciation For the Italian-American Partnership, and *in light* of that, and the fact that Max just told me that I'm a slob, and at that a lazy one, our *vehicle repair services* are shut down for the day.”   
+​        "Oh," says the mechanic. "I didn't know it was a *vehicle*. I thought you just had *car trouble*. In that case, I am *forlorn* to inform you that this very Thursday happens to be the National Day of Appreciation For the Italian-American Partnership, and *in light* of that, and come to think about it also the fact that Max just told me that I'm a slob -- me! -- and at that a lazy one, our *vehicle repair services* are shut down for the day.”   
 ​        The other man laughs – a drunkard's laugh, interrupted by belches. He then proceeds to crash head-first into the table. Moments later he's snoring.   
 ​        Barry looks confused. "Eddie," he says at last. "Can I call you Eddie?"  
 ​        "Don't know an Eddie," says the mechanic.  
@@ -225,15 +225,16 @@ Eddie's dark eyes turn to me. His attention is intense, not entirely unpleasant.
 Barry looks at me like he would look at an infantile, but the mechanic is mollified.  
 ​        "Oh," he says softly. "I didn't know you guys were music fans.”  
 ​        "So will you fix our car?"  
-"Well…" says Eddie. "I'll fix your car. If, and only if, you play our little game here. As you can see, my play partner –" he slaps the back of the poor fellow lying on the table – "is temporarily indisposed".  
-​        "We have no interest in playing your games," says Barry.  ​        "I'll play your game," I say. Barry nudges me.  
+"Girl," says Eddie. "I'll fix your car. If, and only if, you play our little game here. As you can see, my play partner –" he slaps the back of the poor fellow lying on the table – "is temporarily indisposed".  
+​        "We have no interest in playing your games," says Barry.
+​        "I'll play your game," I say. Barry nudges me.  
 ​        "Good," says the mechanic. "Good". He gets up nimbly and goes towards that jukebox.
 
 
 *(...our friends when they-say… oooooh la la\!)*
 
 
-"Now this here jukebox," says the mechanic and slaps the old thing, "has a unique, one-of-a-kind behavior. It seems that when you kick it…" he kicks the jukebox like it was a bad dog. Life drains out of it. Its lights dim, the music slows then stops…
+"Now this here jukebox," says the mechanic and slaps the old thing, "has a unique, one-of-a-kind behavior. It seems that when you kick it…" he kicks the jukebox like it was a bad dog. Life drains out of it. Its lights dim, the music slows down, then stops…
 
 
 *(we gotta go hooooomm–)*
@@ -297,10 +298,10 @@ The mechanic stares at me, motionless.
 "And I'll tell you one other thing\!" says Barry. He's drunk. “There is no such thing as the Day of Appreciation For the Italian-American anything\! My papa fought in the war and Italy was part of the *Axis*\! So there\!”  
 ​        Eddie looks miffed at that comment.   
 ​        "I'm sure I'll get the *next* one, Barry. I'm sorry", I say.  
-​        There’s quite a crowd around us: the drunk, half awake now; Larry, a short man in a dirty apron; the gas station attendant, Max; a couple of early barflies; and Eleanore and Tim, who slinked in looking all guilty.   
+​        There’s quite a crowd around us: the drunk, half awake now; Larry, a short man in a dirty apron; the gas station attendant, Max; a couple of early-bird bar-flies; and Eleanore and Tim, who slinked in looking all guilty.   
 ​        “And I’ll tell you another\!” slurs Barry. “You’re — you — I know your name is Eddie\! We all do\!” He turns to the crowd for support and finds none.   
 ​        “Alright,” says the mechanic whose name is Eddie, “I’ll give you *that*.”  
-​        “You know, Bear, there's really no need for him,” says Tim. “I told you I got it.”  
+​        “You know, Bear, there's really no need for his help,” says Tim. “I told you, I got it.”  
 ​        “Did you really fix it?” Asks Cindy, cozying up to him.  
 ​        “Sure did, kid,” He flashes a proud smile at her.   
 ​        “You — you don’t — you’re not getting it,” says Barry. “Now it’s the principle of the matter\! Beat him already, Alice in Woner — in Wondrous — just beat this clown\!”  
@@ -317,7 +318,7 @@ The mechanic stares at me, motionless.
 ​        Tim thinks. “I mean, it sounds like *Bye Bye Love…”*  
 ​        “Time’s up,” says Eddie.   
 ​        “But it’s really *Rebel Rouser.”*   
-​        “Alright,” I shout. “It’s ‘Rising Rebel\!’ I mean ‘Rebel Rouser.’ I mean Rebel Rouser and that’s final\!”  
+​        “Alright,” I shout. “It’s ‘Rising Rebel\!’ I mean ‘Rebel Rouser.’ I mean Rebel Rouser by someone. Duane was his name, I think. And that’s final\!”  
 ​        Eddie looks at Tim with the angriest look I’ve ever seen. Behind him, the jukebox wakes back to life, filling the room with a reverberating, bending guitar sound. Eleanore and Tim smile.   
 ​        The crowd is unhappy: the entertainment part of the morning is over. 
 
@@ -327,7 +328,7 @@ The mechanic stares at me, motionless.
 ​        “Where are you thinking of going?” asks Eddie, trying to buy time.  
 ​        “Come on, we won\!” I say. “We’re going to the county fair in Richmond. You said you’ll fix it.”  
 ​        “What’s in Richmond anyway?” Says Eddie. “Corn on the cob? Some mouldy big band music?”  
-​        “If you gotta know,” says Tim. “Not that it matters because the car’s good to go, but if you really gotta know we’re all going to see the *Seven Tops*, my friend. They play Rock and Roll. They’re from *Nashville*”. Eddie looks at him with dead eyes.   
+​        “If you gotta know,” says Tim. “Not that it matters because the car’s good to go, but if you really gotta know we’re all going to see the *Seven Tops*, my friend. They play rock'n'roll. They’re from *Nashville*”. Eddie looks back at him with dead eyes.   
 ​        I think of a big railroad engine, spewing a cloud of smoke, and a bunch of Israelites following. “And if you fix it fast,” I add, “we might also be going to see someone called *The Steam Pillars*. I’m not sure where they’re from, but…”  
 ​        I stop to look at Eddie. He suddenly gets very still. He’s looking at me again with that intense stare…  
 ​        “What did you say, little girl?”  
@@ -349,8 +350,8 @@ The noon sun hurts my eyes. I think about asking Tim to lend me his shades, but 
 ​        “If you fix it for free, you’re fired, that’s it,” says Max.   
 ​        “Alright,” says Eddie, and heads out.   
 ​        “Come on\!” I say. “Don’t go. We’ll give you a ride, right, Barry?”  
-​        “I don't care,” says Barry and sips. From his face you can tell the coffee is terrible.   
-​        “That’s it, you’re fired,” says Max and takes the coffee away from Barry. Nobody pays attention to him. Barry takes another Styrofoam cup.   
+​        “I don't care,” says Barry and sips. From the face he's making I can tell the coffee isn't very good.   
+​        “That’s it, you’re fired,” says Max and takes the Styrofoam cup away from Barry. Nobody pays attention to him. Barry fills up another cup.   
 ​        “Alright,” says Eddie and lifts the hood.   
 ​        “She’s fine,” says Tim. He’s standing next to Eddie. “It was just the carburetor. I adjusted the idle mixture. It runs like a *dream*.”  
 ​        Eddie looks at Tim. “Alright,” he says and shuts the hood. “Let’s go”.   
@@ -363,7 +364,7 @@ The noon sun hurts my eyes. I think about asking Tim to lend me his shades, but 
 ​        “Hell I will. I don’t want to see you here ever again,” says Max.  
 ​        “It’s settled then,” says Eddie.   
 ​        “Good,” says Barry.   
-​        “Damn it,” says Tim.  
+​        “==Damn it==,” says Tim.  
 ​        “Are we going or what?” says Eleanore.    
 ​        But Cindy is quiet, pale: she looks at Eleanore, then at Tim. In the sunlight you can plainly see a couple of dark lipstick marks on his neck. 
 
@@ -379,8 +380,9 @@ It’s beginning to get pretty crowded in the car: on the bench seat in front, T
 *(yyyyou sha-ake my bones and you-a rattle my brain…)*
 
 
-“See, that’s what I told you, Cindy,” says Tim. “He… he is the King. Listen to that guitar fly\!” Cindy ignores him and he looks dumbly confused.   
-​        “Pffff,” says Eddie. “Weak”. He flashes his signature smile at Cindy and she obligingly smiles back, not before making sure Tim sees.  
+"Did he say 'last hit'?" says Eleanore. "Surely he meant 'latest', right?"
+​	“See, that’s what I told you, Cindy,” says Tim. “He… he is the King. Listen to that guitar fly\!” Cindy ignores him and he looks dumbly confused.   
+​        “Pffff,” says Eddie. “Weak”. He flashes a smile at Cindy and she obligingly smiles back, not before making sure Tim sees.  
 ​        “Now, have you ever heard that Jerry Lee Lewis version? He recorded it just before he disappeared. Not many people heard that one. That’s a shame, a shame. Now, Jerry Lee really *made* something out of these notes\!”  
 ​        “I love Jerry Lee,” I say, meaning it a little more deeply than I’m willing to show.   
 ​        “There’s a girl who knows what’s what\!” says Eddie. I finally get the signature smile to myself.   
@@ -395,10 +397,10 @@ I blush. “I listened to *Whole Lotta Shakin’* so much I got the record scrat
 ​        Eddie raises an eyebrow.  
 ​        “Cindy\!” Yells Eleanore. “That’s disgusting\!”  
 ​        “What?” Says Cindy, still angry at her.   
-​        “Leave her alone, Eleanora,” says Barry. “She doesn’t know.”   
+​        “Leave her alone, Eleanore,” says Barry. “She doesn’t know.”   
 ​        “What did I say?”  
 ​        “To think,” Eleanore says to Eddie, “that in nineteen-fifty-eight, people can still talk like that…”  
-​        “You sure didn’t mind him talking like that when you took his money for your college,” says Cindy and immediately regrets it. “I’m sorry, Eleanore,” she says. Eleanore looks out of the window.  
+​        “You sure didn’t mind him talking like that when you took his money for college,” says Cindy and immediately regrets it. “I’m sorry, Eleanore,” she says. Eleanore looks out of the window.  
 ​        “Overtake them,” says Eddie.   
 ​        “Now, I’m a responsible driver,” slurrs Barry.   
 ​        “Come on, man,” says Eddie, and waves to the people in the van. They wave back. “Live a little”.   
@@ -2291,8 +2293,7 @@ Jimmy and Rosetta sit on the ground next to the barrel. They take matchboxes fro
 ## Track 9: Market Street Stroll  
 *(You’re listening to WGBG 1400AM, The Voice of the Gate City… and this fine Sunday begins with promise of commercial excitement all around the Gate City’s Sesquicentennial Anniversary. Down at the Jefferson City Hall, the Brothers of the Brush and the Centennial Belles will have a joint beard-growing contest and Revival Dress fashion show… all brought to you by the smooth flavor and lasting calm of Buzz Cigarettes, a real HONEY of a smoke...)* 
 
-That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people: shoppers, lunchers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  
-​	It’s just me and Alice. It’s an especially bright day. We’re looking through the display windows of the shops, waiting for our turn in the ploy.  
+That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersection at the edge of an affluent white neighborhood. The streets are dense with people: shoppers, lunch-goers, church let-outs. At one end, where West Market street meets Main, there’s a large edifice. Under it, an-all black blind choir are setting up, walking up the stairs in single file, each one with his hand on the next guy’s shoulder.  ​	It’s just me and Alice. It’s an especially bright day. We’re looking through the display windows of the shops, waiting for our turn in the ploy.  
 ​	“Let’s pretend to shop,” Alice says. “I want to pretend to buy those white ones with the lace.”  
 ​	“May I pretend to buy them for you?” I say, feeling chivalrous.  
 ​	“You may,” Alice laughs, “you may. And may I pretend to buy you that little red guitar? I think you’d look good with a guitar in your hands.”  
@@ -2301,13 +2302,13 @@ That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersec
 *(He’s got the whole world… in his hand…)*
 
 “Is that our *signal?”* Alice asks. “God, do you realize in a matter of days we’ve turned from, like, regular kids, to people who know *signals?*”   
-​	We walk over to the street corner below the edifice. The blind choir is Jo, Babatunde, Mucho and Vilma. They’re all dressed in black suits and dresses – church clothes. Alice and me are dressed in Sunday bests as well. We changed into them, hurried and sending curious looks at each other, in the school bus, which that morning had a little clothes shop explode in its rear. Sunday clothes litter the back benches. “Mama”, who turned out to be Bette, and not that much older than us, listed the parameters of the “little upheaval” in simple terms.  
+​	We walk over to the street corner below the edifice. The blind choir is Jo, Babatunde, Mucho and Vilma. They’re all dressed in black suits and dresses – church clothes. Alice and me are in Sunday bests as well. We changed into them, hurried and sending curious looks at each other, in the school bus, which that morning had a little clothes shop explode in its rear. Sunday clothes littered the back benches. “Mama”, who turned out to be Bette, and not that much older than us, listed the parameters of the “little upheaval” in simple terms.  
 	“You kids,” she said, “have fun.”  
 	This was later expanded upon, on the way to the square, by Rosetta:  
 	“So we’re supposed to lure people into the Love,” she said, examining a pink sundress at the rear of the bus.  
 	“The what?” Alice says.  
 	“Oh,” she says. “Sorry. It’s just what we call the… well… you know. Actually, it’s kind of hard to explain. It’s the love of the band, I guess. Just getting people into that Love. It’s kind of easy to do and hard to explain.”  
-	“I did this to you,” Jimmy says to Alice. “Do you remember?”  
+	“I did it to you,” Jimmy says to Alice. “Do you remember?”  
 	Alice giggles and I scowl. She says, “You asked me if I dared to dance.”  
 	“Yeah, yeah,” he says. “And you did.”
 
@@ -2316,16 +2317,15 @@ That Sunday begins at the Jefferson Square in Greensboro, a large, busy intersec
 Now Babatunde riffs on his washboard and Mucho kind of grooves along with him on the bassline, played on an ancient washtub base. We stand there, two perfectly innocent bystanders.  
 	“If I were a Russian spy, what would my codename be?” Alice asks.  
 	“You would be Katyushka, the deadly assassin.”  
-	“You would be Ivan, the handsome hit-man.”  
-	“Boy, these guys sure play good\!”  
-	Some people join us in listening, mostly kids.
+	“Then you would be Ivan, the handsome hit-man.”  
+	“Boy, these guys sure play good\!” Some people join us in listening, mostly kids.
 
-*(Heeeeeeeeeeee’s got… the WHOLE WORLD in heeeeeeeeeeeeee–)*
+*(Heeeeeeeeeeee’s got… the WHOLE WORLD in haaaa–)*
 
-The song ends. Then Joe, on an old beat up guitar, plays this chirpy tune, like a loud “good morning.” Vilma sings about someone hearing, up above his HEAAAID, some TROUBLE-IN-THE-AIIR and we hold hands, shuffle and twirl.   
-I ask Alice, “dare to dance?”  
-She laughs. We dance on the sidewalk, two feet away from the Steam Pillars. Cindy joins from the other side of the street. She talks a young man into dancing with her: the guy doesn’t want to, Cindy pulls his arm, his friends are making fun of him… across the street, Elenore does the same thing to another white kid. As we’re dancing, more white kids join us. And then families, at first just the newly-weds but then also the grandparents coming back from church. There’s a little dance party right there at the square.   
-Alice and I find ourselves staring, our movements synced.  
+The song ends. Then Joe, on an old beat-up guitar, plays this chirpy tune, like a loud “good morning.” Vilma sings about someone hearing, up above his HEAAAID, some TROUBLE-IN-THE-AIIR and we hold hands, shuffle and twirl.   
+​	I ask Alice, “dare to dance?”  
+​	She laughs. We dance on the sidewalk, two feet away from the Steam Pillars. Cindy joins from the other side of the street. She talks a young man into dancing with her: the guy doesn’t want to, Cindy pulls his arm, his friends are making fun of him… across the street, Elenore does the same thing to another white kid. As we’re dancing, more white kids join us. And then families, at first just the newly-weds but then also the grandparents coming back from church. There’s a little dance party right there at the square.   
+Alice and I find ourselves locking sights, our movements synced.  
 	“I think that’s the love Rosetta was talking about before,” I tell her.   
 She smiles at me. “What is?”  
 “How I feel right now. With you.”  
@@ -2340,7 +2340,7 @@ She smiles at me. “What is?”
 “For His sweet mercy, Lord,” says a passerby, a little church lady. “Now you’ve upset Abner in his box\!”  
 ​	The cop, most probably named Abner, hangs outside his box, to take a better look at the crowd. Some dancers stop and look up, guilty. Eleanore’s prey is nowhere to be seen.   
 	“We’re just dancing, sir\!” says Alice.  
-	“You’re causing a traffic jam, madam\! That is public disruption\!”  
+	“You’re causing a traffic jam, miss\! That constitutes public disruption\!”  
 	“No we’re not\!”  
 	One of the dancers yells back, “It’s a free country\! We don’t need permission to dance\!”  
 The black blind choir rises from their seats on the Jefferson monument. They pick up their instruments and start singing all together:
@@ -2350,45 +2350,45 @@ The black blind choir rises from their seats on the Jefferson monument. They pic
 Vilma stands in front; Mucho puts a huge hand on her shoulder, and Babatunde stands behind him, putting his hand on Mucho’s back; in the back, Jo, with huge sunglasses on, puts her hand on Babatunde’s shoulder. They start down the monument, down the street, towards the market…   
 	I say, “I say, let’s follow them\!” – and get a disapproving look from Alice.  
 	“Not subtle enough?” I whisper.   
-	“Really not subtle,” she whispers back. “Ivan, really I am disappointed.”  
+	“Really not subtle,” she whispers back. “Ivan, really, I am *disappointed*.”  
 	I take her hand and we walk and kind of dance to the music, and a few other people are joining us in a procession. Eleanore got her boy back; so did Cindy, and with us a middle-aged couple, for which morning was pretty much routine up until a few minutes ago.   
-	“Hey you dancers\!” yells the cop, above us. “No dancing in a procession either\! Why, this—this is an illegal demonstration\!”  
-	“Don’t need to permit to dance\!” yells the same guy as before.   
+	“Hey you dancers\!” yells the cop, above us. “No dancing in a procession either\! Why, this—this constitutes an illegal demonstration\!”  
+	“Don’t need no permit to dance\!” yells the same guy as before.   
 	“Don’t need no, don’t need no–” riffs the band.  
 	“It’s a miracle\!” says Babatunde, “I can see\!”  
-	We chant, “he can see, he can see\!” and we start dancing as we’re walking down the road, passing through the crowd, away from the cop. Every now and again some face peels off from the crowd and joins us. By the time we get to the piano, the procession is huge. Newlyweds and grandpas. Children and parents.   
-The piano stands in the underpassing, where the street narrows until it meets the Market St. Bridge. Heath is playing the piano – I can recognize his staccato playing long before I can recognize him by sight.  
-“They’re playing the same song,” Alice says. “Both of them.”  
-“I hear it too\!”  
-Heath’s music matches perfectly with what our group is singing:
+	We chant, “he can see, he can see\!” and we start dancing as we’re walking down the road, passing through the crowd, away from the cop. Every now and again some face peels off from the crowd and joins us. By the time we get to the piano, the procession is pretty large. Newlyweds and grandpas. Children and parents.   
+The piano stands in the under-passing, where the street narrows until it meets the Market St. Bridge. Heath is playing the piano – I can recognize his staccato playing long before I can see him.  
+​	“They’re playing the same song,” Alice says. “Both of them.”  
+​	“I hear it too\!”  
+​	Heath’s music matches perfectly with what our group is singing:
 
 *(Let me tell you 'bout a girl I know*  
-*She is my baby and she lives next door)*
+*She is my baby and she lives next door--)*
 
 “It’s my favorite Ray Charles number\!” Alice says. She squeezes my hand. We dance, sweating heavily in the noon sun. We’re close now, almost hugging. I can see every eyelash on her eyelids.   
 	“We’re here,” I say, without looking up.  
 A whole group of black people are dancing around the piano. I see Pete there, as well as Jimmy and Rosetta. Jimmy is encouraging an older lady to dance.  
-Our group, the whites, dances its way under the bridge. The two groups almost touch, not mingle yet. Vilma climbs on Heath’s piano and shouts out,
+Our group, the whites, dances its way under the bridge. The two groups almost touch, but don't mingle yet. Vilma climbs on Heath’s piano and shouts out,
 
 *(Hallelujah, I just love her so…)*
 
 Two cops, looking lost and confused, stand at the edge of the party under the bridge.   
-	“What did I tell ya?” says one as we pass by, exchanging amused looks. “It wouldn’t stay non-mixed for too long. Didn’t I tellya that?”  
+	“What did I tell ya?” says one as we pass by, exchanging amused looks. “I told ya it wouldn’t stay non-mixed for too long. Didn’t I tellya that?”  
 	“I’m getting backup, where’s that damn police box?”  
 	The two parties now collide, and they do so softly… gently. I find our rhythm changes to match the the ones around us. 
 
-(Everybody asks me how I know  
-I smile at them and say she told me so)
+*(Everybody asks me how I know*  
+*I smile at them and say she told me so)*
 
 “Oh wow,” says Alice. “Can you feel us merging?”  
 	I almost see it then: her breath leaving her lips looks like smoke. Only this smoke is bobbing and swaying to the music. As I look, the smoke disperses. Her lips are pink, almost white in this sun. We are a bubble in the midst of shouting and yelling.  
 	“Alright, everybody, the fun is over\! Go home\!”  
 “There you are, men, form a line between the two groups\!”  
-	“It’s the Seven-Sevens\! I’m getting outta here.”  
+	“It’s the Seven-Sevens\! I’m getting outta here--”  
 	My face and Alice’s face almost are almost touching. I look at her; she’s leaning, towards me…    
 	“We have a right to dance\!”  
 “You there, officer, when the hell does your chief arrive? Come on, son\!”   
-	I press my lips to Alice’s. Her lips are soft and dry. She purses her lips. I hear Cindy’s voice, close and warm and icy-hard…  
+	I press my lips to Alice’s. Her lips are soft and dry. She purses her lips. I hear Cindy’s voice, close and warm and steel-hard…  
 “Why, the southern gentlemen… hello there, sir. There’s no need to be angry, just a spontaneous dance. Of course, sir, of course, maybe some people are getting out of hand. Maybe if we can work together we can fix that…”  
 “Barry\!” Alice suddenly says, right into my lips.  
 	“What? Why?” I say.   
@@ -2407,9 +2407,9 @@ We make our way through the thick crowd, dancing to Heath’s piano. Alice and I
 	“Just pile on in\!”  
 	“What are you doing? That’s *my* hand\!”
 
-(radio break)
+- [ ] (radio break)
 
-The road takes us through a procession of clean, new brick warehouses. The car is steaming again, the vinyl seats redolent and sticky. The girls are sitting behind, surrounding Vilma. Cindy is tying her red headband around Vilma’s head. I hand over my sunglasses. Alice takes them from me, letting her finger linger on mine a second longer… then puts the sunglasses on Vilma. Properly disguised, and sitting between taller Cindy and Eleanore, she passes our inspection. Barry looks extra sweaty behind the wheel.   
+The road takes us through a procession of clean, new brick warehouses. The car is steaming again, the vinyl seats ==redolent== and sticky. The girls are sitting behind, surrounding Vilma. Cindy is tying her red headband around Vilma’s head. I hand over my sunglasses. Alice takes them from me, letting her finger linger on mine a second longer… then puts the sunglasses on Vilma. Properly disguised, and sitting between taller Cindy and Eleanore, she passes our inspection. Barry looks extra sweaty behind the wheel.   
 	“What have you been up to?” he says.  
 	We erupt.  
 	“And then Eleanore gave this kid she was dancing with a matchbook\!”  
@@ -2426,11 +2426,11 @@ The road takes us through a procession of clean, new brick warehouses. The car i
 “Dancing,” Alice and I say together. I steal sideway glances at Alice to see that she’s blushing. There is something very endearing about Alice’s blushes, I realize. I don’t know why I say it – maybe wanting to see more of that blush – but when I open my mouth I hear myself say, “Kissing.”  
 Everybody laughs. Cindy doesn’t. Alice laughs, too – a high-pitched laugh, full of mirth. Her eyes wander and find mine. We stay locked in looks for a while and it feels to me like a kind of hug.  
 “Careful,” Cindy says. “She’s all mine.”  
-“Oh now, it is steaming in this car,” says Vilma.  
+“Oh come now, it *is* steaming in this car,” says Vilma.  
 “I like you better than our previous celebrity guest,” Eleanore says.  
 “Who was that?”  
 “Heath.”  
-“Oh, now,” says Vilma. “He’s a good sort. Just likes keeping to himself. So what’s your names? This one’s Cindy and you are Barry…”
+“Oh, hush,” says Vilma. “He’s a good sort. Just likes keeping to himself. So what’s your names? This one’s Barry and you are Cindy…”
 
 Near the Southern Railway Depot, where the buildings make way for brambles and stones, Vilma drops a bomb.  
 “So are you guys officially, like, in the caravan?” she asks.   
@@ -2443,7 +2443,7 @@ Near the Southern Railway Depot, where the buildings make way for brambles and s
 “I guess we’ll dance again some other time?” says Cindy.  
 “When were you gonna tell me?” says Alice. Her face is flushed.  
 “I mean,” I say. “This was all going to end at some point, no?”  
-“But why so soon, man?” says Barry. I’m so surprised by what he says that I start giggling. Cindy joins my laughter.   
+“But why so soon, man?” says Barry. I’m so surprised by what he says that I start to laugh. Cindy joins me.   
 “My brother, the convert,” she says.  
 Her brother stretches his arms in mock relaxation.   
 “The good life on the road,” he says.   
@@ -2452,7 +2452,7 @@ Her brother stretches his arms in mock relaxation.
 I say, “So maybe we’ll dance again some other time, kiddo.”
 
 The Magnolia House is a two-story detached house, covered with white wood boards and light green roof. Vilma and I pass across a series of big windows looking into a busy hotel lobby.  
-“So long,” says Vilma. “Here’s your friend’s headscarf. I really do hope we’ll ‘dance again some night,’ Tim. You’re pretty to look at from the stage.”  
+“So long,” says Vilma. “Here’s your friend’s headscarf. I really do hope we’ll ‘dance again later,’ Tim. You’re pretty to look at from the stage.”  
 ==​	I kiss her on the cheek and leave. ==
 
 ## Track 10: Turn On the Radio
