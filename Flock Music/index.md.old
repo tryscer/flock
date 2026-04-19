@@ -1,0 +1,38 @@
+---
+longform:
+  format: scenes
+  title: Flock Music
+  workflow: Default Workflow
+  sceneFolder: /novel/
+scenes:[
+  - front-matter
+  - side-a-alice
+  - runaway-girl
+  - kick-the-jukebox
+  - dare-to-dance
+  - all-aboard
+  - second-street-saturday-night
+  - birds-of-a-feather
+  - side-b-tim
+  - morning-gorgeous
+  - i-saw-it-too
+  - market-street-stroll
+  - turn-on-the-radio
+  - nine-minutes-past-four
+  - side-c-alice
+  - don-t-wait-for-the-sunset
+  - hardest-working-men
+  - a-different-kind-of-barry
+  - are-you-ready-atlanta
+  - the-israelites
+  - you-can-t-take-it-with-you
+  - side-d-tim
+  - better-have-a-long-arm
+  - let-my-people-go
+  - too-much-a-love
+  - epilogue
+  - index
+]
+  ignoredFiles: []
+
+---
