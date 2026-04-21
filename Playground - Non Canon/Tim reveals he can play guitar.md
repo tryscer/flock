@@ -1,0 +1,5 @@
+**
+
+“The thing is,” I say, stumbling over the words, “the thing is I like red nail polish. It… it attracts my attention. And the thing is that Jo always has her fingernails in red. And ever since the first show, back at the county fair, I used to watch her fingernails. I was transfixed. I’d see nothing but them. I’d hear the music, like, on another track in my head, and my councious brain was all in those fingernails of her left hand runnin on the neck of that guitar. I’d see them in my dreams. And in my waking hours I would memorize them. Those patterns of shapes they take when the music sounds like this, like that. So when I picked up your guitar I knew: this shape means this sound.” I pluck to illustrate my point. “That’s a G-Major,” Jo says softly. “I don’t know from that,” I say. “I know what it sounds like.” “Boy,” says Jo. “Never seen a face so red.” “Fine,” I say. “Mock me, whatever. But this is how I know.” “You sure you ain’t sick? You wanna have a lie down?”
+
+**

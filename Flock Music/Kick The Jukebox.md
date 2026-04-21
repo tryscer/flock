@@ -1,4 +1,5 @@
-- [ ]  radio insert - buzz cigarette ad and throw to rebel rouser
+
+[ ] radio insert - buzz cigarette ad and throw to rebel rouser
 
 For the last two miles Barry and Tim had to push the car, with elder girl Eleanore sitting at the wheel, and all of them engaged in a half-angry shouting match.  
 ​        "You'll push us into the ditch\!" Eleanore yells. "Tim, put your back into it\! Barry is pushing twice as hard as you\!"  
