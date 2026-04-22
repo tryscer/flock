@@ -7,7 +7,7 @@ Tim’s strongest macro-arc is:
 ### 1. Taste-maker to participant
 At first Tim is the boy who “has all the records.” He knows artists, songs, maps, engines, show lore. His authority is verbal and curatorial. He explains music more than he lives it.
 
-The novel works best when it strips that safe authority away. The fair, the secret shows, the caravan, the drive-in, the danger: all force Tim into a music culture that is bodily, social, and risky. By [[Nine Minutes Past Four]], he is no longer just a connoisseur. He is changing strings mid-show, onstage, useful.
+The novel works best when it strips that safe authority away. The fair, the secret shows, the caravan, the drive-in, the danger: all force Tim into a music culture that is bodily, social, and risky. By [[Track 11 - Nine Minutes Past Four]], he is no longer just a connoisseur. He is changing strings mid-show, onstage, useful.
 
 That is a strong arc because it turns fandom into labor and implication.
 
@@ -15,9 +15,9 @@ That is a strong arc because it turns fandom into labor and implication.
 Early on, Tim helps mediate the scene for Alice. But the world he helps introduce her to quickly becomes larger than him. Alice keeps moving outward into the flock; Tim keeps trying to secure a stable place within it.
 
 That creates one of his best tensions: he is neither outsider nor insider. He belongs enough to be transformed, but not enough to feel secure. The planned material sharpens this:
-- [[The Israelites]]: Tim is unhappy with how the Pillars treat him.
-- [[Better Have a Long Arm]]: attention shifts toward him via Buzz and Evans.
-- [[Epilogue]]: he leaves for show business.
+- [[Track 16 - The Israelites]]: Tim is unhappy with how the Pillars treat him.
+- [[Track 18 - Better Have a Long Arm]]: attention shifts toward him via Buzz and Evans.
+- [[Bonus Track - Will We Fade?]]: he leaves for show business.
 
 So his deeper desire is not just access. It is recognition.
 
@@ -27,7 +27,7 @@ His relationship with Alice is more than a love plot. It becomes a philosophical
 Tim wants intimacy to mean specialness, privacy, exclusivity.
 Alice increasingly treats love as something that grows by being shared.
 
-That tension comes into focus in [[Nine Minutes Past Four]]. Hand-pressing begins as a charged, intimate act between Tim and Alice. Then Alice teaches it to others, and Tim experiences that spread as humiliation and loss. For Alice, shared feeling enlarges meaning. For Tim, it dilutes meaning.
+That tension comes into focus in [[Track 11 - Nine Minutes Past Four]]. Hand-pressing begins as a charged, intimate act between Tim and Alice. Then Alice teaches it to others, and Tim experiences that spread as humiliation and loss. For Alice, shared feeling enlarges meaning. For Tim, it dilutes meaning.
 
 That is excellent material, because the breakup pressure is not just jealousy or triangles. It is a clash between possessive and communal understandings of love.
 
@@ -47,8 +47,8 @@ A good counterweight to jealousy is usefulness. Tim is not only vain or possessi
 - He knows records.
 - He knows some mechanics.
 - He becomes useful around performances.
-- In [[Nine Minutes Past Four]], he changes Mucho’s bass string mid-show.
-- In [[The Israelites]], he teaches himself guitar.
+- In [[Track 11 - Nine Minutes Past Four]], he changes Mucho’s bass string mid-show.
+- In [[Track 16 - The Israelites]], he teaches himself guitar.
 - Later he and Alice play for work flocks.
 
 This gives him dignity. It also seeds his eventual break toward show business. He is not just a guy who wants attention; he is someone developing actual skill.
@@ -57,9 +57,9 @@ This gives him dignity. It also seeds his eventual break toward show business. H
 This is likely his deepest long-form arc. Tim doesn’t merely want to be near the music. He wants to make something of his own.
 
 The planned notes make that much clearer:
-- [[The Israelites]]: he starts teaching himself guitar.
-- [[Better Have a Long Arm]]: the single’s A-side is the song Tim wrote.
-- [[Epilogue]]: he leaves to pursue show business; that song may become his first hit.
+- [[Track 16 - The Israelites]]: he starts teaching himself guitar.
+- [[Track 18 - Better Have a Long Arm]]: the single’s A-side is the song Tim wrote.
+- [[Bonus Track - Will We Fade?]]: he leaves to pursue show business; that song may become his first hit.
 
 That is strong because it reframes earlier behavior. His insecurity is not only romantic. It is artistic. He wants a name, a place, a song that points back to him. The flock offers ecstasy and belonging, but not necessarily individual authorship. Tim is exactly the sort of person who would feel both nourished and frustrated by that.
 
@@ -71,7 +71,7 @@ What is interesting is that he does not seem to become politically centered in t
 That is good. Not every transformed character has to end as a collectivist believer. It may be enough that Tim is genuinely changed by the flock, while still not being fully at home in its values.
 
 ### 8. Final divergence from Alice
-The endpoint in [[Epilogue]] is clean: Alice stays; Tim leaves.
+The endpoint in [[Bonus Track - Will We Fade?]] is clean: Alice stays; Tim leaves.
 
 That makes strong structural sense. Alice’s story bends toward communal belonging. Tim’s bends toward a more individuated future. If handled well, that is not a moral collapse. It is a sad, fitting divergence between two people who loved each other but wanted different shapes of life.
 
@@ -114,11 +114,11 @@ If his jealousy is overemphasized without enough tenderness, humor, competence, 
 Tim is strongest as a counter-Alice protagonist: someone genuinely transformed by communal music culture, but unable to surrender his need for private meaning, recognition, and authorship. His best arc is not “failed boyfriend.” It is **young listener becomes artist, but the price of becoming an artist may be leaving the flock that made him.**
 
 ## Sources
-- [[Flock Music/Runaway Girl]]
-- [[Flock Music/Kick The Jukebox]]
-- [[Flock Music/Dare to Dance?]]
-- [[Flock Music/All Aboard!]]
-- [[Flock Music/Nine Minutes Past Four]]
-- [[Flock Music/The Israelites]]
-- [[Flock Music/Better Have a Long Arm]]
-- [[Flock Music/Epilogue]]
+- [[Track 1 - The Runaway]]
+- [[Track 2 - Kick The Jukebox]]
+- [[Track 3 - Dare to Dance?]]
+- [[Track 4 - All Aboard!]]
+- [[Track 11 - Nine Minutes Past Four]]
+- [[Track 16 - The Israelites]]
+- [[Track 18 - Better Have a Long Arm]]
+- [[Bonus Track - Will We Fade?]]

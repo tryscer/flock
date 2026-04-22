@@ -57,80 +57,22 @@ entities:
 - [philosophy] is exploring the idea of flocking, a form of collaboration and cohabitation which doesn't employ enforcement and hierarchy and in which membership and role are fluid. 
 - [philosophy] is criticising and satirizing capitalism as isolating and unhealthy. 
 - [format] in this novel, chapters are called tracks and parts are called sides -- evoking the idea of a musical record. 
-- 
 
 ## WORLD
 - [world] In this world, Elvis dies in an accident in the summer of 1958.
 - [world] In this world, Jerry Lee Lewis has gone undercover following the scandal of his marriage. He is hiding with the Steam Pillars under the pseudonym Heath Walker Cain.  
 - [world] Story world — Takes place in the U.S. South during summer 1958.
-- [world] Greensboro — Serves as home base for Alice, Cindy, Barry, and Tim.
-- [world] Steam Pillars — Tour through the southern road circuit.
-- [world] Caravan circuit — Forms around Steam Pillars.
-- [world] Cross-racial shows — Occur clandestinely within the band’s orbit.
-- [world] Police pressure — Threatens movement across the South.
-- [world] Magnolia House — Exists within the caravan’s social geography.
-- [world] Larry’s Juke Joint — Lies on the group’s route.
-- [world] Pipeworks — Hosts a major show sequence.
-- [world] Drive-in venue — Hosts a later public show.
-- [world] US-360 — Carries the caravan through Virginia.
-- [world] Elvis Presley’s death — Reshapes the story’s emotional atmosphere.
 
 ## CHARACTERS
-- [character] Alice — Is a Greensboro teenager.
-- [character] Alice — Undergoes a road-trip rite of passage.
-- [character] Alice — Discovers clandestine cross-racial shows.
-- [character] Alice — Narrates in immediate present experience.
-- [character] Alice — Lacks foreknowledge of the romance’s end.
-- [character] Cindy — Is a Greensboro teenager.
-- [character] Cindy — Runs away from home.
-- [character] Barry — Is a Greensboro teenager.
-- [character] Tim — Is a Greensboro teenager.
-- [character] Tim — Travels within the caravan community.
-- [character] Tim — Narrates from years later in present tense.
-- [character] Tim — Speaks with foreknowledge of loss.
-- [character] Tim — Becomes useful behind the scenes.
-- [character] Eddie — Appears at Larry’s Juke Joint.
-- [character] Steam Pillars — Are a touring band.
-
-## RELATIONSHIPS
-- [relationship] Alice and Tim — Enter a romance.
-- [relationship] Alice and Tim — Their romance is doomed.
-- [relationship] Alice and Cindy — Begin as Greensboro peers.
-- [relationship] Alice and Barry — Travel within the same teen group.
-- [relationship] Alice and Steam Pillars — She enters their orbit.
-- [relationship] Tim and Steam Pillars — He enters their working orbit.
-- [relationship] Police and caravan — Maintain adversarial pressure.
-
-## SECRETS
-- [secret] Tim — Knows the romance is doomed while narrating.
-- [secret] Tim narration — Comes from years after the events.
-- [secret] Cross-racial shows — Operate outside open public visibility.
-- [secret] Cindy — Leaves home when the journey begins.
-
-## TIMELINE / STRUCTURE
-- [timeline] Story opening — Begins in June 1958.
-- [timeline] Side 1 — Follows Alice’s rite-of-passage journey.
-- [timeline] Side 2 — Follows Tim’s intimate perspective.
-- [timeline] Alice sneaks out — Occurs before her first live show.
-- [timeline] Cindy’s revelation — Happens early in the journey.
-- [timeline] Chevy breakdown — Precedes meeting Eddie.
-- [timeline] Meeting Eddie — Occurs at Larry’s Juke Joint.
-- [timeline] Jukebox game — Occurs at Larry’s Juke Joint.
-- [timeline] Police stop — Occurs before crossing into Virginia.
-- [timeline] Virginia crossing — Follows the police stop.
-- [timeline] Pipeworks show — Occurs before Elvis Presley’s death.
-- [timeline] Elvis Presley’s death — Occurs before the drive-in show.
-- [timeline] Shared mourning — Follows news of Elvis’s death.
-- [timeline] Palm-pressing gesture — Alice spreads it during shared mourning.
-- [timeline] Drive-in show — Follows the mourning sequence.
-- [timeline] Tim’s backstage usefulness — Increases after the drive-in show.
-- [timeline] Backstage song view — Includes “Nobody’s Fault.”
-- [timeline] Final written scene — Shows caravan headlights along US-360.
-
-## CONSTRAINTS
+- [character] Main characters are friends Alice (17), Cindy (17), Eleanore (19), Barry (20) and Tim (19). 
+- [character] Narrators are Alice (Sides A and C) and Tim (Sides B and D)
+- [character] Alice is Cindy's best friend and becomes Tim's love interest
+- [character] Cindy is Barry's sister and Eleanore's cousin.
+- [character] Tim is Barry's best friend and secretly his love interest. 
+- [character] Eddie is an Italian emigre.
 - [constraint] Alice narration — Remains in true real-time immediacy.
 - [constraint] Tim narration — Remains present tense with retrospective frame.
 - [constraint] Tim narration — Carries foreknowledge Alice lacks.
 - [constraint] Alice perspective — Cannot anticipate the romance’s ending.
 - [constraint] Narrative structure — Splits Alice and Tim into distinct temporal modes.
-- [constraint] Continuity — Cannot swap Pipeworks and drive-in events.
+- 

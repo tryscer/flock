@@ -37,7 +37,7 @@ Tim is a very talented and attractive, very inexperienced, very impatient, very 
 #### Grounding Tim's musical arc
 ##### How come he gets good fast
 - In side A, we focus on him "having all the records" -- that is, being very involved with music. 
-- In side B, we learn what Tim does for a living and why he "has all the records." His stepdad services jukeboxes and cigarette machines across diners, bars, and clubs. Tim helps him, salvages retired and damaged 45s, and gradually builds a private library from route leftovers, swapped stock, and records adults treat as disposable. This may be hinted at in the jukebox game on [[Kick The Jukebox]]. 
+- In side B, we learn what Tim does for a living and why he "has all the records." His stepdad services jukeboxes and cigarette machines across diners, bars, and clubs. Tim helps him, salvages retired and damaged 45s, and gradually builds a private library from route leftovers, swapped stock, and records adults treat as disposable. This may be hinted at in the jukebox game on [[Track 2 - Kick The Jukebox]]. 
 - In side C, he teaches himself to play and sing along within two weeks (that is, in Columbia). He achieves that because Tim is obsessive: the way he watches Jo's fingers also extends to the fact he plays every night and doesn't stop until his fingers bleed. 
 - When he reveals to the band he can play (see draft in playground: [[Tim reveals he can play guitar]]), we learn he has perfect pitch and good music knowledge. 
 - After that Heath starts being his tutor, teaching him a workman's stagecraft: shortcuts and lessons learned, not theory. We don't get to experience that too often through Alice's eyes, but it noticeably improves him to the point he is brought on stage. 
@@ -51,7 +51,7 @@ Tim is a very talented and attractive, very inexperienced, very impatient, very 
 
 ## New Canon
 ### Side B - turn on the radio
-- They need time to get to know about each other. Good times to expand Tim's underground show connection. 
+- They need time to get to know about each other. Good time to expand Tim's underground show connection. 
 - tim buys a guitar
 
 ### Side C 

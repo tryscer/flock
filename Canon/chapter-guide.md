@@ -1,4 +1,5 @@
 # chapter-guide.md
+Note: in this novel, chapters are called tracks and novel parts are called sides, mimicking an album structure. 
 
 [[Epitaph]]
 Changes:
@@ -6,7 +7,7 @@ Changes:
 
 [[Side A - Alice]]
 
-[[Runaway Girl]]
+[[Track 1 - The Runaway]]
 POV:
 - Alice
 Changes:
@@ -37,7 +38,7 @@ Entities:
   - throwing panties on stage
   - "Wonderland girl"
 
-[[Kick The Jukebox]]
+[[Track 2 - Kick The Jukebox]]
 POV:
 - Alice
 Changes:
@@ -72,7 +73,7 @@ Entities:
   - "you were chosen"
   - hand-holding cover story
 
-[[Dare to Dance?]]
+[[Track 3 - Dare to Dance?]]
 POV:
 - Alice
 Changes:
@@ -114,7 +115,7 @@ Entities:
   - matchbook invitation
   - coming on board
 
-[[All Aboard!]]
+[[Track 4 - All Aboard!]]
 POV:
 - Alice
 Changes:
@@ -153,7 +154,7 @@ Entities:
   - coming on board
   - being chosen
 
-[[Second Street Saturday Night]]
+[[Track 5 - Second Street Saturday Night]]
 POV:
 - Alice
 Changes:
@@ -192,7 +193,7 @@ Entities:
   - secret integrated show
   - "Let my people go"
 
-[[Birds of a Feather]]
+[[Track 6 - Birds of a Feather]]
 POV:
 - Alice
 Changes:
@@ -235,7 +236,7 @@ Entities:
 
 [[Side B - Tim]]
 
-[[Morning, Gorgeous]]
+[[Track 7 - Morning, Gorgeous]]
 POV:
 - Tim
 Changes:
@@ -280,7 +281,7 @@ Entities:
   - hand-pressing gesture
   - Moon Pies as Alice's favorite
 
-[[I Saw It Too]]
+[[Track 8 - I Saw It Too]]
 POV:
 - Tim
 Changes:
@@ -325,7 +326,7 @@ Entities:
   - "little upheaval"
   - being with the caravan for the long haul
 
-[[Market Street Stroll]]
+[[Track 9 - Market Street Stroll]]
 POV:
 - Tim
 Changes:
@@ -367,7 +368,7 @@ Entities:
   - processional dancing
   - "maybe we'll dance again later"
 
-[[Turn On the Radio]]
+[[Track 10 - Turn On the Radio]]
 POV:
 - Tim
 Changes:
@@ -390,7 +391,7 @@ Entities:
   - billboard graffiti as communication
   - "turn on the radio"
 
-[[Nine Minutes Past Four]]
+[[Track 11 - Nine Minutes Past Four]]
 POV:
 - Tim
 Changes:
@@ -456,7 +457,7 @@ Entities:
 - Groups
 - Ideas
 
-[[Don't Wait For the Sunset]]
+[[Track 12 - Don't Wait For the Sunset]]
 POV:
 - unknown
 Changes:
@@ -483,7 +484,7 @@ Entities:
   - sunset town
   - being followed by the Sevens
 
-[[Hardest Working Men]]
+[[Track 13 - Hardest Working Men]]
 POV:
 - unknown
 Changes:
@@ -518,7 +519,7 @@ Entities:
   - flocking
   - Bear-gineer mascot
 
-[[A Different Kind of Barry]]
+[[Track 14 - A Different Kind of Barry]]
 POV:
 - unknown
 Changes:
@@ -548,7 +549,7 @@ Entities:
   - Love
   - redirecting a rival audience
 
-[[Are You Ready, Atlanta?]]
+[[Track 15 - Are You Ready, Atlanta?]]
 POV:
 - unknown
 Changes:
@@ -585,7 +586,7 @@ Entities:
   - poems on phone booths
   - caravan self-direction
 
-[[The Israelites]]
+[[Track 16 - The Israelites]]
 POV:
 - unknown
 Changes:
@@ -618,7 +619,7 @@ Entities:
   - Alice’s musical tutelage
   - Tim learning guitar
 
-[[You Can't Take It With You]]
+[[Track 17 - You Can't Take It With You]]
 POV:
 - unknown
 Changes:
@@ -641,7 +642,7 @@ Entities:
   - leaving painted vehicles behind
   - train migration
 
-[[Better Have a Long Arm]]
+[[Track 18 - Better Have a Long Arm]]
 POV:
 - unknown
 Changes:
@@ -663,7 +664,7 @@ Entities:
   - Tim’s song as A-side
   - "if you're going to shake hands with the devil, better have a long arm"
 
-[[Let My People Go!]]
+[[Track 19 - Let My People Go!]]
 POV:
 - unknown
 Changes:
@@ -684,7 +685,7 @@ Entities:
   - flocking misunderstood as leadership
   - Barry jailed as presumed leader
 
-[[Too Much A-Love]]
+[[Track 20 - Too Much A-Love]]
 POV:
 - unknown
 Changes:
@@ -708,7 +709,7 @@ Entities:
   - teaching the secret of Love
   - Love without the Pillars
 
-[[Epilogue]]
+[[Bonus Track - Will We Fade?]]
 POV:
 - unknown
 Changes:
