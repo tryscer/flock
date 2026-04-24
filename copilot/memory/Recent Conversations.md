@@ -1,67 +1,3 @@
-## Meaning of “Nine Minutes Past Four”
-**Time:** 2026-04-22 04:11
-**Summary:** The user asks what the chapter title “Nine Minutes Past Four” refers to. The assistant explains that it references a radio/news broadcast timestamp where, at “nine minutes past four,” a report connects an accident at Fort Hood to Elvis Presley’s death.
-
-## Identity of Bernie/Bernard Green
-**Time:** 2026-04-22 04:14
-**Summary:** The user asks who Bernie/Bernard Green is, and the AI explains that “Bernard Green” is announced over the Henrico County Fair’s PA during Achievement Day, while “Bernie” appears later as a child who joins Alice’s group at the carousel. The AI concludes there isn’t enough evidence to definitively deduce they are the same character, though the repeated use of the name/nickname suggests a possible link.
-
-## Auditing 1958 South plausibility
-**Time:** 2026-04-22 11:38
-**Summary:** The user asks an AI anachronism/plausibility auditor to judge whether a segment in a 1958 U.S. South alt-history novel is believable, focusing on historical accuracy, Southern specificity, and dialogue/social dynamics. The AI concludes the content is implausible due to anachronistic radio/DJ framing and overly modern or slang-heavy lyric narration, and provides surgical fixes plus historically accurate alternative lines for radio copy and dialogue.
-
-## Identify who Mr. Farley is
-**Time:** 2026-04-22 12:21
-**Summary:** The user asked, “Who is Mr. Farley?” The assistant said it cannot determine the identity from the given context because “Mr. Farley” could refer to multiple people or references in the user’s materials. The assistant requested the specific sentence/scene or the note/chapter where “Mr. Farley” is mentioned to identify the character and summarize his role.
-
-## Identify Mr. Farley
-**Time:** 2026-04-22 12:24
-**Summary:** The user asks who “Mr. Farley” is. The response identifies him as an advertising executive associated with Fair and Buzz Cigarettes, appearing at the Henrico County Fair with Mr. C. Evans and interacting with Barry and the Buzz cigarette-girls as a professional representative in their promotion operation (source: “Dare to Dance?”).
-
-## Identify who Mr. C. Evans is
-**Time:** 2026-04-22 13:00
-**Summary:** The user asks who “Mr. C. Evans” is. The assistant explains that, in the manuscript context, Mr. C. Evans is an older, office-based figure tied to fair/warehouse/tour logistics, linked to an office trailer and an elderly secretary who manages visitor flow and directs people to the right contact. The assistant requests the specific note/chapter/scene where “Mr. C. Evans” is first introduced to determine his exact role.
-
-## Requesting a Track 3 Title
-**Time:** 2026-04-22 13:02
-**Summary:** The user asks for a title for “track 3,” but provides no context about which track 3 they mean. The assistant requests clarification by asking for the track list or the specific chapter/file (note title) and the first/last lines of track 3 to generate naming-consistent title options.
-
-## Request for Track 4 Title
-**Time:** 2026-04-22 13:09
-**Summary:** The user asked for a title for track 4. The assistant requested context by asking which work/chapter/file Track 4 comes from and asked the user to paste either the track list (Tracks 1–5) or the note title containing Track 4 along with the first and last lines, promising to generate 10 concise title options in the existing naming style afterward.
-
-## Auditing 1958 Southern anachronisms
-**Time:** 2026-04-22 13:13
-**Summary:** The user instructs an AI “anachronism auditor” to evaluate a provided alt-history text set in the U.S. South (June–September 1958) for plausibility across historical accuracy, Southern specificity, dialogue/slang, segregation-era norms, and law enforcement. The assistant reviews multiple quoted lines, flagging several as anachronistic (notably slang like “gas” and stylized modern broadcast packaging) while marking others as borderline (consumer/celebrity references, promotional language, and under-specified segregation logistics). Overall, the assistant provides per-claim fixes to make the dialogue and setting sound more period-appropriate.
-
-## Validate Request
-**Time:** 2026-04-22 13:13
-**Summary:** The user sent a brief message: "validate." No additional context, details, or specific validation target were provided, so the request is not fully defined.
-
-## Anachronism audit for 1958 South
-**Time:** 2026-04-22 13:17
-**Summary:** The user asks an AI to audit a selected manuscript excerpt for historical and regional plausibility in a U.S. South alt-history setting during June–September 1958, including claims about broadcast language, teen slang, segregation-era fair framing, event scheduling, and character details. The AI flags multiple issues (e.g., “secret location” DJ framing, “gas the numbers” slang, and a potentially modern promotional tone) while marking other elements as plausible (e.g., Seventeen magazine references, some clothing details, and “running away from home”). It also notes borderline concerns where alt/unspecified fictional elements could be strengthened (e.g., “Achievement Day” phrasing, exact fair-time precision, and a highly specific Elvis anecdote).
-
-## 1958 Southern anachronism audit
-**Time:** 2026-04-22 13:50
-**Summary:** The user instructs an AI to act as an anachronism auditor for an alt-history U.S. South novel set between June–September 1958, checking a provided text for historical accuracy, regional specificity, and manuscript consistency, with specific response rules. The AI responds with multiple claim-by-claim evaluations, flagging clear issues like modern-feeling “LIVE from a SECRET LOCATION” radio copy and the phrase “gas the numbers,” while marking others as plausible or borderline (e.g., Roman/Caesar fortune bit, Greensboro population precision, and sexually explicit “tingles in your panties”).
-
-## 1958 Southern anachronism audit
-**Time:** 2026-04-22 13:55
-**Summary:** The conversation centers on evaluating an alt-history novel excerpt set in the U.S. South in summer 1958 for historical, regional, racial, and manuscript plausibility. The audit flags several phrases and radio-show elements as implausible or borderline, including pirate-DJ framing, modern slang like “gas,” explicit phrasing, and some concert/fandom details, while suggesting more period-accurate alternatives.
-
-## Validar activeNote
-**Time:** 2026-04-22 13:55
-**Summary:** El usuario pidió validar "{activeNote}". No se proporcionó contexto adicional ni detalles sobre el contenido o el tipo de validación requerida.
-
-## Alt-history anachronism audit prompt
-**Time:** 2026-04-22 13:58
-**Summary:** The conversation contains a user prompt defining an anachronism-auditor role for an alt-history novel set in the U.S. South in summer 1958, with strict instructions to flag only clear, immersion-breaking historical inconsistencies. An example AI response then identifies four issues in a sample passage: misattributing “Great Balls of Fire” to Elvis instead of Jerry Lee Lewis, using Styrofoam cups too early for the setting, phrasing about drinking as “a few glasses” instead of period terms like “drinks,” and the expression “not partial to the smell” as regionally/period implausible.
-
-## 1958 Southern novel anachronism audit
-**Time:** 2026-04-22 14:05
-**Summary:** The user provided a prompt for auditing an alt-history novel set in the U.S. South in summer 1958, focused strictly on verifiable anachronisms that would break plausibility in historical, regional, racial, and manuscript context. The AI response flagged several issues, including segregation-era broadcast and labor implausibilities, later slang and idioms, rock-fandom behavior, a mislabeled Fender Broadcaster, the term “afro,” and a questionable Ed Sullivan/Carol Burnett reference, while noting a few items as plausible or needing only contextual grounding.
-
 ## Audit Prompt Deemed Plausible
 **Time:** 2026-04-22 14:05
 **Summary:** The user provided a meta-prompt for an anachronism auditor evaluating an alt-history U.S. South setting in summer 1958 and asked for plausibility assessment. The response concluded the text was fully plausible because it was instructional template language, not diegetic prose, and noted the placeholders and [[project-facts]] reference did not create anachronisms.
@@ -117,3 +53,99 @@
 ## 1958 Anachronism Audit
 **Time:** 2026-04-22 14:47
 **Summary:** The conversation focused on auditing a passage from an alternate-history novel set in the U.S. South in June–September 1958 for immersion-breaking anachronisms. It flagged three potential issues: the use of “interstate” for an incomplete highway system, casual road-trip usage of “gas,” and the term “talk-show host” as potentially too modern for the setting.
+
+## 1958 Slang and Wording
+**Time:** 2026-04-22 14:57
+**Summary:** The conversation focused on evaluating an alternate-history passage for 1958 U.S. South anachronisms, especially slang and word choice. It then narrowed to finding period-correct alternatives to “awesome” for a Black Southern-born character from the 1920s and to replacing “redolent” with more natural descriptions of a hot car smelling of vinyl.
+
+## Anachronism audit of Elvis passage
+**Time:** 2026-04-22 16:04
+**Summary:** The user provided a detailed prompt for auditing an alternate-history novel passage set in the U.S. South in 1958, focused only on immersion-breaking anachronisms. The response identified issues involving Elvis’s Army training timeline at Fort Hood, the incorrect term “explosive ordinance,” the need for alternate-history justification for a 1958 death bulletin, the misattribution of “Great Balls of Fire” to Elvis, and the phrasing “Sunburst Precision” for a 1958 bass.
+
+## Alice post-Side-A motivations
+**Time:** 2026-04-22 17:06
+**Summary:** The conversation focuses on refining Alice’s motivations after Side A in a manuscript overhaul, with the user defining motivations as active wants she works toward in the plot. The AI proposes concise options centered on spreading the band’s transformative experience, helping the caravan grow, sustaining the collective feeling, becoming a participant rather than a spectator, and being useful to the movement, aligning her with rock’n’roll fandom in Parts B-C and revolutionary mass energy in Parts C-D.
+
+## Mapping Alice-Tim Romance Arc Beats
+**Time:** 2026-04-22 21:57
+**Summary:** The conversation refines Alice's post-Side A motivations as addiction to Love highs, vision quests, and Heath/Jerry Lee suspicions, then develops her romance with Tim, built on his lie about sharing warehouse visions. They map strategic beats for Track 9 ending through Side D, highlighting progression from flirtation to partnership, ideological rift (communal spreading vs possessive claiming), and doomed breakup. Key elements include Track 10's commitment amid Elvis news, Side C's deepening trust amid divergence, and thematic communal-individual conflict.
+
+## Who is Bernard Green?
+**Time:** 2026-04-22 21:58
+**Summary:** User inquires about Bernard Green. AI identifies him as a minor child character at the Henrico County Fair in Track 3, announced over the PA as his mother searches for him, with Eleanore noting concern. No further details or appearances in canon, sourced from Track 3 and chapter-guide.
+
+## Validate Active Note
+**Time:** 2026-04-22 21:59
+**Summary:** User issues command '{activeNote} validate'. This appears to instruct validation of the currently active note. No additional details or context provided.
+
+## 1958 Novel Anachronism Audit
+**Time:** 2026-04-22 22:07
+**Summary:** User requests audit of a passage for immersion-breaking anachronisms in a 1958 U.S. South alternate-history novel. AI flags two issues: 'Broadcaster' Fender guitar name (discontinued 1951, replaced by Telecaster) and Carol Burnett's nonexistent 1957 Ed Sullivan appearance before her 1959 debut. No project-facts overrides apply, per Fender records and TV archives.
+
+## 1958 Novel Anachronism Audit
+**Time:** 2026-04-22 22:10
+**Summary:** User instructs AI as an anachronism auditor for an alternate-history novel set in U.S. South, June–September 1958, to check a passage against historical, regional, and project facts. AI flags three immersion-breaking issues: nonexistent 'George River' (replace with James River), post-1949 streetcar tracks in Richmond area, and modern slang 'fire/on fire' (suggest 'hot' or 'wild'). Sources cited include historical records, maps, slang etymologies, and [[project-facts]].
+
+## 1958 Novel Anachronism Audit
+**Time:** 2026-04-22 22:14
+**Summary:** User tasks AI as an anachronism auditor for an alternate-history novel set in U.S. South, June–September 1958, to evaluate a passage against historical, cultural, and project-facts standards. AI identifies four immersion-breaking issues: 'roadie' terminology, 'bummer' slang, misattribution of 'Great Balls of Fire' to Elvis, and 'Sunburst Precision' bass naming. Sources cited include project-facts, Elvis records, Fender catalogs, slang etymologies, and Billboard charts.
+
+## 1958 Drive-In Scene Image Prompt
+**Time:** 2026-04-22 22:16
+**Summary:** User requests an image of a specific scene. AI generates a detailed prompt for a 1958 Southern U.S. drive-in concession stand at dusk, featuring a bored clerk, waiting protagonist, arguing teenage couple, and period details like Jim Crow signage. Notes Buzz cigarettes anachronism (1961 launch) and suggests Chesterfields or Lucky Strike, citing project facts and tobacco archives.
+
+## Refining Alice Tim Arcs Beats
+**Time:** 2026-04-22 22:48
+**Summary:** Conversation develops beats for tracks 9-10 and sides C-D, then compiles detailed breakdowns of Alice's arcs (Addiction, Vision Quest, Heath/JLL Detective, Agency) and Alice-Tim Romance. AI refines short factual descriptions, adds Alice as Epitome of Movement and Tim's Musical arcs from {activeNote}. Ends with Eleanore profile: 19-year-old street-smart, bossy NYC friend feuding with Alice.
+
+## 1958 anachronism audit prompt
+**Time:** 2026-04-22 22:51
+**Summary:** The conversation contains a detailed prompt instructing an AI to act as an anachronism auditor for an alternate-history novel set in the U.S. South in June–September 1958, focusing only on immersion-breaking, verifiable historical implausibilities in a provided passage. The included audit output flags one issue: the slang phrase “on fire” as praise is identified as implausible for 1958 Southern vernacular, with “hot” or “jumping” suggested as historically grounded alternatives.
+
+## Anachronism Auditor Setup for 1958 Novel
+**Time:** 2026-04-22 22:52
+**Summary:** User defines role for AI as an anachronism auditor for an alternate-history novel set in the U.S. South, June–September 1958, with strict guidelines to evaluate a provided passage for immersion-breaking anachronisms. The passage is empty '{}', and instructions reference '[[project-facts]]' and tools like @vault @websearch. AI responds with a 400 error due to exceeding maximum context length of 8192 tokens.
+
+## 1958 Novel Anachronism Audits
+**Time:** 2026-04-22 23:31
+**Summary:** User instructs AI as an anachronism auditor for an alternate-history novel set in the U.S. South, June–September 1958, providing empty or implied passages for review against historical, cultural, and racial realities per [[project-facts]]. AI flags immersion-breaking issues across two responses, including outdated guitar terms like 'Broadcaster' and 'Sunburst Precision,' premature Carol Burnett TV reference, military phrasing errors at Fort Hood, awkward 'explosive ordnance,' improbable radio bulletin details, and anachronistic 'roadie' slang. All findings cite verifiable 1958 sources with grounded alternatives where possible.
+
+## 1958 Novel Anachronism Audit
+**Time:** 2026-04-22 23:35
+**Summary:** User requests anachronism audit for alternate-history novel passage set in 1958 U.S. South, per [[project-facts]]. AI flags 'brand-new Indian Motorcycles' as implausible since production ended in 1953, suggests Harley-Davidsons or Triumphs. All other details plausible, including Green Book, drive-in car hops, Chevy Bel Air police cars, and project elements like Heath Walker Cain pseudonym and Elvis death.
+
+## Buzz Arc Plot Discussion and Documentation
+**Time:** 2026-04-23 09:43
+**Summary:** User queries @vault on Buzz Cigarettes Co. and MacAllister siblings' ties, then details back-half arc where B.J. Sr. pivots tobacco firm into records via Mr. C. Evans to sign Steam Pillars, leading to revenge and Tim/Alice split. AI analyzes canon fit, satirical capitalism critique in alt-1958 South, and @composer adds concise Buzz Arc overview to ## Arcs in Megabeatmap.md.
+
+## Steam Pillars Arc UR Integration
+**Time:** 2026-04-23 17:52
+**Summary:** Conversation refines Steam Pillars arc for Side C from Alice's limited fan POV, adjusting tracks to filter band internals via rumors and heighten her diffusion role. Integrates UR as clandestine civil rights group inspired by Underground Railroad and MLK's desegregation vs. integration, with Mama Bettye Davis (based on Bettye E. Davis) under Dr. Player (based on Willa Beatrice Player, who hosted MLK speech Feb 11, 1958, Greensboro). Outputs updated [[project-facts]] text and arc sharpenings showing UR's eroding control amid organic flocking and capitalist pressures.
+
+## Refining Alice-Tim Yadkin River Image Prompt
+**Time:** 2026-04-23 23:11
+**Summary:** User requests and refines an image prompt for Alice (19, petite, pink-tinted hair ends, grey eyes) and taller red-headed Tim in an intimate Yadkin River overlook scene from 1958 alt-history novel Track 11. AI generates detailed photorealistic prompts emphasizing their palm-pressed posture, leaning intimacy, and moody Jim Crow South atmosphere with fireflies, '50s cars, and Elvis grief. Sources include Track 11 - Nine Minutes Past Four and chapter-guide.
+
+## Image Prompt for Tim Changing Mucho's String
+**Time:** 2026-04-23 23:21
+**Summary:** User requests a photorealistic image prompt from the scene in Track 11 - Nine Minutes Past Four where Tim changes Mucho's bass string, adhering to Canon rules. AI generates a detailed 1958 drive-in performance description at Hitching Post Drive-In, featuring characters like Heath Walker Cain on piano, Besame Mucho on bass, Tim crouching with string, Vilma, Jo Dalton, and Babatunde amid a mixed crowd. Prompt cites Canon sources for consistency.
+
+## Tim's Abortive Vision Image Prompt
+**Time:** 2026-04-23 23:29
+**Summary:** User requests a canon-compliant image prompt for Tim's abortive vision in [[Track 11 - Nine Minutes Past Four]]. AI delivers a detailed photorealistic first-person POV prompt depicting Tim kissing Alice amid a ecstatic crowd at 1958 Hitching Post Drive-In during Steam Pillars' performance, with magical realism shadows. Prompt references specific sources like track text, project facts, and character guides.
+
+## Improve Canon Prompt Dramatically
+**Time:** 2026-04-23 23:33
+**Summary:** User requests @composer to dramatically improve a prompt for exploring the linked {Canon} directory and adding wiki-links to each note with its purpose. The JTBD involves using image generation models (nano banana, OpenAI image) to visualize scenes for enhancing prose descriptions.
+
+## Improve Canon Image Prompt with Wiki-Links
+**Time:** 2026-04-23 23:38
+**Summary:** User requests dramatic improvement of a prompt by exploring {Canon} directory, adding wiki-links to each note with model usage purposes, and focusing on JTBD for visualizing scenes via Nano Banana/OpenAI images to enhance prose descriptions. AI generates and writes an optimized 'illustrate.md' file for Copilot, parsing active notes against Canon files like chapter-guide.md, section1_characters.md, and project-facts.md for consistent 1958 alt-history U.S. South photorealistic prompts. Output enforces era accuracy, templates, and verification checklist.
+
+## 1958 Alt-History South Image Prompts
+**Time:** 2026-04-24 11:39
+**Summary:** User requests detailed photorealistic image prompts for 1958 Jim Crow U.S. South alt-history scenes from a story, using specific processes, characters (Tim, Alice, Pete, Steam Pillars), and sources like [[project-facts]] and [[section1_characters]]. AI generates a prompt for Moore's Drive-In with Tim's POV, encounters server error on 'run', then creates another for Jefferson Square dance clash in Greensboro NC involving Alice, cop Abner, and disguised Steam Pillars choir. Prompts emphasize era-accurate details, Kodachrome/Ektachrome grain, lighting, segregation tension, and consistency checklists.
+
+## Refining Canon Photo-Rules for Attic Photos
+**Time:** 2026-04-24 12:34
+**Summary:** User requests improvements to the 'illustrate' command prompt for efficient, consistent photorealistic 1958 alt-history U.S. South image generation, then applies similar updates to four Canon/photo-rules files covering characters, portraits, templates, and consistency. AI rewrites files with structured details, cross-references, and canon grounding like Jim Crow era, Steam Pillars band, and no anachronisms. Final change to section4_consistency adds aged Kodachrome/Ektachrome effects for faded, amateur attic-found snapshot aesthetics.

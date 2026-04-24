@@ -16,7 +16,8 @@
 ​        Tim is rolling into view, checking out his reflection in the gilded, bulb-studded mirrors. As a mature man he forewent the horse in favor of a carriage. His manliness is challenged by the one-eyed Bear-gineer he's still holding.  
 ​        “Have you seen that guitarist?" he says. "​I mean did you hear what she *did* with that *guitar*?" 
 ​        "What show did you guys go and see?" asks the kid riding the fading yellow-saddled horse behind Tim's carriage. 
-​        "It was the best show ever, man," Tim tells him. "They're called the Steam Pillars. They were on fire." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
+​        "It was the best show ever, man," Tim tells him. "They're called the Steam Pillars. They were wild
+." The kid is about ten or twelve and obviously dressed by his mother for a special occasion: pressed striped shirt and Sunday shoes. He has thick glasses on. 
 ​        ”You'll see other shows!” says Cindy as she reappears. Her golden hair bobs gently around her shoulders. 
 ​        "How?" I say bitterly. "Who will come with me?"
 ​        "I'll come with you!" says the kid. "My name is Bernie."
@@ -318,7 +319,7 @@ In the front window, a clock tower rises above dilapidated houses, its arched to
 ​        "Barry -- I can't breathe."
 ​        Barry shoots her a worried look. "What do you mean?"
 ​        "When I'm at home. I can't breath. I can't."
-​        We turn left at a little sign saying NINTH STREET VIADUCT - ERECTED M.C.M.XIII - GEORGE AINSLIE MAYOR, and find ourselves on a long, tall wooden bridge, flanked on both sides by the stormy waters of the George River. In the distance, grey chimneys shoot out from the horizon. The wheels rattle on the wooden planks of the bridge and we all vibrate. It gives a comical aspect to Cindy's earnestness. 
+​        We turn left at a little sign saying NINTH STREET VIADUCT - ERECTED M.C.M.XIII - GEORGE AINSLIE MAYOR, and find ourselves on a long, tall wooden bridge, flanked on both sides by the stormy waters of the James River. In the distance, grey chimneys shoot out from the horizon. The wheels rattle on the wooden planks of the bridge and we all vibrate. It gives a comical aspect to Cindy's earnestness. 
 ​        "I'm a young woman," says Cindy. She's looking at Barry with pleading eyes. "I need to live. I choke at home. I choke under his control. And ever since mom died... Barry, just thinking of going back home makes me unable to breathe."
 ​        Barry hangs his head, so low I worry he's fallen asleep at the wheel. He's quiet for a long while. After some time, Cindy lays a hand on his shoulder. 
 ​        "I am sorry," she says. "Please forgive me."

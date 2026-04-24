@@ -141,7 +141,7 @@ Back in the car, the sweltering June heat gives way to a cool evening wind strea
 ​        “Excuse me,” he says to the couple through the open window, “where’s all the music?”
 ​        The man and the woman — black, young and drunk — look at each other. 
 ​        “You’re looking for the Deuce,” the woman says. “Head for the Deuce!”
-​        The man says, “the Deuce is on fire tonight!” They both snicker -- a very drunk laugh. They move on, laughing and hugging. 
+​        The man says, “the Deuce is *jumping* tonight!” They both snicker -- a very drunk laugh. They move on, laughing and hugging. 
 ​        As we’re driving, cars begin to fill the curbs. People appear, at first a smattering, then groups, then the street lights, one by one, flicker on, running down the street in their greenish-blue light...
 
 

@@ -52,16 +52,19 @@ entities:
   - collective punishment for the Fair
 ---
 ## NOVEL
-- [genre] is an alt-history magical realism historical rock'n'roll novel
+- [genre] is an alt-history magical realism historical rock'n'roll novel.
 - [philosophy] is exploring the ideas of of communal versus individualistic modes of living in a society, using american history as a proving ground
 - [philosophy] is exploring the idea of flocking, a form of collaboration and cohabitation which doesn't employ enforcement and hierarchy and in which membership and role are fluid. 
 - [philosophy] is criticising and satirizing capitalism as isolating and unhealthy. 
 - [format] in this novel, chapters are called tracks and parts are called sides -- evoking the idea of a musical record. 
 
 ## WORLD
-- [world] In this world, Elvis dies in an accident in the summer of 1958.
-- [world] In this world, Jerry Lee Lewis has gone undercover following the scandal of his marriage. He is hiding with the Steam Pillars under the pseudonym Heath Walker Cain.  
-- [world] Story world — Takes place in the U.S. South during summer 1958.
+- - [world] Story world — Takes place in the U.S. South during summer 1958.
+- [world] Elvis dies in an accident in the summer of 1958.
+- [world] Jerry Lee Lewis has gone undercover following the scandal of his marriage. He is hiding with the Steam Pillars under the pseudonym Heath Walker Cain.  
+- [world] Great Balls of Fire was Elvis's hit, not Lewis's. 
+- [world] the UR is a clandestine civil rights movement. it takes inspiration from the underground railway but has other MOs: it takes inspiration from Dr. **King’s conceptual distinction between desegregation and substantive integration**<span class="copilot-citation-ref">[1]</span>. Mama Bettye Davis (loosely based on Bettye E. Davis), is the UR's representative, answering to Dr. Player (loosely based on Willa Beatrice Player). She formed the Steam Pillars intentionally to create situations in which white and black youths get the opportunity to enjoy music together. The Pillars' initial success wins Mama recognition and money, but as the book progresses, the UR loses its influence over the band it created.
+
 
 ## CHARACTERS
 - [character] Main characters are friends Alice (17), Cindy (17), Eleanore (19), Barry (20) and Tim (19). 

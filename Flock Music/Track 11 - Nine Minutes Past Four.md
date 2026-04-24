@@ -1,4 +1,4 @@
-*Hey there, listener JANE, hi there, listener JOHN. Come on by the radio, and sit down. Your friend, DJ JONAH, has some unpleasant bit of news to dispense. It’s written on this piece of paper I’ve been handed that this afternoon, at nine minutes past four, an accident took place at the Fort Hood Basic Training Facility in Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordinance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
+*Hey there, listener JANE, hi there, listener JOHN. Come on by the radio, and sit down. Your friend, DJ JONAH, has some unpleasant bit of news to dispense. It’s written on this piece of paper I’ve been handed that this afternoon, at nine minutes past four, an accident took place at the Fort Hood Basic Training Facility in Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordnance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
 Next to the exit from US-29 to Salisbury, NC, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   
 ​	“Be careful,” Eleanore says to Barry. “Don’t bump into Shirley’s car.”  
@@ -171,7 +171,7 @@ Outside, the cars are illuminated in the silvery light from the screen and the c
 
 I leave Alice and Cindy to talk by the car and I wander off to the concession stand. A bored teenager in an orange and white shirt is picking his nose by the till. I wait in line to get a Moon Pie for Alice and a pack of Buzz for myself. The couple in front of me are teenagers, too, but clearly not from our caravan. 
 ​	"I knew it was a bad idea to come," the girl says. She wears a denim jacket and a knee-long skirt and she's chewing gum. 
-​	"I gotta tell ya," says her boy, also chewing gum, "I gotta tell ya I agree with ya. Watching this movie is a *bummer*. Damn Sue Ellen for making us come."
+​	"I gotta tell ya," says her boy, also chewing gum, "I gotta tell ya I agree with ya. Watching this movie is a *downer*. Damn Sue Ellen for making us come."
 ​	I tell them, "I got a feeling you're gonna be glad you came."
 ​	"What did you say?" says the boy. 
 ​	"I said I think you're going to be glad you came."
@@ -343,7 +343,7 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	Without knowing it, I lift my arms and the sea of people near us cheers... one of them is Alice, who is sending me excited kisses, then turns away almost immediately to dance with a stranger. 
 ​	Mucho says to the mic,
 
-*(Yeah! Give it to our new roadie, Tommy!)*
+*(Yeah! Give it to our new new stage hand, Tommy!)*
 
 Later, in the band's truck leaving the drive-in, with Eddie smoking at the wheel and the band all celebrating and drinking, I turn and look back. 
 ​	In the future, experts will debate endlessly on when was it that the Steam Pillars first burst into the spotlight. Some will say Atlanta; others that it was as early as Columbia. But for me it's always going to be this moment, driving away from the Hitching Post Drive-In in Salisbury, when I look behind us and see the length of US-29 is an uninterrupted string of caravan headlights, running up and down hills and extending into the horizon. 

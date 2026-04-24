@@ -23,7 +23,7 @@ Cindy relents. She rolls down the window and sticks her head out. I stare at the
 *(Vreeeem\! Hup-hup-hup-hup-hup…)* 
 
 “Now, we’ve got a little company,” Barry says. “Friends of yours, Mr. Caine?”  
-	In the rearview mirror I see a small band of motorcyclists riding in a tight cluster, wearing matching denim jackets, all riding brand-new Indians. They split to flank us. One of them is holding something red in his hand… Heath is visibly rattled.   
+	In the rearview mirror I see a small band of motorcyclists riding in a tight cluster, wearing matching denim jackets, all riding brand-new Triumphs. They split to flank us. One of them is holding something red in his hand… Heath is visibly rattled.   
 	“Don’t stop, kid,” he tells me.  
 	The lead biker finds his position in front of us. On the back of his vest there’s an embroidered sign, like a mirror image of the figure 7\. He slows down and I step on the brakes with a trembling foot. The rest of the riders surround us.   
 	“This is gonna be a real *hoot*,” says Eleanore.   

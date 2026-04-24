@@ -1,5 +1,8 @@
 Also see report: [[Alice’s arc]] and [[Tim's Arcs]]
 
+## buzz 
+in the back half of the book, b.j. sr. has watched the pillars play, been convinced by his kids this is the new way to make money, then makes his tobacco company branch out into the record business. they hire mr c. evans of the henrico county fair fame to head this company, and he joins the flock in hopes of getting the steam pillars to sign. when that deal breaks he takes revenge on the band and sets his sights on tim, ultimately driving him away from alice. 
+
 ### tim&alice
 A: (alice secretly wants tim)->(alice kisses tim to show she's over him)
 B: (alice is over tim)->(alice and tim are flirting)
@@ -49,11 +52,3 @@ Tim is a very talented and attractive, very inexperienced, very impatient, very 
 - Mr. C. Evans explains to Tim Buzz is focused on raw talent over musical education, looking for a new Elvis -- someone with limited musical education, some talent, and raw stage charisma. "Music schools don't make music stars."
 - It should be noted that Alice doesn't like the song and is embarrassed by it -- roughly for the same reasons Evans likes it. 
 
-## New Canon
-### Side B - turn on the radio
-- They need time to get to know about each other. Good time to expand Tim's underground show connection. 
-- tim buys a guitar
-
-### Side C 
-
-### Side D 
