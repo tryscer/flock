@@ -19,7 +19,7 @@ Cindy and I are sitting in the back seat, holding hands.
 ​        And so on.
 
 
-By the time we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACENT\!) ===it's so hot out that even the tarmac is sweating a little. We can see== a couple of peeling pumps, previously red, the workshop behind the office, where a carcass of a car lays hopelessly dead.  
+By the time we reach the Shell Durham Service Station (LARRY'S JUKE JOINT ADJACENT\!) it's so hot out that even the tarmac is sweating. Behind a couple of peeling pumps, previously red, the workshop behind the office, where a carcass of a car lays hopelessly dead.  
 ​        Both Barry and Tim are drenched with sweat. Barry took off his coat and tie and he’s leaning on Tim, breathing hard; to our communal delight, Tim has taken off his shirt and is using it to dry his face. We girls leave the car – to get fresh air, of course.  
 ​        "Fill 'er up?" says a stocky man in overalls, who appeared as if out of nowhere. His name patch says his name is Max.  
 ​        “Nothing much to fill up,” Barry says, “unless you got a mechanic.”  

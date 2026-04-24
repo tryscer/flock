@@ -149,3 +149,31 @@
 ## Refining Canon Photo-Rules for Attic Photos
 **Time:** 2026-04-24 12:34
 **Summary:** User requests improvements to the 'illustrate' command prompt for efficient, consistent photorealistic 1958 alt-history U.S. South image generation, then applies similar updates to four Canon/photo-rules files covering characters, portraits, templates, and consistency. AI rewrites files with structured details, cross-references, and canon grounding like Jim Crow era, Steam Pillars band, and no anachronisms. Final change to section4_consistency adds aged Kodachrome/Ektachrome effects for faded, amateur attic-found snapshot aesthetics.
+
+## 1958 Alt-History Steam Pillars Prompt
+**Time:** 2026-04-24 13:45
+**Summary:** User requests a photorealistic image prompt (300-600 words) for a 1958 alt-history U.S. South scene under Market Street Bridge in Greensboro, NC, during noon Steam Pillars street performance with characters like Heath, Vilma, Pete, Jimmy, Rosetta, segregated crowds, and confused cops. AI delivers a 478-word Kodachrome 35mm prompt using template A, detailing composition, lighting, atmosphere, era objects, and Jim Crow tension. Prompt ends with full 14-item verification checklist confirming consistency in faces, heights, skin tones, clothing, and canon facts.
+
+## Simplify Illustrate Prompt Output
+**Time:** 2026-04-24 13:51
+**Summary:** User requests @composer to modify the active note's prompt, outputting only the image generator prompt without word counts, checklists, or source instructions. AI updates copilot/copilot-custom-prompts/illustrate.md with a new configuration for photorealistic 1958 alt-history U.S. South scenes, including internal parsing rules and a dense output format starting with 'Photorealistic 1958 alt-history U.S. South scene...'. File change is accepted.
+
+## Shirley-Alice 1958 Kiss Prompt
+**Time:** 2026-04-24 13:58
+**Summary:** User requests a single photorealistic image prompt (300-600 words) for Shirley and Alice kissing in 1958 alt-history U.S. South Steam Pillars show at Buzz warehouse, ensuring canon consistency via character portraits, heights, attire, and Jim Crow details. AI delivers a 478-word dense prompt on aged Ektachrome 35mm, with tight 50mm close-up composition contrasting their skins, tender kiss, sweaty interracial crowd, tungsten lighting, and era objects like piano and Buzz crates. Prompt locks identities from sections, evokes UR magical realism amid police tension and Elvis grief.
+
+## Override prompt output formatting
+**Time:** 2026-04-24 14:29
+**Summary:** The user asked to modify a custom image-generation prompt so it outputs only the final prompt text for easy copy-paste, without word counts or any inherited source/citation requests. The AI updated `copilot/copilot-custom-prompts/illustrate.md` to explicitly override inherited formatting instructions and require exactly one dense image-engine prompt with no extra surrounding text.
+
+## 1958 Alt-History Image Prompt
+**Time:** 2026-04-24 15:34
+**Summary:** The user asked for a single dense photorealistic image-generation prompt for a 1958 alt-history U.S. South scene, with strict formatting, canon consistency, and no extra explanatory text. The assistant responded with a detailed prompt describing a broken-down Chevy at a rural Shell station and juke joint in oppressive summer heat, featuring Alice, Cindy, Tim, Barry, and a mechanic in a candid Kodachrome-style composition.
+
+## Refining Mama UR Arc Beats
+**Time:** 2026-04-24 20:19
+**Summary:** User and AI collaborate on the Megabeatmap scratchpad to define and expand the UR arc as Mama Bettye Davis's story, integrating facts from project-facts and Flock Music, suggesting 10+ beats placed in Sides B/C/D/Epilogue from Alice/Tim POVs in controlled settings like sedans or lots. They update the file via @composer, craft arc paragraphs for Timusician (guitar acquisition, songwriting, band integration) and Flockening (caravan growth to leaderless movement). Key beats show Mama losing control to Buzz Music's Mr. C. Evans and organic flocking, ending with her epilogue absence on the train to East West Los Givatayim.
+
+## Shorten Musical Arc Section
+**Time:** 2026-04-24 20:49
+**Summary:** User repeatedly asks @composer to shorten Tim's musical arc in 'Playground - Non Canon/Megabeatmap.md' to 2-3 sentences, detailing his guitar purchase, songwriting for Alice's birthday, and related band feuds. AI attempts two file edits with condensed content about the candy-apple-red guitar 'Candy', communal song refinement, and satire in 'Better When You Share It,' but both are rejected. User ends with a direct 'shorten to 2-3 sentences' request.
