@@ -1,87 +1,3 @@
-## Audit Prompt Deemed Plausible
-**Time:** 2026-04-22 14:05
-**Summary:** The user provided a meta-prompt for an anachronism auditor evaluating an alt-history U.S. South setting in summer 1958 and asked for plausibility assessment. The response concluded the text was fully plausible because it was instructional template language, not diegetic prose, and noted the placeholders and [[project-facts]] reference did not create anachronisms.
-
-## 1958 Anachronism Audit
-**Time:** 2026-04-22 14:10
-**Summary:** The conversation audits a set of alt-history novel details for plausibility in the U.S. South between June and September 1958. Most items are judged plausible, but two anachronisms are flagged: calling a Fender instrument a "Broadcaster" instead of a Telecaster, and using the term "afro" as a haircut label too early for 1958.
-
-## 1958 Fair Radio Anachronisms
-**Time:** 2026-04-22 14:13
-**Summary:** The conversation evaluates radio-style dialogue for a U.S. South alt-history novel set in 1958, focusing on whether fair broadcast phrasing feels period-accurate. It flags several lines as too modern or self-conscious for the era, especially the live-from-the-fair package, the promotional scheduling language, and the slick “I’m your man” signoff, while suggesting more period-appropriate alternatives.
-
-## 1958 South Anachronism Audit
-**Time:** 2026-04-22 14:15
-**Summary:** The conversation centers on evaluating a 1958 U.S. South alt-history passage for period plausibility, with emphasis on historical, regional, and racial context. It flags several likely anachronisms in the text, including the use of “Broadcaster” for a Fender guitar, “Afro” as a hairstyle term, a possibly mismatched “Swan Silvertones” billing, and some overly modern broadcast/promo phrasing.
-
-## 1958 Southern Anachronism Review
-**Time:** 2026-04-22 14:21
-**Summary:** The conversation evaluates several lines from an alt-history novel set in the U.S. South in 1958 for historical plausibility, focusing on dialogue and fairground management details. It flags a few phrasing issues as potentially anachronistic or overly modern-sounding, while suggesting period-appropriate alternatives for each.
-
-## 1958 Southern Anachronism Audit
-**Time:** 2026-04-22 14:24
-**Summary:** The conversation is about auditing alt-history novel text set in the U.S. South in mid-1958 for historical plausibility, with special attention to regional, racial, and period context. It identifies several implausible elements in dialogue and setting details—especially around Richmond’s Main Street Station, overly modern-sounding speech, hotel desk banter, and explicit exposition about a matchbook clue—while noting that references to the "Afro-American" newspaper and segregated newspaper stalls are historically plausible.
-
-## 1958 Anachronism Audit Request
-**Time:** 2026-04-22 14:26
-**Summary:** The user asked for an anachronism audit of text set in the U.S. South from June to September 1958, with attention to historical, regional, racial, and project-fact context. The provided content was only placeholder/template text, so the response flagged the meta-instructional scaffolding and placeholders as non-diegetic rather than plausible scene prose.
-
-## 1958 Richmond Anachronism Audit
-**Time:** 2026-04-22 14:27
-**Summary:** The conversation asks for an anachronism audit of several details in an alt-history U.S. South setting in Richmond, 1958, with judgments tied to historical context and project facts. The responses mostly mark the items plausible, while flagging the Richmond Main Street Station as inconsistent only in its described roofline, and cite sources including Richmond Main Street Station, The Richmond Afro-American, and project-facts.
-
-## 1958 Richmond Plausibility Check
-**Time:** 2026-04-22 14:28
-**Summary:** The conversation evaluates three elements in a 1958 U.S. South setting: Richmond Main Street Station’s segregated facilities, street-bulletin searches around East Main and 17th, and covert integrated underground shows at “The Deuce.” Each was judged plausible for Jim Crow-era Richmond, with the station, posted notices, and secret mixed-race music venues all grounded in the period’s regional and racial context.
-
-## Audit d’anachronismes Richmond 1958
-**Time:** 2026-04-22 14:33
-**Summary:** L’échange porte sur un audit d’anachronismes pour un roman d’uchronie situé dans le Sud des États-Unis entre juin et septembre 1958, avec un extrait centré sur Richmond. La réponse juge la plupart des éléments plausibles dans le contexte Jim Crow et des « project-facts » (signalétique ségrégationniste, Richmond Afro-American, vocabulaire de la « blight », répression policière, concerts intégrés clandestins), mais relève deux points implausibles : les « thatched roofs » de Main Street Station et la pancarte « BLINDED IN OKINAWA », jugée trop spécifique pour 1958.
-
-## Audit d’anachronismes Richmond 1958
-**Time:** 2026-04-22 14:35
-**Summary:** L’utilisateur a fourni des consignes détaillées pour auditer uniquement les anachronismes d’un roman uchronique situé dans le Sud des États-Unis entre juin et septembre 1958, en privilégiant les écarts vérifiables qui briseraient la suspension d’incrédulité. La réponse a relevé comme implausibles la description architecturale de Main Street Station à Richmond, le panneau « BLINDED IN OKINAWA », le format d’horaires « 10am-5pm » sur une signalétique de musée, et l’affirmation que des spectacles intégrés étaient simplement « illégaux » en Virginie en 1958.
-
-## 1958 Alt-History Anachronism Audit
-**Time:** 2026-04-22 14:39
-**Summary:** The conversation asks for an anachronism audit of several details in a U.S. South alt-history scene set in 1958, focusing on historical, regional, and racial plausibility. The responses judge the hidden warehouse show, custom-painted cars, and mixed-race crowd as plausible under the project facts, but flag “awesome” as too modern for 1958 teenage speech.
-
-## 1958 Anachronism Audit
-**Time:** 2026-04-22 14:45
-**Summary:** The conversation focused on auditing a passage for immersion-breaking anachronisms in an alternate-history U.S. South setting in 1958. Two potential issues were flagged: a misattributed “Great Balls of Fire” reference and slightly later-feeling plural usage of “Magic Markers,” though both were framed as period-plausibility concerns rather than definitive errors.
-
-## 1958 Anachronism Audit
-**Time:** 2026-04-22 14:47
-**Summary:** The conversation focused on auditing a passage from an alternate-history novel set in the U.S. South in June–September 1958 for immersion-breaking anachronisms. It flagged three potential issues: the use of “interstate” for an incomplete highway system, casual road-trip usage of “gas,” and the term “talk-show host” as potentially too modern for the setting.
-
-## 1958 Slang and Wording
-**Time:** 2026-04-22 14:57
-**Summary:** The conversation focused on evaluating an alternate-history passage for 1958 U.S. South anachronisms, especially slang and word choice. It then narrowed to finding period-correct alternatives to “awesome” for a Black Southern-born character from the 1920s and to replacing “redolent” with more natural descriptions of a hot car smelling of vinyl.
-
-## Anachronism audit of Elvis passage
-**Time:** 2026-04-22 16:04
-**Summary:** The user provided a detailed prompt for auditing an alternate-history novel passage set in the U.S. South in 1958, focused only on immersion-breaking anachronisms. The response identified issues involving Elvis’s Army training timeline at Fort Hood, the incorrect term “explosive ordinance,” the need for alternate-history justification for a 1958 death bulletin, the misattribution of “Great Balls of Fire” to Elvis, and the phrasing “Sunburst Precision” for a 1958 bass.
-
-## Alice post-Side-A motivations
-**Time:** 2026-04-22 17:06
-**Summary:** The conversation focuses on refining Alice’s motivations after Side A in a manuscript overhaul, with the user defining motivations as active wants she works toward in the plot. The AI proposes concise options centered on spreading the band’s transformative experience, helping the caravan grow, sustaining the collective feeling, becoming a participant rather than a spectator, and being useful to the movement, aligning her with rock’n’roll fandom in Parts B-C and revolutionary mass energy in Parts C-D.
-
-## Mapping Alice-Tim Romance Arc Beats
-**Time:** 2026-04-22 21:57
-**Summary:** The conversation refines Alice's post-Side A motivations as addiction to Love highs, vision quests, and Heath/Jerry Lee suspicions, then develops her romance with Tim, built on his lie about sharing warehouse visions. They map strategic beats for Track 9 ending through Side D, highlighting progression from flirtation to partnership, ideological rift (communal spreading vs possessive claiming), and doomed breakup. Key elements include Track 10's commitment amid Elvis news, Side C's deepening trust amid divergence, and thematic communal-individual conflict.
-
-## Who is Bernard Green?
-**Time:** 2026-04-22 21:58
-**Summary:** User inquires about Bernard Green. AI identifies him as a minor child character at the Henrico County Fair in Track 3, announced over the PA as his mother searches for him, with Eleanore noting concern. No further details or appearances in canon, sourced from Track 3 and chapter-guide.
-
-## Validate Active Note
-**Time:** 2026-04-22 21:59
-**Summary:** User issues command '{activeNote} validate'. This appears to instruct validation of the currently active note. No additional details or context provided.
-
-## 1958 Novel Anachronism Audit
-**Time:** 2026-04-22 22:07
-**Summary:** User requests audit of a passage for immersion-breaking anachronisms in a 1958 U.S. South alternate-history novel. AI flags two issues: 'Broadcaster' Fender guitar name (discontinued 1951, replaced by Telecaster) and Carol Burnett's nonexistent 1957 Ed Sullivan appearance before her 1959 debut. No project-facts overrides apply, per Fender records and TV archives.
-
 ## 1958 Novel Anachronism Audit
 **Time:** 2026-04-22 22:10
 **Summary:** User instructs AI as an anachronism auditor for an alternate-history novel set in U.S. South, June–September 1958, to check a passage against historical, regional, and project facts. AI flags three immersion-breaking issues: nonexistent 'George River' (replace with James River), post-1949 streetcar tracks in Richmond area, and modern slang 'fire/on fire' (suggest 'hot' or 'wild'). Sources cited include historical records, maps, slang etymologies, and [[project-facts]].
@@ -177,3 +93,107 @@
 ## Shorten Musical Arc Section
 **Time:** 2026-04-24 20:49
 **Summary:** User repeatedly asks @composer to shorten Tim's musical arc in 'Playground - Non Canon/Megabeatmap.md' to 2-3 sentences, detailing his guitar purchase, songwriting for Alice's birthday, and related band feuds. AI attempts two file edits with condensed content about the candy-apple-red guitar 'Candy', communal song refinement, and satire in 'Better When You Share It,' but both are rejected. User ends with a direct 'shorten to 2-3 sentences' request.
+
+## Refining Tim-Alice Romance Arc
+**Time:** 2026-04-25 13:13
+**Summary:** User iteratively requests 2-3 sentence summaries of character arcs from a novel, starting with Tim's musician journey using 'Timusician' as a model, then Mama Bettye Davis, and focusing on Tim and Alice's romance. AI provides concise versions citing sources like [[Megabeatmap]], [[project-facts]], and [[Discussion About Alice's Arc]], emphasizing tensions between communal sharing and individual possession. The romance arc evolves from flirtatious sparks and shared visions to fractured betrayal and epilogue split.
+
+## 1958 Alt-History South Image Prompt
+**Time:** 2026-04-25 17:03
+**Summary:** User instructs generation of a single photorealistic image prompt (300-600 words) for a 1958 alt-history U.S. South scene in Jefferson Square, Greensboro NC, featuring Tim, Alice Parker, and the all-Black Steam Pillars band (Vilma, Besame Mucho, Babatunde, Jo Dalton) during a Sunday noon gospel performance amid segregated Jim Crow tension. AI outputs a dense, copy-paste-ready prompt on aged Kodachrome 35mm, detailing composition, lighting, characters' exact portraits/attire/poses, crowd dynamics, era vehicles/billboards, and subtle magical realism hints, locked to canon facts like Elvis dead and undercover elements. Ensures no anachronisms, film grain imperfections, and single-source harsh noon lighting with sweat and motion blur.
+
+## Updating Canon Character Portraits
+**Time:** 2026-04-25 17:12
+**Summary:** User commands @composer @vault to update {activeNote} (Canon/photo-rules/section2_portraits.md) for canon consistency, adding important characters like Alice Parker and Steam Pillars members while removing minor ones. AI generates and writes the revised file with portrait prompts and sources from tracks. User then requests subsections for 'Canon Clothes' to organize clothing descriptions, and AI updates the file accordingly.
+
+## 1958 Alt-History Car Pickup Image Prompt
+**Time:** 2026-04-25 17:15
+**Summary:** User requests a single photorealistic image prompt (300-600 words) for the first chapter scene where Alice Parker climbs into Barry's '57 Chevy Bel Air with the waiting gang (Cindy, Barry, Tim, Eleanore) outside her suburban Virginia home, optimized for DALL-E/Midjourney in 1958 alt-history U.S. South style. Includes detailed internal process for canon consistency, character portraits, era details, and Jim Crow segregation tension. AI delivers the exact dense prompt starting with film stock and scene summary, describing composition, lighting, car, and atmosphere.
+
+## Refining Character Portraits for Image Generation
+**Time:** 2026-04-25 22:13
+**Summary:** The user directed the AI to refine character portrait descriptions in a canon file by removing non-visual details to optimize them for image generation. The AI executed these edits and subsequently generated detailed, photorealistic image prompts for scenes set in a 1958 alt-history U.S. South.
+
+## 1958 Alt-History Pawnshop Prompt
+**Time:** 2026-04-25 22:35
+**Summary:** User requests a single photorealistic image prompt for 1958 alt-history U.S. South scenes, optimized for tools like DALL-E with strict canon consistency from project files. AI generates a detailed Kodachrome-style prompt depicting 19yo Tim in a dusty pawnshop, appraising his watch for a red Fender guitar amid Jim Crow grit, Elvis posters, and segregated tension. Prompt emphasizes era-accurate lighting, textures, and atmosphere without extras.
+
+## Buzz Cigarettes Vintage Image Prompt
+**Time:** 2026-04-25 22:39
+**Summary:** The user requested a detailed image prompt for Nano Banana to depict a Buzz Cigarettes soft pack, referencing specific design elements and slogans from 'Track 1 - The Runaway' and 'Track 2 - Kick The Jukebox'. In response, the AI generated a highly descriptive, 1958 vintage-style photorealistic prompt featuring a golden-yellow honeycomb design and the slogan 'A Real HONEY of a Smoke!'.
+
+## Tim & the Tempos Album Cover Prompt
+**Time:** 2026-04-25 23:36
+**Summary:** The user requests an image prompt for a single album cover titled 'Your Love Is Real Honey' by Tim & the Tempos, featuring Tim's face. The AI provides a detailed, 1958 vintage-style photorealistic prompt incorporating the artist's portrait, retro typography, and a vinyl record aesthetic.
+
+## 1958 Alt-History South Image Prompt
+**Time:** 2026-04-25 23:43
+**Summary:** User instructs generation of a single photorealistic image prompt for a 1958 alt-history U.S. South scene at Steam Pillars performance, specifying canon consistency, character identities from sections, and Ektachrome film stock. AI outputs a dense 300-600 word prompt depicting Tim, Alice Parker, Barry MacAllister Jr., and Heath Walker Cain dancing intimately near the piano amid interracial crowd tension, harsh tungsten lighting, Jim Crow grit, and fairground chaos. Prompt locks heights, attire, poses, segregated atmosphere, and era details like no Elvis or modern elements.
+
+## Adding Realistic Photo Rules
+**Time:** 2026-04-25 23:48
+**Summary:** User instructs @composer to add three rules for image generation: less perfect POV, varied character framing, and diegetic lighting only, targeting unstaged realism like grandma's attic snapshots. AI confirms additions to [[Canon/photo-rules/section4_consistency.md]], rephrasing them for camera, composition, and lighting sections. Rules propagate to all prompts via illustrate.md for faded candid aesthetic.
+
+## Tightening Alt-History Rally Image Prompt
+**Time:** 2026-04-26 00:32
+**Summary:** User requests a photorealistic 1958 alt-history U.S. South image prompt for a tense Jim Crow night rally crackdown outside Richmond's Hippodrome theatre, featuring white teens (Alice, Cindy, Barry, Tim, Eleanore), Black protester Pete, chanting Black crowd, and assaulting police. AI generates a detailed Ektachrome 35mm prompt with character portraits, segregated tension, lighting, and snapshot imperfections. User asks to tighten to image-generator essentials, and AI delivers a condensed version retaining key compositions, heights, skin tones, attire, and atmosphere.
+
+## 1958 Alt-History South Image Prompts
+**Time:** 2026-04-26 06:47
+**Summary:** User requests single photorealistic image prompts for two 1958 alt-history U.S. South scenes: a white teen reunion at Richmond Main Street Station dusk and a group walk through segregated Black-majority crowd at Henrico County Fair midway. AI outputs dense, canon-consistent prompts on aged Kodachrome 35mm detailing characters Eleanore, Cindy, Alice, Barry, Tim, Eddie with exact portraits, heights, attire, Jim Crow tension, single-source lighting, and attic-snapshot style. Prompts enhance prose with sensory details like sweat, motion blur, peanut shells, ensuring no anachronisms.
+
+## What is Flocking?
+**Time:** 2026-04-26 09:51
+**Summary:** User requests bullet-point explanation of 'flocking'. AI defines it as non-hierarchical collaboration like birds in flight, originating post-Steam Pillars show in a story with fan caravans and Alice's visions. It evolves into leaderless flocks sharing 'Love', facing authority conflicts, with sources from Tracks like Birds of a Feather and chapter-guide.
+
+## Combining Drive-In Prompt with Vintage Snapshot Style
+**Time:** 2026-04-26 18:50
+**Summary:** User requests a photorealistic prompt for a 1958 alt-history U.S. South drive-in scene at Hitching Post featuring Tim, Alice Parker, Cindy MacAllister, Eleanore, and Barry watching grieving Elvis fans during Jailhouse Rock post his death. AI generates the detailed Ektachrome prompt from Tim's POV. User then instructs combining it with a mid-20th-century amateur snapshot transformation (aged monochrome print, grain, blur, borders), and AI outputs the merged prompt preserving scene while adding old photo authenticity.
+
+## Enhance and Streamline Illustrate.md Prompt
+**Time:** 2026-04-26 18:56
+**Summary:** User enhances active note 'illustrate.md' in copilot/copilot-custom-prompts/ with detailed old amateur snapshot prompt via @composer. AI integrates details emphasizing aged monochrome authenticity and amateur framing. User then requests streamlining for conciseness without repetitions or conflicts; AI condenses it significantly while standardizing elements.
+
+## 1958 Alt-History South Snapshot Prompt
+**Time:** 2026-04-26 18:59
+**Summary:** User requests a single photorealistic image prompt (300-600 words) for a 1958 alt-history U.S. South scene under Greensboro's Market Street Bridge, depicting Tim and Alice dancing amid a tense joyful interracial Steam Pillars procession with Heath, Vilma, and others, ensuring Jim Crow canon consistency. Prompt optimized for Nano Banana, DALL-E, Midjourney in aged monochrome amateur snapshot style with grain, blur, and flaws. AI delivers the dense, copy-paste-ready prompt starting with specified phrasing and ending with verbatim snapshot transformation block.
+
+## 1958 Alt-History South Snapshot Prompt
+**Time:** 2026-04-26 19:09
+**Summary:** User requests a single photorealistic image prompt for a 1958 alt-history U.S. South scene: Tim's POV of an interracial Jim Crow street dance procession in Greensboro, NC, with characters like Alice, Eleanore, Babatunde, and disguised Heath amid Steam Pillars performance. AI generates a dense prompt detailing foreground dancers, midground crowd, background cop, harsh noon sun, sweat, motion blur, era-accurate elements, and verbatim aged Kodachrome amateur snapshot style for attic-found authenticity. Ensures canon consistency, segregation tension, no anachronisms like Elvis posters.
+
+## Refining Lean Novel Scene Illustrator
+**Time:** 2026-04-27 21:50
+**Summary:** User requests a streamlined @composer prompt replacing bloated illustrate.md with [[project-facts]], new [[illustrate-characters]] (Alice, Tim, Barry, Cindy, Eleanore, Eddie, Steam Pillars, etc.), and [[illustrate-style]] (faded color attic snapshot with ballpoint caption). AI creates files after clarifications, fixes character locking issue after test failure, then generates prompt for Track 8 Chevy scene with Tim driving, Barry, Cindy, Eleanore, Heath. System now token-efficient, enforces individual character descriptions.
+
+## 1958 Chevy Car Chase Image Prompt
+**Time:** 2026-04-27 21:57
+**Summary:** User requests an image prompt for a scene following rules for exact character descriptions, 1958 American South summer setting, faded amateur photo style, and handwritten inscription. AI generates a prompt showing Cindy waving from the back window of a speeding '57 Chevy sedan on rural US-360, with Barry yelling, glimpses of Eleanore and Heath inside, and a trailing police cruiser reflected in the mirror. Prompt includes sources like Flock Music track and project facts for consistency.
+
+## 1958 Chevy Chase Image Prompt
+**Time:** 2026-04-27 22:17
+**Summary:** User requests an image prompt following rules for faded 1958 amateur photos set in American South summer, with exact character descriptions and handwritten inscription. AI generates a prompt showing Cindy MacAllister waving from a speeding '57 Chevy Bel Air pursued by police, with Barry MacAllister Jr. yelling, captured in soft-focus style from driver's mirror POV. Includes details like wind-whipped hair, rural highway, and August '58 cursive annotation.
+
+## 1958 Photo Image Prompt Request
+**Time:** 2026-04-27 22:25
+**Summary:** User requests an image prompt following strict rules for faded 1958 amateur photographs set in American South summer, using exact character descriptions and handwritten annotations. AI generates a prompt for a dusk scene at U-Park-It Self-Park lot: Buzz Cigarette Girl and Jimmy carrying a barrel from Steam Pillars truck, Sister Rosetta as lookout, with Moore’s Restaurant visible below. Includes visual style details like soft focus, grain, and cursive inscription: 'Steam Pillars loading barrel up top at U-Park-It. August '58'.
+
+## U-Park-It Lot Scene Image Prompt
+**Time:** 2026-04-27 22:37
+**Summary:** User describes Alice's POV of Mama, Rosetta, Jimmy in non-canonical work clothes, and Jo Dalton as lookout in U-Park-It Self-Park lot across from Moore’s Restaurant from Track 8. Requests image prompt following rules for exact character descriptions, 1958 faded amateur photo style, and cursive annotation. AI generates detailed prompt with night scene, authentic imperfections, and preserved details like stern Bette/Mama, Buzz Cigarette Girl as Rosetta, Jimmy, and Guitarist/Sister Rosetta as Jo Dalton.
+
+## 1958 Vintage Photograph Image Prompt
+**Time:** 2026-04-27 22:43
+**Summary:** The user requests an image prompt for a scene from "Track 8 - I Saw It Too" featuring Mama, Rosetta, Jimmy, and Jo Dalton in a 1958 parking lot. After an initial API quota error, the AI successfully generates the prompt. The output strictly follows the user's guidelines for creating a faded, amateur 1958 photograph complete with a handwritten cursive annotation.
+
+## 1958 U-Park-It Scene Image Prompt
+**Time:** 2026-04-27 22:53
+**Summary:** The user requests an image prompt for a scene from 'Track 8 - I Saw It Too' set in a 1958 U-Park-It lot, featuring Mama, Rosetta, Jimmy, and Jo Dalton from Alice's POV. The AI generates a detailed prompt adhering to strict rules for an amateur, aged 1958 photograph style, including exact character descriptions and a handwritten annotation.
+
+## U-Park-It Scene Image Prompt
+**Time:** 2026-04-27 22:59
+**Summary:** User describes Alice's POV of Mama, Rosetta, Jimmy in non-canonical work clothes, and Jo Dalton as lookout in U-Park-It Self-Park lot from Track 8. Requests image prompt following strict rules for 1958 amateur photo style, character descriptions, and annotations. AI generates grainy black-and-white prompt with exact character entries, motion blur, diegetic lighting, aged print details, and cursive inscription 'Mama and the crew at the U-Park-It. Summer '58'.
+
+## Image Prompt for Barry-Cigarette Girl Scene
+**Time:** 2026-04-29 03:27
+**Summary:** User requests an image prompt for the Track 3 scene where Barry meets the Buzz Cigarette Girl at the 1958 Henrico Fair, following strict rules for 1958 amateur photo style and exact character descriptions. AI generates a detailed grainy black-and-white prompt featuring Barry, the Black cigarette girl, and background gang members like Eddie, Tim, Eleanore, and Cindy. User then instructs updating [[character-descriptions]] to include explicit race/ethnicity (e.g., white for teen gang, Black for Steam Pillars) for prompt consistency, which AI confirms based on canon sources.
