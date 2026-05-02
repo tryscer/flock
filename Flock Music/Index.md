@@ -31,8 +31,10 @@ longform:
       - Track 19 - Let My People Go!
       - Track 20 - Too Much A-Love
       - Bonus Track - Will We Fade?
+    - Epilogue
   ignoredFiles:
     - Untitled
     - kkkkk
     - Flock-Music
+    - manuscript
 ---

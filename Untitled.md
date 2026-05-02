@@ -1,1 +1,0 @@
-eddie, pete and barry talk at dusk near barry's car

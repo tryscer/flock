@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1090
 copilot-command-model-key: ""
-copilot-command-last-used: 1777320023564
+copilot-command-last-used: 1777709793656
 ---
 {}
 Create an image prompt of the above. 

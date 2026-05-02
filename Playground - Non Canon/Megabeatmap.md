@@ -60,16 +60,21 @@ What goes in this file: This is a temp scratchpad.  Write **only** beats that ar
 - [`Romance`] Alice ==forgives== Tim's visionary lie
 
 # Characters 
-
-**Wonderland**
-Alice
+## Alice 
+​	### ​Major
+ - Cindy: drifting apart, opening up to other connections, adds sorrow to mourning 
+ - Shirley: flockening friend. they understand each other  without words. They give each other joy and freedom. Their relationship is a threat to Cindy.
+ - Babatunde: She gets closer to him, seeks him as mentor, he teaches her to drum, they connect over visions, but he is reluctant to assume the mentor position
+ - Eleanore: they are in a feud that started over Tim, but expands to their shared fan club (the visions fan clubs), allows Alice to mature facing a sophisticated opponent and us to see how flockers live in disagreement and can even get closer.
+​	### Minor 
+* Eddie: big brother-little sister archetype -- feels like he is responsible for her, acts as guide  
+* Mama: takes a liking to Alice,  acts softly to her​ - as a result of Eddie's relation to Alice
+* Joan Johns: like a young aunt - she attempts to rattle Alice's view, teaching her about sex and boys
 Barry
 Cindy
 Elenore
-Tim
-
+**Tim**
 Eddie
-**The steam pillars (original cast)**
 Jo
 * Mama - remains loyal, 
 Vilma
@@ -82,7 +87,6 @@ Babatunde
 * Alice - adopted, mentored
 * Mama - appreciation, maintains appreciation through the arcs 
 Heith
-
 Mama
 Mr macallister
 Shirley
