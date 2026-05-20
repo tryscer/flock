@@ -167,7 +167,7 @@ It feels like a parachute opening, like my fall is abruptly stopped, like that w
 ​	Slowly, we keep dancing, touching. 
 ​	“I’m not in high school anymore,” I say. Far away on stage, Babatunde shows us mercy and slows down the beat. I feel my belly unknotting and unwinding. “I have responsibilities.”
 ​	“Damn right, he’s a full-grown man,” says Pete. 
-​	“I’m not in high school anymore either,” Alice says into my chest. “At least I’m not going back there.”
+​	“I’m not in high school anymore either,” Alice says into my chest. “At least, I’m not going back there.”
 ​	“What did she say?” says the woman. 
 ​	“She said she’s not in high school anymore,” says Pete.
 ​	“Oh. Yeah, that’s right! She’s an adult as well!”
@@ -252,9 +252,26 @@ People dance hugged, leaning on each other, talking over the music, telling each
 ​	“What?”
 ​	“That’s what that dodo bird is saying.”
 
-*(*
+*(…for Charleston…)* 
+
+*(…we’re leaving tonight…)*
+
+*(…we leave tonight for Charleston…)* 
+
+Alice and Cindy are hugging and talking excitedly; Barry and Rosetta are necking like crazy; Eleanore and two boys are leaning on the sloped brick walls of the kiln, sharing a private joke. I stand on my own, looking at the tall chimney jutting out from the kiln, smoking a cigarette, looking at the people getting out. The air is cool outside. Everybody who leaves is still dancing, as if they can’t help it. Everybody is drenched with sweat. Everything is soft, hushed. 
+​	“We leave tonight for Charleston,” Eddie says. He hands me a bracelet. 
+​	“Already got one.”
+​	“Are you stupid, Tim? You’re not supposed to have just one.”
+​	I take the bracelet – a simple, uncolored cotton thread with two coins slotted on it. I put it over the previous one. 
+​	“You and Alice,” I tell Eddie, “you’re conspiring against me.”
+​	Eddie grins. “You should listen to that woman. Anyway, we leave tonight.”
+​	“For Charleston, right?”
 
 
+braids
+emerson
+malted​	
+fan clubs (ends with elvis news)
 
 
 
