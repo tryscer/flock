@@ -1,3 +1,6 @@
+---
+sort_index: 27000
+---
 # The Israelites
 
 - the caravan has to navigate more determined enemies now, and use more guile and cunning. 

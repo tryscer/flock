@@ -1,3 +1,6 @@
+---
+sort_index: 10000
+---
 *(Isn’t it a beautiful day to be a-rocking and a-rolling, America? Yes, the Soviets are launching guard dogs into space, to float above our heads… but today we can look at the sky, that clear blue sky, America, ==and remember His grace always shines on us==. Anyway, here’s an oldie from a fallen giant of rock’n’roll… a naughty boy indeed… Jerry Lee, we don’t know where you went to, if you’re hiding or only resting, but your magical piano-playin' fingers are dearly missing from the airwaves…*
 
 *Craaaaheyzeee aaaaaaarms that reach to ho-hold somebody newwww…)*

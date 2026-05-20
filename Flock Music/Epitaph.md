@@ -1,3 +1,6 @@
+---
+sort_index: 24000
+---
  *"Let my people go!"*
 ​— *Some hopped-up, bush-watching, self-proclaimed leader of men*
  *"Too much a-love drives a man insane."*

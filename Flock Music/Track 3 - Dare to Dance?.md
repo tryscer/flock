@@ -1,3 +1,6 @@
+---
+sort_index: 18000
+---
 ==*Mamas and daddies, sisters and friends — hold that dial. After the weather we got a hand-clapper to lift your load... And what a morning this promises to be, with the Henrico County Fair Achievement Day already under way. This is your man, Tiger Tom, coming for WANT-AM Richmond and today we are LIVE from the fair, with fantastic guests already lining up telling us all about this special day of celebration. At four, we’ll have West Virginia’s own Swan Silvertones and at four-thirty, farmer Besse Mayfield will tell us about her display at the fair. And what music shows will we have at the fair today, culminating with our guests from faraway Nashville, the Seven-Tops… Anyway, here’s Jerry Butler & the Impressions with For Your Precious Love...*==
 
 *Step right up!*

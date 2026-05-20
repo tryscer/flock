@@ -1,3 +1,6 @@
+---
+sort_index: 28000
+---
 # Better Have a Long Arm
 
 - to appease Buzz Music, the pillars agree to record a single. this causes baba to leave the band. 

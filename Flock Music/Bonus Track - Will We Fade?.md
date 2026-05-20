@@ -1,3 +1,6 @@
+---
+sort_index: 25000
+---
 # Epilogue
 
 - at cindy's funeral, mr. macallister joins the movement.

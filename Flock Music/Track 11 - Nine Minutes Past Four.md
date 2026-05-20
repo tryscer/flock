@@ -1,3 +1,6 @@
+---
+sort_index: 14000
+---
 *Hey there, listener JANE, hi there, listener JOHN. Come on by the radio, and sit down. Your friend, DJ JONAH, has some unpleasant bit of news to dispense. It’s written on this piece of paper I’ve been handed that this afternoon, at nine minutes past four, an accident took place at the Fort Hood Basic Training Facility in Texas. It says Private Elvis Presley has been hurt by an explosive… excuse me, Jane, John… by an explosive ordnance… a grenade. He had recently completed his eight weeks of Basic Training and, since May, was undergoing Advanced Armor Training as part of the 2nd Armored Division, famously known as the "Hell on Wheels”... Army medics have set the time-of-death at the scene… excuse me, excuse me… it would appear, and why am I crying, listener JANE, and listener JOHN, that the King is dead… Who would reign over us now?*
 
 Next to the exit from US-29 to Salisbury, NC, under a big sign welcoming us to the Hitching Post Drive-In, Barry kills the headlights. We roll up the windows even though the night is warm, and whisper to each other even though the windows are rolled up.   

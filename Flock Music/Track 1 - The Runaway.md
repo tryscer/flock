@@ -29,9 +29,10 @@ entities:
   ideas:
     - first live show
     - throwing panties onstage
-    - "Alice of Wonderland"
+    - Alice of Wonderland
     - Achievement Day
     - running away from home
+sort_index: 11000
 ---
 *It's DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, green ones and white ones, flocking together, going their own way… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CHORDETTES with LOLLIPOP…*
 

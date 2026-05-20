@@ -1,4 +1,7 @@
-# A Different Kind of Barry
+---
+sort_index: 6000
+---
+[`UR`] In the show, Sr. and Mama cross paths and immediately develop a mutual hatred. 
 
 - Nightly pony tail 2 (after the flockening)
     - Same park but now everybody is busy with flock stuff

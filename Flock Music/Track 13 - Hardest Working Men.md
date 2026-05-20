@@ -1,3 +1,6 @@
+---
+sort_index: 5000
+---
 
 
 ## Beatmap
@@ -5,8 +8,8 @@
 - rehearsal that devolves into drug doing
 - They are stuck in columbia for the week because vilma
 - The caravan needs to wait till the next show, so they volunteer - maybe in a black college experiment farm <- this is where the fan clubs become flocks, are called flocks by eleanore, and the Flocking is officially here.
-- Modjeska Monteith Simkins (the ur banker)
-- Wonderland discusses who are the flock members, and decide Eddie is a flock member, even if he isn't always there.
+- Modjeska Monteith ("M.M.") Simkins (the ur banker)
+
 - Jam session with famous lips in the Good Sam hospital with vilma
 - Johnny Terry heard that Vilma is in the hospital and came from Athens to visit, bringing drugs
 - the famous flames ask who decides who plays what. Babatunde shows them a laid back approach the music.

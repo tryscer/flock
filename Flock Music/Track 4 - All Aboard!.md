@@ -1,3 +1,6 @@
+---
+sort_index: 16000
+---
 *“…And now we swing on over to local happenings, where the bright airs of the Henrico County Fair’s Achievement Day turned mighty stormy this afternoon... Police were called in after what they flat-out called ‘riotous behavior’! Officers stepped in quick to settle things down. Fair boss, Mr. C. Evans, gave a statement, and I quote: ‘We have laws in this country, and no amount of celebration will distract us from upholding them…’ Strong words there. Now here’s the real kicker: state fair officials have shut down all the music shows for the day. That means no stage for the Seven-Tops, those radio favorites that you folks lined up to hear... Among those caught up in the fray was the son a prominent businessman. More on that story right at the top of the hour, so don’t you dare touch that dial… Right now let us bring back the smooth sounds with Dean Martin, crooning 'That’s Amore!'”*
 
 *(Bells would sing ting-a-ling-a-ling, ting-a-ling-a-ling and you'll sing…)*

@@ -1,3 +1,6 @@
+---
+sort_index: 30000
+---
 # Too Much A-Love
 
 - in the aftermath of last episode, the flocks decide to arrange a powerful sit-in next to the jail where Barry is held. 

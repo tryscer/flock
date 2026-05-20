@@ -1,8 +1,4 @@
 ## 1958 Novel Anachronism Audit
-**Time:** 2026-04-22 22:10
-**Summary:** User instructs AI as an anachronism auditor for an alternate-history novel set in U.S. South, June–September 1958, to check a passage against historical, regional, and project facts. AI flags three immersion-breaking issues: nonexistent 'George River' (replace with James River), post-1949 streetcar tracks in Richmond area, and modern slang 'fire/on fire' (suggest 'hot' or 'wild'). Sources cited include historical records, maps, slang etymologies, and [[project-facts]].
-
-## 1958 Novel Anachronism Audit
 **Time:** 2026-04-22 22:14
 **Summary:** User tasks AI as an anachronism auditor for an alternate-history novel set in U.S. South, June–September 1958, to evaluate a passage against historical, cultural, and project-facts standards. AI identifies four immersion-breaking issues: 'roadie' terminology, 'bummer' slang, misattribution of 'Great Balls of Fire' to Elvis, and 'Sunburst Precision' bass naming. Sources cited include project-facts, Elvis records, Fender catalogs, slang etymologies, and Billboard charts.
 
@@ -197,3 +193,7 @@
 ## Image Prompt for Barry-Cigarette Girl Scene
 **Time:** 2026-04-29 03:27
 **Summary:** User requests an image prompt for the Track 3 scene where Barry meets the Buzz Cigarette Girl at the 1958 Henrico Fair, following strict rules for 1958 amateur photo style and exact character descriptions. AI generates a detailed grainy black-and-white prompt featuring Barry, the Black cigarette girl, and background gang members like Eddie, Tim, Eleanore, and Cindy. User then instructs updating [[character-descriptions]] to include explicit race/ethnicity (e.g., white for teen gang, Black for Steam Pillars) for prompt consistency, which AI confirms based on canon sources.
+
+## Guidelines for American English Title Capitalization
+**Time:** 2026-05-14 11:16
+**Summary:** The user inquired about standard American English rules for title capitalization, specifically regarding which words to lowercase and how to handle verbs like "is." The assistant clarified that articles, coordinating conjunctions, and short prepositions are typically lowercase, while all verbs, including forms of "to be," must be capitalized.
