@@ -61,8 +61,7 @@ entities:
 ## WORLD
 - - [world] Story world — Takes place in the U.S. South during summer 1958.
 - [world] Elvis dies in an accident in the summer of 1958.
-- [world] Jerry Lee Lewis has gone undercover following the scandal of his marriage. He is hiding with the Steam Pillars under the pseudonym Heath Walker Cain.  
-- [world] Great Balls of Fire was Elvis's hit, not Lewis's. 
+- [world] Jerry Lee Lewis has gone undercover following the scandal of his marriage. He is hiding with the Steam Pillars under the pseudonym Heath Walker Cain.  The split point is his plane trip to England — instead of being mobbed by photographers with his teenaged wife in Heathrow, he is tipped before boarding the plane and goes off the plane disguised, then goes undercover. He will later be enlisted into the Steam Pillars by Mama, who knows his secrets. 
 - [world] the UR is a clandestine civil rights movement. it takes inspiration from the underground railway but has other MOs: it takes inspiration from Dr. **King’s conceptual distinction between desegregation and substantive integration**<span class="copilot-citation-ref">[1]</span>. Mama Bettye Davis (loosely based on Bettye E. Davis), is the UR's representative, answering to Dr. Player (loosely based on Willa Beatrice Player). She formed the Steam Pillars intentionally to create situations in which white and black youths get the opportunity to enjoy music together. The Pillars' initial success wins Mama recognition and money, but as the book progresses, the UR loses its influence over the band it created.
 
 

@@ -5,7 +5,7 @@ What goes in this file: This is a temp scratchpad.  Write **only** beats that ar
 - [ ] Delete this file and go on with your day. 
 ## Arcs
 
-- [`Fandom` ]: ==Love addiction==, ==seeing==, intimacy within fa​nclubs - ==feeling of belonging==,  ==common language and gestures==. --> 
+- [`Fandom` ]: ==Love addiction==, ==seeing==, intimacy within fa​nclubs - ==feeling of belonging==,  ==common language and gestures==. -->​	 
 - Flocking: Actions call for coordinated groups, forming rules of engagement:  we are all zero days; working, motivating and leisure are all accepted behaviors; leaders and followers interchangeability, ==fluid interactions between members and groups: boids - dynamics between individual wills and a need to be part of something. ==
 - ==quality of being a flocker: identifying as the sum of your relationships and not belongings, be more about interactions than about achievements (such as deadlines)==
 - [`Romance`]: Tim and Alice’s romance begins as Alice’s aspirational adulthood play—claiming Tim to end Cindy/Eleanore feud, kissing him post-warehouse initiation—while Tim falls first, falsely claiming shared visions to bond as co-witnesses. It deepens into partnership through joint actions like Market Street luring and drive-in hand-pressing, where Alice universalizes intimacy while Tim clings to private claims, his aspirational lie curdling trust. Fractured by communal diffusion vs. individual possession, they split tragically: Alice chooses flock transmission, Tim solo authorship via Buzz.
