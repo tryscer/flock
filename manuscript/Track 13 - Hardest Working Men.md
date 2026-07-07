@@ -20,8 +20,13 @@ The florist is about our age, black, wearing XXX. She’s singing to herself as 
 - Veronika. Another option is to have to florist BE veronika and join here (so far she kind of has exactly one scene in the trading ford and then we never hear from her again.)
 - J. Terry brings the Flames Along to jam with Mucho and the band to cheer him up. 
 - This chapter can be the start of the relationship between Heath and Tim. 
-- 
 
+## microtactics
+- softness as a response to violence (“don’t kill him myrtle”)
+- “who’s with me” - leading without authority and joining without coercion 
+- “maybe we’ll dance again later” — 
+- work is not top value, it’s as important as going to the river
+- relationship matter: your value to me is in your existence, not in the function you fill for/against me
 ## outline
 - tim proposes to buy alice a flower
 - zoomout: in the lobby of the hospital, flower vendor is singing the song on the radio (white sports coat)
