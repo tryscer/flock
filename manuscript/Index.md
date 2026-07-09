@@ -20,9 +20,9 @@ longform:
       - Track 10 - Flip the Dial
       - Track 11 - Nine Minutes Past Four
     - Side C - Alice
-    - - Track 12 - Don't Wait For the Sunset
-      - Track 13 - Hardest Working Men
-      - Track 14 - A Different Kind of Barry
+    - - Track 12 - I Fought For This Nation
+      - Track 13 - The Love Situation
+      - Track 14 - My Murmuration
       - Track 15 - Are You Ready, Atlanta?
       - Track 16 - The Israelites
       - Track 17 - You Can't Take It With You
@@ -34,4 +34,5 @@ longform:
   ignoredFiles:
     - manuscript
     - manuscript
+    - Track 13 - And a Pink Carnation
 ---

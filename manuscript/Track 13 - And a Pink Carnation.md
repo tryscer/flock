@@ -42,13 +42,14 @@ The florist is about our age, black, wearing XXX. She’s singing to herself as 
 - inside, wonderland is packing: they have been kicked out. some other caravan people in a dour mood. we learn most people left. barry: “ok, let’s get some money, stay in a hotel together”
 - Vinietot trying stuff
 	- in the black-owned bank, barry’s check bounces. they go to mama on behalf of the remaining caravan, asking for help. 
-- Getting closer together and reaffirming their values (Eleanore as the group theoretician)
-	- softness with the world 
+	- big apple club, now derelict. meeting the custodian, and old beggar type man who scolds them for not knowing the big apple dance
 - back in the hospital. buying flowers for mucho. florist. alice and her sing together
 - in mucho’s room: mucho has woken up and in a bad mood. tim gives him the flowers and mucho throws them away. heath and tim and babatunde talk. mama refuses to help but they convince her she should take them with her to the meeting with the banker: only alice and shirley. 
 - at the bank again, now being let into the depths of the bank. simkin. she asks the girls to get out of the room. mama leaves later, head in her hands. message is clear: they are on their own. 
 - They have nothing to do for the first time. They’re also hungry.
-- cindy and eleanore are fighting (again) about cindy being in two fan clubs. alice: birds can nest in two trees and nobody’s bothering them about it. barry: we’re not birds. cindy: shut up, dodo boy. 
+- cindy and eleanore are fighting (again) about cindy being in two fan clubs. alice: birds can nest in two trees and nobody’s bothering them about it. barry: we’re not birds. cindy: shut up, dodo boy.
+- back to the florist, something happens, she tells them about the research station (EVR)
+- 
 
 
 ## Research around the research station

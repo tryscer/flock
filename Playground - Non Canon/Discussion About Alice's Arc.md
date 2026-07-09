@@ -46,7 +46,7 @@ I've listed motivations we'll take to the next step, ordered from the most to th
 1. the fear of the next high not being there as the underlying motivation;
 2. wanting to not only experience more highs, but get higher, chase the rainbow to its end. Wanting more people to join is now framed as stemming from chasing a stronger Love effect ("it gets better when more folks join in"). 
 3. Wading deeper into the meaning in the visions that take place in the Steam Pillars show, understand their meaning and rules and try to learn their message / prophecy. this will lead her to be the archtype of a holy person, which can be nice if not done overly seriously.
-4. Her emotional and intellectual curiosity is peaked by the end of [[Track 11 - Nine Minutes Past Four]]. In [[Track 12 - Don't Wait For the Sunset]] we'll learn that during track 11 she realized Heath is secretly Jerry Lee Lewis, her favorite artist and celebrity crush. She will spend side C in trying to prove her suspicion. 
+4. Her emotional and intellectual curiosity is peaked by the end of [[Track 11 - Nine Minutes Past Four]]. In [[Track 12 - I Fought For This Nation]] we'll learn that during track 11 she realized Heath is secretly Jerry Lee Lewis, her favorite artist and celebrity crush. She will spend side C in trying to prove her suspicion. 
 
 so deep down, alice is a junky; a music junky, a Love junky. It might be use​ful for you to know I think the effect of Love is just like an MDMA high that lasts longer and has a more gentle come-down
 
@@ -229,7 +229,7 @@ The beat to sharpen is still Tim’s announced exit, because [[Track 9 - Market 
 Track 10 should be the chapter where Tim’s stated intention to leave collides with the caravan becoming more real, organized, and emotionally binding. Per the current beatmap, this is where the pipeworks show happens, Sheriff Emerson appears as Barry Sr.’s emissary, the group sends postcards home, and Wonderland is founded; the chapter then *ends* with the Elvis news via the “turn on the radio” billboard signal rather than beginning there.[^2] For the Alice/Tim arc, the crucial beat is that Alice converts the day into commitment — “for the long haul,” fan-club naming, home-redefinition — while Tim is drawn deeper in almost against his own stated plan. That matters because it lets Alice choose continuity before Tim does, which makes her later emotional confidence plausible and his later entanglement slightly reactive.
 
 ## Side C beginning
-At the start of Side C, Alice should be openly with Tim, but the relationship’s deepest glue is still false: she believes he shares her visionary initiation, and that conviction gives their love a spiritual intimacy beyond flirtation.[^3] Since Side C begins after [[Track 12 - Don't Wait For the Sunset]], where her renewed kissing with Tim causes a rift with Cindy and Eleanore, the important beat is that Alice is now willing to pay social cost for him.[^4] Why it matters: she is not drifting into romance anymore; she is choosing it, and choosing it partly because she thinks Tim is one of the few people who truly *got* what happened to her.
+At the start of Side C, Alice should be openly with Tim, but the relationship’s deepest glue is still false: she believes he shares her visionary initiation, and that conviction gives their love a spiritual intimacy beyond flirtation.[^3] Since Side C begins after [[Track 12 - I Fought For This Nation]], where her renewed kissing with Tim causes a rift with Cindy and Eleanore, the important beat is that Alice is now willing to pay social cost for him.[^4] Why it matters: she is not drifting into romance anymore; she is choosing it, and choosing it partly because she thinks Tim is one of the few people who truly *got* what happened to her.
 
 ## Side C middle
 The strongest central beat is that Alice and Tim become a genuinely effective couple inside the movement even as they want different things from that effectiveness. The pattern is already visible: in [[Track 9 - Market Street Stroll]] they work beautifully together in public action, and in [[Track 11 - Nine Minutes Past Four]] Alice treats Tim’s hand-pressing as something to spread while Tim wants it to remain theirs.[^5] By Side C middle, that contradiction should intensify through success: the better they work together, the harder it becomes to ignore that Alice experiences intimacy as something that can widen outward, whereas Tim experiences it as something diminished by sharing. That matters because it keeps the romance real while planting the reason it cannot last.
@@ -250,7 +250,7 @@ The ending that best serves the arc is not “Tim is exposed, therefore Alice le
 [^1]: [[Track 9 - Market Street Stroll]]
 [^2]: [[Track 10 - Flip the Dial]]
 [^3]: [[Discussion About Alice's Arc]]
-[^4]: [[Track 12 - Don't Wait For the Sunset]]
+[^4]: [[Track 12 - I Fought For This Nation]]
 [^5]: [[Track 11 - Nine Minutes Past Four]]
 [^6]: [[chapter-guide]]
 [^7]: [[Track 17 - You Can't Take It With You]]
