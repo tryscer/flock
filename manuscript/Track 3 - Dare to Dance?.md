@@ -50,7 +50,7 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 
 
 “Excuse me, sir, may I interest you in a *honey* of a smoke?”  
-​        The cigarette girl is young, lithe, wearing a yellow-and-white uniform proudly featuring the yellow hexagons of the Buzz Cigarettes brand. Her hat is a particularly ugly, yellow pillbox, with the Buzz logo sewn on it, like a military insignia. White straps around her neck hold a yellow plastic tray displaying the many products offered by the Buzz Cigarettes Co. She’s holding on to it with two hands covered in white gloves that make her look like a cartoon bee. Looking at her feels a lot like stepping into Cindy’s and Barry’s house.   
+​        The cigarette girl is young, lithe, wearing a yellow-and-white uniform proudly featuring the yellow hexagons of the Buzz Cigarettes brand. Her hat is a particularly ugly, yellow pillbox, with the Buzz logo sewn on it like a military insignia. White straps around her neck hold a yellow plastic tray displaying the many products offered by the Buzz Cigarettes Co. She’s holding on to it with two hands covered in white gloves that make her look like a cartoon bee. Looking at her feels a lot like stepping into Cindy’s and Barry’s house.   
 ​        Barry stands erect and proud. With thumb and forefinger he’s smoothing an invisible mustache. Eddie tries to keep a straight face, but not trying too hard. 
 ​        “As you can see,” says the cigarette girl, “we have for you today the best tobacco products money can buy: fine Domestic Virginia cigarettes, and for the man who knows his smoke, we also offer Turkish Blend cigarettes, and an assortment of snuffs and chewin’ tobaccis. Would you care for a free sample?”  
 ​        ”Chewing tobaccos,” says Barry, very sternly. “Not chewin’ tobbacis. When you represent the Buzz brand, it is important that you keep to decorum.”  
@@ -77,7 +77,7 @@ Over a prominent double-width stall, between a barbecue stall and a ring-toss st
 ​        “Any Buzz smoker is a welcome member of the Buzz family,” says Mr. Farley. 
 ​        “Why,” says Barry, eager to make his point, “our representative here — he shoves the unwilling cigarette girl into the spotlight — “has already given out *forty-two* samples and had to restock *three times*. And it’s only an hour and a half past noon. And she is only one of our fine, fine…” 
 ​        ”Edwardo!”  
-​        The voice is fierce, low, piercing through the racket. It is soon thereafter joined by the biggest body I’ve ever seen — a tall, fat black guy in overalls — moving swiftly towards us. I notice with interest that the only ones who stops to flinch is Eleanore and Mr. C. Evans.   
+​        The voice is fierce, low, piercing through the racket. It is soon thereafter joined by the biggest body I’ve ever seen — a tall, fat black guy in overalls — moving swiftly towards us. I notice with interest that the only ones who stop to flinch are Eleanore and Mr. C. Evans.   
 ​        Eddie raises his head towards the big guy —  
 ​        “Edwardo\!”  
 ​        ”Holy shit, it’s Besame Mucho,” says Eddie, smiling a big smile at Mr. C. Evans, who looks offended. He gives us all a little look —  
@@ -96,7 +96,7 @@ A few people are sitting on folding chairs next to a big tent. Eddie and the hug
 ​        “Is that Edwardo or am I seein’ things?”
 ​        “Boy, you have some nerve!”
 ​        “Alright, everybody alright," says Eddie, "relax, won’t ya? I missed you guys too.” He hugs the pretty lady who’s standing there, saying nothing. She hugs him back but continues not to talk. Then Besame Mucho hugs him again. Then they all hug and pat him on the shoulder. 
-​        “Ah,” says Eddie, “these are Alice and her friends. These unwitting sages, Alice most of all, informed me you sons of bitches have finally broke loose.”
+​        “Oh,” says Eddie, “these are Alice and her friends. These unwitting sages, Alice most of all, informed me you sons of bitches have finally broke loose.”
 ​        “Then you have done us a great service,” says another man in a deep foreign accent. He has his hand around Eddie’s shoulder. I’ve never seen a man dress like that, a ceremonial garb of another people, perhaps — a white cotton dress, full of red and purple embroideries of flowers and birds. His cap is made from the same cloth. 
 ​        “And these,” says Eddie, “are some of my old friends. I don’t want to scare you, Alice, but some of these people are actual, factual members of the Steam Pillars”.        
 ​        I look at them: Eddie, Besame Mucho, the foreign man, the pretty woman — small, voluptuous, with short curly hair and big earrings, looking like a down-to-Earth Dorothy Dandridge. 
