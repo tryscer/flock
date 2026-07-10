@@ -74,7 +74,7 @@ Over by the tree line, next to a lonely picnic table, Shirley was hugging Patty 
 ​	"Let him go," Pete said. "It's okay that some people go."
 ​	"Maybe we'll dance again later," Cindy told him. 
 ​	“Maybe we’ll dance again later,” we all repeated. 
-​	He looked at us with sad eyes. The he drove away. 
+​	He looked at us with sad eyes. Then he drove away. 
 ​	"We gotta turn back," said someone else. "How can we keep dancing after today?"
 ​	"How can you go on after today *without* dancing?" said Barry. 
 ​	Cindy and I exchanged amused looks.
