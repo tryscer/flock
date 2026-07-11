@@ -75,7 +75,7 @@ Cindy and I are tossing pennies at the wall next to Mucho’s room. Tim and Barr
 ​	“I don’t believe this,” Barry says.
 ​	“A *leaner!*” Cindy exclaims. “I win.”
 ​	“...again,” Eleanore says. 
-baby-sitting moneyVictory Savings Bank​	‘reing​	“Another leaner?” I cry at the wall. “God, why? Well, congratulations, you’ve fleeced me out of all my baby-sitting money.”
+	baby-sitting moneyVictory Savings Bank​	‘reing​	“Another leaner?” I cry at the wall. “God, why? Well, congratulations, you’ve fleeced me out of all my baby-sitting money.”
 ​	“*And* mine,” says Eleanore. 
 ​	“And *ours,*” Tim says. Barry nods. 
 ​	Cindy crouches and collects the coins from the floor, her face under that blonde mane red with pride.
