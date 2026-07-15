@@ -1,4 +1,21 @@
-For Side D - track 18. 
+the main throughlines: 
+- fanclub argument → alice’s solution → seeing the bird push out its offspring → calling the action meeting of the flocks
+- no money → mama enlisting the caravan → simkin says no
+- trauma and idleness → security club forms naturally → caravan people finding other things to do → florist telling them about the research farm
+- ??? → staying with the question of “what is this?” (can be mixed with alice&tim not sure what they are) → eleanore is the NAMING COMITTEE
+These converge into the FLOCKENING
+
+color: big apple club (creamin next episode) with night wwatchman scolding them and they double down (with dhana)
+
+the fanclub argument: Alice doesnt even understand the question. “ Its not something you belnong to, its something you do”, the answer is revewaled over time
+
+Veronida is the flowerist. we will also see other people, named , joining in, bringing with them changes
+
+Dahna - the zen principle. Cindy manifests it with her hostest charachter 
+
+mama sees the caravan as both nuisance and asset — but when eddie convinces her to take alice and shirley to the meeting with simkin, she understands how big the asset is (even though the meeting fails)
+
+For Side D - track 18.
 DJ JONAH here, coming to you as always from a SECRET LOCATION up in the BIRD’S NEST… and when DJ Jonah isn’t right behind this microphone, DJ Jonah is out there, jumping like a fool in each and every jive. And let me tell you, listener JANE… Let me tell you, listener JOHN… Oh my. Yours truly has been to a show last night… Oh MY, listeners, and once again oh my… I thought, friends, I thought I know what a musical show can BE… The Things it can DO… the places it can, only if it’s very very good and you are very very in itin itin itin it… TAKE YOU. Oh my. Lookit, I’m all goosebumps even talking about last night. Take a note of their name: THE STEAM PILLARS. You’ll be hearing this name a lot this coming autumn, as our friends at BUZZ RECORDS are telling us they’ll be issuing their very first single this September-October… Oh my, oh my. 
 
 For Track 19
