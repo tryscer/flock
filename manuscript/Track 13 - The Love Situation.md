@@ -91,21 +91,31 @@ The cashier at the Victory Savings Bank nods her head. She’s holding the phone
 
 ----
 
-The five of us are walking outside.
+The five of us are walking outside. All around are comers and goers, drivers, delivery boys, businessmen, mostly black, but here in Columbia they don’t give us a wide berth, don’t shy away from eye contact. It feels safe in here. 
 ​	“You can’t be in *two* different fan clubs,” Eleanore says. “You can’t be in Wonderland *and* in the Security Fan Club.”
 ​	“Sure I can,” Cindy says. The sun is hiding behind clouds and there’s a cool breeze going. 
 ​	“Sure you *can’t*,” Eleanore says. “It doesn’t make *sense.*”
 ​	“I think she can,” Barry says. “Where is this church?”
-​	“It’s over on EVR STREET EVR,” Tim says. “And I think she can.”
+​	“It’s over on EVR STREET EVR,” Tim says. “And I think she can’t.”
 ​	I say, “Why are you all looking at me?”
-​	“We need a ruling,” Cindy says. 
-​	“Well, who died and made me ruler?”
-​	“Excuse me,” says Eleanore. “Aren’t you this Wonderland’s Alice?”
-​	I think about it for a while. We walk in silence. Up ahead I see the steeple of the First Church EVR EVR, where we’ve been sleeping since we came to Columbia, SC. All around are comers and goers, drivers, delivery boys, businessmen, mostly black, but here in Columbia they don’t give us a wide berth, don’t shy away from eye contact. It feels safe in here. 
-​	“I think,” I say, “that while Cindy’s with us, she’s in Wonderland, and when she’s guarding Mucho, she’s in the Security Fan Club. And Eleanore, while you’re bossing around the Cookers, you’re in their fan club. And when you’re eating with us later you’re in Wonderland.” I add, immediately undermining my own authority, “…and so on.”
-​	“Okay,” Eleanore says, “and when I’m in the shower, am I in the Soap Fan Club or the Shampoo Fan Club?”
-​	“Shut up, Puppy,” Barry says. “Our ruler has spoken.”
-​	“Guess it’s a fair ruling,” Eleanore says. “Hey, Joneses, what are you doing?”
+​	“Excuse me,” says Eleanore. “Aren’t you this Wonderland’s Alice? Or are you just an *Alison?*”
+​	I ignore the insult. “If I can be Alice,” I say, “Cindy can be in two places at the same time… *Puppy.*”
+​	“Stop being difficult,” Eleanore tells me. “This way *anarchy* lies.”
+​	Tim says, “Either you belong with some*one*, or you don’t belong anywhere. That’s all I have to say about *that.*”
+​	I feel a knot forming in the pit of my stomach. Tim looks like a lost boy to me. I see Barry looking at Tim. I wonder if he’s thinking the same thing.
+​	“You can belong here, and you can belong there,” he says. He puts his hand on Tim’s shoulder. “You belong where they love you.”
+​	Tim looks at me and says, “That’s what I’m saying.”
+​	“No,” Barry says. “That’s what *I’m saying.*”​	
+​	“
+​	“That’s what I’m saying,” Tim and Barry say together. 
+​	We all laugh. 
+​	“Well,” Eleanore says, “I think that way *anarchy* lies.”
+​	
+
+
+
+
+​	“Hey, Joneses, what are you doing?”
 ​	Beside the church, Joanne is helping John stuff an oversized rucksack into the trunk of their Chrysler. When they see us they get this guilty look on their faces. 
 
 

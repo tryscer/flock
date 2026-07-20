@@ -2,8 +2,11 @@ the main throughlines:
 - fanclub argument → alice’s solution → seeing the bird push out its offspring → calling the action meeting of the flocks
 - no money → mama enlisting the caravan → simkin says no
 - trauma and idleness → security club forms naturally → caravan people finding other things to do → florist telling them about the research farm
-- ??? → staying with the question of “what is this?” (can be mixed with alice&tim not sure what they are) → eleanore is the NAMING COMITTEE
+- staying with the question of “what is this?” (can be mixed with alice&tim not sure what they are) (and eleanore not sure whst THIS is- )
 These converge into the FLOCKENING
+
+for lster: ​	“Well, who died and made me ruler?”
+
 
 color: big apple club (creamin next episode) with night wwatchman scolding them and they double down (with dhana)
 
