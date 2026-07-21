@@ -38,7 +38,7 @@ That is better than “join the movement,” because she’s already in. It is a
 [^5]: [[Track 9 - Market Street Stroll]]
 [^6]: [[Track 6 - Birds of a Feather]]
 [^7]: [[Track 3 - Dare to Dance?]]
-[^8]: [[chapter-guide]]
+[^8]: chapter-guide
 [^9]: [[Track 7 - Morning, Gorgeous]]
 
 user: 
@@ -171,7 +171,7 @@ That gives you one addiction engine, one political-social engine, one mystical e
 [^4]: [[Track 6 - Birds of a Feather]]
 [^5]: [[Track 7 - Morning, Gorgeous]]
 [^6]: [[project-facts]]
-[^7]: [[chapter-guide]]
+[^7]: chapter-guide
 
 user: now let's add a tim arc. in side a, she wants him because she wants to be an adult and so joins cindy and eleanore's feud over him. in [[Track 6 - Birds of a Feather]] she reaches adulthood and kisses tim to end the feud. later, in [[Track 7 - Morning, Gorgeous]] tim falls in love with her, but she doesn't fall for him yet; but then, in [[Track 9 - Market Street Stroll]] , i think what happens is she's kind of falling for him despite my planning (characters would do that for you). let's try to explain what happens between that show in the buzz warehouse and the show in jefferson square where they almost share another kiss; then let's try and think how that arc progresses according to what i put down in [[Arcs - for discussion]]
 
@@ -252,7 +252,7 @@ The ending that best serves the arc is not “Tim is exposed, therefore Alice le
 [^3]: [[Discussion About Alice's Arc]]
 [^4]: [[Track 12 - I Fought For This Nation]]
 [^5]: [[Track 11 - Nine Minutes Past Four]]
-[^6]: [[chapter-guide]]
+[^6]: chapter-guide
 [^7]: [[Track 17 - You Can't Take It With You]]
 [^8]: [[Discussion About Alice's Arc]]
 [^9]: [[project-facts]]

@@ -91,26 +91,26 @@ The cashier at the Victory Savings Bank nods her head. She’s holding the phone
 
 ----
 
-The five of us are walking outside. All around are comers and goers, drivers, delivery boys, businessmen, mostly black, but here in Columbia they don’t give us a wide berth, don’t shy away from eye contact. It feels safe in here. 
+The five of us are walking in the EVR EVR. All around are comers and goers, drivers, delivery boys, businessmen, mostly black, but here in Columbia they don’t give us a wide berth, don’t shy away from eye contact. It feels safe in here. 
 ​	“You can’t be in *two* different fan clubs,” Eleanore says. “You can’t be in Wonderland *and* in the Security Fan Club.”
 ​	“Sure I can,” Cindy says. The sun is hiding behind clouds and there’s a cool breeze going. 
 ​	“Sure you *can’t*,” Eleanore says. “It doesn’t make *sense.*”
 ​	“I think she can,” Barry says. “Where is this church?”
 ​	“It’s over on EVR STREET EVR,” Tim says. “And I think she can’t.”
 ​	I say, “Why are you all looking at me?”
+​	Barry says, “This is usually where you say something smart.”
+​	I say, “I’ve never said a smart thing in my life and you know it.”
 ​	“Excuse me,” says Eleanore. “Aren’t you this Wonderland’s Alice? Or are you just an *Alison?*”
 ​	I ignore the insult. “If I can be Alice,” I say, “Cindy can be in two places at the same time… *Puppy.*”
-​	“Stop being difficult,” Eleanore tells me. “This way *anarchy* lies.”
+​	“See? That’s what I’m saying,” Eleanore says. “That way *chaos* lies.”
 ​	Tim says, “Either you belong with some*one*, or you don’t belong anywhere. That’s all I have to say about *that.*”
-​	I feel a knot forming in the pit of my stomach. Tim looks like a lost boy to me. I see Barry looking at Tim. I wonder if he’s thinking the same thing.
+​	I feel a knot forming in the pit of my stomach. Tim looks at me and in the moment he seems to me like a lost boy. I see Barry looking at Tim. I wonder if he’s thinking the same thing.
 ​	“You can belong here, and you can belong there,” he says. He puts his hand on Tim’s shoulder. “You belong where they love you.”
 ​	Tim looks at me and says, “That’s what I’m saying.”
 ​	“No,” Barry says. “That’s what *I’m saying.*”​	
-​	“
-​	“That’s what I’m saying,” Tim and Barry say together. 
-​	We all laugh. 
-​	“Well,” Eleanore says, “I think that way *anarchy* lies.”
-​	
+​	I say, “Wherever.”
+​	Cindy says, “Pardon?”
+​	“You belong *wherever* they love you,” I say. 
 
 
 
@@ -122,7 +122,7 @@ The five of us are walking outside. All around are comers and goers, drivers, de
 ----
 “Is it true?” I ask Rosetta. “Is he awake?”
 ​	Rosetta nods — a small gesture but it sends ripples in the crowd. 
-​	”No visitors,” Rosetta says. “I mean it, the man deserves a rest. Except he’s asking for Barry and Alice.”
+​	”No visitors,” Rosetta says. “I mean it, the man deserves a rest. Oh, except he’s asking for Barry and Alice.”
 ​
 Inside, the curtain to Mama’s office is drawn and Babatunde and Heath are standing 
 ​	Mucho is

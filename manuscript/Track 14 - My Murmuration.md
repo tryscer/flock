@@ -1,6 +1,28 @@
 ---
 sort_index: 6000
 ---
+the caravan is settling in in Veronica’s farm as a workforce. They start exhibiting flock behaviors - taking initiatives, leading and following, self sustaining.
+
+Veronica is a new fan, hitting on Tim
+
+Following the hospital show, mama has the idea of putting on a show of the pillars and the flames together, but she is lacking production resources. Johnny Terry is worried the audience won’t show up because James Brown is not with them. The caravan hears the news and becomes excited, jumping up the Masllo pyramid 
+Mama starts production but is over taken by the caravan and its flocking behaviour, which now supports two goals: the farm and the show
+
+The show takes place in the farm, the barn is the stage (barn moment). Posters are made and hang around Columbia and other towns. This is how Evens hears about the show.
+
+Before the show we have the Kama Sutra moment when clashing then merging with the Flames fans
+
+After the show we meet Evans, which becomes sort of a caravan member, but under scrutiny from the Barry
+
+
+
+
+
+
+
+
+
+## old
 [`UR`] In the show, Sr. and Mama cross paths and immediately develop a mutual hatred. 
 
 - Nightly pony tail 2 (after the flockening)
