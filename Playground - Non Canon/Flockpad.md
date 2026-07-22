@@ -7,6 +7,14 @@ These converge into the FLOCKENING
 
 for lster: ​	“Well, who died and made me ruler?”
 
+veronika should make eyes at tim
+
+they are hungry -> they try all sorts of things -> veronika: “you loaf aroud all day, why don’t you work in my daddy’s farm?”
+
+terry brings the alcohol to mucho. alcohol has a good role here: it brings us to the show it also shows us the pillars as not that clean cut and goodie
+
+terry stays,or comes and goes, or comes again with the flames
+
 
 color: big apple club (creamin next episode) with night wwatchman scolding them and they double down (with dhana)
 
