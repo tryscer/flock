@@ -1,3 +1,26 @@
+20260803 - New decisions about the end of side B and the beginning of side C:
+- Track 11 - a stronger-written ending scene with the crowd cheering at Tim (small fix)
+- Track 12 - we keep the flashback beginning. Then write a new chapter.
+	- Track name: Night, Gorgeous. 
+	- Starts with Alice’s first sexual awakening to the sound of Jerry Lee’s first record. Ends with sex in Barry’s car. The chapter is about Alice reaching maturity through rock’n’roll and fan-worship of Tim. 
+	- Takes place entirely in the drive-in, during and after the show. 
+	- Cindy and Eleanore’s jealousy thread ends here with them clearing the car for Tim and Alice to have sex in. 
+	- We’ll press harder on seeing Track 11 scenes from Alice’s POV. 
+	- The questions and themes this Track opens for Side C:
+		- Maturity and sexuality
+		- Tim as a budding rock star.
+		- Tim and Alice’s obvious mismatch and confusion about their love. 
+		- ??Heath as Jerry Lee?? - might be the wrong place before the Faith Track. 
+		- The caravan as an organism on the precipice of Flockening. 
+	- New happenings in the Track:
+		- Scene with Tim and the Pillars when they let him try on one of Jo’s guitars and Alice gets wet. 
+		- ???
+- The Sevens and Faith, NC moves verbatim to a new chapter 13, I Fought For This Country
+- Now-14 starts the same but the sex scene at the end is gone. 
+- Now-14 has mama saying their Faith encounter was punishment for huberis — getting too big.
+
+
+
 the main throughlines: 
 - fanclub argument → alice’s solution → seeing the bird push out its offspring → calling the action meeting of the flocks
 - no money → mama enlisting the caravan → simkin says no
@@ -8,6 +31,9 @@ These converge into the FLOCKENING
 for lster: ​	“Well, who died and made me ruler?”
 
 veronika should make eyes at tim
+
+tim pawns his father’s watch for money, buthis changes his mind and gets Candy the guitar instead to impress Alice (this has to do with him being love-starved by alice)
+
 
 they are hungry -> they try all sorts of things -> veronika: “you loaf aroud all day, why don’t you work in my daddy’s farm?”
 

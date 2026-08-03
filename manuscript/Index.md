@@ -20,16 +20,7 @@ longform:
       - Track 10 - Flip the Dial
       - Track 11 - Nine Minutes Past Four
     - Side C - Alice
-    - - Track 12 - I Fought For This Nation
-      - Track 13 - The Love Situation
-      - Track 14 - My Murmuration
-      - Track 15 - Are You Ready, Atlanta?
-      - Track 16 - The Israelites
-      - Track 17 - You Can't Take It With You
     - Side D - Tim
-    - - Track 18 - Better Have a Long Arm
-      - Track 19 - Let My People Go!
-      - Track 20 - Too Much A-Love
     - Bonus Track - Will We Fade?
   ignoredFiles:
     - manuscript

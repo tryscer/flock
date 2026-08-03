@@ -15,8 +15,8 @@ That is a strong arc because it turns fandom into labor and implication.
 Early on, Tim helps mediate the scene for Alice. But the world he helps introduce her to quickly becomes larger than him. Alice keeps moving outward into the flock; Tim keeps trying to secure a stable place within it.
 
 That creates one of his best tensions: he is neither outsider nor insider. He belongs enough to be transformed, but not enough to feel secure. The planned material sharpens this:
-- [[Track 16 - The Israelites]]: Tim is unhappy with how the Pillars treat him.
-- [[Track 18 - Better Have a Long Arm]]: attention shifts toward him via Buzz and Evans.
+- [[Track 17 - The Israelites]]: Tim is unhappy with how the Pillars treat him.
+- [[Track 19 - Better Have a Long Arm]]: attention shifts toward him via Buzz and Evans.
 - [[Bonus Track - Will We Fade?]]: he leaves for show business.
 
 So his deeper desire is not just access. It is recognition.
@@ -48,7 +48,7 @@ A good counterweight to jealousy is usefulness. Tim is not only vain or possessi
 - He knows some mechanics.
 - He becomes useful around performances.
 - In [[Track 11 - Nine Minutes Past Four]], he changes Mucho’s bass string mid-show.
-- In [[Track 16 - The Israelites]], he teaches himself guitar.
+- In [[Track 17 - The Israelites]], he teaches himself guitar.
 - Later he and Alice play for work flocks.
 
 This gives him dignity. It also seeds his eventual break toward show business. He is not just a guy who wants attention; he is someone developing actual skill.
@@ -57,8 +57,8 @@ This gives him dignity. It also seeds his eventual break toward show business. H
 This is likely his deepest long-form arc. Tim doesn’t merely want to be near the music. He wants to make something of his own.
 
 The planned notes make that much clearer:
-- [[Track 16 - The Israelites]]: he starts teaching himself guitar.
-- [[Track 18 - Better Have a Long Arm]]: the single’s A-side is the song Tim wrote.
+- [[Track 17 - The Israelites]]: he starts teaching himself guitar.
+- [[Track 19 - Better Have a Long Arm]]: the single’s A-side is the song Tim wrote.
 - [[Bonus Track - Will We Fade?]]: he leaves to pursue show business; that song may become his first hit.
 
 That is strong because it reframes earlier behavior. His insecurity is not only romantic. It is artistic. He wants a name, a place, a song that points back to him. The flock offers ecstasy and belonging, but not necessarily individual authorship. Tim is exactly the sort of person who would feel both nourished and frustrated by that.
@@ -119,6 +119,6 @@ Tim is strongest as a counter-Alice protagonist: someone genuinely transformed b
 - [[Track 3 - Dare to Dance?]]
 - [[Track 4 - All Aboard!]]
 - [[Track 11 - Nine Minutes Past Four]]
-- [[Track 16 - The Israelites]]
-- [[Track 18 - Better Have a Long Arm]]
+- [[Track 17 - The Israelites]]
+- [[Track 19 - Better Have a Long Arm]]
 - [[Bonus Track - Will We Fade?]]
