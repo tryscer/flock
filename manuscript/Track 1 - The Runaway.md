@@ -61,7 +61,7 @@ Sitting shotgun is a mystery boy, tall, very handsome, ginger-haired. He’s wea
 ​        "Don't call me that," I whisper to her.  
 ​        “Sorry,” she whispers back.   
 ​        "It's, eh, it's nice to meet you," I say to Tim.  
-​        "So what's your real name, then?" he says. From his seat, right in front of me, he can only look at me through the rearview mirror. In the little frame I see his shades sitting atop his beautiful nose. He has a deep voice, deeper than Barry's, and he's wearing a very tight tee-shirt.  
+​        "So what's your real name, then?" he says. From his seat, right in front of me, he can only look at me through the rearview mirror. In the little frame I see shades sitting atop a beautiful nose. He has a deep voice, deeper than Barry's, and he's wearing a very tight tee-shirt.  
 ​        "It's, ah," I say, gracefully, "it's Peggy Sue".  
 ​        Cindy and Barry snort with laughter. "Tell him your real name, Peaches," says Cindy.  
 ​        "It's Allison," I whisper.  
@@ -82,10 +82,10 @@ Scenic ==Greensboro rolls across the windows: the trimmed green lawns and rustic
 
 "Alice has never been to a live show before," says our Hostess. "This is going to be her first one".  
 ​        "Ah," I say, "my very first show".  
-​        "A greenhorn,” says Eleanore dryly. "Well, you know, I myself have been to *dozens* of shows. And Cindy, you've been to a *handful* yourself, right?"  
+​        "A *greenhorn*,” says Eleanore dryly. "Well, you know, I myself have been to *dozens* of shows. And Cindy, you've been to a *handful* yourself, right?"  
 ​        I wonder at the reason for the obvious slight and quickly find him in the front seat, peering at the map from atop his shades. The sweat on his neck glistens in the late morning sun.  
 ​        Cindy presses against me. I look to my left: Eleanore and Cindy are sitting a foot apart. Both are locking sights on Tim. It suddenly feels even hotter in the car. 
-​        "Tim, didn’t you say," says Cindy, “it's not the number of shows, it's how *gas* the numbers are. Isn't that right, Tim?”  
+​        "Tim, didn’t you say," says Cindy, “it's not the number of shows, it's how *gas* the numbers are? Isn't that right, Tim?”  
 ​        "That's right, kidd-o”, says Tim, without looking up from his map.   
 ​        Cindy ventures, "Is the show we're going to… in your opinion, of course…"  
 ​        "Well," says Tim, and looks back at Cindy. This favor does not go unnoticed with Eleanore. "Well, kidd-o… this will be the show of your young life. Years from now, when you're… like… forty or something… you'll tell your grandkids all about that show you saw today". The sun going through the strands of his orange hair seems to fill me with pleasant tingles.  
