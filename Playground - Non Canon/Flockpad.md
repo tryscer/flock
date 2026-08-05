@@ -1,27 +1,47 @@
+
+## Chapter 12 (20260804)
+**Whatis about: girl drags boy to have sex, overcomes obstacles**
+
+1. Right after he gets off stage, Alice grabs him and takes him by the hand
+2. Accosted by Cindy & Eleanore
+3. Meeting the band, seeing tim get friendly heckles from the band, seeing them give him a guitar to try on, meeting heath who’s very open after the show, drinking and chewing gum. Telling heath about jerry lee lewis
+4. meeting patsy, getting dhana
+5. seeing the success of the show - people running out of braids, mama at her finest orginizing new braids being made. old fans teach new fans the hand pressing. shirley and her gang have a car painting station.
+6. meeting rosetta and barry going to do the same thing they go to do (in jimmy’s car) - the excses scene
+7. surprising the jonses in their car
+8. one last meeting with cindy and eleanore, they clear the way for them
+9. sex in the car
+
+
+
+—————
+
+
+
 20260803 - New decisions about the end of side B and the beginning of side C:
 - Track 11 - a stronger-written ending scene with the crowd cheering at Tim (small fix)
 - Track 12 - we keep the flashback beginning. Then write a new chapter.
-	- Track name: Night, Gorgeous. 
-	- Starts with Alice’s first sexual awakening to the sound of Jerry Lee’s first record. Ends with sex in Barry’s car. The chapter is about Alice reaching maturity through rock’n’roll and fan-worship of Tim. 
-	- Takes place entirely in the drive-in, during and after the show. 
-	- Cindy and Eleanore’s jealousy thread ends here with them clearing the car for Tim and Alice to have sex in. 
-	- We’ll press harder on seeing Track 11 scenes from Alice’s POV. 
+	- Track name: Night, Gorgeous.
+	- Starts with Alice’s first sexual awakening to the sound of Jerry Lee’s first record. Ends with sex in Barry’s car. The chapter is about Alice reaching maturity through rock’n’roll and fan-worship of Tim.
+	- Takes place entirely in the drive-in, during and after the show.
+	- Cindy and Eleanore’s jealousy thread ends here with them clearing the car for Tim and Alice to have sex in.
+	- We’ll press harder on seeing Track 11 scenes from Alice’s POV.
 	- The questions and themes this Track opens for Side C:
 		- Maturity and sexuality
 		- Tim as a budding rock star.
-		- Tim and Alice’s obvious mismatch and confusion about their love. 
-		- ??Heath as Jerry Lee?? - might be the wrong place before the Faith Track. 
-		- The caravan as an organism on the precipice of Flockening. 
+		- Tim and Alice’s obvious mismatch and confusion about their love.
+		- ??Heath as Jerry Lee?? - might be the wrong place before the Faith Track.
+		- The caravan as an organism on the precipice of Flockening.
 	- New happenings in the Track:
-		- Scene with Tim and the Pillars when they let him try on one of Jo’s guitars and Alice gets wet. 
+		- Scene with Tim and the Pillars when they let him try on one of Jo’s guitars and Alice gets wet.
 		- ???
 - The Sevens and Faith, NC moves verbatim to a new chapter 13, I Fought For This Country
-- Now-14 starts the same but the sex scene at the end is gone. 
+- Now-14 starts the same but the sex scene at the end is gone.
 - Now-14 has mama saying their Faith encounter was punishment for huberis — getting too big.
 
 
 
-the main throughlines: 
+the main throughlines:
 - fanclub argument → alice’s solution → seeing the bird push out its offspring → calling the action meeting of the flocks
 - no money → mama enlisting the caravan → simkin says no
 - trauma and idleness → security club forms naturally → caravan people finding other things to do → florist telling them about the research farm
@@ -48,11 +68,11 @@ the fanclub argument: Alice doesnt even understand the question. “ Its not som
 
 Veronida is the flowerist. we will also see other people, named , joining in, bringing with them changes
 
-Dahna - the zen principle. Cindy manifests it with her hostest charachter 
+Dahna - the zen principle. Cindy manifests it with her hostest charachter
 
 mama sees the caravan as both nuisance and asset — but when eddie convinces her to take alice and shirley to the meeting with simkin, she understands how big the asset is (even though the meeting fails)
 
-the main throughlines: 
+the main throughlines:
 - fanclub argument → alice’s solution → seeing the bird push out its offspring → calling the action meeting of the flocks
 - no money → mama enlisting the caravan → simkin says no
 - trauma and idleness → security club forms naturally → caravan people finding other things to do → florist telling them about the research farm
@@ -65,18 +85,18 @@ the fanclub argument: Alice doesnt even understand the question. “ Its not som
 
 Veronida is the flowerist. we will also see other people, named , joining in, bringing with them changes
 
-Dahna - the zen principle. Cindy manifests it with her hostest charachter 
+Dahna - the zen principle. Cindy manifests it with her hostest charachter
 
 mama sees the caravan as both nuisance and asset — but when eddie convinces her to take alice and shirley to the meeting with simkin, she understands how big the asset is (even though the meeting fails)
 
 For Side D - track 18.
-DJ JONAH here, coming to you as always from a SECRET LOCATION up in the BIRD’S NEST… and when DJ Jonah isn’t right behind this microphone, DJ Jonah is out there, jumping like a fool in each and every jive. And let me tell you, listener JANE… Let me tell you, listener JOHN… Oh my. Yours truly has been to a show last night… Oh MY, listeners, and once again oh my… I thought, friends, I thought I know what a musical show can BE… The Things it can DO… the places it can, only if it’s very very good and you are very very in itin itin itin it… TAKE YOU. Oh my. Lookit, I’m all goosebumps even talking about last night. Take a note of their name: THE STEAM PILLARS. You’ll be hearing this name a lot this coming autumn, as our friends at BUZZ RECORDS are telling us they’ll be issuing their very first single this September-October… Oh my, oh my. 
+DJ JONAH here, coming to you as always from a SECRET LOCATION up in the BIRD’S NEST… and when DJ Jonah isn’t right behind this microphone, DJ Jonah is out there, jumping like a fool in each and every jive. And let me tell you, listener JANE… Let me tell you, listener JOHN… Oh my. Yours truly has been to a show last night… Oh MY, listeners, and once again oh my… I thought, friends, I thought I know what a musical show can BE… The Things it can DO… the places it can, only if it’s very very good and you are very very in itin itin itin it… TAKE YOU. Oh my. Lookit, I’m all goosebumps even talking about last night. Take a note of their name: THE STEAM PILLARS. You’ll be hearing this name a lot this coming autumn, as our friends at BUZZ RECORDS are telling us they’ll be issuing their very first single this September-October… Oh my, oh my.
 
 For Track 19
-Unlike other bands, who blast the stage with lights and keep the audience in the dark, the Pillars keep their salons well-lit. They want their fans to see each other… to recognize each other… the die-hard fans, longtime followers of the band, are called the CARAVAN and sometimes also Flocks, and by their detractors, FLOCK-HEADS. You can recognize them instantly by their GARISH, sometimes outlANDISH garb… and the many slotted coins they wear, JING-jingalinga-LING, around their wrists and, for some of the more daring ladies, their ANKLES… these die-hards have a slew of ceremonies and games and rituals they play with each other in the blazing HOT, incredibly LOUD musical canvas portrayed to them by the STEAM PILLARS. 
+Unlike other bands, who blast the stage with lights and keep the audience in the dark, the Pillars keep their salons well-lit. They want their fans to see each other… to recognize each other… the die-hard fans, longtime followers of the band, are called the CARAVAN and sometimes also Flocks, and by their detractors, FLOCK-HEADS. You can recognize them instantly by their GARISH, sometimes outlANDISH garb… and the many slotted coins they wear, JING-jingalinga-LING, around their wrists and, for some of the more daring ladies, their ANKLES… these die-hards have a slew of ceremonies and games and rituals they play with each other in the blazing HOT, incredibly LOUD musical canvas portrayed to them by the STEAM PILLARS.
 
 For Track 20?
-Could a musical REVOLUTION end this way? With one fell swoop of the MAN’S heavy hand? This is DJ JONAH, coming to you no longer from the aloof ivory tower of the BIRD’S NEST, but from the town square of East St. Louis, where the worst has happened. 
+Could a musical REVOLUTION end this way? With one fell swoop of the MAN’S heavy hand? This is DJ JONAH, coming to you no longer from the aloof ivory tower of the BIRD’S NEST, but from the town square of East St. Louis, where the worst has happened.
 
 
 
@@ -84,52 +104,52 @@ Could a musical REVOLUTION end this way? With one fell swoop of the MAN’S heav
 ## Stuff
 - we have a lot of idleness moments (the idea of work comes up with them sitting under a tree looking at birds) (alice and tim just loafing about in the street, kissing or not kissing)
 - 13 can end with the pillars performing in the hospital for sick kids. this will give wonderland a super-concentrated dose of Love and get Alice to finally have sex with Tim, which can end the episode.
-- 13 is all about being Love-deprived. One thread can be about Tim wanting some physical Luv from Alice, but Alice telling him without the shows, she feels no Love (their classic confusion of personal and communal love). 
-- florist. interesting character. everyone who got attention from them so far was musical, so our florist sings really well. Alice sees carnations in the flower bucket, starts singing **A White Sport Coat (and a Pink Carnation)** by Marty Robbins, the florist starts singing along. 
+- 13 is all about being Love-deprived. One thread can be about Tim wanting some physical Luv from Alice, but Alice telling him without the shows, she feels no Love (their classic confusion of personal and communal love).
+- florist. interesting character. everyone who got attention from them so far was musical, so our florist sings really well. Alice sees carnations in the flower bucket, starts singing **A White Sport Coat (and a Pink Carnation)** by Marty Robbins, the florist starts singing along.
 - florist. their age.
-- florist. might join the caravan in 14. 
+- florist. might join the caravan in 14.
 - research station. could be a much bigger part of the narrative - a rich example that the proto-flock learns from. (see research below)
-- Veronika. Will become more prominent, learn stuff at the station, and also get a bunch of bulbs to plant, build her own fanclub/flock of Florists, make it a thread through Side C and ultimately build a new research station in East St. Louis. 
+- Veronika. Will become more prominent, learn stuff at the station, and also get a bunch of bulbs to plant, build her own fanclub/flock of Florists, make it a thread through Side C and ultimately build a new research station in East St. Louis.
 - Veronika. Another option is to have to florist BE veronika and join here (so far she kind of has exactly one scene in the trading ford and then we never hear from her again.)
-- J. Terry brings the Flames Along to jam with Mucho and the band to cheer him up. 
-- This chapter can be the start of the relationship between Heath and Tim. 
+- J. Terry brings the Flames Along to jam with Mucho and the band to cheer him up.
+- This chapter can be the start of the relationship between Heath and Tim.
 
 ## microtactics
 - softness as a response to violence (“don’t kill him myrtle”)
-- “who’s with me” - leading without authority and joining without coercion 
-- “maybe we’ll dance again later” — 
+- “who’s with me” - leading without authority and joining without coercion
+- “maybe we’ll dance again later” —
 - work is not top value, it’s as important as going to the river
 - relationship matter: your value to me is in your existence, not in the function you fill for/against me
 ## outline
 - tim proposes to buy alice a flower
 - zoomout: in the lobby of the hospital, flower vendor is singing the song on the radio (white sports coat)
-- a black gentleman buys flowers. he talks to the florist, saying an old friend of his is dying… 
-- alice says she doesn’t want any flowers. she doesn’t feel any love. 
-- they walk to the elevator. the gentleman gets in with them. they talk. he tells them his friend is the kindest, sweetest man he knows, a gentle giant. 
-- they get off in the same floor, walk to the same floor. “wait, are you here for MUCHO? he’s not dying.” terry relieved. 
+- a black gentleman buys flowers. he talks to the florist, saying an old friend of his is dying…
+- alice says she doesn’t want any flowers. she doesn’t feel any love.
+- they walk to the elevator. the gentleman gets in with them. they talk. he tells them his friend is the kindest, sweetest man he knows, a gentle giant.
+- they get off in the same floor, walk to the same floor. “wait, are you here for MUCHO? he’s not dying.” terry relieved.
 - cindy and rosetta stand guard. “no strangers allowed.” they knock on the door. eddie opens. “no strangers allowed.” then: “oh, mr. Terry, come on in.”
-- inside: eddie red-eyed, heath praying, vilma wiping mucho’s forehead, mucho still in a coma/drugged. 
+- inside: eddie red-eyed, heath praying, vilma wiping mucho’s forehead, mucho still in a coma/drugged.
 - curtain shifting: mama’s office. she’s gruff about the caravan people lingering about.
 - back on the street, tim tries to cheer alice up. he makes jokes bt she doesn’t laugh. he pulls her into an alley and they make out, but she stops: doesn’t feel the love. tim: love is right here!
-- back to where they’re staying. outside, joneses are packing their car. tim is angry, alice lets them go. 
+- back to where they’re staying. outside, joneses are packing their car. tim is angry, alice lets them go.
 - inside, wonderland is packing: they have been kicked out. some other caravan people in a dour mood. we learn most people left. barry: “ok, let’s get some money, stay in a hotel together”
 - Vinietot trying stuff
-	- in the black-owned bank, barry’s check bounces. they go to mama on behalf of the remaining caravan, asking for help. 
+	- in the black-owned bank, barry’s check bounces. they go to mama on behalf of the remaining caravan, asking for help.
 	- big apple club, now derelict. meeting the custodian, and old beggar type man who scolds them for not knowing the big apple dance
 - back in the hospital. buying flowers for mucho. florist. alice and her sing together
-- in mucho’s room: mucho has woken up and in a bad mood. tim gives him the flowers and mucho throws them away. heath and tim and babatunde talk. mama refuses to help but they convince her she should take them with her to the meeting with the banker: only alice and shirley. 
-- at the bank again, now being let into the depths of the bank. simkin. she asks the girls to get out of the room. 
+- in mucho’s room: mucho has woken up and in a bad mood. tim gives him the flowers and mucho throws them away. heath and tim and babatunde talk. mama refuses to help but they convince her she should take them with her to the meeting with the banker: only alice and shirley.
+- at the bank again, now being let into the depths of the bank. simkin. she asks the girls to get out of the room.
 - the caravan waits for mama, someone sees a bird pushing its offspring off the nest
-- mama leaves later, head in her hands. message is clear: they are on their own. 
+- mama leaves later, head in her hands. message is clear: they are on their own.
 - They have nothing to do for the first time. They’re also hungry.
-- cindy and eleanore are fighting (again) about cindy being in two fan clubs. alice: birds can nest in two trees and nobody’s bothering them about it. barry: we’re not birds. cindy: shut up, dodo boy. 
+- cindy and eleanore are fighting (again) about cindy being in two fan clubs. alice: birds can nest in two trees and nobody’s bothering them about it. barry: we’re not birds. cindy: shut up, dodo boy.
 - driving to the research station as a caravan
 - back in the hospital, a show for sick kids gives them love
-- alice and tim have sex 
+- alice and tim have sex
 
 
 ## Research around the research station
-Columbia is the state capital and sits at the center of some of the richest Black-institutional and Reconstruction history in the South. 
+Columbia is the state capital and sits at the center of some of the richest Black-institutional and Reconstruction history in the South.
 ## 1. The local anchor (Columbia proper)
 
 **The Waverly neighborhood** — this is your emotional foundation. Waverly was one of the first planned Black suburbs in South Carolina, home to Black doctors, lawyers, teachers, and business owners, anchored by two HBCUs sitting side by side: **Allen University** (AME) and **Benedict College** (Baptist). By 1958 this is a real, thriving, self-sufficient Black professional world — exactly the "come here to breathe" texture you want for a haven town after Faith. Your characters wouldn't just hide in Columbia; they'd find a *class* of educated, landed, unbowed Black people running their own institutions.
@@ -207,50 +227,50 @@ Fuse **Promised Land / SC Land Commission (origin: the land was theirs by Recons
 	- Realizing they are going to the same
 	- Going to the same room, Cindy and Rosetta on guard.
 	- Mama made the other bed in the room into her office. She knows Johnny
-	- ​Eddie inside, sleepless, not letting anyone in. 
+	- ​Eddie inside, sleepless, not letting anyone in.
 	 Mucho is in comma, Eddie is worried and angry and lost his cool
 	- Mama is annoyed by the caravan people, but sees their want of music shows
 - Everyone are in a duda for Love, talking about the shows
 	- Tim and Alice walking through the city - vinietot
 	- making out in an alley
-- Going back to church basement/ place of residence 
+- Going back to church basement/ place of residence
 	- The Joneses are leaving
 	- Eleanore provides the explanation that they leave due to lack of love
 	- Discussion of encouraging the Steam Pillars to perform without Mucho. Babatunda rules it out
 - Mama can't take the steam pillars so instead takes Alice and Shirley to see Modjeska Monteith Simkins, the UR banker, as part of her pitch
 	- She is rejected further funding
-	- 
+	-
 - Barry trying to cash a check, but gets rejected - his account is frozen
 - They talk again to the floweriest who offers they volunteer at the farm
 * The caravan finds their own sources by volunteering in agriculture, initiating protoflocking in their approach to work
- 
+
 - Wonderland are exposed to a reality they didn't know. They translate their anger and beiwlderment into action - this will become flockening
 - Columbia is the safe haven trope  and is a demonstration of black capability: the hospital, the research station (science), the banker (finance) and art
 ## New Highlights - 13&14
-- We start 13 low with them licking their wounds and losing members. 
+- We start 13 low with them licking their wounds and losing members.
 	- in 13, The Joneses leave the flock as a symbol for all the non-hardliners who won’t stay with a losing team (also, they ran out of Love)
 	- In 13 we see the hard germ of the flockening cohesing through work
 	- ​The work will be a response to an actual problem: they need food and shelter, and the UR can’t carry them.
-		- Wonderland comes up with the idea of working for money when they see a bird pushing its offspring out of the nest. 
-- We end 14 high with them growing, succeeding and attracting the attention of MacAllister Sr., which will lead to the creation of Buzz Music. 
+		- Wonderland comes up with the idea of working for money when they see a bird pushing its offspring out of the nest.
+- We end 14 high with them growing, succeeding and attracting the attention of MacAllister Sr., which will lead to the creation of Buzz Music.
 	- In 14 ⁠we see them “barning” — creating a space for The Steam Pillars to perform out of a derelict building
 	- MacAllister Sr. arrives to collect his children but is convinced in the power of the Steam Pillars and rock’n’roll.
 - Mucho — the metaphor for the situation
 	- He starts traumatized and unable to perform
-	- Getting him to perform again is the arc of 13 and some of 14. 
-	- He’s dismissive and angry at Tim. 
-- Tim 
-	- He recognizes this as the same treatment he got from his two fathers and feels closer to Mucho, and as a result of that, he’s a hardline fan who’s angry at those who want to leave. 
-	- His ear is scarred. He’s deeply ashamed of it, Alice finds it sexy — a battle scar. 
-		- in 14, a new fan will hit on Tim because he’s “with the band”. Tim will work hard to avoid having her see his scar. 
-			- This will be echoed in later chapters with Roger and publicity shots. 
+	- Getting him to perform again is the arc of 13 and some of 14.
+	- He’s dismissive and angry at Tim.
+- Tim
+	- He recognizes this as the same treatment he got from his two fathers and feels closer to Mucho, and as a result of that, he’s a hardline fan who’s angry at those who want to leave.
+	- His ear is scarred. He’s deeply ashamed of it, Alice finds it sexy — a battle scar.
+		- in 14, a new fan will hit on Tim because he’s “with the band”. Tim will work hard to avoid having her see his scar.
+			- This will be echoed in later chapters with Roger and publicity shots.
 	- Tim and Alice finally have sex (13).
 - Mama
 	- Her finest hour?
 	- She will try to feed the caravan. She’ll approach The Banker (Simkin) trying to get funding from the UR. The UR will not want to invest money in a losing project.
-		- This will be reversed in 15 after the band is successful again. 
-		- The loss will make the caravan step up and rebuild the steam pillars. 
-			- This is the flockening. 
+		- This will be reversed in 15 after the band is successful again.
+		- The loss will make the caravan step up and rebuild the steam pillars.
+			- This is the flockening.
 
 
 

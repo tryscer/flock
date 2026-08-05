@@ -143,13 +143,4 @@ Inside, the curtain to Mama’s office is drawn and Babatunde and Heath are stan
 
 -------------------------------------
 
-​”Oh Tim, Timmy, I think I’m close...”
-​	Is it hitting me? Is the snowball in the pit of my stomach finally large enough to run me over? 
-​	“I think... I think so... whatever you‘re doing, don’t stop...”
-​	Suddenly it’s all colors and shapes. I fall into a harsh pleasure that has no shape, no beginning or end... it’s all colors and shapes, and the odor of Tim’s breath, hot and sweet and spicy.
-​	Suddenly it’s dark. 
-​	Suddenly there’s only Tim and me, holding hands in this dark, where there’s no above and no below. He’s looking at me but his eyes are shiny silver dollars. We press palms, and now we’re taking off...
-​	“Tim, I’m Seeing,” I mutter. “I’m Seeing again. There’s you and me. We’re melting into each other. Can you See it? We’re flying now. I’m Seeing you.” 
-​	Tim’s voice is small and tinny and doesn’t seem to come from his mouth, but from far away, somewhere Above. 
-​	“I’m seeing you, too,” it says. 
-​	
+​

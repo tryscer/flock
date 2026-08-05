@@ -2,18 +2,13 @@
 ​	“We know,” I say. 
 ​	We’re driving away from the drive-in, a long line of cars following the band’s truck. In the back seat, Cindy and Eleanore are whispering to each other. Far, far away from me, Tim is at the wheel. 
 ​	“You know, UR has fresh clothes you can all wear,” says Rosetta. She leans towards Barry and kisses his cheek. I look at them enviously, then at Tim as he sticks his head out of the window and yells at the band’s truck, “Eddie, you asshole, slow down!”
-​	Cindy follows my gaze, then looks at Eleanore.
-​	“*Someone*’s a big star now,” she says.
-​	Tim looks at me through the rear view mirror and winks. I try my hand at winking back. 
-​	“And someone,” Eleanore whispers, “is a *star-chaser* now.”
-​	I feel the girls’ hostility but I still feel like I’ve downed a big cup of hot cocoa. Love is a thick blanket covering this car. Cindy is leaning her head on Eleanore‘s shoulder and Eleanore is lazily stroking her hair. 
+​	
+​
 ​	“You know, you never told me who this U.R. fellar is,” Barry says. Rosetta laughs. 
 ​	“It’s not for you to know, silly,” she says. 
 ​	“Isn’t it obvious?” says Eleanore. I’m suddenly struck by a physical need to slap her — and the shame of having thought that thought — but the need is overcome by Love and dies away. 
 ​	​Barry leans his head on the window and sighs. Rosetta laughs.
-​	“Look, girls,” I whisper, “I know you’re mad at me, but I just want to say I love you two. Even Eleanore.”
-​	“We love you too,” Cindy says, “even though you *stink*.”
-​	“You stink *bad*,” says Eleanore. Cindy laughs. “And I love you too.”
+
 ​	“You gotta tell me *something*,” Barry says in the front seat. “Is this U.R. a promoter? Is he a friend of Mama?”
 ​	“You can say that,” Rosetta says. She catches my eye and winks. I try to wink back again, feeling I’ve finally landed it.
 ​	Tim shouts out at the band’s truck again: “The map says turn right!”
@@ -22,9 +17,7 @@
 ​	“He says we’re going through that new highway,” Tim says. He turns the wheel. 
 ​	“I don’t know about that,” says Rosetta. “Did he check the Green Book?”
 ​	Tim sticks his head out and shouts again. A shouting match ensues. 
-​	“Anyway, Eleanore and I decided,” says Cindy, “that once the Love dies down a little we’re not talking to you anymore.”
-​	“Complete silence,” Eleanore says. 
-​	“You will do no such thing,” I whisper. I put my head on Cindy’s shoulder and hug her. “I do not allow it.”
+​
 ​	I fall asleep. I dream. In my dream, Tim is playing a big piano. The piano catches on fire. I look at Tim’s face as the flames dance across his face —
 
 *(…them again, you better—)*

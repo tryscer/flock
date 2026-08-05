@@ -3,6 +3,7 @@ sort_index: 25000
 ---
 # Epilogue
 
+- the question this chapter asks is **“will we fade?”**
 - at cindy's funeral, mr. macallister joins the movement.
 - after, tim and alice try to convince each other but fail. Alice stays with the flock and Tim leaves to pursue a career in show business. (We might learn through his musings that the song he wrote for alice was his first hit.)
 - Before leaving, Tim finds Barry and leaves him with a long, romantic goodbye kiss. 

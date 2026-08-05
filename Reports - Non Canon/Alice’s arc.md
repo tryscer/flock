@@ -20,13 +20,13 @@ Alice becomes one of the clearest embodiments of the novel’s communal ethic. I
 This may be her central thematic arc. At first she wants to witness the magic. Very quickly she learns that in this world, spectatorship is incomplete. [[Track 6 - Birds of a Feather]] states this directly: she is told she is “not a spectator.” Her arc is not just “girl discovers music,” but “girl discovers that music is something you enter, help make, and let change you.”
 
 ### 6. Musical apprenticeship arc
-Later, Alice begins moving from fan to maker. [[Track 16 - Are You Ready, Atlanta?]] says Baba starts teaching her drums, and [[Track 17 - The Israelites]] says that training continues and later she and Tim play for work flocks. That arc matters because it keeps her from remaining only muse, witness, or symbolic initiate. She starts becoming a practitioner of the culture she entered.
+Later, Alice begins moving from fan to maker. [[Track 15 - Are You Ready, Atlanta?]] says Baba starts teaching her drums, and [[Track 16 - The Israelites]] says that training continues and later she and Tim play for work flocks. That arc matters because it keeps her from remaining only muse, witness, or symbolic initiate. She starts becoming a practitioner of the culture she entered.
 
 ### 7. Relational / romantic pluralization arc
 Alice’s emotional life does not resolve into a tidy single pairing. She is attached to Cindy, romantically charged toward Tim, and pulled into Shirley’s orbit. That diffuseness fits the novel’s broader theory of shared Love. Her arc is therefore less “who does she end up with?” than “what kind of attachment does she believe in?” The answer seems to be collective, non-possessive, and anti-exclusive.
 
 ### 8. Final choice arc
-The endpoint matters: in [[Bonus Track - Will We Fade?]], Tim leaves and Alice stays. That confirms the broader direction of her narrative. The deepest choice is not between suitors, but between life-paths: conventional departure versus staying with the flock’s social world.
+The endpoint matters: in [[Bonus Track - The Runaway (Reprise)]], Tim leaves and Alice stays. That confirms the broader direction of her narrative. The deepest choice is not between suitors, but between life-paths: conventional departure versus staying with the flock’s social world.
 
 ## What works
 
@@ -80,7 +80,7 @@ The strongest thematic achievement is that her growth is not just personal confi
 - [[Track 6 - Birds of a Feather]]
 - [[Track 7 - Morning, Gorgeous]]
 - [[Track 11 - Nine Minutes Past Four]]
-- [[Track 16 - Are You Ready, Atlanta?]]
-- [[Track 17 - The Israelites]]
-- [[Bonus Track - Will We Fade?]]
+- [[Track 15 - Are You Ready, Atlanta?]]
+- [[Track 16 - The Israelites]]
+- [[Bonus Track - The Runaway (Reprise)]]
 - [[Alice’s arc]]
