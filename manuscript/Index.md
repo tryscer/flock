@@ -20,21 +20,21 @@ longform:
       - Track 10 - Flip the Dial
       - Track 11 - Nine Minutes Past Four
     - Side C - Alice
-    - Track 12 - See You
-    - Track 13 - I Fought For This Country
-    - Track 14 - Fly, Baby Bird
-    - Track 15 - My Murmuration
-    - Track 16 - Are You Ready, Atlanta?
+    - - Track 12 - See You
+      - Track 13 - I Fought For This Country
+      - Track 14 - Fly, Baby Bird
+      - Track 15 - My Murmuration
+      - Track 16 - Are You Ready, Atlanta?
     - Side D - Tim
-    - Track 17 - The Israelites
-    - Track 18 - You Can't Take It With You
-    - Track 19 - Better Have a Long Arm
-    - Track 20 - Let My People Go!
-    - Track 21 - Too Much A-Love
-    - Bonus Track - The Runaway (Reprise)
-    - Manuscript Progress
+    - - Track 17 - The Israelites
+      - Track 18 - You Can't Take It With You
+      - Track 19 - Better Have a Long Arm
+      - Track 20 - Let My People Go!
+      - Track 21 - Too Much A-Love
+      - Bonus Track - The Runaway (Reprise)
   ignoredFiles:
     - manuscript
     - manuscript
     - Track 13 - And a Pink Carnation
+    - Manuscript Progress
 ---

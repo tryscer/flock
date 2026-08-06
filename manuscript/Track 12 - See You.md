@@ -43,19 +43,45 @@ I yell, “He’s *my* dish!”
 ​	I bite my lips. I hug her closer.
 ​	“Of course I’m yours,” I say.
 ​	“Hell y’are,” she says.
-​	“It’s just,” I say and sigh again, “that I’m not your plaything anymore.”
-​	Cindy giggles. “Alice is now a woman, everyone. A woman all of her own.” She starts crying.
-​	“As a consolation prize,” I whisper into her ear, ”you may have the Bear-Gineer back.”
-​	”Oh, thank you.” She says, drying her eyes. ”I mean, have you smelled him recently?”
-​	“I smell him all the time,” I say. “He smells of Tim.”
+​	“It’s just,” I say and sigh again, “that you don’t own me anymore.”
+​	Cindy giggles. “Alice is now a woman, everyone. A woman all of her own.” 
+​	“Okay,” I say, “but now you’re crying again.”
+​​	Cindy wipes one eye on the shoulder of my dress. 
+​	“I know what will cheer you up,” I say. 
+​	“No, Peaches, please…”
+​	“Cindy of Fredriqusberg, I bequeath the Bear-gineer on to you.”
+​	Eleanore cackles. 
+​	”This is getting worse and worse. I mean,” says Cindy, “have you smelled the dirty old thing recently?”
+​	​“I smell it all the time,” I say. “It smells of Tim.”
 ​	I can feel Cindy tensing in my arms.
-​	“Oh what now, Cin?” I say.
+​	“Oh, now what, Cindy?” I say.
 ​	“You’re going to make love to him now, aren’t you?”
 ​	I pull back and I take Cindy’s face between my hands, and I plant a kiss on her perfect nose.
-​	“Cindy,” I say with all the sincerity I manage to muster, “grow up.”
+​	“Cindy,” I say with all the gravitas I manage to muster, “grow up.”
 
-I am. I am going to make love to Tim. I am. Now. Right-now. Before my courage runs out. I walk towards the back of the truck. I see Tim surrounded by people. He turns to look at me and as he does the green, green, green in his eyes mellows and rounds. I somehow make the distance to him without feeling any ground beneath my Keds. I take Tim’s hand in my hand. Grab his hand, pull at his hand. I now realize I’m hungry. Tim looks at me expectantly. I open my mouth —
+who seem to be too focused on a joke to pay attention to me. Good. I am focused on my targetRight next to the little power generator, where the band's stuff is waiting in disarray,. Tim hasTim looks differentthe guitar in his handspair of TimhiI walk towards the back of the truck, my whole body a mass of pleasant, urgent tingles. I walk among the Steam Pillars. I make my way through Babatunde and Mucho, who seem to be too focused on a joke to pay attention to me. Good. I am focused on my target. Right next to the little power generator, where the band's stuff is waiting in disarray, I find Tim hugging with Jo. I walk faster now, flushed — but are they?… no: she’s fixing a guitar strap around his back. And now he’s turning, turning, turning to me… and now I see Tim as the Gods meant him to look. 
+​	“I think it suits you,” Jo says. “I could picture you as a guitarist.”
+​	So can I. The image brands itself on my mind. 
+​	Tim has his shades on. Tim has one hand resting limply on the neck of a red guitar. Tim looks different: he moves with the guitar in his hands just like a big, orange cat. As he moves, the guitar shines with the lights of a thousand cars’ high-beams, enticing, like a weapon: deadly in the right pair of hands. 
+​	This is almost too much: the red of the guitar, the white of his shirt, the green, green, green of his eyes as he peers at me from atop his shades... But as he does, his shoulders relax and round, his face turns to mine, hungry for my attention. I’m thinking: this man with the guitar in his arms pays attention to me! 
+​	I am. I am going to make love to Tim. I am. Now. Right-now. Before my courage runs out. 
+​	I somehow make the distance to Tim without feeling any ground beneath my Keds. I take his hand in my hand. Grab his hand, pull at his hand. I open my mouth —
 ​	“What’s the rush, Wonderland Girl?”
+​	“Well—“ I say. “So I need to talk to you. Right now. In private.”
+​	“Hold on there, babyyyyy-girl,” he says. “I’m hanging out with my new friends.”
+	"Tim, you idiot," I whisper, "stop talking like that."
+	"Why?"
+	"Because it's making me very hot."
+​	He looks at me. He nods. We have a silent, solemn understanding now. He takes my hand. I pull him along, beyond the truck and the Steam Pillars...
+​	"What's the rush, Wonderland Girl?"
+​	The voice coming from atop the truck is a Southern drawl ​	“Well—“ I say. “So I need to talk to you. Right now. In private.”
+​	“Hold on there, babyyyyy-girl,” he says. “I’m hanging out with my new friends.”
+	"Tim, you idiot," I whisper, "stop talking like that."
+	"Why?"
+	"Because it's making me very hot."
+​	He looks at me. He nods. We have a silent, solemn understanding now. He takes my hand. I pull him along, beyond the truck and the Steam Pillars...
+​	"What's the rush, Wonderland Girl?"
+​	The voice coming from atop the truck is a Southern drawl 
 
 ---
 
