@@ -31,7 +31,7 @@ I yell, “He’s *my* dish!”
 *(GOOD-ness GRAY-shus! Grey-t BALLS O’ FIRE!)*
 
 “*Someone’s a big star now.”*
-​	I see Tim climbing down the bed of the truck. As his sneakers hit the asphalt he raises his head and looks at me. In that moment, I know. 
+​	I see Tim climbing down the bed of the truck. As his sneakers hit the asphalt he raises his head and looks at me. I feel struck by his gaze. 
 ​	“Yeah, someone’s a big star now… and *someone*’s a star-chaser now.”
 ​	“Eleanore,” I say. “I don’t have time. There’s something I have to do. Right now.”
 ​	“Yeah, Eleanore, she doesn’t have time for us.”
@@ -59,29 +59,22 @@ I yell, “He’s *my* dish!”
 ​	I pull back and I take Cindy’s face between my hands, and I plant a kiss on her perfect nose.
 ​	“Cindy,” I say with all the gravitas I manage to muster, “grow up.”
 
-who seem to be too focused on a joke to pay attention to me. Good. I am focused on my targetRight next to the little power generator, where the band's stuff is waiting in disarray,. Tim hasTim looks differentthe guitar in his handspair of TimhiI walk towards the back of the truck, my whole body a mass of pleasant, urgent tingles. I walk among the Steam Pillars. I make my way through Babatunde and Mucho, who seem to be too focused on a joke to pay attention to me. Good. I am focused on my target. Right next to the little power generator, where the band's stuff is waiting in disarray, I find Tim hugging with Jo. I walk faster now, flushed — but are they?… no: she’s fixing a guitar strap around his back. And now he’s turning, turning, turning to me… and now I see Tim as the Gods meant him to look. 
+I walk towards the back of the truck, my whole body a mass of pleasant, urgent tingles. I walk among the Steam Pillars. I make my way through Babatunde and Mucho, who seem to be too focused on a joke to pay attention to me. Good. I am locked on to my target. Right next to the little power generator, where the band's stuff is waiting in disarray, I find Tim hugging with Jo. I walk faster now, flushed — but are they?… no: she’s fixing a guitar strap around his back. And now he’s turning, turning, turning to me… and now I see Tim as the Gods meant him to look. 
 ​	“I think it suits you,” Jo says. “I could picture you as a guitarist.”
 ​	So can I. The image brands itself on my mind. 
-​	Tim has his shades on. Tim has one hand resting limply on the neck of a red guitar. Tim looks different: he moves with the guitar in his hands just like a big, orange cat. As he moves, the guitar shines with the lights of a thousand cars’ high-beams, enticing, like a weapon: deadly in the right pair of hands. 
-​	This is almost too much: the red of the guitar, the white of his shirt, the green, green, green of his eyes as he peers at me from atop his shades... But as he does, his shoulders relax and round, his face turns to mine, hungry for my attention. I’m thinking: this man with the guitar in his arms pays attention to me! 
-​	I am. I am going to make love to Tim. I am. Now. Right-now. Before my courage runs out. 
+​	Tim has his shades on. Tim has one hand resting limply on the neck of a red guitar. Tim looks different: he moves with the guitar in his hands just like a big, orange cat. As he moves, the guitar shines with the lights of cars’ high-beams, enticing, like a weapon: deadly in the right pair of hands. 
+​	This is almost too much to take: the red of the guitar, the white of his shirt, the green, green, green of his eyes as he peers at me from atop his shades... But as he does, his shoulders relax and round, his face turns to mine, hungry for my attention. I’m thinking: this man with the guitar in his hands pays attention to me! 
+​	I close my eyes and I think of Cindy and I tell her: I am. I am going to make love to Tim. I am. Now. Right-now. Before my courage runs out. 
 ​	I somehow make the distance to Tim without feeling any ground beneath my Keds. I take his hand in my hand. Grab his hand, pull at his hand. I open my mouth —
 ​	“What’s the rush, Wonderland Girl?”
-​	“Well—“ I say. “So I need to talk to you. Right now. In private.”
+​	==“Well—“ I say. “So I need to talk to you. Right now. In private.”
 ​	“Hold on there, babyyyyy-girl,” he says. “I’m hanging out with my new friends.”
 	"Tim, you idiot," I whisper, "stop talking like that."
 	"Why?"
 	"Because it's making me very hot."
-​	He looks at me. He nods. We have a silent, solemn understanding now. He takes my hand. I pull him along, beyond the truck and the Steam Pillars...
+​	He looks at me. He nods. We have a silent, solemn understanding now. He takes my hand. I pull him along, beyond the truck and the Steam Pillars...==
 ​	"What's the rush, Wonderland Girl?"
-​	The voice coming from atop the truck is a Southern drawl ​	“Well—“ I say. “So I need to talk to you. Right now. In private.”
-​	“Hold on there, babyyyyy-girl,” he says. “I’m hanging out with my new friends.”
-	"Tim, you idiot," I whisper, "stop talking like that."
-	"Why?"
-	"Because it's making me very hot."
-​	He looks at me. He nods. We have a silent, solemn understanding now. He takes my hand. I pull him along, beyond the truck and the Steam Pillars...
-​	"What's the rush, Wonderland Girl?"
-​	The voice coming from atop the truck is a Southern drawl 
+​	The voice coming from atop the truck is a Southern drawl
 
 ---
 
@@ -90,8 +83,8 @@ who seem to be too focused on a joke to pay attention to me. Good. I am focused 
 ​	“I feel... I feel... whatever you‘re doing, don’t stop...”
 ​	Suddenly it’s all colors and shapes. I fall into a bed of harsh pleasure that has no shape, no beginning or end... then it’s nothing but colors and shapes — colors and shapes and the odor of Tim’s breath, hot and sweet and spicy.
 ​	Suddenly it’s dark. 
-​	Suddenly there’s only Tim and me, nude and holding hands in this dark, where there’s no above and no below. He’s looking at me but his eyes are dark sockets. We press palms, and now we’re taking off...
+​	Suddenly there’s only Tim and me, nude and holding hands in this dark, where there’s no above and no below. I try to look him in the eyes but I can’t see them beneath his shades. We press palms, and now we’re taking off...
 ​	“Tim, I’m Seeing,” I mutter. “I’m Seeing again. There’s you and me. We’re melting into each other. Can you See it? We’re flying now. I’m Seeing you.” 
-​	Tim’s voice is small and tinny and doesn’t seem to come from his mouth, but from far away, somewhere Above. 
+​	Tim’s voice is small and tinny and doesn’t seem to come from his mouth, but from far away, somewhere above us. 
 ​	“I’m seeing you, too,” it says. 
 ​	
