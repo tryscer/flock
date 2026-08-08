@@ -59,22 +59,24 @@ I yell, “He’s *my* dish!”
 ​	I pull back and I take Cindy’s face between my hands, and I plant a kiss on her perfect nose.
 ​	“Cindy,” I say with all the gravitas I manage to muster, “grow up.”
 
-I walk towards the back of the truck, my whole body a mass of pleasant, urgent tingles. I walk among the Steam Pillars. I make my way through Babatunde and Mucho, who seem to be too focused on a joke to pay attention to me. Good. I am locked on to my target. Right next to the little power generator, where the band's stuff is waiting in disarray, I find Tim hugging with Jo. I walk faster now, flushed — but are they?… no: she’s fixing a guitar strap around his back. And now he’s turning, turning, turning to me… and now I see Tim as the Gods meant him to look. 
+I walk towards the back of the truck, my whole body a mass of pleasant, urgent tingles. Around me, the crowd who danced between and on cars seem Love struck, still wondering what comes next. Some make their way to their cars, some hug or hold hands. I steer through them with determination. I reach the truck, still positioned as a stage. Heath is sitting next to the piano, lost in his own world. Near the truck door, Babatunde and Mucho are smoking and sharing a private joke, and Babatunde winks at me as I pass. I am looking for Tim and can see him to the left, behind the truck's engine hugging with Jo. I walk faster now, flushed — but are they?… no: she’s fixing a guitar strap around his back. And now he’s turning, turning, turning to me… and now I see Tim as the Gods meant him to look.
+
+
 ​	“I think it suits you,” Jo says. “I could picture you as a guitarist.”
 ​	So can I. The image brands itself on my mind. 
 ​	Tim has his shades on. Tim has one hand resting limply on the neck of a red guitar. Tim looks different: he moves with the guitar in his hands just like a big, orange cat. As he moves, the guitar shines with the lights of cars’ high-beams, enticing, like a weapon: deadly in the right pair of hands. 
 ​	This is almost too much to take: the red of the guitar, the white of his shirt, the green, green, green of his eyes as he peers at me from atop his shades... But as he does, his shoulders relax and round, his face turns to mine, hungry for my attention. I’m thinking: this man with the guitar in his hands pays attention to me! 
 ​	I close my eyes and I think of Cindy and I tell her: I am. I am going to make love to Tim. I am. Now. Right-now. Before my courage runs out. 
-​	I somehow make the distance to Tim without feeling any ground beneath my Keds. I take his hand in my hand. Grab his hand, pull at his hand. I open my mouth —
-​	“What’s the rush, Wonderland Girl?”
-​	==“Well—“ I say. “So I need to talk to you. Right now. In private.”
+​	I somehow make the distance to Tim without feeling any ground beneath my Keds. I take his hand in my hand. Grab his hand, pull at his hand. 
+==	==“Hi,“ I say. “I need to talk to you. Right now. In private.”
 ​	“Hold on there, babyyyyy-girl,” he says. “I’m hanging out with my new friends.”
 	"Tim, you idiot," I whisper, "stop talking like that."
 	"Why?"
 	"Because it's making me very hot."
-​	He looks at me. He nods. We have a silent, solemn understanding now. He takes my hand. I pull him along, beyond the truck and the Steam Pillars...==
-​	"What's the rush, Wonderland Girl?"
-​	The voice coming from atop the truck is a Southern drawl
+​	"What's the rush, Peggy-Sue?" Heath says. He's sitting above us at his piano ==
+
+----
+
 
 ---
 
