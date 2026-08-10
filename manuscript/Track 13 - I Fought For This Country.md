@@ -1,3 +1,6 @@
+[Babatunde is effected by the violence inflected on Mucho]
+[Barry and Rosetta are leaving the car together to notify others]
+[Sitting arrangements - Tim and Alice with Cindy at the front]
 “Man, this car smells of *sweat*,” says Rosetta. Even sitting, she’s tall and lithe — taller than Barry. She strokes his cheek and he smiles at her. “*You* smell of sweat,” she tells him. 
 ​	“We know,” I say. 
 ​	We’re driving away from the drive-in, a long line of cars following the band’s truck. In the back seat, Cindy and Eleanore are whispering to each other. Far, far away from me, Tim is at the wheel. 

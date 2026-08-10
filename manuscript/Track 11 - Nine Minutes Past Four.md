@@ -293,6 +293,9 @@ We see Vilma as she grabs the mic and lays it down close to her face. Mucho has 
 
 The crowd cheers; it's a long, rolling rumble, going through the lot like a wave. When the wave reaches us we allow ourselves to be swept along with it, and we hold hands and shout and scream. 
 ​	"Rock'n'roll will never die!" Alice yells at the screen, at the image of dead Elvis. 
+
+[fix this scene: rich arrives, tears the string, alice is not into Tim’s loving, he goes on stage to show her he’s worth something, the track ends with her finally looking at him, chapter name: look at me!]
+
 ​	The truck is swaying and rocking -- the denim-clad gang that tried to seize the mics is leaving the stage. Under the truck I see Cindy, talking earnestly with one of the members, holding on to his top button, her face flushed. A huge "boo" greets the bikers as they leave. ​	
 ​	“Have you ever heard a crowd so loud?” Alice shouts. Her eyes are twinkling. I hold her and kiss her, gently, lovingly. In that moment, for the first and only time, I think I see something. As I watch the shadows the band casts on the screen, they seem to shift shapes and grow wings. Some winged shadows fly off the screen, and some remain hovering over us all. 
 ​	It ends as soon as it starts. I will never See again. 
@@ -356,8 +359,8 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	I wipe my forehead. It's incredibly hot on stage as everyone steals themselves for the last big refrain, and when it comes Vilma says off-mic,
 ​	"Fuck you, Heath. You went and took the wind under my sails."
 ​	Mucho laughs. "Don't blaspheme in front of the priest." 
-​	Heath is literally dripping with sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he looks back; he winks at me. 
-​	Behind Mucho, Joe is playing harder now, moving with her guitar as if shaking and rattling it is what makes the music fall out of it. I stare at her fingers moving across the strings...
+​	Heath is dripping sweat. His black curls fall from the neat hairdo and float around his face. He's standing above the piano, hammering with incredible speed and force, bellowing into the microphone. He lifts his head, ecstatic, sweating; he looks back; he winks at me. 
+​	Behind Mucho, Joe is playing harder now, moving with her red guitar as if shaking and rattling it is what makes the music fall out of it. I stare at her fingers moving across the strings...
 
 *(c'mon bahy-be... drive me crahy-zee...)*
 
@@ -370,7 +373,3 @@ I climb on to the bed of the truck. Wires, thick as railroad steel, issue from t
 ​	Mucho says to the mic,
 
 *(Yeah! Give it to our new new stage hand, Tommy!)*
-
-==** 
-
-==
