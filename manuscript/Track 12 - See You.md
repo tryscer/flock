@@ -1,4 +1,4 @@
-*(DJ Jonah here, and you know who I remember today? I remember another GIANT OF ROCK’N’ROLL who disappeared from our lives this year as well. A piano-burnin’, crowd-pleasin’, rock-and-rolling WILD MAN... Jerry Lee, the KINGDOM of rock’n’roll is bereft of ROYALTY... We need you here to rock us. We need you to ROLL US. We need you to shake our bodies and remind us life is not just about HOMEWORK and CHORES... Anyway, here’s his very first number, released on Christmas, just two years ago — do you realize, listener JOHN, listener JANE, that it was just two years ago? — Here’s Crazy Arms...)*
+*(DJ Jonah here, and you know who I remember today? I remember another GIANT OF ROCK’N’ROLL who disappeared from our lives this year as well. A piano-burnin’, crowd-pleasin’, rock-and-rolling WILD MAN... Jerry Lee, the KINGDOM of rock’n’roll is bereft of ROYALTY... We need you here to rock us. We need you to ROLL US. We need you to shake our bodies and remind us life is not just about HOMEWORK and CHORES... Anyway, here’s his very first number, released on Christmas, just two years ago — do you realize, listen er JOHN, listener JANE, that it was just two years ago? — Here’s Crazy Arms...)*
 
 *(tssssssssssss—)*
 
@@ -58,7 +58,7 @@ Heath slams the piano keys one last time. The band joins in in singing the last 
 ​	​“I smell it all the time,” I say. “It smells of Tim.”
 ​	I can feel Cindy tensing in my arms.
 ​	“Oh, now what, Cindy?” I say.
-==​	“You’re going to *do it* with him now, aren’t you?”==
+==​	“You’re going to *go all the way* with him now, aren’t you?”==
 ​	I pull back and I take Cindy’s face between my hands, and I plant a kiss on her perfect nose.
 ​	“Cindy,” I say with all the gravitas I manage to muster, “grow up.”
 
@@ -100,26 +100,23 @@ I walk towards the back of the truck, my whole body a mass of pleasant, urgent t
 ​	Everybody except me and Tim laughs.
 ​	Tim hunches down and whispers in my ear, “Are you sure? The band is letting us *hang out* with them.”
 ​	I look at him, devouring him with my eyes: the chiseled lines of his chin and the sunglasses sitting on the bridge of his nose. He grins at me and I smile back. I run my finger on his red guitar. It seems to vibrate when we both touch it.
-​	I say, “Um.”
+​	He looks at me and understands.
 ​	“Yeah?” he says. 
 ​	“Yeah,” I say. ”Right now.”
 ​	“Let’s go,” he says. 
 ​	“Where are you going with my guitar?” Jo says. 
-​	“Actually,” I say, “do you mind if we bring it back in a while?”
-​	Mucho laughs. It’s an adult laugh, knowing and loose, and I feel I’ve finally been allowed in that room I wasn’t allowed in before.
+​	“Actually,” I say, “would you mind if we brought it back in a while?”
+​	Mucho laughs. It’s an adult laugh, knowing and loose, and I feel I’ve finally been allowed in that room I wasn’t allowed in until now.
 ​	“Let the kids have it, Jo,” Mucho says. “They’ve got their own number to play. See you, kids.”
 ​
-I pull Tim along across the lot, with people still clapping, singing and shouting. He wears the guitar on his back, and the strap across his chest looks like a gunner’s ammunition belt. 
-
-
-Above us, the screen is dark now, the music is over, but most of the people we walk by are still dancing — swaying, slowly, like they don’t know they’re even doing that. 
+I pull Tim along across the lot, with people still clapping, singing and shouting. He wears the guitar on his back, and the strap across his chest looks like a gunner’s ammunition belt. Above us, the screen is dark now, the music is over, but most of the people we walk by are still dancing — swaying, slowly, like they don’t know they’re even doing that. 
 ​	“We leave tonight for Columbia,” says a voice behind us. 
 ​​	“Jimmy,” I say, turning, “that’s nice. But Tim and I are super-busy. He needs my urgent advice about a thing.”
 ​	Jimmy looks at me, then at Tim. Then he takes my hand and puts another braid on it — slowly, gently, deliberately. Then he does the same for Tim. 
 ​	“Thanks, man,” says Tim. 
  He looks at me.
 ​	“You look good with that guitar,” says Jimmy. “No wonder you get all the girls.” He looks at me.​	
-​	“Thanks, man,” I say. “See you.”
+​	“Yeah,” I say. “See you.”
 
 Next to the projection booth, Shirley and Patty are working on some old, dirty-white Plymouth. Patty is painting a pink turtledove, greater than life, like a huge valentine's card, right on the trunk lids, its wing spread on the right tail fin. And Shirley is already working on a second one, facing the first, creating its lines with a rigger brush. Two excited-looking kids are standing next to Shirley, watching her paint and dancing. 
 ​	“Did you get your bracelets, you two?” Shirley asks them. 
@@ -138,9 +135,13 @@ Next to the projection booth, Shirley and Patty are working on some old, dirty-w
 ​	“See you,” Tim says. 
 ​	
 “Where are you taking me?” Tim asks. His voice is quiet [jls-what else?].
-​​	“I don’t know,” I say. My words are slow in this air, thick and moist. Moving through it feels like swimming in molasses. “I don’t know. There are people everywhere.”. A car hop in bright yellow uniform buzzes by on her skates.
-​	Up ahead, sitting next to a table by the concession stand, we see Mama, with her notebook at hand and one of her helpers getting orders. Her face is lit up with excitement. 
-​	“Remember how she complained there’s too many people?” Rosetta says. She’s holding Barry’s hand. They’re both panting in this heat. 
+​​	“I don’t know,” I say. My words are slow in this air, thick and moist. Moving through it feels like swimming in molasses. “I don’t know. There are people everywhere.” A car hop in bright yellow uniform bypasses us in a buzz by on her skates, heading to the marquee sign saying "HOT DOGS - POP CORN". 
+​	Through the booth's wide glass window we can see Mama sitting on a high metal stool by a table, with her notebook at hand. In the neon light, we see Jimmy running up to her, getting shouted at, and running back. As we get closer to her we hear her yell after him… 
+
+*(and tell them to bring the slotted pennies! We need a hundred new bracelets right now!)*
+
+​“Remember how she complained there’s too many people in the caravan?” Rosetta says. “Now look at her.”
+​	She’s holding Barry’s hand. They’re both panting in this heat. 
 ​	”Everybody’s having a good time,” Barry says, stealing guilty looks at Tim. “Rosie, didn’t you say we have to go?” 
 ​	“Yes,” says Rosetta. She’s wiping the sweat off her neck and looking at me. “Barry needs my help. I need to tell him something. I’ve got a flat tire.”
 ​	“Yeah,” Barry says. “Her tire is a little flat. We were looking for Cindy because she took the keys to the Chevy and we thought of inflating it in there, but we’ll make do in Rosie's car.”
@@ -149,8 +150,9 @@ Next to the projection booth, Shirley and Patty are working on some old, dirty-w
 ​​	I laugh. Rosetta says, “Nice seeing you two. Barry has to go now because my engine is about to explode.”
 ​	“See you,” we both say.
 
-“Wait,” I say. “Stand right here.”
+“Wait,” I say. “Stand right here.”. In the shades, off the ding of the crowd, where Barry parked his Bell-Air, I can see Tim 
 ​	[eft-next to the car]
+
 ​	I take a step back and extend my hand. Tim takes off his shades and sticks them in the pocket of his jeans. He extends his hand too. His fingers find mine. We lean into each other —
 
 *(POP!)*
@@ -159,12 +161,38 @@ He takes me in his arms and I hug him, fingering the strings of the guitar on hi
 ​	“I think you smell like a rockstar,” I say. 
 ​	The passenger side of the door opens. I tense up in his arms —
 ​	“Hi, Cin,” Tim says. “Alice and I were just about to—“
-​	“Have *sex*,” Cindy says. “It’s alright. I just came here for the Bear-gineer.” I hear her walking away, but then she turns back and hugs me from behind.
+​	“*Sleep together*,” Cindy says. “It’s alright. I just came here for the Bear-gineer.” I hear her walking away, but then she turns back and hugs me from behind.
 ​	“I love you guys,” she says. 
-​	I melt into the double hug: Cindy holding on behind me, the soft, smelly Bear-gineer between us,, the soft, smelly Bear-gineer between us, and Tim’s hands and chest draping me. We stay in that hug for a long time. 
+​	I melt into the double hug: Cindy holding on behind me, the soft, smelly Bear-gineer between us, and Tim’s hands and chest draping me. We stay in that hug for a long time. 
 
-I close the door. Tim closes his. The little map-light fades away and leaves us in the semi-darkness, two steaming silhouettes. 
-​​	[jls-sex scene]
+I close the door. Tim closes his. The little map-light fades away and leaves us in the semi-darkness, two steaming silhouettes in the back of Barry’s old Chevy.
+​	“It’s finally quiet,” Tim says. 
+​	“You can take off your shirt now,” I say. 
+​	Tim removes his guitar and places it on his lap, between us. I lean one hand, close to him, and with the other I’m plucking at the strings. I look up to him and he looks down to me and he takes off his shirt, revealing a wide, almost smooth chest. 
+​	“You’re shivering,” he says. He strokes my cheek with the back of his finger. “Maybe it’s from heat. Maybe you should take something off, too.”
+​	I’m not shivering — I’m vibrating. I look at him, my mind an earthquake, almost paralyzed.
+​	“You know, Tim says, ”when I first took my shirt in front of you girls, back in that gas station, it didn’t feel like that, did it?”
+​	I laugh. I kiss his fingers, then his hand, then his forearm.
+​	“Why are you laughing?”
+​	I say, “Back in the day, at the gas station, in times long forgotten… two days ago.”
+​	“Laugh all you want, Calendar Girl,” Tim says and kisses my neck, “it was *eons* ago.” His kisses spread little waves of soft comforts round my neck. 
+​	“No, it did,” I whisper. He stops kissing. 
+​	“What?”
+​	I kiss his elbow, then his bicep, then bury my face in his chest, inhaling him. 
+​	“It did,” I say, “last time you took your shirt off, it was the same. I wanted you to pay attention to me so much.” I put my hand on his jeans zipper. “To have your *undivided* attention.”
+​	Tim looks at me, breathing hard. From where am I bringing all this confidence? Who is that woman who now proceed to pull down a young man’s zipper, to put her hand down his pants?
+​	“Don’t stop,” Tim pants. 
+​	I lean in and give him a wet kiss. Our sweaty faces meet, press against each other. His breath is warm and spicy and for a moment strange and scary — then new and inviting. I put my hands down his pants, touching his dick, pulling out his dick, staring, finally answering a question that has been bothering me for almost two years. 
+​	I whisper, “So *that’s* what it looks like.”
+​	Tim holds my wrist and I run my fingers over the edge and I feel it stretching and growing like a puppet. 
+​	
+
+
+
+
+
+
+
 
 ”Oh Tim, Timmy, I think I’m close...”
 ​	Is it hitting me? Is the snowball in the pit of my stomach finally large enough to run me over? 
