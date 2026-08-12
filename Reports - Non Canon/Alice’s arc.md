@@ -11,10 +11,10 @@ Alice begins as a sheltered greenhorn who invests huge meaning in seeing her fir
 Her story is repeatedly structured by invitation. The matchbook, “come on board,” Eddie’s language of being “chosen,” the braid, the painted cars, the caravan: all of these pull her from outsider to insider. In [[Track 4 - All Aboard!]] and [[Track 6 - Birds of a Feather]], she stops being just a fan chasing a band and becomes someone the flock actively absorbs.
 
 ### 3. Belonging / home arc
-Early Alice is oriented through private attachments: Cindy, then Tim, then whoever feels emotionally near. Over time, “home” shifts from a place or pair-bond to a moving collective. By [[Track 6 - Birds of a Feather]], she understands the caravan as more than fandom. In [[Track 11 - Nine Minutes Past Four]], when Tim talks about going “home,” Alice answers that home is where *they* are. By the end, that logic expands beyond the small clique to the flock itself.
+Early Alice is oriented through private attachments: Cindy, then Tim, then whoever feels emotionally near. Over time, “home” shifts from a place or pair-bond to a moving collective. By [[Track 6 - Birds of a Feather]], she understands the caravan as more than fandom. In [[Track 11 - Look at Me]], when Tim talks about going “home,” Alice answers that home is where *they* are. By the end, that logic expands beyond the small clique to the flock itself.
 
 ### 4. Love-as-sharing arc
-Alice becomes one of the clearest embodiments of the novel’s communal ethic. In [[Track 11 - Nine Minutes Past Four]], hand-pressing begins as an intimate breakthrough with Tim, but she immediately teaches it to others. Tim experiences that as humiliation because he wants exclusivity; Alice instinctively understands that Love becomes stronger when it spreads. That is one of her key ethical developments: from private romance toward shared, participatory love.
+Alice becomes one of the clearest embodiments of the novel’s communal ethic. In [[Track 11 - Look at Me]], hand-pressing begins as an intimate breakthrough with Tim, but she immediately teaches it to others. Tim experiences that as humiliation because he wants exclusivity; Alice instinctively understands that Love becomes stronger when it spreads. That is one of her key ethical developments: from private romance toward shared, participatory love.
 
 ### 5. Spectator-to-participant arc
 This may be her central thematic arc. At first she wants to witness the magic. Very quickly she learns that in this world, spectatorship is incomplete. [[Track 6 - Birds of a Feather]] states this directly: she is told she is “not a spectator.” Her arc is not just “girl discovers music,” but “girl discovers that music is something you enter, help make, and let change you.”
@@ -79,7 +79,7 @@ The strongest thematic achievement is that her growth is not just personal confi
 - [[Track 4 - All Aboard!]]
 - [[Track 6 - Birds of a Feather]]
 - [[Track 7 - Morning, Gorgeous]]
-- [[Track 11 - Nine Minutes Past Four]]
+- [[Track 11 - Look at Me]]
 - [[Track 15 - Are You Ready, Atlanta?]]
 - [[Track 16 - The Israelites]]
 - [[Bonus Track - The Runaway (Reprise)]]

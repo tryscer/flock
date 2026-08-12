@@ -7,7 +7,7 @@ Tim’s strongest macro-arc is:
 ### 1. Taste-maker to participant
 At first Tim is the boy who “has all the records.” He knows artists, songs, maps, engines, show lore. His authority is verbal and curatorial. He explains music more than he lives it.
 
-The novel works best when it strips that safe authority away. The fair, the secret shows, the caravan, the drive-in, the danger: all force Tim into a music culture that is bodily, social, and risky. By [[Track 11 - Nine Minutes Past Four]], he is no longer just a connoisseur. He is changing strings mid-show, onstage, useful.
+The novel works best when it strips that safe authority away. The fair, the secret shows, the caravan, the drive-in, the danger: all force Tim into a music culture that is bodily, social, and risky. By [[Track 11 - Look at Me]], he is no longer just a connoisseur. He is changing strings mid-show, onstage, useful.
 
 That is a strong arc because it turns fandom into labor and implication.
 
@@ -27,7 +27,7 @@ His relationship with Alice is more than a love plot. It becomes a philosophical
 Tim wants intimacy to mean specialness, privacy, exclusivity.
 Alice increasingly treats love as something that grows by being shared.
 
-That tension comes into focus in [[Track 11 - Nine Minutes Past Four]]. Hand-pressing begins as a charged, intimate act between Tim and Alice. Then Alice teaches it to others, and Tim experiences that spread as humiliation and loss. For Alice, shared feeling enlarges meaning. For Tim, it dilutes meaning.
+That tension comes into focus in [[Track 11 - Look at Me]]. Hand-pressing begins as a charged, intimate act between Tim and Alice. Then Alice teaches it to others, and Tim experiences that spread as humiliation and loss. For Alice, shared feeling enlarges meaning. For Tim, it dilutes meaning.
 
 That is excellent material, because the breakup pressure is not just jealousy or triangles. It is a clash between possessive and communal understandings of love.
 
@@ -47,7 +47,7 @@ A good counterweight to jealousy is usefulness. Tim is not only vain or possessi
 - He knows records.
 - He knows some mechanics.
 - He becomes useful around performances.
-- In [[Track 11 - Nine Minutes Past Four]], he changes Mucho’s bass string mid-show.
+- In [[Track 11 - Look at Me]], he changes Mucho’s bass string mid-show.
 - In [[Track 16 - The Israelites]], he teaches himself guitar.
 - Later he and Alice play for work flocks.
 
@@ -118,7 +118,7 @@ Tim is strongest as a counter-Alice protagonist: someone genuinely transformed b
 - [[Track 2 - Kick The Jukebox]]
 - [[Track 3 - Dare to Dance?]]
 - [[Track 4 - All Aboard!]]
-- [[Track 11 - Nine Minutes Past Four]]
+- [[Track 11 - Look at Me]]
 - [[Track 16 - The Israelites]]
 - [[Track 18 - Better Have a Long Arm]]
 - [[Bonus Track - The Runaway (Reprise)]]

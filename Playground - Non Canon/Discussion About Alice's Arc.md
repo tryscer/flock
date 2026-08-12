@@ -32,7 +32,7 @@ That is better than “join the movement,” because she’s already in. It is a
 
 #### Sources
 [^1]: [[Track 6 - Birds of a Feather]]
-[^2]: [[Track 11 - Nine Minutes Past Four]]
+[^2]: [[Track 11 - Look at Me]]
 [^3]: [[project-facts]]
 [^4]: [[Track 6 - Birds of a Feather]]
 [^5]: [[Track 9 - Market Street Stroll]]
@@ -46,7 +46,7 @@ I've listed motivations we'll take to the next step, ordered from the most to th
 1. the fear of the next high not being there as the underlying motivation;
 2. wanting to not only experience more highs, but get higher, chase the rainbow to its end. Wanting more people to join is now framed as stemming from chasing a stronger Love effect ("it gets better when more folks join in"). 
 3. Wading deeper into the meaning in the visions that take place in the Steam Pillars show, understand their meaning and rules and try to learn their message / prophecy. this will lead her to be the archtype of a holy person, which can be nice if not done overly seriously.
-4. Her emotional and intellectual curiosity is peaked by the end of [[Track 11 - Nine Minutes Past Four]]. In [[Track 13 - I Fought For This Country]] we'll learn that during track 11 she realized Heath is secretly Jerry Lee Lewis, her favorite artist and celebrity crush. She will spend side C in trying to prove her suspicion. 
+4. Her emotional and intellectual curiosity is peaked by the end of [[Track 11 - Look at Me]]. In [[Track 13 - I Fought For This Country]] we'll learn that during track 11 she realized Heath is secretly Jerry Lee Lewis, her favorite artist and celebrity crush. She will spend side C in trying to prove her suspicion. 
 
 so deep down, alice is a junky; a music junky, a Love junky. It might be use​ful for you to know I think the effect of Love is just like an MDMA high that lasts longer and has a more gentle come-down
 
@@ -74,7 +74,7 @@ Pushback: don’t state this as “Alice is afraid the high won’t be there.”
 
 ## 2. Not just more highs, but higher highs; more people as amplifier
 
-This is the most politically useful one because it converts private craving into expansionist communal behavior. In [[Track 11 - Nine Minutes Past Four]], Alice already articulates the principle better than Tim: the thing gets better when more people join in.[^2] That’s excellent because it lets her be both right and compromised. She believes in collective joy, but she also wants a bigger dose.
+This is the most politically useful one because it converts private craving into expansionist communal behavior. In [[Track 11 - Look at Me]], Alice already articulates the principle better than Tim: the thing gets better when more people join in.[^2] That’s excellent because it lets her be both right and compromised. She believes in collective joy, but she also wants a bigger dose.
 
 That duality is gold. It means her recruitment is not cynical propaganda and not pure altruism either. It is hungry evangelism.
 
@@ -166,7 +166,7 @@ That gives you one addiction engine, one political-social engine, one mystical e
 
 #### Sources
 [^1]: [[Track 6 - Birds of a Feather]]
-[^2]: [[Track 11 - Nine Minutes Past Four]]
+[^2]: [[Track 11 - Look at Me]]
 [^3]: [[project-facts]]
 [^4]: [[Track 6 - Birds of a Feather]]
 [^5]: [[Track 7 - Morning, Gorgeous]]
@@ -195,13 +195,13 @@ One useful formulation: Alice falls for Tim in stages—
 
 That keeps [[Track 9 - Market Street Stroll]] from feeling like a betrayal of plan. It becomes the exact place where attraction matures from adolescent wanting into relational momentum.
 
-user: this is especially tragic because tim lies about having seen visions at the show. in fact, as he hints many times in side b, he never got more than an abortive pre-vision (during the drive-in show at [[Track 11 - Nine Minutes Past Four]]
+user: this is especially tragic because tim lies about having seen visions at the show. in fact, as he hints many times in side b, he never got more than an abortive pre-vision (during the drive-in show at [[Track 11 - Look at Me]]
 
 ai: Yes — and that makes the romance much better.
 
 The lie matters because in [[Track 7 - Morning, Gorgeous]] Alice and Tim are bonded by what she thinks is a shared initiation: when she asks who saw the birds and visions, Tim says he did too, and that immediately singles them out together.[^1] From Alice’s side, that would make him feel uniquely legible: not just handsome, but someone who *really knows* what happened to her. If she is trying to prove the experience was real, then Tim’s false corroboration is emotionally enormous.
 
-But the text in Side B gives you the reversal already. In [[Track 11 - Nine Minutes Past Four]], during the drive-in show, Tim finally gets only a fleeting, partial almost-vision: when he kisses Alice, he thinks he sees the band’s shadows grow wings, and then says it ends “as soon as it starts,” adding that he will never have visions again.[^2] That strongly implies that his earlier claim in [[Track 7 - Morning, Gorgeous]] was false or at least inflated. He did not “see it too” in the full way Alice did at the warehouse; he wanted to be the kind of person who did.
+But the text in Side B gives you the reversal already. In [[Track 11 - Look at Me]], during the drive-in show, Tim finally gets only a fleeting, partial almost-vision: when he kisses Alice, he thinks he sees the band’s shadows grow wings, and then says it ends “as soon as it starts,” adding that he will never have visions again.[^2] That strongly implies that his earlier claim in [[Track 7 - Morning, Gorgeous]] was false or at least inflated. He did not “see it too” in the full way Alice did at the warehouse; he wanted to be the kind of person who did.
 
 That makes the tragedy double:
 - Alice falls toward him partly because she thinks he shares her deepest, strangest experience.[^1]
@@ -213,7 +213,7 @@ That gives you a very strong hidden structure for their arc:
 - In [[Track 6 - Birds of a Feather]], Alice is truly initiated through vision and Love.[^3]
 - In [[Track 7 - Morning, Gorgeous]], Tim falsely joins her in that category, and she begins trusting him as co-witness.[^1]
 - In [[Track 9 - Market Street Stroll]], they become partners in action, so her attraction deepens for reasons that are real even if the original “we saw it too” premise is false.[^4]
-- In [[Track 11 - Nine Minutes Past Four]], Tim nearly touches the real thing at last, but only abortively and too late to cleanse the original lie.[^2]
+- In [[Track 11 - Look at Me]], Tim nearly touches the real thing at last, but only abortively and too late to cleanse the original lie.[^2]
 
 The useful sting is that Alice is falling in love with a boy who is, at the core of this relationship, counterfeiting her most sacred evidence. That is excellent material because it aligns with the novel’s larger communal/individual split: Alice moves outward into shared revelation, while Tim keeps trying to secure a special private claim — on the hand-pressing, on Alice, even on visionary status.[^2]
 
@@ -232,7 +232,7 @@ Track 10 should be the chapter where Tim’s stated intention to leave collides 
 At the start of Side C, Alice should be openly with Tim, but the relationship’s deepest glue is still false: she believes he shares her visionary initiation, and that conviction gives their love a spiritual intimacy beyond flirtation.[^3] Since Side C begins after [[Track 13 - I Fought For This Country]], where her renewed kissing with Tim causes a rift with Cindy and Eleanore, the important beat is that Alice is now willing to pay social cost for him.[^4] Why it matters: she is not drifting into romance anymore; she is choosing it, and choosing it partly because she thinks Tim is one of the few people who truly *got* what happened to her.
 
 ## Side C middle
-The strongest central beat is that Alice and Tim become a genuinely effective couple inside the movement even as they want different things from that effectiveness. The pattern is already visible: in [[Track 9 - Market Street Stroll]] they work beautifully together in public action, and in [[Track 11 - Nine Minutes Past Four]] Alice treats Tim’s hand-pressing as something to spread while Tim wants it to remain theirs.[^5] By Side C middle, that contradiction should intensify through success: the better they work together, the harder it becomes to ignore that Alice experiences intimacy as something that can widen outward, whereas Tim experiences it as something diminished by sharing. That matters because it keeps the romance real while planting the reason it cannot last.
+The strongest central beat is that Alice and Tim become a genuinely effective couple inside the movement even as they want different things from that effectiveness. The pattern is already visible: in [[Track 9 - Market Street Stroll]] they work beautifully together in public action, and in [[Track 11 - Look at Me]] Alice treats Tim’s hand-pressing as something to spread while Tim wants it to remain theirs.[^5] By Side C middle, that contradiction should intensify through success: the better they work together, the harder it becomes to ignore that Alice experiences intimacy as something that can widen outward, whereas Tim experiences it as something diminished by sharing. That matters because it keeps the romance real while planting the reason it cannot last.
 
 ## Side C end
 By the end of Side C, Alice should begin to feel that fully belonging to Tim in the singular sense would require betraying the current she now serves. That tracks with her broader motivations — preserving the high, making it bigger, getting more people inside it — and with canon that Side C carries her into larger caravan politics, musical tutelage, and movement growth rather than private retreat.[^6] The beat that matters most is not exposure of Tim’s lie yet, but Alice’s dawning recognition that he keeps trying to make special, private property out of things she experiences as communal gifts. That is where romance turns into ideological pain.
@@ -251,7 +251,7 @@ The ending that best serves the arc is not “Tim is exposed, therefore Alice le
 [^2]: [[Track 10 - Flip the Dial]]
 [^3]: [[Discussion About Alice's Arc]]
 [^4]: [[Track 13 - I Fought For This Country]]
-[^5]: [[Track 11 - Nine Minutes Past Four]]
+[^5]: [[Track 11 - Look at Me]]
 [^6]: chapter-guide
 [^7]: [[Track 18 - You Can't Take It With You]]
 [^8]: [[Discussion About Alice's Arc]]
