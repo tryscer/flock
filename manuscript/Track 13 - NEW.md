@@ -105,9 +105,11 @@ Tim nodes, he pulls his naked upper body through the window, holding the frame i
 
 We get off the highway into a country two lane road, peaking back I can see more headlights behind the truck, the Caravan is following. We drive through a forest of dogwood trees and by the headlights we see the stumps are overrun by Kudzu vines so thick they seem to be jumping from tree to tree. The darkness seem to be highlighted by the series of light beams from the Caravan cars, the sounds a bit muffled, it seems like the Caravan's mood has shifted slightly, as if our birthday party stopped dancing and started playing hide and seek. I feel more relaxed, I lay my head on Tim's chest, and my fingers naturally start plucking the strings. Elenore turns around and say "You two, really, there are respectable ladies in the car" 
 
- The sound of the car engine seems off, like its echoing from the back, the echo grows louder and louder. I turn my head to look and I see them: a dozen cyclists are forming a mobile barrier between the truck and and Barry, who is probably still in his haze, and behind him the rest of the Caravan. I grab Tim's shoulder with panic, and he raises his head, looks back and say to Cindy "Its starting, they are behind us. We should prepare"
-Cindy is turning the wheel sharply, and puts the Chevy in front of the truck. I look back again and see Eddie and Much grim faced and determined. For some reason the cyclists barrier is keeping a distance, and non are trying to reach for the truck. As I turn my head forward I can see the bridge speeding towards us.
-At the distance end, a light show is put on. There are a few dim headlights facing towards us, and two fusees create bright red glares and lighted smoke on the road below them, through which the outlines of motorcycles angled across the road can be guessed. In the middle of all this a figure is waving a flashlight with the clear policeman sign to stop. 
+ The sound of the car engine seems off, like its echoing from the back, the echo grows louder and louder. I turn my head to look and I see them: a dozen cyclists are forming a mobile barrier between the truck and and Barry, who is probably still in his haze, and behind him the rest of the Caravan. I grab Tim's shoulder with panic, and he raises his head, looks back and say  "How the hell did they get here?!?" Elenore adds "I can't believe they found us" and Cindy "It seems their intelligence is better than ours"
+ 
+ I look back again and see Eddie and Much grim faced and determined. For some reason the cyclists barrier is keeping a distance, and non are trying to reach for the truck, the gap between the truck and them is slowly widening . As I turn my head forward I can see a bridge speeding towards us. "Oh god", say Cindy, "A chock point, perfect for an ambush"
+ 
+At the far  end, a light show is put on. There are a few dim headlights facing towards us, and two fusees create bright red glares and lighted smoke on the road below them, through which the outlines of motorcycles angled across the road can be guessed. In the middle of all this a figure is waving a flashlight with the clear policeman sign to stop. 
 ​	“Cindy, get past them!”
 ​	“I can’t get past them without running them over! Roll up your windows!”
 Cindy slows down, helpless
@@ -118,8 +120,8 @@ Cindy slows down, helpless
 ​	“Shut up, Tim!”
 ​	And then: “This is Captain Whitaker from the Seventh Day Bible Study Club and Citizen Decency Commission! You will kindly stop your vehicle by the side of the road!”
 ​
-The bridge is tiny, maybe two cars long and two lanes wide. It crosses over a shallow ravine. There are dozens of motorcyclists now — ==surrounding the truck, holding off the rest of the caravan at the foot of the bridge, just driving around, letting horrible sounds out of their mufflers that sound to me like big dogs growling.==
-​	“Let me help you with your shirt,” I whisper to Tim. He’s white, whiter than usual — quiet and shaking — and I notice he’s usually like that when men in power are around. Tim takes off his guitar and hands it to me. I hand him his shirt and as he squeezes into it, I put on his guitar. 
+The bridge is tiny, maybe two cars long and two lanes wide. It crosses over a shallow ravine. There are dozens of motorcyclists now — surrounding the truck, holding off the rest of the caravan at the foot of the bridge, just driving around, letting horrible sounds out of their mufflers that sound to me like big dogs growling.
+​	“Let me help you with your shirt,” I whisper to Tim. He’s pale, whiter than usual — quiet and shaking — and I notice he’s usually like that when men in power are around. Tim takes off his guitar and hands it to me. I hand him his shirt and as he squeezes into it, I put on his guitar. 
 ​	“Do I look like a guitarist, too?”
 ​	“Peaches, it isn’t the time!” Cindy says. We watch as the truck halts by the side of the road and a dozen bikers getting off their vehicles and approaching the band. 
 ​	“Dear god,” says Eleanore, “they’ve got shotguns.”
@@ -133,6 +135,7 @@ The bridge is tiny, maybe two cars long and two lanes wide. It crosses over a sh
 ​	“I’m not,” I say. “I just happen to love you all very much.”
 ​
 The night air is still boggy, humid and stale. [eft - the bridge] On the other side of the bridge, the Sevens are dragging Eddie out of the driver’s seat. Soon he’s joined by Babatunde, Mucho, Jo and Vilma — all looking sleepy and scared. 
+===cindy==
 ​	We surround the biker who told us to get out of the car. 
 ​	The biker looks up at her. He pulls down his bandana. “Ma’am,” he says, “I apologize for the disturbance. We are here for your protection.”
 ​	Behind us, the caravan huddled at the mouth of the bridge are loud — hooting, screaming, honking. Two bikers with shotguns are keeping them at bay. 
@@ -149,4 +152,4 @@ The night air is still boggy, humid and stale. [eft - the bridge] On the other s
 ​	“Boy?” Babatunde wonders. “Isn’t he younger than you?”
 ​	“You’re in big enough trouble, sir,” another biker says. “Or ma’am. I don’t know what you’re wearing.”
 ​	“Psst,” Eddie whispers as Tim goes by him. 
-​	“Where is Captain Whitaker?” says Cindy. “I demand to speak with him. 
+​	“Where is Captain Whitaker?” says Cindy. “I demand to speak with him.mmm
