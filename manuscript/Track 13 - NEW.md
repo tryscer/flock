@@ -50,7 +50,8 @@ I wake up naked in Tim’s arms, my face on the guitar he’s still wearing, str
 Cindy is at the wheel and Eleanore is next to her, holding on to dear life. In the back seat, Tim and I are holding hands, mostly dressed. 
 ​	“I didn’t know this car could go so fast,” Eleanore says through gritted teeth. 
 ​	“That’s because you only saw Tim or Barry drive,” Cindy laughs. All the windows are open and cool wind comes rushing in, sweeping away the smells of sex. We’re riding hard on the shoulder, to the left of the long, slow caravan of painted cars clogging US-29.
-​	We first overtake the bus, with Mo at the wheel, he glances at us briefly, nods and returns to stare forward. Pete, seemingly napping beside him raises his head as we pass. He waves and Tim takes his arm out the window and waves back. two sedans are next, driving parallel, leaving us little room to bypass. The drivers and passengers' torso's are sticking out of the windows, reaching hands between cars or waving their braceleted palms and shouting. I recognize Shirley's fresh work on the doors near us, showing a very colorful butterfly. 
+​	We first overtake the bus, with Mo at the wheel, he glances at us briefly, nods and returns to stare forward. Pete, seemingly napping beside him raises his head as we pass. He waves and Tim pulls his arm out the window and waves back. 
+Two sedans are next, driving parallel, leaving us little room to bypass. The passengers torsos' are sticking out of the windows, reaching hands between cars or waving their braceleted palms and shouting. I recognize Shirley's fresh work on the doors near us, showing a very colorful butterfly. 
 ​	“I wonder how many cars we have now,” Eleanore says a few cars later. “We must have passed a couple dozen already.” We can see the Joneses's grey Chrysler with a ”Charleston Fanclub HQ" banner on the back window, two other cars  behind it carry drawings of the holy city spires and the Cooper River Bridge clearly identify them as belonging to the same fan club.
 ​	“Another dozen over there,” Cindy says, nodding her head to an eclectic cluster of coupes and station wagons that the kids from Saulsbury drove into the Drive-In and have now become part of the caravan, cheering, honking, drawings and all.
 My eyes are wondering over the  cars we pass, and I realize I am looking for Shirley, I suddenly feel I miss her dearly. I eventually spot her car cruising hazily between a pickup truck with its flatbed full of hugging kids and a convertible showing a young and busy couple.
@@ -89,7 +90,6 @@ We reach the top of the column. The Steam Pillars' truck is on our left. Cindy h
 ​	“Now,” Eddie said, “would you kindly look back, my black-eyed bean.”
 ​	We do. The caravan behind us is a mass of noise and headlights.
 ​	“Who could take us now, Eleanore of New York?” says Eddie. “We’re too big.”
-**"E pluribus unum"**
 ​	Tim says, “Eddie, don’t be an idiot! Alice, ouch!”
 ​	Cindy says, “Tell him we need him in a defensive position.”
 ​	“Yeah,” says Eleanore. 
@@ -105,7 +105,10 @@ Tim nodes, he pulls his naked upper body through the window, holding the frame i
 
 We get off the highway into a country two lane road, peaking back I can see more headlights behind the truck, the Caravan is following. We drive through a forest of dogwood trees and by the headlights we see the stumps are overrun by Kudzu vines so thick they seem to be jumping from tree to tree. The darkness seem to be highlighted by the series of light beams from the Caravan cars, the sounds a bit muffled, it seems like the Caravan's mood has shifted slightly, as if our birthday party stopped dancing and started playing hide and seek. I feel more relaxed, I lay my head on Tim's chest, and my fingers naturally start plucking the strings. Elenore turns around and say "You two, really, there are respectable ladies in the car" 
 
- The sound of the car engine seems off, like its echoing from the back, the echo grows louder and louder. I turn my head to look and I see them: a dozen cyclists are forming a mobile barrier between the truck and and Barry, who is probably still in his haze, and behind him the rest of the Caravan. I grab Tim's shoulder with panic, and he raises his head, looks back and say  "How the hell did they get here?!?" Elenore adds "I can't believe they found us" and Cindy "It seems their intelligence is better than ours"
+ I feel the bottom of my belly humming, like a string vibrating after the music of our love making stops. I allow myself to indulge in that feeling as I press closer to Tim. The humming gets more tangible, I can feel it on my skin, I can actually hear it. It seems like Tim hears it too, because he says "I hear motorcycle engines". I want to say this is how our​	 love making feels like, but instead I follow his gaze backwards,  and I see them: a dozen cyclists are forming a mobile barrier between the truck and and Barry, who is probably still in his haze, and behind him the rest of the Caravan. I grab Tim's shoulder with panic. 
+  "How the hell did they get here?!?" 
+  "I can't believe they found us" 
+  "It seems their intelligence is better than ours"
  
  I look back again and see Eddie and Much grim faced and determined. For some reason the cyclists barrier is keeping a distance, and non are trying to reach for the truck, the gap between the truck and them is slowly widening . As I turn my head forward I can see a bridge speeding towards us. "Oh god", say Cindy, "A chock point, perfect for an ambush"
  
@@ -134,22 +137,50 @@ The bridge is tiny, maybe two cars long and two lanes wide. It crosses over a sh
 ​	“I’m a little worried about Alice,” Eleanore says. “I think the poor thing’s Love-sick.”
 ​	“I’m not,” I say. “I just happen to love you all very much.”
 ​
-The night air is still boggy, humid and stale. [eft - the bridge] On the other side of the bridge, the Sevens are dragging Eddie out of the driver’s seat. Soon he’s joined by Babatunde, Mucho, Jo and Vilma — all looking sleepy and scared. 
+The night air is still boggy, humid and stale. A gap in the tree line to both sides indicates we are over a ravine of sorts, though the darkness doesn't reveal details, just a two narrow lanes bridge, with stone walls on both sides On the other side of the bridge, the Sevens are dragging Eddie out of the driver’s seat. Soon he’s joined by Babatunde, Mucho, Jo and Vilma — all looking sleepy and scared. 
 ===cindy==
 ​	We surround the biker who told us to get out of the car. 
 ​	The biker looks up at her. He pulls down his bandana. “Ma’am,” he says, “I apologize for the disturbance. We are here for your protection.”
-​	Behind us, the caravan huddled at the mouth of the bridge are loud — hooting, screaming, honking. Two bikers with shotguns are keeping them at bay. 
+​	Behind us, the caravan huddled at the mouth of the bridge are loud — shouting and honking. Two bikers with shotguns are keeping them at bay. 
 ​	“Your jacket looks good,” I tell the biker. 
 ​	“Huh?” he says. “Thanks, I guess.”​	​	”Peaches!” Cindy whispers. 
 ​	“I like the embroidery,” I say. ”Did your wife do it for you?”
 ​	“She did, in fact.”
 ​	Tim squeezes my hand to signal that I may need to shut up. But my head is like a champagne glass — all full of little bubbles rushing to the top. 
 ​	“I like your shotgun,” I say. “Do you want trades for this awesome guitar?”
-​	Tim mutters, “Alice, shut up.”
+​	Cindy mutters, “Alice, you need to shut up.”
 ​	But the biker grins: “Listen, young lady, we have no problem with you fine folks here. But for everyone’s safety, please join your… friends… on the other side of the bridge. 
-​	The Sevens are on their bikes, circling around a lineup of sleepy musicians: Mucho and Babatunde, Jo and Vilma. Eddie stands a foot apart. The bikers let us through and now we’re in their little trap. Some bikers climb the truck.
+​	[eft] The Sevens are on their bikes, circling a lineup of sleepy musicians: Mucho and Babatunde, Jo and Vilma. Eddie stands a foot apart. The bikers let us through and now we’re in their little trap. Some bikers climb the truck
 ​	“You’re in big trouble, boy,” one biker says to Mucho. He has to look up to speak to him. 
 ​	“Boy?” Babatunde wonders. “Isn’t he younger than you?”
 ​	“You’re in big enough trouble, sir,” another biker says. “Or ma’am. I don’t know what you’re wearing.”
-​	“Psst,” Eddie whispers as Tim goes by him. 
-​	“Where is Captain Whitaker?” says Cindy. “I demand to speak with him.mmm
+​	“Psst,” Eddie whispers as Tim goes by him. We stand next to him. 
+​	“Who are you to stop us?” Mucho says. “Did you fight, son?”
+​	The man’s response is quick and decisive: he hits Mucho across the stomach with the butt of his shotgun. Mucho doubles over. Vilma screams. Jo looks on, blank-faced. 
+​	“Hope that gets the point across,” says the man with the shotgun.
+​	“Psst,” Eddie says. 
+​	“Eddie, holy fuck,” I say, “what’s going on?”
+​	“That, young lady,” Eddie says quietly, “is a matter for another night altogether. Now, Tim…”
+​	“Where’s mama? Where’s Heath?”
+​	“Shhhhh…”
+​	“Sorry!”
+​	“Mama is a wanted person,“ Eddie whispers, ”owing to some actions she took a few years ago. Heath… let’s just say he doesn’t like the exposure. They’re both in the blackberry brambles behind the truck, hiding.”
+​	Cindy struts over. “Where is Captain Whitaker?” she says. “I demand to speak with him.”
+​	Some bikers laugh. “She demands to speak to him, d’y’hear?” Someone says. 
+​	But Captain Whitaker appears - a gruff, middle-aged man, with a suit and tie under his denim jacket. 
+​	“Ah, the Southern gentleman,” Cindy says. 
+​	“My flaxen-haired beauty,” Whitaker says. He’s not as tall or wide as the others, but he carries himself on his bike like a mediaval captain on his steed. 
+​	“Listen, Tim, Eddie whispers, “are you listening? God, Barry was so much better at this.”
+​	Cindy says to Whitaker, “What — and I do mean it with all possible respect, Sir — the *fuck* is going on?”
+​	The bikers laugh. 
+​	“Public disturbance, ma’am. This is a *quiet* country. There’s no room for *ruckus* here.”
+​	“Tim,” I say, “Pay attention.”
+​	Tim is clenching his fists in anger. His eyes are glazed over. I put my hand on the small of his back and feel him easing back to life.
+​	“Listen to me carefully and act quickly,” Eddie whispers-shouts to Tim. “There’s a little satchet in the back pocket of my jeans. While your friend is making noise there, you will take it out of my pocket. You will hide it somewhere on your person. You are too damn white to be searched.”
+​	“What’s going on?” Tim says. 
+​	“Life,” says Eddie. “Now would you kindly…”
+​	“Give me my guitar,” Tim tells me.
+​	I say, “What?”
+​	“Give me my guitar.”
+​	I understand: I take off the guitar and hand it to Tim. While he’s putting it on, I sneak behind the two men and fish a little brown paper bag out of Eddie’s back pocket, noting to myself with surprise that I’ve touched two male butts today. As Tim fixes the guitar on his back, I reach in and stuff the little bag through the crevices of the hollow guitar. 
+​	“What disturbance? What’s —
