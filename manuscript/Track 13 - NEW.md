@@ -110,79 +110,61 @@ I can see Eddie's mocking smile changes to something more determined: he‘s loo
 ​	The buzzing grows into the hornet sound of motorcycle engines. Tim and I look back, hugging. Behind us a dozen cyclists forcing their way between the truck and rest of the Caravan. I grab Tim's shoulder. ​	
 ​	“I don’t get it,” Tim says. “How the hell did they know where to find us?” 
 ​	”Maybe they have a double agent,” I suggest. 
-​	I look back again and see Eddie and Mucho’s grim faces in the windshield of the truck. More bikers join in behind the truck, keeping their distance. The lights of the caravan seem farther and farther away. We’re nearing a little, ill-lit bridge. 
+​	I look back again and see Eddie and Mucho’s grim faces in the windshield of the truck. More bikers join in behind the truck, keeping their distance. The lights of the caravan seem farther and farther away. Ahead a truss bridge juts out of the bushes, its metal scaffolding dark against the sky, its other end illuminated with a strange, red glow.
 ​	“That’s not good,” Eleanore says. 
 ​	“Nope,” says Cindy. “They’re driving us towards a choke point.”
-
-At the far  end, a light show is put on. There are a few dim headlights facing towards us, and two fusees create bright red glares and lighted smoke on the road below them, through which the outlines of motorcycles angled across the road can be guessed. In the middle of all this a figure is waving a flashlight with the clear policeman sign to stop. 
-​	“Cindy, get past them!”
-​	“I can’t get past them without running them over! Roll up your windows!”
-Cindy slows down, helpless
-​	“Stay close to the band!”
-​	“Veer left, Cin!”
-​	“I can’t veer, turn or pivot anywhere, Puppy. We are on a goddamn bridge, they got us"
-​	“Run them over!”
-​	“Shut up, Tim!”
-​	And then: “This is Captain Whitaker from the Seventh Day Bible Study Club and Citizen Decency Commission! You will kindly stop your vehicle by the side of the road!”
-​
-The bridge is tiny, maybe two cars long and two lanes wide. It crosses over a shallow ravine. There are dozens of motorcyclists now — surrounding the truck, holding off the rest of the caravan at the foot of the bridge, just driving around, letting horrible sounds out of their mufflers that sound to me like big dogs growling.
+​	”We need to warn Eddie,” Tim says. 
+​	I stick my head out of the window and I holler back at the truck, “It’s a trap! It’s a trap!” Eddie flashes his headlights, but I’m not convinced he heard me. 
+​	Tim says, “Turn back?”
+​	“We’re not turning back,” Eleanore says. “They’re in front of us. They’re behind us. We’re already in their trap.”
+​	Cindy slows down and I feel the teeth-rattling motion of the Chevy on the planks of the bridge. We stop in the middle of the bridge under a high canopy of riveted metal. At the end, illuminated by red flares, the rest of the Sevens are waiting, dark figures on motorcycles against the red smoke.
+​	A tall man dismounts his bike and walks towards us, slowly. When he’s near and I can almost make out his face he shouts, “This is Captain Whitaker from the Seventh Day Bible Study Club and Citizen Decency Commission! You will kindly idle your vehicles and step out.”
+​	“Cindy, it’s your boyfriend,” Eleanore says. 
 ​	“Let me help you with your shirt,” I whisper to Tim. He’s pale, whiter than usual — quiet and shaking — and I notice he’s usually like that when men in power are around. Tim takes off his guitar and hands it to me. I hand him his shirt and as he squeezes into it, I put on his guitar. 
 ​	“Do I look like a guitarist, too?”
-​	“Peaches, it isn’t the time!” Cindy says. We watch as the truck halts by the side of the road and a dozen bikers getting off their vehicles and approaching the band. 
-​	“Dear god,” says Eleanore, “they’ve got shotguns.”
+​	“Peaches, it isn’t the time!” Cindy says. Behind us the truck has stopped. The rest of the caravan is held off far away from us at the mouth of the bridge. From the other end the Sevens start approaching on their bikes. And in the middle it’s just us and the truck. 
+​	“I’m steaming,” Cindy says. “I’m telling that asshole what’s what.”
+​	“Don’t,” I say. “I need you alive.”
 ​	A biker — big engine, no helmet, denim sleeveless jacket and a black bandana covering his face — halts by the car, next to Cindy, and thumps with his fist on the hood. Through the rolled-up window we can all hear him bellowing, “out!”
-​	“Here’s what we do,” Tim starts. 
-​	“Tim, honey, shut up kindly,” Cindy says. 
 ​	“They have no legal right,” Tim says through his teeth. I squeeze his hand. 
 ​	“What they do have,” Eleanore says, “is shotguns.”
-​	“Right,” says Cindy. “We’re getting out. Damn, I wish Barry was here. It’s his talent, speaking with assholes.”
-​	“I’m a little worried about Alice,” Eleanore says. “I think the poor thing’s Love-sick.”
-​	“I’m not,” I say. “I just happen to love you all very much.”
+​	“Right,” says Cindy. “We’re getting out. Damn, I wish Barry was here. It’s his talent, speaking to assholes.”
 ​
-The night air is still boggy, humid and stale. A gap in the tree line to both sides indicates we are over a ravine of sorts, though the darkness doesn't reveal details, just a two narrow lanes bridge, with stone walls on both sides On the other side of the bridge, the Sevens are dragging Eddie out of the driver’s seat. Soon he’s joined by Babatunde, Mucho, Jo and Vilma — all looking sleepy and scared. 
-===cindy==
-​	We surround the biker who told us to get out of the car. 
-​	The biker looks up at her. He pulls down his bandana. “Ma’am,” he says, “I apologize for the disturbance. We are here for your protection.”
-​	Behind us, the caravan huddled at the mouth of the bridge are loud — shouting and honking. Two bikers with shotguns are keeping them at bay. 
-​	“Your jacket looks good,” I tell the biker. 
-​	“Huh?” he says. “Thanks, I guess.”​	​	”Peaches!” Cindy whispers. 
-​	“I like the embroidery,” I say. ”Did your wife do it for you?”
-​	“She did, in fact.”
-​	Tim squeezes my hand to signal that I may need to shut up. But my head is like a champagne glass — all full of little bubbles rushing to the top. 
-​	“I like your shotgun,” I say. “Do you want trades for this awesome guitar?”
-​	Cindy mutters, “Alice, you need to shut up.”
-​	But the biker grins: “Listen, young lady, we have no problem with you fine folks here. But for everyone’s safety, please join your… friends… on the other side of the bridge. 
-​	[eft whats going on around] The Sevens are on their bikes, circling a lineup of sleepy musicians: Mucho and Babatunde, Jo and Vilma. Eddie stands a foot apart. The bikers let us through and now we’re in their little trap. Some bikers climb the truck
+The night air is still boggy, humid and stale. We’re standing over a shallow ravine and the stench of fish and stale water is everywhere. Eddie stops the truck but turns on his high-beams, illuminating the biker gang. Two bikers approach his window and a shouting match ensues. Suddenly he’s swinging the door open and jumping out, gesticulating and screaming. 
+​	“What is he doing?” Tim says. 
+​	“He’s creating a diversion,” Cindy says. 
+​	“For us?” says Tim. “To escape?”
+​	“Not for us,” Eleanore says. “Look.”
+​	Two figures slink out of the canopied back of the truck and climb over the railing of the bridge. Through the open windows and over the howling engines I can almost make out the sound of two bodies dropping into the water. 
+
+*(plunge… plunge)*
+
+I am holding Tim's hand. Cindy and Elenore are huddled against us. Behind us: Eddie, sleepy-looking Vilma and Jo, a calm Babatunde and a very angry Mucho. We stand between the truck and the car. One biker — No helmet, denim jacket and a black bandana on his face - is slowly circling us. The other Sevens travel the span of the bridge, revving their engines, filling the air with the smell of burnt gasoline. The tall biker known as Captain Whitaker approaches us slowly. 
 ​	“You’re in big trouble, boy,” one biker says to Mucho. He has to look up to speak to him. 
-​	“Boy?” Babatunde wonders. “Isn’t he younger than you?”
-​	“You’re in big enough trouble, sir,” another biker says. “Or ma’am. I don’t know what you’re wearing.”
-​	“Psst,” Eddie whispers as Tim goes by him. We stand next to him. 
+​	“Boy?” Babatunde wonders. “I think you’re much younger than our Mucho.”
+​	“You’re in big enough trouble, sir,” the biker says. “Or ma’am. What the hell are you wearing?”
+​	“Shut up, Baba,” Mucho bellows.
+​	“Psst,” Eddie whispers. 
 ​	“Who are you to stop us?” Mucho says. “Did you fight, son?”
-​	The man’s response is quick and decisive: he hits Mucho across the stomach with the butt of his shotgun. Mucho doubles over. Vilma screams. Jo looks on, blank-faced. 
-​	“Hope that gets the point across,” says the man with the shotgun.
-​	“Psst,” Eddie says. 
-​	“Eddie, holy fuck,” I say, “what’s going on?”
+​	“Psst,” Eddie whispers again. 
+​	“Eddie, holy fuck,” I say, “what is this?”
 ​	“That, young lady,” Eddie says quietly, “is a matter for another night altogether. Now, Tim…”
-​	“Where’s mama? Where’s Heath?”
+​	“Where’s Mama? Where’s Heath?”
 ​	“Shhhhh…”
 ​	“Sorry!”
-​	“Mama is a wanted person,“ Eddie whispers, ”owing to some actions she took a few years ago. Heath… let’s just say he doesn’t like the exposure. They’re both in the blackberry brambles behind the truck, hiding.”
-​	Cindy struts over. “Where is Captain Whitaker?” she says. “I demand to speak with him.”
-​	Some bikers laugh. “She demands to speak to him, d’y’hear?” Someone says. 
-​	But Captain Whitaker appears - a gruff, middle-aged man, with a suit and tie under his denim jacket. 
+​	“Mama is a wanted person,“ Eddie whispers, ”owing to some righteous activities she took place in a few years ago. Heath… let’s just say he doesn’t like the exposure. Now, Tim, listen—” 
+​	Captain Whitaker appears - a gruff, middle-aged man, with a suit and tie under his denim jacket. 
 ​	“Ah, the Southern gentleman,” Cindy says. 
-​	“My flaxen-haired beauty,” Whitaker says. He’s not as tall or wide as the others, but he carries himself on his bike like a mediaval captain on his steed. 
-​	“Listen, Tim, Eddie whispers, “are you listening? God, Barry was so much better at this.”
+​	“My flaxen-haired beauty,” Whitaker says. He’s not as tall or wide as the others, but he carries himself like the king of this bridge.
+​	“Psst, Tim, Eddie whispers, “are you listening? God, Barry was so much better at this.”
 ​	Cindy says to Whitaker, “What — and I do mean it with all possible respect, Sir — the *fuck* is going on?”
 ​	The bikers laugh. 
-​	“Public disturbance, ma’am. This is a *quiet* country. There’s no room for *ruckus* here.”
+​	“Public disturbance, ma’am. This is a *quiet* country. There’s no room for a *ruckus* here.”
 ​	“Tim,” I say, “Pay attention.”
 ​	Tim is clenching his fists in anger. His eyes are glazed over. I put my hand on the small of his back and feel him easing back to life.
-​	“Listen to me carefully and act quickly,” Eddie whispers-shouts to Tim. “There’s a little satchet in the back pocket of my jeans. While your friend is making noise there, you will take it out of my pocket. You will hide it somewhere on your person. You are too damn white to be searched.”
+​	“Listen to me carefully and act quickly,” Eddie whispers-shouts to Tim. “There’s a little brown bag in the back pocket of my jeans. While your blonde friend is making noise there, you will take it out of my pocket. You will hide it somewhere on your person. You are too damn white to be searched.”
 ​	“What’s going on?” Tim says. 
 ​	“Life,” says Eddie. “Now would you kindly…”
-​	“Give me my guitar,” Tim tells me.
-​	I say, “What?”
-​	“Give me my guitar.”
+​	Tim spring back to action. “Give me my guitar,” he says.
 ​	I understand: I take off the guitar and hand it to Tim. While he’s putting it on, I sneak behind the two men and fish a little brown paper bag out of Eddie’s back pocket, noting to myself with surprise that I’ve touched two male butts today. As Tim fixes the guitar on his back, I reach in and stuff the little bag through the crevices of the hollow guitar. 
-​	“What disturbance? What’s —
+​	“What disturbance? Captain Whitaker,” Cindy says, “We are law-abiding citizens.”
