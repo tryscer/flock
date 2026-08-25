@@ -145,7 +145,7 @@ I am holding Tim's hand. Cindy and Elenore are huddled against us. Behind us: Ed
 ​	“You’re in big enough trouble, sir,” the biker says. “Or ma’am. What the hell are you wearing?”
 ​	“Shut up, Baba,” Mucho bellows.
 ​	“Psst,” Eddie whispers. 
-​	“Who are you to stop us?” Mucho says. “Did you fight, son?”
+​	“Why are you picking on us? You don’t even know us,” Mucho says. “Did you fight, son?”
 ​	“Psst,” Eddie whispers again. 
 ​	“Eddie, holy fuck,” I say, “what is this?”
 ​	“That, young lady,” Eddie says quietly, “is a matter for another night altogether. Now, Tim…”
@@ -157,14 +157,50 @@ I am holding Tim's hand. Cindy and Elenore are huddled against us. Behind us: Ed
 ​	“Ah, the Southern gentleman,” Cindy says. 
 ​	“My flaxen-haired beauty,” Whitaker says. He’s not as tall or wide as the others, but he carries himself like the king of this bridge.
 ​	“Psst, Tim, Eddie whispers, “are you listening? God, Barry was so much better at this.”
-​	Cindy says to Whitaker, “What — and I do mean it with all possible respect, Sir — the *fuck* is going on?”
+​	Cindy says to Whitaker, “What — and I do mean it with all possible respect, Sir — the *fuck* is going on?” [GJL - tune the captain and the sevens down a bit, less confidant in front of Cindy]
 ​	The bikers laugh. 
-​	“Public disturbance, ma’am. This is a *quiet* country. There’s no room for a *ruckus* here.”
+​	“Public disturbance, ma’am. This is a *quiet* county. There’s no room for a *ruckus* here.”
 ​	“Tim,” I say, “Pay attention.”
 ​	Tim is clenching his fists in anger. His eyes are glazed over. I put my hand on the small of his back and feel him easing back to life.
-​	“Listen to me carefully and act quickly,” Eddie whispers-shouts to Tim. “There’s a little brown bag in the back pocket of my jeans. While your blonde friend is making noise there, you will take it out of my pocket. You will hide it somewhere on your person. You are too damn white to be searched.”
-​	“What’s going on?” Tim says. 
+​	“You two, listen to me carefully and act quickly,” Eddie whispers-shouts to Tim. “There’s a little brown bag in the back pocket of my jeans. While your blonde friend is making noise there, you will take it out of my pocket. You will hide it somewhere on your person. You are too damn white to be searched.”
+​	“What’s going on?” I ask. 
 ​	“Life,” says Eddie. “Now would you kindly…”
-​	Tim spring back to action. “Give me my guitar,” he says.
+​	Tim springs back into action. “Give me my guitar,” he says.
 ​	I understand: I take off the guitar and hand it to Tim. While he’s putting it on, I sneak behind the two men and fish a little brown paper bag out of Eddie’s back pocket, noting to myself with surprise that I’ve touched two male butts today. As Tim fixes the guitar on his back, I reach in and stuff the little bag through the crevices of the hollow guitar. 
-​	“What disturbance? Captain Whitaker,” Cindy says, “We are law-abiding citizens.”
+​	“Captain Whitaker,” Cindy says. “This is unacceptable. We are all law abiding citizens.” This is greeted by laughter from the bikers, Whitaker included.
+​	Babatunde puts his hand on my shoulder and whispers in my ear, “Tell your well-meaning friend to quiet down, please.”
+​	”Cindy,” I whisper, “Baba says you need to shut up.”
+​	Cindy ignores me. “I don’t know who do you think you are, but you have no right to stop us.”
+​	Captain Whitaker says, “Are you sure?”
+
+*(whe—noooo!)*
+
+The police squad car slides effortlessly through the line of bikers on the other end of the bridge. Two deputies in khaki uniforms bound out, followed by a middle-aged woman in a housecoat. 
+​	“Sorry to drag you out of bed in such an hour, Myrtle,” Captain Whitaker says.
+​	“What do we have here?” says the woman. 
+​	“Madam, this *gang*-“ says Cindy, ”they have illegally—“
+​	“Girl,” Mucho says, “now it’s me who’s telling you to shut up.”
+​	“That’s a fine way to talk to a lady,” says the woman in a house coat. “I can see they raised you well, boy.”
+​	Mucho clenches his fists and says nothing. 
+​	“You know, Myrtle,” says Captain Whitaker, “the charming young lady is correct. When we crossed over from Guildford county, we’ve lost our deputy status.”
+​	“Alright,” says Myrtle. “By the power vested in me as Acting Sheriff of Faith, NC, you are all hereby deputized.”
+​	Captain Whitaker turns to Cindy. “Are you satisfied now?” The bikers laugh. 
+​	“Now,” says Myrtle, “since you climbed on this bridge, you are all within the city limits of 
+​	
+
+- Myrtle releases the Sevens from duty, they all drive towards Faith, with only Rich staying behind, watching
+- Myrtle commanding a search for alcohol 
+- Bikers board the back of the truck, they throw out stuff belonging to the pillar, causing them emotional reaction
+- When one of them starts hitting the piano, Jo is becoming restless
+- Vilma, recognizing Jo's distress, shouts at them "We are highly regarded musicians, don't touch our instruments"
+- This causes the bikers near them to approach her - possibly holding Mucho's bass ready to smash it
+- Mucho is rushing towards them, but the deputies stop him, one of them pulls the flusk out of his pocket - claiming he is in Davidson county - dry, and hence needs to be arrested
+- Mucho is dragged towards the police car
+- something happens that causes the deputies to start hitting him - "in self defence" 
+- They are hitting Mucho who shouts "I fought for this country"
+- Alice shouts out to Myrtle
+- Myrtle stops the beating, warns them not to come close to her sundown town
+- The police leaves
+- Eddie loads Mucho on the truck
+- the caravan turns arround and drives back to US29
+- 
