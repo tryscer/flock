@@ -25,7 +25,6 @@ longform:
       - Track 14 - Fly, Baby Bird
       - Track 15 - My Murmuration
       - Track 16 - Are You Ready, Atlanta?
-    - Track 13 - NEW
     - Side D - Tim
     - - Track 17 - The Israelites
       - Track 18 - You Can't Take It With You

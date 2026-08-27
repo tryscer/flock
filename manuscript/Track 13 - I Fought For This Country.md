@@ -1,241 +1,209 @@
-[Babatunde is effected by the violence inflected on Mucho]
-[Barry and Rosetta are leaving the car together to notify others]
-[Sitting arrangements - Tim and Alice with Cindy at the front]
-“Man, this car smells of *sweat*,” says Rosetta. Even sitting, she’s tall and lithe — taller than Barry. She strokes his cheek and he smiles at her. “*You* smell of sweat,” she tells him. 
-​	“We know,” I say. 
-​	We’re driving away from the drive-in, a long line of cars following the band’s truck. In the back seat, Cindy and Eleanore are whispering to each other. Far, far away from me, Tim is at the wheel. 
-​	“You know, UR has fresh clothes you can all wear,” says Rosetta. She leans towards Barry and kisses his cheek. I look at them enviously, then at Tim as he sticks his head out of the window and yells at the band’s truck, “Eddie, you asshole, slow down!”
-​	
+*(Omens and signs, dear listeners, OMENS and signs… this is DJ JONAH, up in the BIRD’S NEST…)*
+
+*(wwwwwaikhup — little Suhuzi… waikhup!)*
+
+I’m a little caterpillar. 
+​	I nest in my cucoon, all bundled up and sleeping, dreaming of growing wings. Outside, my caterpillar ears hear wind rustling through leaves and insects buzzing. Suddenly the cucoon rocks, sways…
+
+*(SLAM! SLAM!)*
+
+I wake up naked in Tim’s arms, my face on the guitar he’s still wearing, strings pressed against my nose and drooling into its crevices. Tim looks down at me, already awake. I open my mouth but someone else speaks for me —
+​	“Morning, gorgeous!” 
+​	Cindy and Eleanore are in the front seat, giggling. I try to find cover and find none. Tim is red, face to toes. 
+​	“Hi Tim,” Eleanore says. “Nice guitar you’ve got there.”
+​	Tim and I huddle, trying to keep each other modest. Tim picks up his white t-shirt from the floor and covers ​me with it.
+​	“Girls,” I say, “not cool!”
+​	“Sorry, Alice,” Cindy says. “It’s just that the caravan is leaving. The band left like half an hour ago and the drive-in is empty. Don’t want to stay behind. Barry’s with Rosetta, or wherever, nobody knows where he is. You can get dressed now… although, Tim, you know… no rush.”
+​	Eleanore giggles. I look up, at Tim’s face, and he looks at mine, and we start laughing. 
+​	Through the open windows I can hear car horns in the distance. Beyond the Hitching Post Drive-In marquee, where the highway ambles on towards Charlotte, I see red and yellow tail-lights moving in a long, lazy procession. 
+​	“Okay, girls, show's over,” Tim says. “You had your look, now, eyes ahead.”
+​	“I’ll dress you up,” I say. I crouch and find his white briefs and I put his left foot through them, kissing his toe as I do. 
+​	“Ew, gross!” Cindy says. 
+​	"He said eyes ahead," I say. 
+​	I can’t find my own underwear on the floor so I just squeeze into my dress. Cindy drives the car through the empty lot, navigating between speaker posts and mounds of litter. The screen above us is dark now — everything is dark and eerily quiet. Somewhere near the exit a big man standing next to a big motorcycle is loafing around, kicking a beer can around. Cindy stops next to him.
+​	“You fucking traitor,” she says. 
+​	“What?” I say, my head still trying to get through the dress. “Who is it?”
+​	Tim and I sit down — me in a crumpled dress and no bra, Tim in nothing but a pair of briefs — to see Rich, our biker friend. He raises his head to acknowledge us, but otherwise seems lost in his own world of can-kicking. 
+​	“Came to spy some more for the Sevens?”
+​	“No,” Rich says. “I stayed for the show.”
+​	“Why?” says Eleanore.
+​	“I don’t know.”
+​	We look at each other, confused — except for Eleanore, who’s eying Tim’s chest. 
+​	I say, “Did you like the music?”
+​	Rich lifts his head. In our headlights his eyes seem to be shining. ​	“I did,” he says. “I liked it very much.”
+​	“Well,” Cindy says, “glad you liked it, Mister Iscariot.”
+​	“I am, aren’t I? I pretended to be a friend but I'm not. I guess that for you people, there's no worse crime.” He looks at Tim, barely registering his nakedness. “Well, good running into you.” He proceeds to kick at the beer can.
+​	“It isn’t, if you must know,” Eleanore says. 
+​	“I very much hope not to run into you again anytime soon,” Cindy says. She turns the wheel.
+​	“Wait,” I say. “Stop the car for a second.”
+​	I huddle out with no underwear or shoes and I walk towards Rich on the grimy asphalt. He turns to me, surprised. 
+​	"Look," I say. "You were kind of treacherous yesterday. But on the off-chance you won't be tomorrow..."
+​	I give him a big hug. He puts his arm on my back, gingerly, almost hovering -- but I can feel his stiff posture softening in my arms.  
+​	I walk back to the car. 
+​	“Wait,” Rich says. “Wait.”
+​	He walks over just as I open the car door. We all look at him, this giant man in a denim jacket and a confused look on his face. 
+​	“We’re going to ambush the truck,” he says. “Captain Whitaker said we shouldn’t be targeting small fish like you guys, that we should go for the Queen. Anyway, we’re going to ambush the Steam Pillars truck tonight.”
+​	He gives us a sad look. Then he walks over to his bike, climbs it and rides away. 
 ​
-​	“You know, you never told me who this U.R. fellar is,” Barry says. Rosetta laughs. 
-​	“It’s not for you to know, silly,” she says. 
-​	“Isn’t it obvious?” says Eleanore. I’m suddenly struck by a physical need to slap her — and the shame of having thought that thought — but the need is overcome by Love and dies away. 
-​	​Barry leans his head on the window and sighs. Rosetta laughs.
+*(…up, little Suhuziiiiii…)*
 
-​	“You gotta tell me *something*,” Barry says in the front seat. “Is this U.R. a promoter? Is he a friend of Mama?”
-​	“You can say that,” Rosetta says. She catches my eye and winks. I try to wink back again, feeling I’ve finally landed it.
-​	Tim shouts out at the band’s truck again: “The map says turn right!”
-​	Up ahead, Eddie sticks his head out and shouts back. 
-​	“What did he say?” says Eleanore. 
-​	“He says we’re going through that new highway,” Tim says. He turns the wheel. 
-​	“I don’t know about that,” says Rosetta. “Did he check the Green Book?”
-​	Tim sticks his head out and shouts again. A shouting match ensues. 
+Cindy is at the wheel and Eleanore is next to her, holding on to dear life. In the back seat, Tim and I are holding hands, mostly dressed. 
+​	“I didn’t know this car could go so fast,” Eleanore says through gritted teeth. 
+​	“That’s because you only saw Tim or Barry drive,” Cindy laughs. Cool wind comes rushing in through the window, sweeping away the smells of sex. We’re riding hard on the shoulder, to the left of the long, slow caravan of painted cars clogging US-29.
+​	We first overtake the ancient school bus, now adorned with even more painting. Mo notices us and honks twice, and Pete, behind him, waves to us. I wave back. After that we squeeze next to two sedans driving alongside each other. The kids in the sedans are standing with their bodies out of the windows, and as we pass they clasp hands. We see their bracelets jingling as they do. I recognize Shirley's fresh work on the doors near us, showing a huge butterfly and a giant tulip. 
+​	“I wonder how many cars we have now,” Eleanore says a few cars later. “We must have passed a couple dozen already.” I see the Joneses' grey Chrysler with a ”Charleston Fan Club HQ" banner in the back window, leading a small procession: two other cars behind it carrying drawings of the holy city spires and the Cooper River Bridge.
+​	“Another dozen over there,” Cindy says, nodding her head to an eclectic cluster of coupes and station wagons that the kids from ==Salisbury ==drove into the Drive-In and have now become part of the caravan, cheering, honking.
+​	My eyes are wondering over the  cars we pass, and I realize I am looking for Shirley, I suddenly feel I miss her dearly. I eventually spot her car cruising hazily between a pickup truck with its flatbed full of hugging kids and a convertible showing a young and busy couple.
+​	"Shirley!" I say through the window.
+"Alice! my sweet Alice!, how is your night so far? " Shirley say. I smile and she bursts in laughter "I see" she says "Good for you", she winks toward Tim as Cindy speeds up and passes her.
+"There's Rosetta's car" says Tim, pointing at the XXX up ahead. We drive by, and see Barry at the wheel, a dreamy look in his eyes. Cindy says "Hey Barry, ditching your sister for a girl? Where is Rosie anyway?"
+	”She’s around!”
+
+We reach the top of the column. The Steam Pillars' truck is on our left. Cindy honks her horn three times. Up above us, Eddie's at the wheel, holding a cigarette in his mouth. Eleanore sits on her knees to get a better look at him. 
+​	I whisper to Tim, "Seeing all these people makes me kind of..."
+​	"Kind of what?" he says, and then, "Alice, not here... they're watching."
+​	“Just a little,” I whisper. “They’re busy anyway.”
+​	"Eddie, you rotten banana," Eleanore says through the window. 
+​	“Eleanore, you Greek goddess,” Eddie shouts back. “Did you like the show?”
+​	“It was the best thing ever,” Eleanore says. “Now shut your Mick trap, you idiot. Trouble’s coming.”
+​	“What trouble?”
+​	“That bunch of asshole bikers, the Sevens. We have *intelligence* that they are on their way.”
+​	Eddie laughs. He hollers back into the truck, “Eleanore has intelligence now, you guys!”
+​	Eleanore goes red. “You better listen to me, Pig.”
+​	“I love you when you’re like that,” Cindy says. And to Eddie: “We have a double agent!”
+​	“A what?”
+​	“We have infiltrated their network!”
+​	Eddie says, “You kids have a developed imagination. That’s good!”
+​	Mucho’s face peers over Eddie’s. “Kid,” he tells Eleanore, “it’s late. Your favorite band is trying to catch some shut-eye. Kindly resume your courtship with Eddie tomorrow morning.”
+​	“Wouldn’t touch him with a dead man’s arm,” Eleanore mutters. 
+​	“How you’re doing there, Tommy?” Mucho hollers. “Is that guitar still in working condition?”
+​	I holler back, “We’ll wipe it down, don’t worry!”
+​	Eleanore stomps her knee. “Listen up, *men*,” she yells. “About thirty armed bikers are on their way and our source says they’ll be targeting the *truck*. They said they’re going for the *queen.*”
+​	Eddie and Mucho exchange looks. 
+​	“Do you think they mean Mama?” Mucho says. 
+​	“You’re getting jumpy, old man,” Eddie says. “Wassa matter, can’t handle a little mayhem anymore?”
+​	Mucho thumps Eddie’s head and it bobbles like a ragdoll’s. 
+​	“Should have left you in the ruins in Rome where you belong,” he tells him. They both snicker. 
+​​	”Eleanore,” Eddie said, “You raven-haired Sheebah, come closer.”
+​	Eleanore sticks her body out of the window, and I stick my head out, too, to hear what they’re saying. Tim leans his head against mine.
+​	“Now,” Eddie said, “would you kindly look back, my black-eyed bean.”
+​	We do. The caravan behind us is a mass of noise and headlights.
+​	“Who could take us now, Eleanore of New York?” says Eddie. “We’re too big.”
+​	Tim says, “Eddie, don’t be an idiot! Alice, ouch!”
+​	Cindy says, “Tell him we need him in a defensive position.”
+​	“Yeah,” says Eleanore. 
+​	“Just like our dads taught us.”
+​	“Yeah,” says Eleanore. “Listen, Eddie, you’re going to slow down. We’re going to overtake you. We will lead you off the highway to the side roads, to avoid them. We will be your forward guard and the rest of the caravan will protect your rear". 
+
+I can see Eddie's mocking smile changes to something more determined: he‘s looking at the side mirror and the truck slows down. Cindy steps on the gas, overtaking the truck. She’ looking at the rearview mirror to make sure Eddie is following.
+​	"There's an exit two miles ahead," says Eleanore. "It says 'Faith, NC' on the sign."
+​	"I’m guessing it’s as good a place as any to disappear into," Cindy says. a blinking light at her dashboard and a series of clicks tells me she turned on the turn signal light. Even so, she is saying to Tim: "Hey, star, care to put on a little show for the truck to make sure they see we are turning?"
+​	Tim nods. He pulls his naked upper body through the window, holding the roof in one hand and waving his t-shirt from right to left to catch Eddie's attention. With the guitar still strapped to his half-naked body, he looks to me like a regular James Dean. ​	​	The vinyl roof is illuminated by the truck’s high-beams: Eddie got the message.
+​	We get off the highway into a two-lane country road. I peak back to see more headlights behind the truck. 
+​	“The caravan is following,” I report. 
+​	We drive through a forest of dogwood trees and by the headlights we see the stumps are overrun by Kudzu vines so thick they seem to be jumping from tree to tree. The darkness is punctured by the lights of our caravan. The shouting stops. We all drive in silence. Even the conversation in our car has died down. I lay my head on Tim's chest, and my fingers naturally start plucking the strings on his guitar. They make strange, non-musical sounds. Eleanore turns around. "You two, really,” she says, ”there are *respectable* ladies in the car." 
+​	I feel the bottom of my belly humming, like a string vibrating after the music of our love making stops. I allow myself to indulge in that feeling as I press closer to Tim. Now I can feel it on my skin, can actually hear it. 
+​	“What’s this buzzing?” Tim whispers. 
+​	“I think it’s my heart,” I say. 
+​	“No, seriously,” Tim says. “Cin, Eleanore, can you hear it too?”
+​	“Yeah,” Cindy says. “I think they’re coming.”
+​	The buzzing grows into the hornet sound of motorcycle engines. Tim and I look back, hugging. Behind us a dozen cyclists forcing their way between the truck and rest of the Caravan. I grab Tim's shoulder. ​	
+​	“I don’t get it,” Tim says. “How the hell did they know where to find us?” 
+​	”Maybe they have a double agent,” I suggest. 
+​	I look back again and see Eddie and Mucho’s grim faces in the windshield of the truck. More bikers join in behind the truck, keeping their distance. The lights of the caravan seem farther and farther away. Ahead a truss bridge juts out of the bushes, its metal scaffolding dark against the sky, its other end illuminated with a strange, red glow.
+​	“That’s not good,” Eleanore says. 
+​	“Nope,” says Cindy. “They’re driving us towards a choke point.”
+​	”We need to warn Eddie,” Tim says. 
+​	I stick my head out of the window and I holler back at the truck, “It’s a trap! It’s a trap!” Eddie flashes his headlights, but I’m not convinced he heard me. 
+​	Tim says, “Turn back?”
+​	“We’re not turning back,” Eleanore says. “They’re in front of us. They’re behind us. We’re already in their trap.”
+​	Cindy slows down and I feel the teeth-rattling motion of the Chevy on the planks of the bridge. We stop in the middle of the bridge under a high canopy of riveted metal. At the end, illuminated by red flares, the rest of the Sevens are waiting, dark figures on motorcycles against the red smoke.
+​	A tall man dismounts his bike and walks towards us, slowly. When he’s near and I can almost make out his face he shouts, “This is Captain Whitaker from the Seventh Day Bible Study Club and Citizen Decency Commission! You will kindly idle your vehicles and step out.”
+​	“Cindy, it’s your boyfriend,” Eleanore says. 
+​	“Let me help you with your shirt,” I whisper to Tim. He’s pale, whiter than usual — quiet and shaking — and I notice he’s usually like that when men in power are around. Tim takes off his guitar and hands it to me. I hand him his shirt and as he squeezes into it, I put on his guitar. 
+​	“Do I look like a guitarist, too?”
+​	“Peaches, it isn’t the time!” Cindy says. Behind us the truck has stopped. The rest of the caravan is held off far away from us at the mouth of the bridge. From the other end the Sevens start approaching on their bikes. And in the middle it’s just us and the truck. 
+​	“I’m steaming,” Cindy says. “I’m telling that asshole what’s what.”
+​	“Don’t,” I say. “I need you alive.”
+​	A biker — big engine, no helmet, denim sleeveless jacket and a black bandana covering his face — halts by the car, next to Cindy, and thumps with his fist on the hood. Through the rolled-up window we can all hear him bellowing, “out!”
+​	“They have no legal right,” Tim says through his teeth. I squeeze his hand. 
+​	“What they do have,” Eleanore says, “is shotguns.”
+​	“Right,” says Cindy. “We’re getting out. Damn, I wish Barry was here. It’s his talent, speaking to assholes.”
 ​
-​	I fall asleep. I dream. In my dream, Tim is playing a big piano. The piano catches on fire. I look at Tim’s face as the flames dance across his face —
+The night air is still boggy, humid and stale. We’re standing over a shallow ravine and the stench of fish and stale water is everywhere. Eddie stops the truck but turns on his high-beams, illuminating the biker gang. Two bikers approach his window and a shouting match ensues. Suddenly he’s swinging the door open and jumping out, gesticulating and screaming. 
+​	“What is he doing?” Tim says. 
+​	“He’s creating a diversion,” Cindy says. 
+​	“For us?” says Tim. “To escape?”
+​	“Not for us,” Eleanore says. “Look.”
+​	Two figures slink out of the canopied back of the truck and climb over the railing of the bridge. Through the open windows and over the howling engines I can almost make out the sound of two bodies dropping into the water. 
 
-*(…them again, you better—)*
-*(—Sevens—)*
-*(Damn it, drive faster—)*
+*(plunge… plunge)*
 
-I am jolted awake. Cindy’s face is close to mine; she’s shaking me up. 
-​	“Alright,” I say, “I get it, you’re angry. But I was having such a nice dream.”
-​	“Wake up, Peaches,” Cindy says. Her voice assumes that metallic quality, cold and exact, that she has once you need to get serious. I get serious, too. 
-​	I moan. I say, “Are the bikers back again?”
-​	“They’re back,” Rosetta says from the front seat. “And there’s even more of them. Barry, sugar, wake up.”
-​	Barry’s head is slumped on the window; Tim is leaning forward at the wheel; we’re driving very fast, swerving and swaying on the road. We’re on a wide, darkened road. Somewhere ahead I can see by our headlights a few painted cars. Eleanore is looking back, fearful. 
-​	“They’re closing in,” she yells. “Drive faster!”
-​	“I am,” Tim says through his teeth. The car jitters and sways on the road. 
-​	“Don’t let them leave us here alone,” I say. 
-​	“Who?” says Barry. 
-​	“The others. Don’t let them leave us here again.”
-​	“She’s right,” says Cindy. “We need a tight formation. A phalanx.” 
-​	“Honk,” says Rosetta. “Honk three times.”
-​	Tim slams the steering wheel three times, then again, then again. Ahead, we can see the band’s truck braking, getting closer. Other cars do the same.
-​	“Keep honking,” Rosetta says. “It’s going to be alright, folks, we’ve done this before.”
-​	Now I hear, through the open windows, other cars honking, the band’s airhorn bellowing under the ruckus. Pretty soon we are surrounded by caravan cars. We’re driving very fast and very close; Tim is hunched forward and I can see sweat dripping from his forehead and unto the wheel. The honking is syncopated now; in my mind it sounds like a great beast bellowing…
+I am holding Tim's hand. Cindy and Elenore are huddled against us. Behind us: Eddie, sleepy-looking Vilma and Jo, a calm Babatunde and a very angry Mucho. We stand between the truck and the car. One biker — No helmet, denim jacket and a black bandana on his face - is slowly circling us. The other Sevens travel the span of the bridge, revving their engines, filling the air with the smell of burnt gasoline. The tall biker known as Captain Whitaker approaches us slowly. 
+​	“You’re in big trouble, boy,” one biker says to Mucho. He has to look up to speak to him. 
+​	“Boy?” Babatunde wonders. “I think you’re much younger than our Mucho.”
+​	“You’re in big enough trouble, sir,” the biker says. “Or ma’am. What the hell are you wearing?”
+​	“Shut up, Baba,” Mucho bellows.
+​	“Psst,” Eddie whispers. 
+​	“Why are you picking on us? You don’t even know us,” Mucho says. “Did you fight, son?”
+​	“Psst,” Eddie whispers again. 
+​	“Eddie, holy hell,” I say, “what is this?”
+​	“That, young lady,” Eddie says quietly, “is a matter for another night altogether. Now, Tim…”
+​	“Where’s Mama? Where’s Heath?”
+​	“Shhhhh…”
+​	“Sorry!”
+​	“Mama is a wanted person,“ Eddie whispers, ”owing to some righteous activities she took place in a few years ago. Heath… let’s just say he doesn’t like the exposure. Now, Tim, listen—” 
+​	Captain Whitaker appears - a gruff, middle-aged man, with a suit and tie under his denim jacket. 
+​	“Ah, the Southern gentleman,” Cindy says. 
+​	“My flaxen-haired beauty,” Whitaker says. He’s not as tall or wide as the others, but he carries himself like the king of this bridge.
+​	“Psst, Tim, Eddie whispers, “are you listening? God, Barry was so much better at this.”
+​	Cindy says to Whitaker, “What — and I do mean it with all possible respect, Sir — the *fuck* is going on?” 
+​	The bikers laugh. 
+​	“Public disturbance, ma’am. This is a *peaceful* county. There’s no room for a *ruckus* here.”
+​	“Tim,” I say, “Pay attention.”
+​	Tim is clenching his fists in anger. His eyes are glazed over. I put my hand on the small of his back and feel him easing back to life.
+​	“You two, listen to me carefully and act quickly,” Eddie whispers-shouts to Tim. “There’s a little brown bag in the back pocket of my jeans. While your blonde friend is making noise there, you will take it out of my pocket. You will hide it somewhere on your person. You are too damn white to be searched.”
+​	“What’s going on?” I ask again. 
+​	“Life,” says Eddie. “Now would you kindly…”
+​	Tim springs back into action. “Give me my guitar,” he says.
+​	I understand: I take off the guitar and hand it to Tim. While he’s putting it on, I sneak behind the two men and fish a little brown paper bag out of Eddie’s back pocket, noting to myself with surprise that I’ve touched two male butts today. As Tim fixes the guitar on his back, I reach in and stuff the little bag through the crevices of the hollow guitar. 
+​	“Captain Whitaker,” Cindy says. “This is unacceptable. We are all law abiding citizens.” This is greeted by laughter from the bikers, Whitaker included.
+​	Babatunde puts his hand on my shoulder and whispers in my ear, “Tell your well-meaning friend to quiet down, please.”
+​	”Cindy,” I whisper, “Baba says you need to shut up.”
+​	Cindy ignores me. “I don’t know who do you think you are, but you have no right to stop us.”
+​	Captain Whitaker says, “We are making a citizen’s arrest, my dear.”
 
-*(honk! honk honk!)*
-*(honk! honk HONK!)*
+*(whe—noooo!)*
 
-“Navigate the car to the top of the formation,” Rosetta tells Tim, “let’s have some fun with them.”
-​	Jimmy’s car is to our left; he shouts through the open window, “same thing as last time, Rosie?”
-​	“Yeah,” she shouts back, “let them eat some *dust!*”
-​	Rosetta stands, putting half her body through the Chevy’s passenger window, shouting and waving her hands. the cars ahead turn left and right to make room as we squeeze ahead. Through the open windows I see the people I danced with an hour earlier, now tense, clutching at wheels and grabbing each other. Through the thick fog of fear I notice how large our caravan has become. 
-​	“It will be alright,” Cindy says through the window to a girl who’s crying in the next car. But she’s holding my hand tight and not letting go. 
-​	All around us the Sevens are circling, revving their engines, trying to find stray cars. But the caravan is a tight formation, an ancient beast called Phalanx. It bellows its syncopated honking, drowning out the Sevens’ engines. 
-​	Now we’re at the top of the formation, neck to neck with the Pillar’s truck, to our right. 
-​	“Fall back!” Rosetta hollers at Eddie. 
-​	Above us, at the wheel, Eddie shouts through his open window: “Hell I will!”
-​	“Hell you will, damn right, you greaseball,” Rosie shouts back, “follow my lead and be a good boy!”
-​​	To Tim she says, “Signal you’ll be turning right. Start veering right. Do it slowly.”
-​	“Won’t the Sevens know it too?” Cindy says. She’s looking at Rosetta with wide, round eyes, as if admiring her, the same way I look at Cindy from time to time. 
-​	“They sure will,” says Rosetta. “Let’s hope they’re stupid enough to do something about it.”
-​	Behind us, the great Phalanx beast is awash with blinking lights: yellow and white. The Sevens are circling us. 
-​	“Turn here, at this backroad,” Rosetta tells Tim. “Also, everybody, roll up your windows.” 
-​	Tim turns slowly, like he’s steering a large ship. The Phalanx turns behind us, tires squeaking on the asphalt. We fall on the gravely road, shaking, rattling — in the back seat, we hold hands — Barry is frantically trying to roll up his window, but his hands keep sliding on the crank —
-​	“Look back,” Rosetta says, winking at me. The wink mollifies something inside of me. I can feel the tension in Cindy’s hand easing away. We climb on the back seat to see, illuminated by the Caravan’s red backlights, a huge dust cloud billowing behind us. I can see a rider braking hard to avoid it, veering left and right as he does; I see another rider falling off his bike in the dust. 
-​	“Hell yeah, eat dust, mother-fucker!” says Tim. “Sorry, ladies.”
-​	“Yeah,” I say, “serves them right, mother-fuckers!”
-​	I hear Cindy gasp. Then Eleanore joins in: “Mother-fuckers!”
-​	I see Tim grinning in the front seat. He’s hitting his horn, and the caravan all joins in:
+The police squad car slides effortlessly through the line of bikers on the other end of the bridge. Two deputies in khaki uniforms bound out, followed by a middle-aged woman in a housecoat. 
+​	“Sorry to drag you out of bed in such an hour, Myrtle,” Captain Whitaker says.
+​	“What do we have here?” says the woman. 
+​	“Madam, this *gang*-“ says Cindy, ”they have illegally—“
+​	“Girl,” Mucho says, “now it’s me who’s telling you to shut up.”
+​	“That’s a fine way to talk to a lady,” says the woman in a housecoat. “I can see they raised you well, boy.”
+​	Mucho says nothing but his huge frame is shaking. I can see him slowly losing it. 
+​	Captain Whitaker says, “Myrtle, these are the people who caused the public disturbance.”
+​	“Thank you, Steven,” says the woman in the housecoat. “I’m sure if my Aaron was still alive, he’d want to thank you himself. We’ll take it from here.” 	​	​	“Men, move out,” Captain Whitaker shouts. The bikers rev their engines, circle us a couple more times, and start riding away. One biker remains on the far end of the bridge, watching. 
+​	Behind us, the caravan is loud: shouting, honking — but nobody dares to cross the bridge. 
+​	I hear Babatunde say to Mucho, “Alright, my dear Besame, just breathe easily.” But Mucho isn’t breathing easily. He towers over us all, a livid giant, shaking and flushed. Myrtle approaches him. She has to look way up to see him. 
+​	“You people,” she says quietly, “are in deep trouble. This is a sundown town. We don’t allow colored folk around here after dark.” Her two deputies are climbing the back of the truck. 
+​	“Please don’t do that,” Jo says. 
+​	“Ma’am,” Cindy says, “we are not in a town. We’re on a bridge.”
+​	“For the last time,” Babatunde says quietly, “you need to quiet down before you get us all into trouble.”
+​	“You are on a bridge, that’s right,” says Myrtle. “Which also constitutes the border line between Davidson and Rowan counties, and puts you square within the city limits of Faith, North Carolina.”
+​	Over the din of the caravan, we hear the deputies mucking about in the truck — things being dragged, piano keys being hammered. 
+​	“For god sake,” Jo blurts out, ”make them stop touching our instruments.”
+​	“That’s alright,” Eddie says to her, “it’s taken care of.”
+​	“Shut up, Edwardo,” Vilma hisses. “Stay in your lane.”
+​	In the middle of this there’s Tim and me, holding hands, practicing invisibility. Tim nervously fiddles with the strap of the guitar. I’m thinking of Mama and Heath hiding beneath the bridge. We see one of Babatunde’s drums being tossed out of the truck. It hits the road —
 
-*(honk-honk-HONK-honk!)*
+*(BOOOONG)*
 
-After a while the tight formation naturally breaks, easing into a single, porous file. We drive slowly, making sure to leave space between us and the Pillars truck ahead, so to not eat their dust. It’s quiet again.
-​	“Tim, my boy,” says Rosetta, “you’re a formidable driver. I salute you.”
-​	“Yeah,” says Cindy. “Tim’s our man.”
-​	I’m thinking, *my* man. I look at the line of his jaw and those tingles take over me. To ease the tension, I say, “Let’s turn on the radio!”
-
-*(rayed-sells in the sun-sehet…)*
-
-The dirt road turns into an asphalt one-laner and the rattling of the car eases. Everybody relaxes a little; Cindy lets go of my hand. We drive through a forest of dogwood trees and by the headlights we see the stumps are overrun by Kudzu vines so thick they seem to be jumping from tree to tree. 
-​	Now a little wood shack - a steadfast house - rises by the side of the road, its windows blackened. 
-​	“We must be near a town or something,” says Tim. “but the map is very confusing. Doesn’t look like anyone bothered to map this region.”
-
-*(whey-hey out inda seahee…)*
-
-A darkened gas station, its pumps covered by tarpaulin, passes us by next. After that: a farmhouse, standing back from the road, shabby—looking and dismal. 
-​	Rosetta leafs through her copy of the Green Book. “There’s gotta be *something* around here,” she mutters to herself. 
-​	“There,” says Eleanore, “stop over there. There’s a man walking his dog.”
-​	“Good catch,” says Cindy. 
-​	By the side of the road, a lonely figure is a dark shadow against the dark sky. We stop by and he turns - a fiftysomething man, unshaved, in a farmer’s overalls. In the headlights he seems happy to see us. He leans by Tim’s window. 
-​	“Hya, folks,” he says. “Got lost?”
-​	“Hi there,” says Tim. “We’re glad there’s someone else on the road at this hour.”
-​	The man starts saying, ”Don’t worry about—“
-​	He stops in mid-sentence. His stare is stuck on Rosetta. 
-​	“Sir,” says Rosetta. “Can you tell me which town we’re near?”
-​	The man keeps looking at her. He’s working his mandibles as if chewing gum. Without another word, he walks away. Tim shrugs and drives on.
-​	“Pull out the map,” says Rosetta. “Do it now.”
-​	Barry and Rosetta are head to head, pouring over the map, with Tim throwing occasional looks at them. 
-​	“If we got down from the US-70  right after Granite Quarry,” Barry says — 
-​	“Yeah, yeah,” says Tim, “about there, and then we drove for about two miles…” 
-​	“Then we must be next to…”
-​	“Faith, NC,” says Rosetta. 
-​	“Hopeful name,” I suggest.
-​	Rosetta is leafing through the Green Book. 
-​	“Faith, Faith…” She says. “God give me faith… Faith…” Then she straightens up. I find Cindy’s hand on the seat and grab it. 
-​	”Stop the car right now,”she says.
-​	Tim slams on the brakes. 
-​	“I’m getting out,” says Rosetta. “I’m staying behind. I got to warn the rest of the caravan. Make them turn back.”
-​	“Why?” says Eleanore. “What’s in Faith?”
-​	Rosetta says, “It’s a Sundown Town.”
-
-*(peas-cane-bee… foooound)*
-
-We all stand in the darkened road, half-illuminated by the Chevy’s headlights. Cicadas are being loud around us and the air is clean, cool — a welcome respite from the stuffy car. 
-​	“I won’t let you stay here alone,” Barry says. Rosetta pats him on the cheek — more of a slap than a pat, really.
-​	“That’s very chivalrous, and you’re a perfect gentleman,” she says. “But someone will pick me up soon enough. And y’all have got a job to do. You must speed on and warn the people ahead of us. You *gotta* turn the Steam Pillars around. You *gotta* protect the Queen.”
-​	“And we’re white,” Eleanore says. “They’ll let us through.”
-​	Barry grabs Rosetta and kisses her, passionately. We all turn around to give them some privacy. 
-​	We drive on, leaving Rosetta alone on the road, a dark shadow against the dark sky. 
-
-*(cus, yourstill miiine — I walk the —)*
-
-“Turn it off,” says Barry. “Let’s be quiet.”
-
-The sign is hidden in the blackberry brambles, a little white metal thing just below eye level. It reads FAITH, NORTH CAROLINA and even in this tense atmosphere, I can’t help but laughing: it sounds less like a city name and more like a strange encouragement. 
-​	“Have faith, North Carolina,” I mutter, “here comes Wonderland.”
-​	“Did you see that?” Eleanore says.
-​	Another homestead sprouts by the side of the road. A man sits on the porch. We can all see he’s got a rifle in his hands. Tim speeds up. The houses are closer together now: here’s a brick building with dark farmland behind it, and another man, holding a rifle, is shutting the door. Where the road becomes a street, under a solitary street lamp, we see a little procession of men walking, talking in hushed voices. 
-​	“Roll up your windows,” Cindy commands. “Don’t make eye contact. Alice, stop waving at them.”​	
-​	The street curves around a large town square. Grass and bushes are surrounding a bandstand. 
-​	“There’s the truck, ahead,” says Cindy. “Signal them.”
-​	The truck is driving slowly, its headlights dimmed. It’s being flanked by a few other caravan cars, their painting now dark, almost invisible. Tim flashes his lights a few times and catches up to the truck.
-​	“Eddie, you idiot, you got us into trouble,” he half-shouts, half-whispers. 
-​	“Eddie’s sleeping, baby. Who’s that? Tommy?”
-​	I lean forward to see Mucho at the wheel. I wave. He waves back. 
-​	“I let old Eddie rest a while,” Mucho says. “Anyway, this reminds me of my Army days, driving a truck—”
-​	“Listen, Mucho…” Tim says.
-​	“Just me, a hundred miles of landmine-filled road, and them Krauts hiding at every crossroads—“
-​	“Mucho,” Barry says, “Rosetta says we’re in a sundown town.”
-​	Mucho’s reminiscing ends abruptly — I feel a pit opening at the bottom of my stomach as I see him swallowing hard — I can see real fear in his eyes. He springs into action, immediately, hollering back: “Eddie, wake everybody up, trouble’s coming.”
-​	I whisper, “Trouble’s coming.” It’s the certainty of the saying that makes me shiver. I draw closer to Cindy and Eleanore does the same.
-​	Mucho turns to us and says, “Don’t worry, kids, we’ve got this. Prepare to turn at the next crossroad.”
-​	“Alright, Mucho,” Tim says. 
-​	But the next intersection is blocked; two cars are parked along the street and I can see dark figures of men sitting inside.
-​	“Tell your friends to turn on the spot!” Mucho hollers. 
-​	We all pull our bodies out of the car and start waving and hand-gesturing at the cars around us. 
-
-*(make a hairpin turn! right now!)*
-*(turn around, you mother-fuckers!)*
-
-Now the truck — the Queen — is driving last.
-​	“Tell that idiot to drive closer to us,” Cindy says. 
-​	“This is Besame-fucking-Mucho, I’m not going to call him an idiot,” Tim says. 
-​	“Hey,” I say, “why are we stopping?”
-​	The car ahead of us screeches to a halt. Tim slams on the brakes a moment before we slam into the car ahead of us. In our headlights I see the car’s trunk has a painting of pressed palms on its lid — Shirley’s car.
-​	Shirley sticks her head of the window and yells. We all have our heads out of the window. 
-​	“They blocked us there, too,” she yells. “You need to turn around again!”
-​	But that proves to be impossible: looking back, I see the cars that blocked us the first time have followed us. They’re close behind the truck, hemming us in.
-​	“They got us,” says Cindy. “We’re stuck. Barry, what would Rosetta do?”
-​	A procession of men, walking along our little line of cars, passes us by. 
-​	All of a sudden I think of Jerry Lee Lewis. 
-​	“Is it alright if I start crying now?” I ask. 
-​	“Not yet, Peaches,” says Cindy. “You’ll have plenty to cry about soon enough.” 
-​	I find the Bear-gineer in the back seat and hug it. It smells like dust and sweat.
-​	Barry says, “Sound your horn! Scare them!” 
-​	Tim honks and the few other cars follow suit but it sounds weak, hollow. We climb on the back seat to watch as two men approach Mucho’s door. One of them holds it shut and the other is pointing a shotgun at Mucho and shouting. The rest of the men continue on to the back of the truck. 
-​	“We need to help him,” Barry says. 
-​	“How?” Cindy says. 
-​	“Fuck it,” Tim says, reaching for the door. But Barry holds on to his hand.
-​	“She’s right, you know,” he says. 
-​	Mucho kicks hard at his door, swinging it open, sending the two men flying into the grass of the town square. He leaps out of the car, landing hard on the road. He bellows in his enormous voice, “You cowards! Picking on the women! Come face me!”
-​	The men do. They leave the back of the car and walk towards Mucho — slowly, purposefully. There must be a dozen of them, and more are joining. Pretty soon Mucho is surrounded by men, all a foot shorter than him, punching and pulling. He pounds, kicks, sending men flying back — someone pulls at his shirt, and another grabs on to his arm — then a man comes from behind and swings the butt of his shotgun at his head. He swivels — his knees make an eerie sound as they slam into the asphalt — and now he’s drowning in the sea of men, all kicking and stomping. As he falls he cries out, “I fought for this country!”
-​	“I’m getting out,” Tim says.
-​	“Don’t get out,” Cindy commands. 
-​	The Steam Pillars get out of the truck, standing horrified and watching Mucho getting mobbed. Eddie starts at the mob but Babatunde holds on to his arm. Eddie shakes him off and runs. One of the men turns around at him, lands a punch right in his face. Eddie falls unconscious on the ground, a dark little ragdoll. Some men start for Babatunde and Heath. Incredibly, Mucho lifts himself up to his feet. His shirt is torn and blood is streaming from his head unto his face. He screams at the Pillars — “Take cover! Protect Mama!” — he shoves the men away and runs towards the town square, the bandstand, away from the truck — the men catch up to him — one of them kicks him in the back of the knee and he falls again — we all scream as one man kicks Mucho right in the head — he goes limp and the men start dragging him by his hair and his clothes up the stairs the bandstand in the middle of the square. 
-​	“Now we leave the car,” Cindy says. “Now we have no choice.”
-​	We get out. Shirley and her friends follow suit. Then the people in the other cars. There’s not many of us: twenty or thirty tired, terrified kids. We watch as Mucho, sobbing, is being pulled up the stairs of the little bandstand. Then someone says, softly, “link hands.”
-​	“Thank god,” says Cindy. “It’s Babatunde.”
-​	Babatunde is standing next to us. He repeats in a voice that sounds very tired and very cold, “Link hands, you kids.”
-​	I put my hand through Cindy’s hand and the other through Tim’s. Tim does the same with Eleanore. And so on — we’re a single line of linked hands.
-​	“March forward,” Babatunde says.
-​	We start walking, slowly, in an even pace. Up ahead we can see the dark silhouettes surrounding Mucho’s enormous frame.
-​	“I’m going to protect you, baby,” Tim says. “You know that, right?”
-​	I squeeze him with my arm. “Don’t be an idiot,” I whisper. 
-​	
-*(THUMP! THUMP-THUMP!)*
-
-The bandstand is a wooden frame painted white, built for a small crowd, small and intimate, festive-looking with 4th of July decorations. A large banner reads FAITH INVITES ONE AND ALL FOR AMERICA’S 182nd BIRTHDAY! It’s very quiet. All you can hear is our labored breathing and the sound of the beatings, soft shoes on soft flesh, rhythmic, sickening. Mucho is silent. Our formation is surrounding the bandstand. The dark silhouettes take no heed of us. They kick and punch and stomp. 
-​	I say, “When Israel was...”
-​	Cindy says, “What?”
-​	I repeat, now singing, “When Israel was in Egypt land...”
-​	Eleanore catches on: “Let my people go!”
-​​	Someone whispers, “how does it go now?”
-​	I whisper, “Oppressed so hard!”
-​	The five of us sing as the beating continues,
-
-*(opp-ressed so hard they could-not-stand!)*​	
-
-The whole group sings now. The men beating on Mucho turn around, startled. Suddenly their faces are illuminated in a red light coming from behind us. In this light they seem like creatures from a fairytale, dark and ominous, the light bouncing on their faces showing contorted masks of hatred and anger. 
-​	I close my eyes. I’m sixteen again. The needle drops on Jerry Lee Lewis’ new record. The fireplace is crackling, warm, comforting. I feel, again, that I’m being let in a world that’s too adult for my young self. I let go of the fireplace and the happy music. I open my eyes. Then the full horror of the scene really hits me. 
-​	“We’re watching a lynching,” I whisper.
-
-*(LET MY PEO-PLE GO!)*
-
-The beating stops. A last kick is heard. Now it’s all of us singing, and the attackers huddled, confused. The red light painting their faces is getting stronger. We draw even closer to the bandstand, closing it off, our arms linked. 
-​	Some of us break the link and start up the stairs of the bandstand. A few of the lynch mob — there must be thirty of them now — turn back to block them.
-​	I ask Cindy, “Should we go up there?”
-​	But Babatunde answers: “Violence begets violence.”
-​	Then we hear the gun.
-
-The shot comes from behind us. Cindy  drops to the ground to the stand.
-​	“Son of a bitch!” Tim yells, holding on to his ear. Blood, jet-black in this light, is streaming between his fingers. I hug him and try to hold on to his wound. His blood stains both our hands.
-​	The human link chain disperses. People run away, or forward. Now the bandstand is a battleground, all dark, red shadows moving slowly, trading punches, and you can’t tell which shadow belongs to us and which one belongs to them. 
-​	We look back to see the source of the red light: behind us, a Sheriff’s car with its Gum-ball light on is parked right on the grass of the town square. A woman, dressed in a house-coat, is standing behind us, holding a revolver. 
-​	“That was a warning shot!” she shouts in a cigarette-burnt, husky voice. 
-​	“But you shot my friend!” Barry yells from the ground.
-​	“And that was just the warning!” she shouts back. 
-​	“Go and reason with her,” Cindy says. 
-​	“Who, me?” Barry says. 
-​	“Yes,” Babatunde says. “You can reason with the worst of them. Do it now, before they kill our Mucho.”
-​	“Alright,” says Barry.
-​	“Remember,” says Mucho. “‘Mercy triumphs over justice.’”
-​	We run towards the woman. Tim holds his ear and I hold on to him. His white shirt is streaked with black streams of blood. I see Barry transform himself as we run. His gait changes. He stops running. We walks briskly. We fall back behind him. 
-​	“Good evening, Ma’am,” he says. “I gather you’re the Acting Sheriff.”
-​	The woman is short, wide and not bothering to look at us. 
-​	“Since my Abner died I am,” she says without taking her eyes off the action. In the back we hear the rhythmic, sickening thumping. In the corner of my eye I see Eleanore flinching with every thump.
-​	“Well-met. I’m Barry MacAllister, Junior,” says Barry. 
-​	“Myrtle Montgomery,” says the woman. She’s still half-ignoring us, looking at the action instead. “And you people made a very big mistake. This is a sundown town. We do not allow colored folks here after sunset. Certainly not *mixed* folks.”
-​	“We’re very sorry for our mistake, ma’am,” Barry says. His voice is smooth, almost calm. Only his eyes betray his terror — darting back and forth, almost imploring the woman to look at him. “I *assure* you it was a mistake made in the darkness of night, and we meant no disrespect to your laws. Please allow us to leave.”
-​	The sheriff’s wife takes her time before she answers. Then she says, out of the corner of her mouth, "Whatsoever a man soweth, that shall he also reap.” Her head is nodding to the thumping, as if to some delectable music. I can see her licking her lips. 
-​	“Pardon?” says Barry, the smooth in his voice all but breaking. 
-​	“Whatsoever a man soweth, that shall he also reap. Do you know what that means? Are you a God-fearing man, son?”
-​	“I am, Ma’am,” says Barry, wiping his mouth. Now Myrtle turns to look at him. Her face is a mask of cold, hard amusement. Barry is silent. The beating continues. 
-​	I hear a voice saying, “Please don’t kill him, Myrtle.” The voice is high-pitched, feminine, child-like. It takes me a while to realize it belongs to me. I think of Babatunde and add, “‘mercy triumphs over judgment.’” 
-​	Myrtle turns to look at me. Standing in the spotlight of her stare is unpleasant. We stare at each other in the darkness. I swallow hard and she looks away, as if bored.
-​	“Thus,” she says, “endeth your lesson.”
-​	She reaches in the squad car and sounds her siren once. We see the dark figures of men in the bandstand pull away from Mucho’s dark figure. We hear some moans and complaints: the entertainment part of the night is over. We see the figures drag Mucho’s limp, bloody body towards us. 
-​	“These fine gentlemen,” says Myrtle, “will escort your little convoy out of town. We don’t need a dead nigger here, anyway.”
-​	Incredibly, I hear us all mutter hushed, relieved “thank you”s.  
-​	“We play for keeps down here,” Myrtle says. “Tell your friends.”
+Mucho starts forward, towards the truck, shaking and muttering. 
+​	“Besame,” Babatunde calls, but to no avail. Myrtle slides out of Mucho’s way. The deputies jump out of the back of the truck. 
+​	“This man is resisting arrest,” Myrtle tells them. 
+​	“Hell I am,” Mucho bellows. The two deputies rush towards him. One pulls out a gun. The other kicks Mucho in the knee, causing him to kneel down.
+​	“You motherfuckers,” Mucho shouts. “I fought for this country.”
+​	“What should we do with him, Ma’am?” asks one of the deputies. 
+​	“Show him a traditional Faith welcome,” says Myrtle. 
+​	The deputies start kicking the downed Mucho. We all scream. Vilma starts crying. The caravan, behind us, grows very quiet. On the other side of the bridge, the sole biker who’s been watching — a refrigerator-sized silhouette — is starting his motorcycle and driving away.

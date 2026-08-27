@@ -1,5 +1,11 @@
 
-## Chapter 13 (20260814)
+## Chapter 14-15: This Town Needs a Bandstand (2026-08-27)
+- The track starts with a problem: **Love-deficiency**. Affects caravan (disbanding), Tim&Alice (can't have sex), Cindy&Eleanore (fighting). 
+- The caravan develops the **fan clubs** and on the way learns a series of **lessons**. they apply them to the **barn**.
+- The lessons: **leading without authority, following without coercion**. 
+- The barn: a **bandstand**. Built by emergent behavior. Setting for the Track ending, the biggest **kundas** yet, (*a 4th of July show?*). 
+- ​Mucho is **indisposed** (*hurt* or *jailed* or both). (*The bandstand is started to greet him upon his return?*) 
+- Famous Flames join the Pillars for the Track ender. The caravan assimilates their fans. James Brown self-removes from history by not appearing with them. 
 
 
 

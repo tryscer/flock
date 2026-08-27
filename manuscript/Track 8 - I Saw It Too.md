@@ -7,12 +7,12 @@ sort_index: 10000
 
 I’m driving. Barry sits next to me. Eleanore and Cindy sit in the back, flanking Heath. His hands are clasped in his lap and he appears to be praying. With his jet-black hair and dark sunglasses and his cheap, dark suit, he looks like Eleanore’s masculine mirror image. He’s got a sad face; as he prays, his lips move as if to the words from the song on the radio. In the blazing sun it seems his eyes are shut behind his shades. He’s got a big nose and a small mouth that pouts when it isn’t moving.   
 The caravan of painted cars is nowhere to be seen. It’s just us on the road.   
-	“So,” says Eleanore. “This is wild, don’t you think, Mr. Heath? All the chasing and the running around? Are you excited too?”  
-	In the rearview mirror, Heath looks anything other than excited. He doesn’t answer.  
-“We’re big fans, Mr. Heath,” says Cindy. “Have you met everybody? This is–”  
-“It’s Mr. Caine,” says Heath. “Actually. It’s Heath Walker Cain.” His voice is quiet, controlled – a Kentucky voice. His attention wanders to the gold in Cindy’s hair.   
-“You play that piano so *mean*, Mr. Caine,” I say. “I mean you make that damn thing sound just like an anvil, you know what I’m saying, Mr. Caine?”  
-Heath smiles and doesn’t answer. Then his little smile fades into a little pout. His eyes stay on Cindy’s hair. 
+​	“So,” says Eleanore. “This is wild, don’t you think,Mr. Heath? All the chasing and the running around? Are you excited too?”  
+​	In the rearview mirror, Heath looks anything other than excited. He doesn’t answer.  
+​	“We’re big fans, Mr. Heath,” says Cindy. “Have you met everybody? This is–”  
+​	“It’s Mr. Caine,” says Heath. “Actually. It’s Heath Walker Cain.” His voice is quiet, controlled – a Kentucky voice. His attention wanders to the gold in Cindy’s hair. 
+​	“You play that piano so *mean*, Mr. Caine,” I say. “I mean you make that damn thing sound just like an anvil, you know what I’m saying, Mr. Caine?”  
+​	Heath smiles and doesn’t answer. Then his little smile fades into a little pout. His eyes stay on Cindy’s hair. 
 
 *(myyyy… troubledmiiind… was bluuu–huue…)*
 
@@ -96,8 +96,8 @@ We catch up to Moe’s faded-yellow schoolbus. I honk and he opens the door.
 Our caravan, three cars long, is parking along the the US-360. Mo, Pete and Barry are out, pissing. The Joneses didn’t have Alice, it would seem, but they did say they definitely saw her along the way. The Joneses are older than us, a married couple, literally grown-ups. They seem trustworthy to me.   
 	“Yeah, we saw her with Baba, do you know Baba?” says Joanne to me while the three cars are parking on the side of the road. We’re leaning on the trunk of the Joneses’ car, sharing a cigarette.  
 	“He’s the dude from Africa. The Mad Drummer. I think he’s the soul of the band,” she says, “its essence.”  
-	“I know who it is,” I say. “We sort of gave him a ride at one point.”  
-	“What do you mean, ‘sorta’?” she says, laughing.   
+	“I know who he is,” I say. “We sort of gave him a ride at one point.”  
+	“What do you mean, ‘sort of’?” she says, laughing.   
 	“Ah, you don’t wanna know. Anyway, Alice…”  
 	“I saw her helping him carry something over to the wagon, then come on board with him. You know their wagon, the Steam Pillars. An old army truck.” She’s got a pearl necklace in pink, and long, pink fingernails, the shade of which I find annoying. But her voice is soft in this soft, endless afternoon.  
 	Barry comes back. I pass him the cigarette as he comes near.  
