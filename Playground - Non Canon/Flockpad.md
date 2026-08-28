@@ -1,4 +1,23 @@
 
+## Just Flockpaddin' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Chapter 14-15: This Town Needs a Bandstand (2026-08-27)
 - The track starts with a problem: **Love-deficiency**. Affects caravan (disbanding), Tim&Alice (can't have sex), Cindy&Eleanore (fighting). 
 - The caravan develops the **fan clubs** and on the way learns a series of **lessons**. they apply them to the **barn**.
