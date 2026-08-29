@@ -2,6 +2,9 @@
 ## Just Flockpaddin' 
 
 
+I take the wooden crate and I place it upside-down on the grass in the middle of the park. 
+​	"What are you doing?" asks Barry. 
+​	I say, "This town needs a bandstand."
 
 
 

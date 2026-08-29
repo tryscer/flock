@@ -206,4 +206,6 @@ Mucho starts forward, towards the truck, shaking and muttering.
 ​	“You motherfuckers,” Mucho shouts. “I fought for this country.”
 ​	“What should we do with him, Ma’am?” asks one of the deputies. 
 ​	“Show him a traditional Faith welcome,” says Myrtle. 
-​	The deputies start kicking the downed Mucho. We all scream. Vilma starts crying. The caravan, behind us, grows very quiet. On the other side of the bridge, the sole biker who’s been watching — a refrigerator-sized silhouette — is starting his motorcycle and driving away.
+​	==The deputies start kicking the downed Mucho. We all scream. Vilma starts crying.== 
+​	The caravan, behind us, grows very quiet. 
+​	On the other side of the bridge, the sole biker who’s been watching — a refrigerator-sized silhouette — is starting his motorcycle and driving away.

@@ -13,11 +13,11 @@ The driving rhythm behind the slow, sad song does something to my hips. At first
 *(Inthewohords —)*
 
 I feel as if I’ve barged into a room I was not supposed to be let into. The notes coming from the turntable speakers are little pockets of illicit, frightening delights. 
-​	I lift the needle. This is all too much, this is all too soon. 
+​	I lift the needle. This is all too much, and all too soon. 
 
 *(Let’s hear it for our new stage hand, Tommy —)*
 
-I am pulled away from my childhood memory by the smell of sweat and hot rubber tires, with the swaying of the crowd, pushing me towards the foot of the truck that the Steam Pillars stand on. Behind them, a white blank screen that seems to carry an afterimage of Elvis, rocking above us with a guitar in his hands. 
+I am pulled away from my childhood memory by the smell of sweat and hot rubber tires, with the swaying of the crowd, and pushed towards the foot of Steam Pillars' truck-made-stage. Behind them, a white blank screen that seems to carry an afterimage of Elvis, rocking above us with a guitar in his hands. 
 ​	I’m almost eighteen. It’s a warm summer night. I’m drenched in sweat. The sweet, illicit delights swarming through me are no longer a threat but an invitation.
 ​	I look up. I see Tim. He stands on the stage, he's strutting forward, he's raising his arms in triumph. I can see each line in the muscles of his arms as they flex and relax. His white tee-shirt is almost translucent, clinging to his body. Some people near us cheer. Tim’s arms pull the wet shirt up across his stomach and in the headlights I see his navel, a small line of orange hair going down, down, down… until they disappear below his belt. 
 ​	Someone near me yells…
