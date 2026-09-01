@@ -6,12 +6,13 @@ sort_index: 5000
 *(awhite… spot-cote… andap-ink… car-nation… Aye-mina bloooo, blooooo moood…)*
 
 The florist standing in the hospital lobby is about our age, black, wearing a green-stained apron over a white cotton dress. She’s singing to herself as she’s cutting the stems off long dahlia flowers, gladiolas, zinnias — fishing them out of big plastic buckets: blue and green and grey. The man in front of us, in a dark green suit, a respectable looking black gentleman, is watching her work. 
-​	“How bout I buy you a flower?” Tim asks. 
+​	“How about I buy you a flower?” Tim asks. 
 ​	The florist raises an eyebrow, listening but not intervening, singing her song…
 
 *(Once ya tohol-me longa go...)*  
 
-I recognize the song, and for a moment I’m back at the service station at Durham, NC, before things got complicated, in front of that malfunctioning jukebox, and I open my mouth to tell Eddie the reluctant mechanic that I recognize this song, it’s a Marty Robbins number from last summer, but instead I sing harmony to the florist’s tune, “to the prom with me you’ll go...” 
+I recognize the song, and for a moment I’m back at the service station at Durham, NC, before things got complicated, in front of that malfunctioning jukebox, and I open my mouth to tell Eddie the reluctant mechanic that I recognize this song, it’s a Marty Robbins number from last summer, but instead I sing harmony to the florist’s tune, 
+	“…to the prom with me you’ll go...” 
 ​	She catches my eye and smiles at me.
 ​	“You two sing well together,” says the gentleman. ”And I should know, it’s my job.” The florist hands him a sombre-looking arrangement, dark with Dahlias and held together by a wide black band — a big wad of sadness. He catches me looking at his flowers and says, almost apologizing, ”a friend of mine is dying.”
 ​	“I’m sorry,” Tim says. 
@@ -22,8 +23,7 @@ I recognize the song, and for a moment I’m back at the service station at Durh
 ​	“You sure?” Tim says. He’s looking uncomfortable too, irate. These past few days we were all uneasy and angry most of the time.
 ​	”It’s just that I don’t feel the Love right now, you know?” I say. The man pays and leaves. 
 ​	“You know,” Tim says. He holds my hand and his touch feels clammy, unbearable in the afternoon heat. “It’s been a few days since we...”
-​	He steals a look at the florist, who pretends not to listen to us.
-​	I think what would be the most polite way to take my hand away, then decide there’s no polite way and I stand on my tip-toes and kiss him on the cheek.
+​	He steals a look at the florist, who pretends not to listen to us. I wonder what would be the most polite way to take my hand away, then decide there’s no polite way and I stand on my tip-toes and kiss him on the cheek.
 ​	“I’m not in a flowery mood,” I whisper. “Sorry.”
 ​	“If you change your mind,” says the florist, “I’ve got some pink… car-nations for ya.”
 
@@ -39,22 +39,22 @@ We find ourselves in front of the ancient elevator with the man with the flowers
 ​	“I just hope I got here in time,” he says. “Just hope I still got time to tell him — you know —“
 ​	I don’t know and the man doesn’t elaborate. 
 ​	“This is our floor,” Tim says. “Hope you still got time.”
-​	“Actually, this is my floor as well,” says the man. We walk together awkwardly. Our footsteps make a thunderous echo in the long corridors. At Mucho’s door, Cindy and Rosetta are standing guard, two tired-looking sentinels. I hug her and we both look at Johnny, who’s still standing with us.
+​	“Actually, this is my floor as well,” says the man. We walk together awkwardly. Our footsteps make a thunderous echo in the long corridors. At Mucho’s door, Cindy and Rosetta are standing guard, two tired-looking sentinels. I hug Cindy and we both look at Johnny, who’s still standing with us.
 ​	“No visitors,” Rosetta says to him. 
 ​	“Wait,” I say. “Are you here for—”
 ​	The man looks confused. I’m confused too. 
 ​	“Well—“ he says, “I mean, how do *you* know Besame Mucho?”
 ​	“We’re his fans,” Tim says. 
-​	“But listen,” I say, “Mucho’s not *dying*. The doctors say he’s going to make it. They say he’s gonna be *fine.*”
+​	“==But listen==,” I say, “Mucho’s not *dying*. The doctors say he’s gonna be *fine.*”
 ​​	The man looks at me. Then he sits on the floor, looking at his flowers.
-​​	“Thank merciful God, give me faith,” he says. 
+​​	“Oh, merciful God, give me faith,” he says. 
 ​	“No mercy in Faith,” Cindy mutters. She knocks on the door. It opens immediately to reveal a red-eyed, unshaved Eddie.
 ​	“No visitors,” he says. Then he looks at us, nods, then at the man—
-​	“Johnny Terry, is that you on the floor there?” he says. His voice sounds drenched in stale tears. The man called Johnny Terry looks up from his flowers. He looks more shaken by the good news than he was when he thought Mucho was dying. 
+​	“Johnny Terry, is that you on the floor there?” he says. The man called Johnny Terry looks up from his flowers. He looks more shaken by the good news than he was when he thought Mucho was dying. 
 ​	“Edwardo?” he says. He gets up nimbly to shake Eddie’s hand.
 ​	“You’ve brought *funeral flowers*,” Eddie says. “Tsk, tsk. Didn’t they tell you *nothing* can break our Mucho?”
 ​	A high-pitched, girly voice from inside is saying, “Get in if you’re getting in, but don’t just stand there.”
-​	We find ourselves standing shoulder to shoulder in the small two-bed hospital room. A white plastic curtain is drawn over one bed; the other is dominated by Mucho’s huge frame, enormously broken and fragile beneath a tangle of tubes and IV drips. Vilma is wiping his forehead with a dirty-looking, damp cloth. Her eyes are red, too. Johnny Terry is catching his breath. 
+​	We find ourselves standing shoulder to shoulder in the small two-bed hospital room. A white plastic curtain is drawn over one bed; the other is dominated by Mucho’s huge frame, enormous and swaddled in hospital sheets. His snores raise the roof of the room. Vilma is wiping his forehead with a dirty-looking, damp cloth. Johnny Terry is catching his breath. 
 ​	“What did they do to our boy, Edwardo?” he says. Then he starts sobbing. Tim and I exchange uneasy looks. Eddie shifts his weight from leg to leg. Finally I hug the man. 
 ​	“He’s going to be *fine,*” I tell him. “The doctors told Mama right now he’s just sleeping it off.”
 ​	“He’s sleeping it off, so get rid of the funeral flowers,” says a voice behind the white curtain. “They’re a-stenching up the place.”
@@ -62,47 +62,44 @@ We find ourselves in front of the ancient elevator with the man with the flowers
 ​	“As I live and breathe, Betye Davis, is that you?” says Johnny.
 ​	”Get rid of the flowers,” Mama answers. “And you call me Mama.”
 ​	“The word out there is that he’s at death’s door,” says Johnny. Tim takes his flowers away with an apologetic look. “The word out there is that they… I mean... what did they do to him?”
-​	“We don’t talk about it here,” Tim, me and Eddie say together. 
-​	“You already heard the kid,” says Mama. “Mucho will be fine. Sit down. Tell me how you’ve been. Sorry about all the commotion here, there are fans *everywhere*. I tried to get rid of them but they just don’t get the hint.” She turns to look at Tim and me.
+​	“The good news is that they didn’t arrest him,” says Mama. “Mucho will be fine. Sit down. Tell me how you’ve been. Sorry about all the commotion here, there are fans *everywhere*. I tried to get rid of them but they just don’t get the hint.” She turns to look at Tim and me.
 ​	We get the hint.
 
-----------------------------------
 Cindy and I are tossing pennies at the wall next to Mucho’s room. Tim and Barry are watching us, and Eleanore pretends not to. 
 ​	“Gotcha this time,” I say. My last coin is idling next to the wall, almost touching it. “Give me my money back.”
 ​	“You wait, my turn,” Cindy says. “Watch this.”
-​	She flicks the coin with a graceful POP of her fingers and it slides out on the dusty floor, until it reaches the wall...
-​	“You’re gonna lose,” Tim says, “it’s gonna touch that wall and you’ll finally be *bust*...”
+​	She flicks the coin with a graceful popping of her fingers and it slides out on the dusty floor, until it reaches the wall...
+​	“You’re gonna lose, Cin,” Tim says, “it’s gonna touch that wall and you’ll finally be *bust*...”
 ​	“I don’t believe this,” Barry says.
 ​	“A *leaner!*” Cindy exclaims. “I win.”
 ​	“...again,” Eleanore says. 
-	baby-sitting moneyVictory Savings Bank​	‘reing​	“Another leaner?” I cry at the wall. “God, why? Well, congratulations, you’ve fleeced me out of all my baby-sitting money.”
+​	“Another leaner?” I cry at the wall. “God, why? Well, congratulations, you’ve fleeced me out of all my baby-sitting money.”
 ​	“*And* mine,” says Eleanore. 
 ​	“And *ours,*” Tim says. Barry nods. 
-​	Cindy crouches and collects the coins from the floor, her face under that blonde mane red with pride.
+​	Cindy stoops down and collects the coins from the floor, her face under that blonde mane red with pride.
 ​	“Wait,” she says. “Is that *all* of our money?”
 ​	We all nod. 
 ​	“Because if it is, we’re *broke.*”
 
--------------------------------------------
 The cashier at the Victory Savings Bank nods her head. She’s holding the phone receiver between her shoulder and her ear.
-​	“No, honey,” she says to Barry. “They say your account is frozen.”
+​	“Honey,” she says to Barry. “They say your account is frozen.”
 ​	“I don’t understand,” Barry says. 
-​	“She’s saying you’re poor like the rest of us,” Eleanore says. The cashier is ripping Barry’s check into two neat, equally-sized scraps of paper. 
+​​	“They say,” says the cashier, “that the order came from B.A. MacAllister, *senior*.”
+​	“Wow,” Cindy says. ”From Daddy’s boy to a penniless, *wanted* man… in one weekend.”
+ ​	”What can I say,” says Barry, “I move fast.” The cashier is ripping Barry’s check into two neat, equally-sized scraps of paper. 
 
-----
-
-The five of us are walking in the EVR EVR. All around are comers and goers, drivers, delivery boys, businessmen, mostly black, but here in Columbia they don’t give us a wide berth, don’t shy away from eye contact. It feels safe in here. 
+The five of us are walking in the [EVR EFT.] All around are comers and goers, drivers, delivery boys, businessmen, mostly black, but here in Columbia they don’t give us a wide berth, don’t shy away from eye contact. It feels safe in here. 
 ​	“You can’t be in *two* different fan clubs,” Eleanore says. “You can’t be in Wonderland *and* in the Security Fan Club.”
 ​	“Sure I can,” Cindy says. The sun is hiding behind clouds and there’s a cool breeze going. 
 ​	“Sure you *can’t*,” Eleanore says. “It doesn’t make *sense.*”
 ​	“I think she can,” Barry says. “Where is this church?”
-​	“It’s over on EVR STREET EVR,” Tim says. “And I think she can’t.”
+​	“It’s over on [EFT],” Tim says. “And I think she can’t.”
 ​	I say, “Why are you all looking at me?”
 ​	Barry says, “This is usually where you say something smart.”
 ​	I say, “I’ve never said a smart thing in my life and you know it.”
 ​	“Excuse me,” says Eleanore. “Aren’t you this Wonderland’s Alice? Or are you just an *Alison?*”
-​	I ignore the insult. “If I can be Alice,” I say, “Cindy can be in two places at the same time… *Puppy.*”
-​	“See? That’s what I’m saying,” Eleanore says. “That way *chaos* lies.”
+​	“If I can be Alice,” I say, “Cindy can be in two places at the same time… *Puppy.*”
+​	“Come on!” Eleanore says. “That way *chaos* lies.”
 ​	Tim says, “Either you belong with some*one*, or you don’t belong anywhere. That’s all I have to say about *that.*”
 ​	I feel a knot forming in the pit of my stomach. Tim looks at me and in the moment he seems to me like a lost boy. I see Barry looking at Tim. I wonder if he’s thinking the same thing.
 ​	“You can belong here, and you can belong there,” he says. He puts his hand on Tim’s shoulder. “You belong where they love you.”
@@ -111,36 +108,18 @@ The five of us are walking in the EVR EVR. All around are comers and goers, driv
 ​	I say, “Wherever.”
 ​	Cindy says, “Pardon?”
 ​	“You belong *wherever* they love you,” I say. 
-
-
-
-
-​	“Hey, Joneses, what are you doing?”
+​	”I accept your ruling,” says Eleanore, “reluctantly. What I mean is — hey, Joneses, what are you doing?”
 ​	Beside the church, Joanne is helping John stuff an oversized rucksack into the trunk of their Chrysler. When they see us they get this guilty look on their faces. 
 
 
 ----
-“Is it true?” I ask Rosetta. “Is he awake?”
-​	Rosetta nods — a small gesture but it sends ripples in the crowd. 
-​	”No visitors,” Rosetta says. “I mean it, the man deserves a rest. Oh, except he’s asking for Barry and Alice.”
-​
-Inside, the curtain to Mama’s office is drawn and Babatunde and Heath are standing 
-​	Mucho is
-​	“Morning, gorgeous,” I say to him. He’s trying a smile at me, a complicated gesture when done across bandages and stitches.
-
-------
-
-
-
 
 “Ladies and gentlemen,” I say. “Distinguished members of the Cookers Fan Club… the Musical Fan Club… Carfixers… The New Yorkers…”
-​	People rattle their slotted-coin braids when I get to mention their fan club.
+​	People rattle their slotted-coin braids when I mention their fan club.
 ​	“…and also, surviving members of the Charleston Fan Club…”
 ​	“Member,” says the surviving member of the Charleston Fan Club.
 ​	“Ladies and gentlemen, the Wonderland Fan club called this meeting to discuss our dire situation,” I say, feeling important. 
 ​	“Most of us have been kicked out from wherever we were sleeping,” Cindy says.
 ​	“We pooled all of our money together and it turns out,” says Eleanore, “we have no money.”
-
--------------------------------------
 
 ​
