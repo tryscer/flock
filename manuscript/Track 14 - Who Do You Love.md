@@ -1,7 +1,7 @@
 ---
 sort_index: 5000
 ---
-*It’s been three days since the King was gone, and DJ JONAH is here, on the air, right in front of this microphone, feeling as blue as can be… Can I tell you something personal, listener JOHN, listener JANE? I didn’t want to go to work today. Didn’t want to get out of bed at all… so what got me out of bed and into my car and here, to this old familiar microphone? It’s the thought that my grief is not just my own. It belongs to all of us… on the way over here I saw a record shop with a big picture of the late King in its window, surrounded by flowers… I saw two girls on the street, wearing black armbands… and wearing black Dahlias… Did you ever notice, listener JOHN, listener JANE, that flowers come into our life when we love and when we grieve? This can’t be a coincidence. Anyway, here’s MARTY ROBBINS, mourning a love that’s not meant to be…*
+*It’s been three days () since the King was gone, and DJ JONAH is here, on the air, right in front of this microphone, feeling as blue as can be… Can I tell you something personal, listener JOHN, listener JANE? I didn’t want to go to work today. Didn’t want to get out of bed at all… so what got me out of bed and into my car and here, to this old familiar microphone? It’s the thought that my grief is not just my own. It belongs to all of us… on the way over here I saw a record shop with a big picture of the late King in its window, surrounded by flowers… I saw two girls on the street, wearing black armbands… and wearing black Dahlias… Did you ever notice, listener JOHN, listener JANE, that flowers come into our life when we love and when we grieve? This can’t be a coincidence. Anyway, here’s MARTY ROBBINS, mourning a love that’s not meant to be…*
 
 *(awhite… spot-cote… andap-ink… car-nation… Aye-mina bloooo, blooooo moood…)*
 
@@ -93,10 +93,10 @@ The five of us are walking in the [EVR EFT.] All around are comers and goers, dr
 ​	“Sure I can,” Cindy says. The sun is hiding behind clouds and there’s a cool breeze going. 
 ​	“Sure you *can’t*,” Eleanore says. “It doesn’t make *sense.*”
 ​	“I think she can,” Barry says. “Where is this church?”
-​	“It’s over on [EFT],” Tim says. “And I think she can’t.”
+​	“It’s right next to the Adluh Mill, that big red neon sign,” Tim says. “And I think she can’t.”
 ​	I say, “Why are you all looking at me?”
 ​	Barry says, “This is usually where you say something smart.”
-​	I say, “I’ve never said a smart thing in my life and you know it.”
+​	I say, “I’ve never said a smart thing in my life.”
 ​	“Excuse me,” says Eleanore. “Aren’t you this Wonderland’s Alice? Or are you just an *Alison?*”
 ​	“If I can be Alice,” I say, “Cindy can be in two places at the same time… *Puppy.*”
 ​	“Come on!” Eleanore says. “That way *chaos* lies.”
@@ -108,11 +108,21 @@ The five of us are walking in the [EVR EFT.] All around are comers and goers, dr
 ​	I say, “Wherever.”
 ​	Cindy says, “Pardon?”
 ​	“You belong *wherever* they love you,” I say. 
-​	”I accept your ruling,” says Eleanore, “reluctantly. What I mean is — hey, Joneses, what are you doing?”
-​	Beside the church, Joanne is helping John stuff an oversized rucksack into the trunk of their Chrysler. When they see us they get this guilty look on their faces. 
+​	”I will accept your ruling,” says Eleanore, “reluctantly. What I mean is — hey, Joneses, what are you doing?”
+​	[eft - one sentence]. Beside the church, Joanne is helping John stuff an oversized rucksack into the trunk of their Chrysler. When they see us they get this guilty look on their faces. We surround them.
+​	“What are you doing?” Eleanore repeats. 
+​	“Bender is great,” the male Jones says, not really making eye contact with any of us. He shuts the trunk lid. 
+​	“They evicted all of us,” the female Jones says. “Something about overstaying our welcome.”
+​	“Don’t worry,” I say, “we’ll help you find a new place to sleep… until the Steam Pillars come through.”
+​	The Joneses exchange uneasy looks. 
+​	“It’s just that…” the female Jones says, “maybe it’s a sign, you know?”
+​	“We don’t know,” Tim says. “Joneses, are you quitting?”
+​	There’s a tense silence. 
+​	“Maybe we’ll dance again later,” Cindy suggests. 
+​	“Yeah, yeah,” says the male Jones. He stares at the horizon. “Maybe we will.”
+​	“Dance again later,” we all repeat. The Joneses drive away. 
 
-
-----
+*()*
 
 “Ladies and gentlemen,” I say. “Distinguished members of the Cookers Fan Club… the Musical Fan Club… Carfixers… The New Yorkers…”
 ​	People rattle their slotted-coin braids when I mention their fan club.
@@ -122,4 +132,3 @@ The five of us are walking in the [EVR EFT.] All around are comers and goers, dr
 ​	“Most of us have been kicked out from wherever we were sleeping,” Cindy says.
 ​	“We pooled all of our money together and it turns out,” says Eleanore, “we have no money.”
 
-​
